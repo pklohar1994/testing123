@@ -1,0 +1,31 @@
+# this is the hosts.allow file for the thesaurus web service
+
+# created   Feb 17, 2003
+#
+#    tlynch
+
+# Three roles are supported by the thesaurus web service: user, operator, admin
+
+# you'll have to read the source to understand what each role grants
+
+# IPs listed here are granted access to the Thesaurus web service.
+
+# domain names are not supported, you must specify IPs
+
+# likewise, domains are not yet supported; only individual IPs
+#  (you cannot list 128.253.87 to open access to all of subnet 128.253.87)
+
+# you do not need to list higher-level role IPs in lower-level roles.  That is,
+# if an IP is listed as having the admin role, it automatically has the operator,
+# user roles.  Likewise, operator IPs have the user role.
+
+# below you see some example role assignments. Note that multiple IPs can be listed
+# on each line. lines that begin with whitespace are a continuation of current role
+
+# ### no comments will be preserved beyond this point ###
+
+
+user: 123.123.123.123, 124.123.124.125
+operator: 126.126.126.126, 126.126.126.127,
+  124.123.122.121, 231.230.231.230
+admin: 124.123.121.111

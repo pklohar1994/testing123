@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>Configure the Logger Facility</title>
+  </head>
+  <body>
+
+    <h1 tal:replace="structure here/manage_page_header">manage page header</h1>
+    <h1 tal:replace="structure here/manage_tabs">manage tabs</h1>
+  
+    <h4>Configure the Access Facility for the Thesaurus Web Services system</h4>
+    <hr />
+    <form action="accessConfig" tal:define="P python:here.getProperties();">
+
+    <table border="0" width="100%">
+
+      <tr><td align="right">Hosts file:</td>
+          <td><input type="text" name="hostsallowfile" size="40" tal:attributes="value python:P['hostsallowfile']" /></td>
+      </tr>
+      <tr><td colspan="2">&nbsp;</td></tr>
+      <tr><td align="right">Consoles:</td>
+          <td><textarea value="consoles" rows="3"><span tal:replace="python:P['consolesstr']" /></textarea></td>
+      </tr>
+      <tr>
+          <td colspan="2" align="center"><input type="submit" value="Update" name="updateThis" /></td>
+      </tr>
+    </table>
+    </form>
+
+    <h1 tal:replace="structure here/manage_page_footer">manage page footer</h1>
+  </body>
+</html>

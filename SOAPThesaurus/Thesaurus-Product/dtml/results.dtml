@@ -1,0 +1,31 @@
+<dtml-var standard_html_header>
+
+<hr><div class="agheader">
+<a href="subjectCategories" class="agheader">AgNIC Thesaurus</a></div>
+<hr>
+<h3>Your search has the following matching terms:</h3>
+<dtml-with expr="REQUEST.other">
+   <dtml-if matches>
+   <dtml-in matches>
+      <dtml-let thisItem="_.getitem('sequence-item')">
+         <dtml-let name="thisItem['name']" cname="thisItem['cname']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var cname url_quote_plus>"><span class="termresult"><dtml-var name></span></a><br>
+         </dtml-let>
+      </dtml-let>
+   </dtml-in>
+   <dtml-else>
+      Sorry, no matches were found<p>
+   </dtml-if>
+</dtml-with>
+
+
+<hr>
+<p>
+<table border="0" width="100%"><tr><td>
+<form action="findTerms">
+New Search: <input type="text" size="40" name="expression" class="form-element">&nbsp;
+<input type="submit" value="submit" name="Go" class="form-element">
+</form></td>
+<td halign="right"><a href="<dtml-var BASE0>/HelpSys?help_url=/Control_Panel/Products/Thesaurus/Help/help.txt" onClick="window.open('<dtml-var BASE0>/HelpSys?help_url=/Control_Panel/Products/Thesaurus/Help/help.txt','zope_help','width=600,height=500,menubar=yes,toolbar=yes,scrollbars=yes,resizable=yes').focus(); return false;" onMouseOver="window.status='Open online help'; return true;" onMouseOut="window.status=''; return true;">Search Help</a></td></tr></table>
+<hr>
+<dtml-var standard_html_footer>

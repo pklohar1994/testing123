@@ -1,0 +1,25 @@
+Manifest:
+
+copy_of_Thesaurus.zexp - import this file into your zope instance 
+Thesaurus-Product      - the Zope Product -- move this directory to your Zope Products dir
+etc                    - do a 'cp -r' of etc to someplace on your server where zope 
+                         can find/read it
+
+etc contains some subdirs and files:
+     - config - holds the local hosts.allow file - this system does not read/use the
+                system's hosts.allow file
+                system's hosts.allow file
+              - you'll also see a copy of the wsdl file here.
+     - logs   - empty right now, but it'll hold webservices.log once you're running
+     - schemas - empty, not used right now
+     - vocabularies - where you'll put the vocabulary source file to be imported by the
+                      thesaurus product.  look in vocabularies for a sample source file
+                      and a 'readme' file describing the format.
+
+
+there is a 'configure' file in the Thesaurus-Product directory you must edit to reflect
+your installation.  In particular, make sure you edit:
+
+  thePath: - make this reflect the absolute path to your the etc directory
+
+  consoles: - a backdoor of sorts, guarantees admin access for the IPs listed here.

@@ -1,0 +1,579 @@
+accidents	CT	Health and Pathology
+ACTH	USE	corticotropin
+Africa	CT	Geographical Locations
+agricultural land	CT	Farms and Farming Systems
+agricultural management	CT	Farms and Farming Systems
+agriculture	CT	Farms and Farming Systems
+animal ecology	CT	Animal Science and Animal Products
+animal health	CT	Health and Pathology
+animal health	CT	Animal Science and Animal Products
+animal law	CT	Animal Science and Animal Products
+animal science	CT	Animal Science and Animal Products
+animal welfare	CT	Animal Science and Animal Products
+animals	CT	Animal Science and Animal Products
+Antarctica	CT	Geographical Locations
+apiculture	CT	Insects and Entomology
+aquaculture	CT	Animal Science and Animal Products
+arachnids	CT	Insects and Entomology
+arboriculture	CT	Forest Science and Forest Products
+Asia	CT	Geographical Locations
+Atlantic Ocean Islands	CT	Geographical Locations
+atmospheric sciences	CT	Natural Resources, Earth and Environmental Sciences
+Australia	CT	Geographical Locations
+bioinformatics	CT	Breeding and Genetic Improvement
+biology	CT	Biological Sciences
+botany	CT	Plant Science and Plant Products
+breeding	CT	Breeding and Genetic Improvement
+Central America	CT	Geographical Locations
+chemical substances	CT	Physical Sciences
+chemistry	CT	Physical Sciences
+controlled traffic systems	UF	CTF (controlled traffic farming)
+corticotropin	UF	ACTH
+CTF (controlled traffic farming)	USE	controlled traffic systems
+CTP	USE	cytidine triphosphate
+cytidine triphosphate	UF	CTP
+cytoplasmic polyhedrosis viruses	DF	A group of entomopathogenic viruses that infect arthropods.  According to the International Committee on Taxonomy of Viruses (ICTV), CPVs are classified under the family Reoviridae and genus Cypovirus. Cytoplasmic polyhedrosis viruses have a very wide host range, affecting mainly lepidopterous insects. Cytoplasmic polyhedrosis has been recognized as one of the most important diseases of the silkworm, inflicting substantial economic losses to the sericulture industry in Japan.  [Tech Bull 218, Viral Diseases, Mississippi Agricultural and Forestry Experiment Station]
+disease and pest management	CT	Health and Pathology
+earth system science	CT	Natural Resources, Earth and Environmental Sciences
+ecology	CT	Natural Resources, Earth and Environmental Sciences
+economics	CT	Economics, Business and Industry
+entomology	CT	Insects and Entomology
+environment	CT	Natural Resources, Earth and Environmental Sciences
+environmental programs	CT	Natural Resources, Earth and Environmental Sciences
+environmental science	CT	Natural Resources, Earth and Environmental Sciences
+epidemiology	CT	Health and Pathology
+etiology	CT	Health and Pathology
+Europe	CT	Geographical Locations
+farming systems	CT	Farms and Farming Systems
+farms	CT	Farms and Farming Systems
+fire science and management	CT	Natural Resources, Earth and Environmental Sciences
+food science	CT	Food and Human Nutrition
+foods	CT	Food and Human Nutrition
+forest ecology	CT	Forest Science and Forest Products
+forest economics	CT	Forest Science and Forest Products
+forest engineering	CT	Forest Science and Forest Products
+forest genetics	CT	Forest Science and Forest Products
+forest health	CT	Forest Science and Forest Products
+forest policy	CT	Forest Science and Forest Products
+forest products	CT	Forest Science and Forest Products
+forest recreation	CT	Forest Science and Forest Products
+forest resources	CT	Forest Science and Forest Products
+forest trees	CT	Forest Science and Forest Products
+forestry	CT	Forest Science and Forest Products
+forestry law	CT	Forest Science and Forest Products
+forests	CT	Forest Science and Forest Products
+genetic engineering	CT	Breeding and Genetic Improvement
+genetic techniques and protocols	CT	Breeding and Genetic Improvement
+geography	CT	Natural Resources, Earth and Environmental Sciences
+geology	CT	Natural Resources, Earth and Environmental Sciences
+germplasm evaluation	CT	Breeding and Genetic Improvement
+health promotion	CT	Health and Pathology
+historical geographic locations	CT	Geographical Locations
+human health and safety	CT	Health and Pathology
+human nutrition	CT	Food and Human Nutrition
+hydrology	CT	Natural Resources, Earth and Environmental Sciences
+Indian Ocean Islands	CT	Geographical Locations
+information science	CT	Research, Technology and Engineering
+insect ecology	CT	Insects and Entomology
+insect pathology	CT	Insects and Entomology
+insect products	CT	Insects and Entomology
+insects	CT	Insects and Entomology
+materials science	CT	Research, Technology and Engineering
+mathematics and statistics	CT	Research, Technology and Engineering
+medical sciences	CT	Health and Pathology
+Mediterranean Islands	CT	Geographical Locations
+methodology	CT	Research, Technology and Engineering
+natural resource management	CT	Natural Resources, Earth and Environmental Sciences
+natural resources	CT	Natural Resources, Earth and Environmental Sciences
+negative sense, single-stranded RNA viruses	DF	The negative strand is the strand with base sequence complementary to the positive sense strand.  [ICTV, 7th report, pg. 28]
+North America	CT	Geographical Locations
+oceanography	CT	Natural Resources, Earth and Environmental Sciences
+organisms	CT	Biological Sciences
+pastoralism	CT	Farms and Farming Systems
+physics	CT	Physical Sciences
+plant breeding	CT	Plant Science and Plant Products
+plant characteristics	CT	Plant Science and Plant Products
+plant ecology	CT	Plant Science and Plant Products
+plant health	CT	Plant Science and Plant Products
+plant health	CT	Health and Pathology
+plant nutrition	CT	Plant Science and Plant Products
+plants	CT	Plant Science and Plant Products
+positive sense, single-stranded RNA viruses	DF	The strand that contains the coding triplets that are translated by ribosomes.  [ICTV 7th report, pg. 28]
+products and commodities	CT	Economics, Business and Industry
+pulp and paper products	CT	Forest Science and Forest Products
+research	CT	Research, Technology and Engineering
+sericulture	CT	Insects and Entomology
+soil science	CT	Natural Resources, Earth and Environmental Sciences
+South America	CT	Geographical Locations
+support systems and models	CT	Research, Technology and Engineering
+(administrative science)	CT	Economics, Business and Industry
+(Agronomy and Horticulture)	CT	Plant Science and Plant Products
+(Algae)	CT	Taxonomic Classification of Organisms
+(animal products, byproducts and wastes)	CT	Animal Science and Animal Products
+(Animalia)	CT	Taxonomic Classification of Organisms
+(Archaea, Cyanobacteria and Bacteria)	CT	Taxonomic Classification of Organisms
+(diseases and disorders of animals and humans)	CT	Health and Pathology
+(Fungi)	CT	Taxonomic Classification of Organisms
+(named bodies of water)	CT	Geographical Locations
+(named deserts)	CT	Geographical Locations
+(named geographical regions)	CT	Geographical Locations
+(pathological processes and conditions)	CT	Health and Pathology
+(pests, pathogens and hosts)	CT	Health and Pathology
+(plant products, byproducts and residues)	CT	Plant Science and Plant Products
+(Plantae)	CT	Taxonomic Classification of Organisms
+(signs and symptoms in animals and humans)	CT	Health and Pathology
+(signs and symptoms)	CT	Health and Pathology
+(technology and engineering)	CT	Research, Technology and Engineering
+(Viruses and Viroids)	CT	Taxonomic Classification of Organisms
+therapeutics	CT	Health and Pathology
+unassigned viruses	SN	Agriculturally important viruses which are not assigned to a specific family in International Classification and Taxonomy of Viruses (ICTV) 7th report, 2000, are listed here.
+veterinary medicine	CT	Animal Science and Animal Products
+weed science	CT	Plant Science and Plant Products
+zoology	CT	Animal Science and Animal Products
+Health and Pathology	CN	accidents
+Geographical Locations	CN	Africa
+Farms and Farming Systems	CN	agricultural land
+Farms and Farming Systems	CN	agricultural management
+Farms and Farming Systems	CN	agriculture
+Animal Science and Animal Products	CN	animal ecology
+Health and Pathology	CN	animal health
+Animal Science and Animal Products	CN	animal health
+Animal Science and Animal Products	CN	animal law
+Animal Science and Animal Products	CN	animal science
+Animal Science and Animal Products	CN	animal welfare
+Animal Science and Animal Products	CN	animals
+Geographical Locations	CN	Antarctica
+Rural and Agricultural Sociology	CN	anthropology
+Insects and Entomology	CN	apiculture
+Animal Science and Animal Products	CN	aquaculture
+Insects and Entomology	CN	arachnids
+Forest Science and Forest Products	CN	arboriculture
+Geographical Locations	CN	Asia
+Geographical Locations	CN	Atlantic Ocean Islands
+Natural Resources, Earth and Environmental Sciences	CN	atmospheric sciences
+Geographical Locations	CN	Australia
+Breeding and Genetic Improvement	CN	bioinformatics
+Biological Sciences	CN	biology
+Plant Science and Plant Products	CN	botany
+Breeding and Genetic Improvement	CN	breeding
+Geographical Locations	CN	Central America
+Physical Sciences	CN	chemical substances
+Physical Sciences	CN	chemistry
+Rural and Agricultural Sociology	CN	communication (human)
+Rural and Agricultural Sociology	CN	culture and humanities
+Rural and Agricultural Sociology	CN	demography
+Health and Pathology	CN	disease and pest management
+Natural Resources, Earth and Environmental Sciences	CN	earth system science
+Natural Resources, Earth and Environmental Sciences	CN	ecology
+Economics, Business and Industry	CN	economics
+Rural and Agricultural Sociology	CN	education
+Insects and Entomology	CN	entomology
+Natural Resources, Earth and Environmental Sciences	CN	environment
+Natural Resources, Earth and Environmental Sciences	CN	environmental programs
+Natural Resources, Earth and Environmental Sciences	CN	environmental science
+Health and Pathology	CN	epidemiology
+Health and Pathology	CN	etiology
+Geographical Locations	CN	Europe
+Rural and Agricultural Sociology	CN	family and consumer science
+Farms and Farming Systems	CN	farming systems
+Farms and Farming Systems	CN	farms
+Natural Resources, Earth and Environmental Sciences	CN	fire science and management
+Food and Human Nutrition	CN	food science
+Food and Human Nutrition	CN	foods
+Forest Science and Forest Products	CN	forest ecology
+Forest Science and Forest Products	CN	forest economics
+Forest Science and Forest Products	CN	forest engineering
+Forest Science and Forest Products	CN	forest genetics
+Forest Science and Forest Products	CN	forest health
+Forest Science and Forest Products	CN	forest policy
+Forest Science and Forest Products	CN	forest products
+Forest Science and Forest Products	CN	forest recreation
+Forest Science and Forest Products	CN	forest resources
+Forest Science and Forest Products	CN	forest trees
+Forest Science and Forest Products	CN	forestry
+Forest Science and Forest Products	CN	forestry law
+Forest Science and Forest Products	CN	forests
+Breeding and Genetic Improvement	CN	genetic engineering
+Breeding and Genetic Improvement	CN	genetic techniques and protocols
+Natural Resources, Earth and Environmental Sciences	CN	geography
+Natural Resources, Earth and Environmental Sciences	CN	geology
+Breeding and Genetic Improvement	CN	germplasm evaluation
+Government, Law and Regulations	CN	government and administration
+Health and Pathology	CN	health promotion
+Geographical Locations	CN	historical geographic locations
+Rural and Agricultural Sociology	CN	history
+Health and Pathology	CN	human health and safety
+Food and Human Nutrition	CN	human nutrition
+Natural Resources, Earth and Environmental Sciences	CN	hydrology
+Geographical Locations	CN	Indian Ocean Islands
+Research, Technology and Engineering	CN	information science
+Insects and Entomology	CN	insect ecology
+Insects and Entomology	CN	insect pathology
+Insects and Entomology	CN	insect products
+Insects and Entomology	CN	insects
+Government, Law and Regulations	CN	jurisprudence
+KOCN (herbicide)	USE	potassium cyanate
+Government, Law and Regulations	CN	laws and regulations
+Rural and Agricultural Sociology	CN	leisure, recreation and tourism
+Research, Technology and Engineering	CN	materials science
+Research, Technology and Engineering	CN	mathematics and statistics
+Health and Pathology	CN	medical sciences
+Geographical Locations	CN	Mediterranean Islands
+Research, Technology and Engineering	CN	methodology
+Natural Resources, Earth and Environmental Sciences	CN	natural resource management
+Natural Resources, Earth and Environmental Sciences	CN	natural resources
+Geographical Locations	CN	North America
+Rural and Agricultural Sociology	CN	occupations
+Natural Resources, Earth and Environmental Sciences	CN	oceanography
+Biological Sciences	CN	organisms
+Rural and Agricultural Sociology	CN	organizations
+Farms and Farming Systems	CN	pastoralism
+Rural and Agricultural Sociology	CN	people
+Physical Sciences	CN	physics
+Plant Science and Plant Products	CN	plant breeding
+Plant Science and Plant Products	CN	plant characteristics
+Plant Science and Plant Products	CN	plant ecology
+Plant Science and Plant Products	CN	plant health
+Health and Pathology	CN	plant health
+Plant Science and Plant Products	CN	plant nutrition
+Plant Science and Plant Products	CN	plants
+potassium cyanate	UF	KOCN (herbicide)
+Economics, Business and Industry	CN	products and commodities
+Rural and Agricultural Sociology	CN	psychology
+Forest Science and Forest Products	CN	pulp and paper products
+Research, Technology and Engineering	CN	research
+Insects and Entomology	CN	sericulture
+Rural and Agricultural Sociology	CN	sociology
+Natural Resources, Earth and Environmental Sciences	CN	soil science
+Geographical Locations	CN	South America
+Research, Technology and Engineering	CN	support systems and models
+Economics, Business and Industry	CN	(administrative science)
+Plant Science and Plant Products	CN	(Agronomy and Horticulture)
+Taxonomic Classification of Organisms	CN	(Algae)
+Animal Science and Animal Products	CN	(animal products, byproducts and wastes)
+Taxonomic Classification of Organisms	CN	(Animalia)
+Taxonomic Classification of Organisms	CN	(Archaea, Cyanobacteria and Bacteria)
+Health and Pathology	CN	(diseases and disorders of animals and humans)
+Taxonomic Classification of Organisms	CN	(Fungi)
+Geographical Locations	CN	(named bodies of water)
+Geographical Locations	CN	(named deserts)
+Geographical Locations	CN	(named geographical regions)
+Health and Pathology	CN	(pathological processes and conditions)
+Health and Pathology	CN	(pests, pathogens and hosts)
+Plant Science and Plant Products	CN	(plant products, byproducts and residues)
+Taxonomic Classification of Organisms	CN	(Plantae)
+Health and Pathology	CN	(signs and symptoms in animals and humans)
+Health and Pathology	CN	(signs and symptoms)
+Research, Technology and Engineering	CN	(technology and engineering)
+Taxonomic Classification of Organisms	CN	(Viruses and Viroids)
+Health and Pathology	CN	therapeutics
+Animal Science and Animal Products	CN	veterinary medicine
+Plant Science and Plant Products	CN	weed science
+Animal Science and Animal Products	CN	zoology
+accidents	NT	explosions
+accidents	NT	occupational accidents
+agricultural management	NT	agricultural management models
+agricultural management	NT	animal manure management
+agricultural management	NT	crop management
+agricultural management	NT	integrated agricultural systems
+agricultural management	NT	Management Systems Evaluation Areas
+agricultural management	NT	nutrient management
+agricultural management	NT	sustainable agriculture
+animal health	NT	animal parasites and pests
+animal health	NT	animal pathogens
+animal health	NT	animal stress
+animal health	NT	fish health
+animal health	NT	herd health
+animals	NT	dead animals
+animals	NT	desert animals
+animals	NT	farmed animal species
+animals	NT	food animals
+animals	NT	fur-bearing animals
+animals	NT	game animals
+animals	NT	germ-free animals
+animals	NT	invertebrates
+animals	NT	laboratory animals
+animals	NT	old animals
+animals	NT	pets
+animals	NT	racing animals
+animals	NT	stray animals
+animals	NT	transgenic animals
+animals	NT	vertebrates
+animals	NT	wild animals
+animals	NT	working animals
+animals	NT	young animals
+animals	NT	zoo animals
+arachnids	NT	mites
+arachnids	NT	scorpions
+arachnids	NT	spiders
+arachnids	NT	ticks
+ticks	NT	dog ticks
+ticks	NT	deer ticks
+deer ticks	NT	tiny deer ticks
+atmospheric sciences	NT	atmosphere
+atmospheric sciences	NT	atmospheric circulation
+atmospheric sciences	NT	greenhouse effect
+atmospheric sciences	NT	greenhouse gases
+atmospheric sciences	NT	meteorology and climatology
+biology	NT	(biological properties and phenomena)
+biology	NT	anatomy and morphology
+biology	NT	behavior
+biology	NT	biochemistry
+biology	NT	biogeography
+biology	NT	botany
+biology	NT	cell biology
+biology	NT	embryology
+biology	NT	endocrinology
+biology	NT	evolution
+biology	NT	genetics
+biology	NT	histology
+biology	NT	immunology
+biology	NT	life history
+biology	NT	microbiology
+biology	NT	molecular biology
+biology	NT	mycology
+biology	NT	nutrition
+biology	NT	paleontology
+biology	NT	parasitology
+biology	NT	physiology
+biology	NT	taxonomy
+biology	NT	zoology
+earth system science	NT	atmospheric deposition
+earth system science	NT	biogeochemical cycles
+earth system science	NT	General Circulation Models
+earth system science	NT	global budgets
+earth system science	NT	global change
+earth system science	NT	greenhouse effect
+earth system science	NT	Soil Vegetation Atmosphere Transfer models
+earth system science	NT	soil-atmosphere interactions
+earth system science	NT	soil-plant interactions
+earth system science	NT	soil-plant-atmosphere interactions
+entomology	NT	(specialized insect and arachnid structures)
+entomology	NT	acarology
+entomology	NT	crop entomology
+entomology	NT	forensic entomology
+entomology	NT	insect biology
+entomology	NT	insect collection
+entomology	NT	insect rearing
+entomology	NT	insect sociobiology
+entomology	NT	insect taxonomy
+entomology	NT	insectaries
+entomology	NT	medical and veterinary entomology
+environmental science	NT	environmental degradation
+environmental science	NT	environmental fate
+environmental science	NT	environmental impact
+environmental science	NT	environmental management
+environmental science	NT	environmental quality
+environmental science	NT	wastes
+Europe	NT	Albania
+Europe	NT	Andorra
+Europe	NT	Austria
+Europe	NT	Belarus
+Europe	NT	Belgium
+Europe	NT	Bosnia-Hercegovina
+Europe	NT	British Isles
+Europe	NT	Bulgaria
+Europe	NT	Croatia
+Europe	NT	Czech Republic
+Europe	NT	Czechoslovakia
+Europe	NT	Denmark
+Europe	NT	Estonia
+Europe	NT	Federal Republic of Yugoslavia
+Europe	NT	Finland
+Europe	NT	France
+Europe	NT	German Democratic Republic
+Europe	NT	German Federal Republic
+Europe	NT	Germany
+Europe	NT	Greece
+Europe	NT	Hungary
+Europe	NT	Iceland
+Europe	NT	Italy
+Europe	NT	Latvia
+Europe	NT	Liechtenstein
+Europe	NT	Lithuania
+Europe	NT	Luxembourg
+Europe	NT	Macedonia
+Europe	NT	Moldova
+Europe	NT	Monaco
+Europe	NT	Netherlands
+Europe	NT	Norway
+Europe	NT	Poland
+Europe	NT	Portugal
+Europe	NT	Romania
+Europe	NT	Russia
+Europe	NT	San Marino
+Europe	NT	Slovakia
+Europe	NT	Slovenia
+Europe	NT	Spain
+Europe	NT	Sweden
+Europe	NT	Switzerland
+Europe	NT	Turkey
+Europe	NT	Ukraine
+Europe	NT	USSR
+Europe	NT	Vatican
+Europe	NT	Yugoslavia
+fire science and management	NT	burning
+fire science and management	NT	fire behavior
+fire science and management	NT	fire detection
+fire science and management	NT	fire ecology
+fire science and management	NT	fire fighting
+fire science and management	NT	fire hazard
+fire science and management	NT	fire hazard reduction
+fire science and management	NT	fire weather
+fire science and management	NT	fires
+fire science and management	NT	forest fire management
+fire science and management	NT	smoke
+fire science and management	NT	wildfire management
+forest ecology	NT	forest communities
+forest ecology	NT	forest ecosystems
+forest ecology	NT	forest fires
+forest ecology	NT	forest growth
+forest ecology	NT	forest habitats
+forest ecology	NT	forest litter
+forest ecology	NT	forest succession
+forest ecology	NT	forest-wildlife relations
+forest products	NT	Christmas trees
+forest products	NT	nontimber forest products
+forest products	NT	pulp and paper products
+forest products	NT	wood products
+forests	NT	boreal forests
+forests	NT	coastal forests
+forests	NT	dry forests
+forests	NT	forest types
+forests	NT	lowland forests
+forests	NT	mixed forests
+forests	NT	montane forests
+forests	NT	old-growth forests
+forests	NT	rain forests
+forests	NT	riparian forests
+forests	NT	secondary forests
+forests	NT	temperate forests
+forests	NT	tropical forests
+geography	NT	biogeography
+geography	NT	geographical distribution
+geography	NT	geographical variation
+geography	NT	latitude
+human nutrition	NT	adolescent nutrition
+human nutrition	NT	child nutrition
+human nutrition	NT	clinical nutrition
+human nutrition	NT	diet counseling
+human nutrition	NT	diet study techniques
+human nutrition	NT	dietary recommendations
+human nutrition	NT	dietetics
+human nutrition	NT	eating habits
+human nutrition	NT	elderly nutrition
+human nutrition	NT	food and nutrition programs
+human nutrition	NT	food choices
+human nutrition	NT	food intake
+human nutrition	NT	foodways
+human nutrition	NT	infant nutrition
+human nutrition	NT	maternal nutrition
+human nutrition	NT	meal planning
+human nutrition	NT	meals (menu)
+human nutrition	NT	nutrient intake
+human nutrition	NT	nutrition assessment
+human nutrition	NT	nutrition education
+human nutrition	NT	nutrition information
+human nutrition	NT	nutrition knowledge
+human nutrition	NT	nutrition policy
+human nutrition	NT	sports nutrition
+human nutrition	NT	weight control
+information science	NT	information
+information science	NT	information management
+information science	NT	information sources
+information science	NT	information technology
+information science	NT	publications
+insect products	NT	honey and bee products
+insect products	NT	silk
+mathematics and statistics	NT	algorithms
+mathematics and statistics	NT	equations
+mathematics and statistics	NT	finite element analysis
+mathematics and statistics	NT	mathematical models
+mathematics and statistics	NT	pedotransfer functions
+mathematics and statistics	NT	prediction
+mathematics and statistics	NT	statistics
+methodology	NT	analytical methods
+methodology	NT	bioelectrical impedance
+methodology	NT	bioinformatics
+methodology	NT	chemical analysis
+methodology	NT	collaborative testing
+methodology	NT	detection
+methodology	NT	diagnostic techniques
+methodology	NT	electroantennography
+methodology	NT	electrocardiography
+methodology	NT	electroencephalography
+methodology	NT	electromyography
+methodology	NT	electronic identification
+methodology	NT	headspace analysis
+methodology	NT	image analysis
+methodology	NT	immunologic techniques
+methodology	NT	laboratory techniques
+methodology	NT	metrology
+methodology	NT	microscopy
+methodology	NT	monitoring
+methodology	NT	new methods
+methodology	NT	nondestructive methods
+methodology	NT	qualitative analysis
+methodology	NT	quantitative analysis
+methodology	NT	radiography
+methodology	NT	radiometry
+methodology	NT	rapid methods
+methodology	NT	screening
+methodology	NT	spectral analysis
+methodology	NT	test meals
+methodology	NT	testing
+methodology	NT	thermal analysis
+methodology	NT	ultrasonography
+North America	NT	Canada
+North America	NT	Mexico
+North America	NT	United States
+pastoralism	NT	transhumance
+plant characteristics	NT	agronomic traits
+plant characteristics	NT	leaf area
+plant characteristics	NT	plant age
+plant characteristics	NT	seed productivity
+plant health	NT	(signs and symptoms in plants)
+plant health	NT	forest health
+plant health	NT	plant damage
+plant health	NT	plant diseases and disorders
+plant health	NT	plant injuries
+plant health	NT	plant pathogens
+plant health	NT	plant pathology
+plant health	NT	plant pests
+plant health	NT	plant protection
+plant health	NT	plant stress
+plant health	NT	tree mortality
+products and commodities	NT	adulterated products
+products and commodities	NT	agricultural products
+products and commodities	NT	biobased products
+products and commodities	NT	biodegradable products
+products and commodities	NT	brand name products
+products and commodities	NT	byproducts
+products and commodities	NT	clothing
+products and commodities	NT	defatted products
+products and commodities	NT	disposable products
+products and commodities	NT	furniture
+products and commodities	NT	high-value products
+products and commodities	NT	laundry products
+products and commodities	NT	meals (products)
+products and commodities	NT	new products
+products and commodities	NT	oils
+products and commodities	NT	perishable products
+products and commodities	NT	product quality
+products and commodities	NT	protein products
+products and commodities	NT	resins
+products and commodities	NT	stored products
+products and commodities	NT	synthetic products
+products and commodities	NT	value-added products
+support systems and models	NT	models
+support systems and models	NT	support systems
+veterinary medicine	NT	analgesia
+veterinary medicine	NT	anesthesia
+veterinary medicine	NT	animal pathology
+veterinary medicine	NT	large animal practice
+veterinary medicine	NT	radiology
+veterinary medicine	NT	sedation
+veterinary medicine	NT	small animal practice
+veterinary medicine	NT	veterinary dentistry
+veterinary medicine	NT	veterinary drugs
+veterinary medicine	NT	veterinary parasitology

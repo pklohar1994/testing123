@@ -1,0 +1,112 @@
+<dtml-var standard_html_header>
+
+<hr>
+<h1 class="agheader">AgNIC Thesaurus</h1>
+<hr>
+      <dtml-let thes="matches[0]">
+         <dtml-if "thes.has_key('contains')">
+            <a href="<dtml-var BASE2>/subjectCategories"><div class="termname"><dtml-var "thes['name']"></div></a><p>&nbsp;&nbsp;&nbsp; this category contains:<p>
+         <dtml-else>
+         <p><div class="termname"><dtml-var "thes['name']"></div></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('contains')">
+         <p>
+         <dtml-in "thes['contains']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in>
+         </p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('category')">
+         <div class="attrlabel">
+         <p>Subject Category:<br></div>
+         <dtml-in "thes['category']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('df')">
+         <div class="attrlabel">
+         <p>Definition:<br></div>
+         <dtml-in "thes['definition']">
+            <div class="termresult"><dtml-var sequence-item></div><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('sn')">
+         <div class="attrlabel">
+         <p>Scope Note:<br></div>
+         <dtml-in "thes['scopenote']">
+            <div class="termresult"><dtml-var sequence-item></div><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('uf')">
+         <div class="attrlabel">
+         <p>Used for:<br></div>
+         <dtml-in "thes['usefor']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('ufa')">
+         <div class="attrlabel">
+         <p>Use for and Type:<br></div>
+         <dtml-in "thes['useforandtype']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('bt')">
+         <div class="attrlabel">
+         <P>Broader terms:<br></div>
+         <dtml-in "thes['broader']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('nt')">
+         <div class="attrlabel">
+         <p>Narrower terms:<br></div>
+         <dtml-in "thes['narrower']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('rt')">
+         <div class="attrlabel">
+         <p>Related terms:<br></div>
+         <dtml-in "thes['related']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('use')">
+         <div class="attrlabel">
+         <p>Use:<br></div>
+         <dtml-in "thes['use']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('usa')">
+         <div class="attrlabel">
+         <p>Use and Type:<br></div>
+         <dtml-in "thes['useandtype']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+      </dtml-let>
+<hr>
+<p>
+<table border="0" width="100%"><tr><td>
+<form action="findTerms">
+New Search: <input type="text" size="40" name="expression" class="form-element">&nbsp;
+<input type="submit" value="submit" name="Go" class="form-element">
+</form></td>
+<td halign="right"><a href="<dtml-var BASE0>/HelpSys?help_url=/Control_Panel/Products/Thesaurus/Help/help.txt" onClick="window.open('<dtml-var BASE0>/HelpSys?help_url=/Control_Panel/Products/Thesaurus/Help/help.txt','zope_help','width=600,height=500,menubar=yes,toolbar=yes,scrollbars=yes,resizable=yes').focus(); return false;" onMouseOver="window.status='Open online help'; return true;" onMouseOut="window.status=''; return true;">Search Help</a></td></tr></table>
+<hr>
+<dtml-var standard_html_footer>
+
+

@@ -1,0 +1,29 @@
+ about:text:NAL Thesaurus Web Services
++
++National Agricultural Library
++10301 Baltimore Avenue
++Beltsville, Maryland 20705
++
++NAL Agricultural Thesaurus was created to meet the needs of the United States Department of Agriculture (USDA), Agricultural Research Service (ARS), for an agricultural thesaurus. NAL Agricultural Thesaurus is for anyone describing, organizing and classifying agricultural resources such as: books,
++articles, catalogs, databases, patents, games, educational materials, pictures, slides, film, videotapes, software, other electronic media, or websites. It is a work initiated by the Thesaurus Group of the National Agricultural Library, Agricultural Research Service, U.S. Department of Agriculture.
++
++server: laurel.nal.usda.gov
++
++Additional information on the use of the material contained herein: http://agclass.nal.usda.gov/agt/usage.htm
+ defaultLogFile:string:webservices.log
+ defaultSourceFile:string:thesaurus.src
+ thePath:string:/export/home/tlynch/etc
+ configdir:string:config
+ logfile:string:webservices.log
+ logsdir:string:logs
+ loglevel:int:3
+ thesloadOnCron:boolean:1
+ sourcedir:string:vocabularies
+ sourcefile:string:thesaurus.src
+ loadreport:string:loadreport.log
+ schemadir:string:schemas
+ schema:string:thesaurus.schm
+ hostsallowfile:string:hosts.allow
+ consoles:lines:['221.222.223.224', '123.123.123.234']
+ title:string:NAL Thesaurus Web Services
+ wsdlfile:string:thesaurus.wsdl

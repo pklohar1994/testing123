@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>Configure the Logger Facility</title>
+  </head>
+  <body>
+
+    <h1 tal:replace="structure here/manage_page_header">manage page header</h1>
+    <h1 tal:replace="structure here/manage_tabs">manage tabs</h1>
+  
+    <h4>Configure the Logger Facility for the Thesaurus Web Services system</h4>
+    <hr />
+    <form action="loggerConfig" tal:define="P python:here.getProperties();
+                                       levels python:['off', 'normal', 'daemon', 'debug']">
+
+    <table border="0" width="100%">
+
+      <tr><td align="right">Log file:</td>
+          <td><input type="text" name="logfile" size="40" tal:attributes="value python:P['logfile']" /></td>
+      </tr>
+      <tr><td colspan="2">&nbsp;</td></tr>
+      <tr><td align="right">Logging level:</td>
+          <td><select name="loglevel">
+                <span tal:repeat="L python:[0, 1, 2, 3]"><span tal:define="LIndx repeat/L/index;
+                                                                           LIndex python:int(LIndx)">
+                  <span tal:condition="python:P['loglevel'] == LIndex">
+                  <option tal:attributes="value L" selected><span tal:replace="python:levels[L]" /></option>
+                  </span>
+                  <span tal:condition="python:P['loglevel'] != LIndex">
+                  <option tal:attributes="value L"><span tal:replace="python:levels[L]" /></option>
+                  </span></span>
+                </span>
+          </select></td>
+      </tr>
+      <tr>
+          <td colspan="2" align="center"><input type="submit" value="Update" name="updateThis" /></td>
+      </tr>
+    </table>
+    </form>
+
+    <h1 tal:replace="structure here/manage_page_footer">manage page footer</h1>
+  </body>
+</html>

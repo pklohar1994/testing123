@@ -1,0 +1,25 @@
+    def _setProperty(self, id, value, type='string', mode='wd'):
+        # for selection and multiple selection properties
+        # the value argument indicates the select variable
+        # of the property
+
+        # changed to accept mode attribute - tjl - March 9, 2004
+        self._wrapperCheck(value)
+        if not self.valid_property_id(id):
+            if self.hasProperty(id):
+                raise BadRequest, 'attempt to add a duplicate property id: %s' % str(id)
+            else:
+                raise BadRequest, 'Invalid or duplicate property id: |%s|(%d) value: %s' % (str(
+id), len(str(id)), str(value))
+        if type in ('selection', 'multiple selection'):
+            if not hasattr(self, value):
+                raise BadRequest, 'No select variable %s' % value
+            self._properties=self._properties + (
+                {'id':id, 'type':type, 'select_variable':value, 'mode':mode})
+                self._setPropValue(id, '')
+            else:
+                self._setPropValue(id, [])
+        else:
+            self._properties=self._properties+({'id':id,'type':type, 'mode':mode},)
+            self._setPropValue(id, value)
+

@@ -1,0 +1,45 @@
+<dtml-var standard_html_header>
+
+<hr>
+<h1 class="agheader">AgNIC Thesaurus</h1>
+<hr>
+      <dtml-let thes="matches[0]">
+         <dtml-if "thes.has_key('broader')">
+         <dtml-in "thes['broader']">
+<broaderTerm><dtml-var sequence-item></broaderTerm>
+<broaderTermURL><dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus></broaderTermURL>
+         </dtml-in>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('narrower')">
+         <dtml-in "thes['narrower']">
+<narrowerTerm><dtml-var sequence-item></narrowerTerm>
+<narrowerTermURL><dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus></narrowerTermURL>
+         </dtml-in>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('related')">
+         <div class="attrlabel">
+         <p>Related terms:<br></div>
+         <dtml-in "thes['related']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('use')">
+         <div class="attrlabel">
+         <p>Use:<br></div>
+         <dtml-in "thes['use']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+
+         <dtml-if "thes.has_key('useandtype')">
+         <div class="attrlabel">
+         <p>Use and Type:<br></div>
+         <dtml-in "thes['useandtype']">
+<a href="<dtml-var BASE2>/thesaurus/getTerm?expression=<dtml-var sequence-item url_quote_plus>"><div class="termresult"><dtml-var sequence-item></div></a><br>
+         </dtml-in></p>
+         </dtml-if>
+      </dtml-let>
+<dtml-var standard_html_footer>

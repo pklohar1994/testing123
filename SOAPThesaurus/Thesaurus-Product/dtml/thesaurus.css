@@ -1,0 +1,46 @@
+BODY {
+  color: #000; 
+  background: gray; 
+  margin-left: 7%; 
+  font-family: helvetica, sans-serif;
+}
+
+H1,H2 {
+  font-family: helvetica, sans-serif;
+  color: saddlebrown;
+}
+
+.results {
+  color: black;
+  font-family: times, serif;
+
+/*  font-style: italic; */
+  font-variant: small-caps;
+  font-weight: bolder;
+  font-size: large
+}
+
+.form-element {
+  background: gray;
+  color: white;
+  text-transform: uppercase
+}
+
+.termname {
+  background: gray;
+  color: white;
+  text-transform: uppercase
+}
+
+.termresult {
+  background: gray;
+  margin-left: 5%
+  color: white;
+  text-transform: uppercase
+}
+
+.attrlabel {
+  background: gray;
+  color: white;
+  text-transform: uppercase
+}

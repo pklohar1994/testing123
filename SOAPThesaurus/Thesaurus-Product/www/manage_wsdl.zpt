@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>Configure the WSDL</title>
+  </head>
+  <body>
+
+    <h1 tal:replace="structure here/manage_page_header">manage page header</h1>
+    <h1 tal:replace="structure here/manage_tabs">manage tabs</h1>
+  
+    <h4>Configure the WSDL file for the Thesaurus Web Services system</h4>
+    <hr />
+    <form action="wsdlConfig" tal:define="P python:here.getProperties();">
+
+    <table border="0" width="100%">
+
+      <tr><td align="right">WSDL file:</td>
+          <td><input type="text" name="wsdlfile" size="40" tal:attributes="value python:P['wsdlfile']" /></td>
+      </tr>
+      <tr><td colspan="2">&nbsp;</td></tr>
+      <tr>
+          <td colspan="2" align="center"><input type="submit" value="Update" name="updateThis" /></td>
+      </tr>
+    </table>
+    </form>
+
+    <h1 tal:replace="structure here/manage_page_footer">manage page footer</h1>
+  </body>
+</html>

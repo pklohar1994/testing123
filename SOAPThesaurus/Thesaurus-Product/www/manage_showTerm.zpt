@@ -1,0 +1,93 @@
+<html>
+  <head>
+    <title tal:content="template/title">The title</title>
+  </head>
+  <body>
+   <span tal:replace="structure here/manage_page_header" />
+   <span tal:replace="structure here/manage_tabs" />
+
+   <span tal:define="concept python:here.REQUEST.matches; theConcept python:concept['name']">
+      <a href="http://laurel.nal.usda.gov:9090/Thesaurus/thesaurus/index_html">Home</a><br />
+         <h3 style="align:center" tal:content="theConcept"> the concept </h3>
+      <span tal:define="scope concept/scope | nothing"
+            tal:condition="scope"
+            tal:content="scope" />
+
+      <span tal:define="definition concept/def | nothing"
+            tal:condition="definition">
+
+         <p><b>Definition: </b><br /><span tal:repeat="def definition">
+            &nbsp;-&nbsp;<span tal:replace="def" /><br />
+         </span></p>
+      
+      </span>
+
+
+      <span tal:define="scopenote concept/sn | nothing"
+            tal:condition="scopenote">
+
+         <p><b>Scope Note: </b><br /><span tal:repeat="sn scopenote">
+            &nbsp;-&nbsp;<span tal:replace="sn" /><br />
+         </span></p>
+      
+      </span>
+
+
+      <span tal:define="contains concept/ct | nothing"
+            tal:condition="contains">
+
+         <p><b>Categories: </b><br /><span tal:repeat="ct contains">
+            &nbsp;-&nbsp; <a 
+   tal:attributes="href string:http://laurel.nal.usda.gov:9090/Thesaurus/thesaurus/"><span tal:replace="ct" /></a><br />
+         </span></p>
+      
+      </span>
+
+      <span tal:define="contains concept/cn | nothing"
+            tal:condition="contains">
+
+         <p><b>Contains: </b><br /><span tal:repeat="cn contains">
+            &nbsp;-&nbsp; <a 
+   tal:attributes="href string:http://laurel.nal.usda.gov:9090/Thesaurus/thesaurus/getTerm?expression=${cn}"><span tal:replace="cn" /></a><br />
+         </span></p>
+      
+      </span>
+
+      <span tal:define="broader concept/bt | nothing"
+            tal:condition="broader">
+
+         <p><b>Broader: </b><br /><span tal:repeat="bt broader">
+            &nbsp;-&nbsp; <a 
+   tal:attributes="href string:http://laurel.nal.usda.gov:9090/Thesaurus/thesaurus/getTerm?expression=${bt}"><span tal:replace="bt" /></a><br />
+         </span></p>
+      
+      </span>
+
+
+      <span tal:define="narrower concept/nt | nothing"
+            tal:condition="narrower">
+
+         <p><b>Narrower: </b><br /><span tal:repeat="nt narrower">
+            &nbsp;-&nbsp; <a 
+   tal:attributes="href string:http://laurel.nal.usda.gov:9090/Thesaurus/thesaurus/getTerm?expression=${nt}"><span tal:replace="nt" /></a><br />
+         </span></p>
+      
+      </span>
+
+
+      <span tal:define="related concept/rt | nothing"
+            tal:condition="related">
+
+         <p><b>Related: </b><br /><span tal:repeat="rt related">
+            &nbsp;-&nbsp; <a 
+   tal:attributes="href string:http://laurel.nal.usda.gov:9090/Thesaurus/thesaurus/getTerm?expression=${rt}"><span tal:replace="rt" /></a><br />
+         </span></p>
+      
+      </span>
+
+
+   </span>
+
+   <span tal:replace="structure here/manage_page_footer" />
+  </body>
+</html>

@@ -1,0 +1,98 @@
+<html><head><title>NAL Thesaurus</title>
+</head>
+
+<body  bgcolor="#FFFFFF"  link="#3366CC" vlink="#66099" alink="#FF6600">
+<h1 tal:replace="structure here/manage_page_header">mange header</h1>
+<h1 tal:replace="structure here/manage_tabs">manage tabs</h1>
+<hr>
+<div class="agheader">AgNIC Thesaurus</div>
+<hr>
+
+<center>
+<table border=0 CELLPADDING=0 CELLSPACING=2>
+<tr>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Animal+Science+and+Animal+Products"><span class="termname">Animal Science and Animal Products</span></a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Government+Law+and+Regulations"><span class="termname">Government, Law and Regulations</span></a></strong></td>
+</tr>
+<tr>
+<td align=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aquaculture, Animal Biology, Animal Ecology...&nbsp;&nbsp;&nbsp;&nbsp</td>
+     <td align=left>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Policy, Standards and Grades, Agencies...</td>
+</tr>
+<tr>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Biological+Sciences"><span class="termname">Biological Sciences</span></a></strong></td>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Health+and+Pathology"><span class="termname">Health and Pathology</span></a></strong></td>
+</tr>
+<tr>
+     <td align=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physiology, Cell Biology, Biological Properties and Phenomenon...&nbsp;&nbsp;&nbsp;&nbsp</td>
+     <td align=left>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Animal Health, Plant Health, Human Health and Safety...</td>
+</tr>
+<tr>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Breeding+and+Genetic+Improvement"><span class="termname">Breeding and Genetic Improvement</span></a></strong></td>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Insects+and+Entomology"><span class="termname">Insects and Entomology</span></a></strong></td>
+</tr>
+<tr>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Genetic Engineering, Genetic Techniques and Protocols...</td>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apiculture, Insect Sociobiology, Insect Pathology...</td>
+</tr>
+<tr>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Economics+Business+and+Industry"><span class="termname">Economics, Business and Industry</span></a></strong></td>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Natural+Resources+Earth+and+Environmental+Sciences"><span class="termname">Natural Resources, Earth and Environmental Sciences</span></a></strong></td>
+</tr>
+<tr>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Products and Commodities, Management Science...</td>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soil Science, Hydrology, Environmental Science...</td>
+</tr>
+<tr>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Farms+and+Farming+Systems"><span class="termname">Farms and Farming Systems</span></a></strong></td>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Physical+Sciences"><span class="termname">Physical Sciences</span></a></strong></td>
+</tr>
+<tr>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pesticides, Fertilizers and Inputs, Agricultural Management...</td>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chemical Substances, Chemistry, Physics...</td>
+</tr>
+<tr>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Food+and+Human+Nutrition"><span class="termname">Food and Human Nutrition</span></a></strong></td>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Plant+Science+and+Plant+Products"><span class="termname">Plant Science and Plant Products</span></a></strong></td>
+</tr>
+<tr>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Food Safety, Food Technology, Diet, Nutritional Status...</td>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agronomy, Weed Science, Irrigation and Drainage... </td>
+</tr>
+<tr>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Forest+Science+and+Forest+Products"><span class="termname">Forest Science and Forest Products</span></a></strong></td>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Research+Technology+and+Engineering"><span class="termname">Research, Technology and Engineering</span></a></strong></td>
+</tr>
+<tr>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arboriculture, Forest Health, Forest Recreation...</td>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Materials Science, Methodology, Mathematics and Statistics...</td>
+</tr>
+<tr>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Geographical+Locations"><span class="termname">Geographical Locations</span></a></strong></td>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Rural+and+Agricultural+Sociology"><span class="termname">Rural and Agricultural Sociology</span></a></strong></td>
+</tr>
+<tr>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Countries, Regions, Deserts, Oceans...</td>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consumer Science, Family Studies, Sociology, People...</td>
+</tr>
+<tr>
+   <td><img src="redball.png" width="12" height="12" border="0" alt="redball.png">&nbsp;&nbsp;<strong><a href="BASE2/thesaurus/getTerm?expression=Taxonomic+Classification+of+Organisms"><span class="termname">Taxonomic Classification of Organisms</span></a></strong></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Animals, Plants, Algae, Bacteria...</td>
+</tr>
+<tr>
+
+</table>
+</center>
+
+<hr>
+<p>
+<table border="0" width="100%"><tr><td>
+<form action="findTerms">
+<b>New Search:</b> <input type="text" size="40" name="expression" class="form-element">&nbsp;
+<input type="submit" value="submit" name="Go" class="form-element">
+</form></td>
+<td halign="right"><a href="BASE0/HelpSys?help_url=/Control_Panel/Products/Thesaurus/Help/help.txt" onClick="window.open('BASE0/HelpSys?help_url=/Control_Panel/Products/Thesaurus/Help/help.txt','zope_help','width=600,height=500,menubar=yes,toolbar=yes,scrollbars=yes,resizable=yes').focus(); return false;" onMouseOver="window.status='Open online help'; return true;" onMouseOut="window.status=''; return true;">Search Help</a></td></tr></table>
+<hr>
+</body>
+</html>

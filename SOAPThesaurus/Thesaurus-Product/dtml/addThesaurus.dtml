@@ -1,0 +1,25 @@
+<dtml-var manage_page_header>
+
+<p>
+Create a new Thesaurus tool. 
+</p>
+
+<form action="addFunction">
+
+
+<table>
+
+  <tr valign="top">
+    <th class="form-label">ID: </th>
+    <td><input type="text" name="id" value="thesaurus" class="form-element"></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td><input type="submit" value="Create" class="form-element"></td>
+  </tr>
+
+</table>
+</form>
+
+<dtml-var manage_page_header>

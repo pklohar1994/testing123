@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions
+    name="Thesaurus"
+    targetNamespace="http://laurel.nal.usda.gov:9090/Thesaurus/soap/thesaurus.wsdl"
+    xmlns="http://schemas.xmlsoap.org/wsdl/"
+    xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+    xmlns:tns="http://laurel.nal.usda.gov:9090/Thesaurus/soap/thesaurus.wsdl"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <types>
+        <xsd:schema
+            targetNamespace="http://laurel.nal.usda.gov:9090/Thesaurus/soap/thesaurus.wsdl"
+            xmlns="http://schemas.xmlsoap.org/wsdl/"
+            xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"
+            xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+            xmlns:tns="http://laurel.nal.usda.gov:9090/Thesaurus/soap/thesaurus.wsdl"
+            xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <xsd:complexType name="termsArray">
+                <xsd:complexContent>
+                    <xsd:restriction base="SOAP-ENC:Array">
+                        <xsd:sequence>
+                            <xsd:element maxOccurs="unbounded" minOccurs="0" name="item" type="xsd:string"/>
+                        </xsd:sequence>
+                        <xsd:attribute ref="SOAP-ENC:arrayType" wsdl:arrayType="xsd:string[]"/>
+                    </xsd:restriction>
+                </xsd:complexContent>
+            </xsd:complexType>
+            <xsd:complexType name="baseConcept">
+                <xsd:all>
+                    <xsd:element maxOccurs="1" minOccurs="1" name="name" type="xsd:string"/>
+                    <xsd:element maxOccurs="1" minOccurs="1" name="scope" type="xsd:string"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="df" type="xsd:string"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="sn" type="xsd:string"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="ct" type="tns:baseConceptArray"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="cn" type="tns:baseConceptArray"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="bt" type="tns:baseConceptArray"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="nt" type="tns:baseConceptArray"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="rt" type="tns:baseConceptArray"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="use" type="tns:baseConceptArray"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="uf" type="tns:baseConceptArray"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="usa" type="tns:baseConceptArray"/>
+                    <xsd:element maxOccurs="1" minOccurs="0" name="ufa" type="tns:baseConceptArray"/>
+                </xsd:all>
+            </xsd:complexType>
+            <xsd:complexType name="baseConceptArray">
+                <xsd:sequence>
+                    <xsd:element
+                        maxOccurs="unbounded"
+                        minOccurs="1"
+                        name="oneConcept"
+                        type="tns:baseConcept"/>
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:complexType name="conceptArrayResponse">
+                <xsd:sequence>
+                    <xsd:element maxOccurs="1" minOccurs="1" name="statusCode" type="xsd:integer"/>
+                    <xsd:element
+                        maxOccurs="1"
+                        minOccurs="1"
+                        name="concepts"
+                        type="tns:baseConceptArray"/>
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:complexType name="conceptSingleResponse">
+                <xsd:sequence>
+                    <xsd:element maxOccurs="1" minOccurs="1" name="statusCode" type="xsd:integer"/>
+                    <xsd:element maxOccurs="1" minOccurs="1" name="concept" type="tns:baseConcept"/>
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:complexType name="nameScope">
+                <xsd:all>
+                    <xsd:element maxOccurs="1" minOccurs="1" name="name" type="xsd:string"/>
+                    <xsd:element maxOccurs="1" minOccurs="1" name="scope" type="xsd:string"/>
+                </xsd:all>
+            </xsd:complexType>
+            <xsd:complexType name="nameScopeArray">
+                <xsd:choice>
+                    <xsd:element
+                        maxOccurs="unbounded"
+                        minOccurs="1"
+                        name="aNameScope"
+                        type="tns:nameScope"/>
+                </xsd:choice>
+            </xsd:complexType>
+            <xsd:simpleType name="conceptAttribute">
+                <xsd:restriction base="xsd:string">
+                    <xsd:enumeration value="all"/>
+                    <xsd:enumeration value="name"/>
+                    <xsd:enumeration value="scope"/>
+                    <xsd:enumeration value="df"/>
+                    <xsd:enumeration value="sn"/>
+                    <xsd:enumeration value="ct"/>
+                    <xsd:enumeration value="cn"/>
+                    <xsd:enumeration value="bt"/>
+                    <xsd:enumeration value="nt"/>
+                    <xsd:enumeration value="rt"/>
+                    <xsd:enumeration value="use"/>
+                    <xsd:enumeration value="uf"/>
+                    <xsd:enumeration value="usa"/>
+                    <xsd:enumeration value="ufa"/>
+                </xsd:restriction>
+            </xsd:simpleType>
+            <xsd:simpleType name="hierDirection">
+                <xsd:restriction base="xsd:string">
+                    <xsd:enumeration value="parents"/>
+                    <xsd:enumeration value="children"/>
+                </xsd:restriction>
+            </xsd:simpleType>
+            <xsd:complexType name="attrsArray">
+                <xsd:sequence>
+                    <xsd:element
+                        maxOccurs="13"
+                        minOccurs="1"
+                        name="conceptAttribute"
+                        type="tns:conceptAttribute"/>
+                </xsd:sequence>
+            </xsd:complexType>
+        </xsd:schema>
+    </types>
+    <message name="fetchConceptsResponse">
+        <part name="results" type="tns:conceptArrayResponse"/>
+    </message>
+    <message name="searchForConceptsResponse">
+        <part name="results" type="tns:conceptArrayResponse"/>
+    </message>
+    <message name="fetchHierResponse">
+        <part name="results" type="tns:conceptArrayResponse"/>
+    </message>
+    <message name="searchForConceptsRequest">
+        <part name="termList" type="tns:termsArray"/>
+        <part name="level" type="xsd:integer"/>
+    </message>
+    <message name="echoResponse">
+        <part name="answer" type="xsd:string"/>
+    </message>
+    <message name="echoRequest">
+        <part name="question" type="xsd:string"/>
+    </message>
+    <message name="fetchConceptsRequest">
+        <part name="nameScopeList" type="tns:nameScopeArray"/>
+        <part name="attributes" type="tns:attrsArray"/>
+    </message>
+    <message name="fetchHierRequest">
+        <part name="nameScope" type="tns:nameScope"/>
+        <part name="level" type="xsd:integer"/>
+        <part name="direction" type="tns:hierDirection"/>
+    </message>
+    <portType name="ThesaurusPortType">
+        <operation name="echo" parameterOrder="question arg1">
+            <input message="tns:echoRequest"/>
+            <output message="tns:echoResponse"/>
+        </operation>
+        <operation name="searchForConcepts">
+            <input message="tns:searchForConceptsRequest"/>
+            <output message="tns:searchForConceptsResponse"/>
+        </operation>
+        <operation name="fetchConcepts">
+            <input message="tns:fetchConceptsRequest"/>
+            <output message="tns:fetchConceptsResponse"/>
+        </operation>
+        <operation name="fetchHier">
+            <input message="tns:fetchHierRequest"/>
+            <output message="tns:fetchHierResponse"/>
+        </operation>
+    </portType>
+    <binding name="ThesaurusBinding" type="tns:ThesaurusPortType">
+        <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <operation name="echo">
+            <soap:operation soapAction="capeconnect:Thesaurus:ThesaurusPortType#echo"/>
+            <input>
+                <soap:body encodingStyle="" use="literal"/>
+            </input>
+            <output>
+                <soap:body encodingStyle="" use="literal"/>
+            </output>
+        </operation>
+        <operation name="searchForConcepts">
+            <soap:operation
+                soapAction="capeconnect:Thesaurus:ThesaurusPortType#searchForConcepts"/>
+            <input>
+                <soap:body encodingStyle="" use="literal"/>
+            </input>
+            <output>
+                <soap:body encodingStyle="" use="literal"/>
+            </output>
+        </operation>
+        <operation name="fetchConcepts">
+            <soap:operation
+                soapAction="capeconnect:Thesaurus:ThesaurusPortType#fetchConcepts"/>
+            <input>
+                <soap:body encodingStyle="" use="literal"/>
+            </input>
+            <output>
+                <soap:body encodingStyle="" use="literal"/>
+            </output>
+        </operation>
+        <operation name="fetchHier">
+            <soap:operation soapAction="capeconnect:Thesaurus:ThesaurusPortType#fetchHier"/>
+            <input>
+                <soap:body encodingStyle="" use="literal"/>
+            </input>
+            <output>
+                <soap:body encodingStyle="" use="literal"/>
+            </output>
+        </operation>
+    </binding>
+    <service name="Thesaurus">
+        <port binding="tns:ThesaurusBinding" name="ThesaurusPort">
+            <soap:address location="http://laurel.nal.usda.gov:9090/Thesaurus/thesaurus"/>
+        </port>
+    </service>
+</definitions>

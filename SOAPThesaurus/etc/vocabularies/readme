@@ -1,0 +1,49 @@
+The vocabulary file is expected to be in the following form:
+
+  term TAB relation TAB term
+
+That is to say, there are three fields separated by the TAB character.
+Here's an example:
+
+agricultural management	NT	crop management
+
+You can read that line as saying "crop management" is a narrower
+term of "agricultural management"
+
+The relations supported are:
+
+
+BT  - broader term
+NT  - narrower term
+RT  - related term
+DF  - definition
+SN  - scope note
+UF  - use for
+UFA - use for and type
+USA - use and type
+USE - use
+
+the following relations are also supported:
+
+CT  - category
+CN  - contained within a category
+
+The NAL Thesaurus also includes the idea of categories: all terms
+are grouped into one of 17 top-level categories. If a term does not
+have a broader term associated with it, but instead, has a category
+immediately "above" it, then you'll see the category on the right
+hand side of a CT relation:
+
+  apiculture	CT	Insects and Entomology
+
+"Insects and Entomology" is a category, "apiculture" is a term within
+that category.
+
+Conversely:
+
+Insects and Entomology	CN	apiculture
+
+which says "apiculture" is contained within the "Insects and Entomology"
+category.
+
+See http://agclass.nal.usda.gov for more details.

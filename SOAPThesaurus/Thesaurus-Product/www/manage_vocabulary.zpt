@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>Configure Thesaurus Web Services System</title>
+  </head>
+  <body>
+    <h1 tal:replace="structure here/manage_page_header">manage page header</h1>
+    <h1 tal:replace="structure here/manage_tabs">manage tabs</h1>
+  
+    <h4>Add/replace the thesaurus vocabulary and add/replace the schema</h4>
+    <hr />
+    <form action="loadSource" tal:define="P python:here.getProperties();">
+
+    <table border="0" width="100%">
+      <tr><td align="right">Source file:</td>
+          <td><input type="text" name="sourcefile" size="40" tal:attributes="value python:P['defaultSourceFile']" /></td>
+      </tr>
+      <tr><td colspan="2">&nbsp;</td></tr>
+      <tr><td align="right">Schema file:</td>
+          <td><input type="text" name="schemafile" size="40" tal:attributes="value python:P['schema']" /></td>
+      </tr>
+      <tr>
+          <td colspan="2" align="center"><input type="submit" value="Load" name="loadThis" /></td>
+      </tr>
+    </table>
+    </form>
+
+    <p>Any previously loaded vocabulary will be over-written by the new vocabulary. The new vocabulary does <b>not</b> supplement an existing one.</p>
+
+    <p>Normally, the loading of a new vocabulary is initiated by a system
+       cron process.  If you would like to disable this functionality:</p>
+       <ul><li>Visit the Thesaurus Folder of the ZMI (Zope management interface)</li>
+           <li>Choose the Properties tab of the 'thesaurus' object (not  the Thesaurus folder!)</li>
+           <li>UnCheck the loadOnCron box to turn off automatic updating by the cron facility</li>
+       </ul>
+
+    <h1 tal:replace="structure here/manage_page_footer">manage page footer</h1>
+  </body>
+</html>

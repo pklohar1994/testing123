@@ -1,0 +1,13 @@
+Manifest:
+
+
+HTTPRequest.py  - includes support for SOAPpy
+soap.py         - needed for SOAPpy
+
+   drop both HTTPRequest.py and soap.py into lib/python/ZPublisher. Make a
+   copy of your original HTTPRequest.py before dropping in this replacement.
+
+setProperty     - just the function, not the entire file.
+
+   edit lib/python/OFS/PropertyManager.py and replace the _setProperty function
+   with this one.
