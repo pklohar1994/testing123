@@ -1,0 +1,72 @@
+<!ELEMENT cds-thes2  (thesaurus* )>
+
+<!ELEMENT thesaurus  (thesaurus-name , url? , language+ )>
+<!ATTLIST thesaurus  thes-id CDATA     '1'
+                     a-dtype NMTOKENS  'thes-id int' >
+<!ELEMENT thesaurus-name  (#PCDATA )>
+
+<!ELEMENT url  (#PCDATA )>
+
+<!ELEMENT distribution-media  (#PCDATA )>
+
+<!ELEMENT language  (language-name? , theme* , super-group* , descriptor+ )>
+<!ATTLIST language  lang-id     NMTOKEN  'ENG'
+                    lang-coding CDATA    'unicode' >
+<!ELEMENT language-name  (#PCDATA )>
+
+<!ELEMENT theme  (#PCDATA )>
+<!ATTLIST theme  theme-id CDATA     #IMPLIED
+                 accronym NMTOKEN   'THM'
+                 a-dtype  NMTOKENS  'theme-id int' >
+<!ELEMENT super-group  (super-group-name )>
+<!ATTLIST super-group  super-group-id CDATA     '0'
+                       accronym       NMTOKEN   'SGRP'
+                       a-dtype        NMTOKENS  'super-group-id int' >
+<!ELEMENT super-group-name  (#PCDATA )>
+
+<!ELEMENT group  (#PCDATA )>
+<!ATTLIST group  group-id       CDATA     #IMPLIED
+                 accronym       NMTOKEN   'GRP'
+                 super-group-id CDATA     '0'
+                 a-dtype        NMTOKENS  'group-id       int
+                                           super-group-id int' >
+<!ELEMENT descriptor  (descriptor-term , scope-note? , definition? , original-identifier* , broader-term* , narrower-term* , synonym* , theme* , group* )>
+
+<!ELEMENT descriptor-term  (#PCDATA )>
+<!ATTLIST descriptor-term  desc-id   CDATA     '0'
+                           top       CDATA     '0'
+                           desc-type CDATA     #IMPLIED
+                           a-dtype   NMTOKENS  'desc-id int
+                                                top     int' >
+<!ELEMENT synonym  (synonym-term , scope-note? , definition? , original-identifier* )>
+
+<!ELEMENT synonym-term  (#PCDATA )>
+<!ATTLIST synonym-term  desc-id      CDATA     '0'
+                        top          CDATA     '0'
+                        synonym-type CDATA     #IMPLIED
+                        a-dtype      NMTOKENS  'desc-id int
+                                                top     int' >
+<!ELEMENT scope-note  (#PCDATA )>
+
+<!ELEMENT definition  (#PCDATA )>
+
+<!ELEMENT original-identifier  (thesaurus-name , descriptor-identifier )>
+
+<!ELEMENT descriptor-identifier  (#PCDATA )>
+
+<!ELEMENT descriptor-synonym EMPTY>
+<!ATTLIST descriptor-synonym  desc-ref-id     CDATA     #IMPLIED
+                              syn-desc-ref-id CDATA     #IMPLIED
+                              a-dtype         NMTOKENS  'desc-ref-id     int
+                                                         syn-desc-ref-id int' >
+<!ELEMENT descriptor-related EMPTY>
+<!ATTLIST descriptor-related  desc-ref-id     CDATA     #IMPLIED
+                              rel-desc-ref-id CDATA     #IMPLIED
+                              a-dtype         NMTOKENS  'desc-ref-id     int
+                                                         rel-desc-ref-id int' >
+<!ELEMENT broader-term  (#PCDATA )>
+<!ATTLIST broader-term  desc-ref-id CDATA     #IMPLIED
+                        a-dtype     NMTOKENS  'desc-ref-id int' >
+<!ELEMENT narrower-term  (#PCDATA )>
+<!ATTLIST narrower-term  desc-ref-id CDATA     #IMPLIED
+                         a-dtype     NMTOKENS  'desc-ref-id int' >
