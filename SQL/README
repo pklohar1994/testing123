@@ -1,0 +1,6 @@
+These files are generated for the GimmeThesaurus product.
+
+The upd_20_06_2007_new_groups.sql and upd_20_06_2007_new_terms.sql are actually
+old terms taken out of GEMET around 2000. If we were to reintroduce them, the
+connection to Themes would have to be taken from Info2001/GemAlph.pdf, and
+the other translations from the Excel files.
