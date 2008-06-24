@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI" xmlns:impl="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI" xmlns:intf="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns1="http://www.w3.org/2001/sw/Europe/skos/namespace" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+ <wsdl:types>
+  <schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3.org/2001/sw/Europe/skos/namespace">
+   <import namespace="http://schemas.xmlsoap.org/soap/encoding/"/>
+   <complexType name="URI">
+    <sequence>
+     <element name="uri" nillable="true" type="xsd:string"/>
+    </sequence>
+   </complexType>
+   <complexType name="Concept">
+    <sequence>
+     <element name="uri" nillable="true" type="tns1:URI"/>
+     <element name="externalID" nillable="true" type="xsd:string"/>
+     <element name="preferredLabel" nillable="true" type="xsd:string"/>
+     <element name="nonPreferredLabels" nillable="true" type="xsd:string" maxOccurs="unbounded"/>
+     <element name="inScheme" nillable="true" type="tns1:URI"/>
+     <element name="scopeNote" nillable="true" type="xsd:string"/>
+     <element name="definition" nillable="true" type="xsd:string"/>
+     <element name="example" nillable="true" type="xsd:string"/>
+    </sequence>
+   </complexType>
+   <complexType name="Relation">
+    <sequence>
+     <element name="uri" nillable="true" type="tns1:URI"/>
+     <element name="description" nillable="true" type="xsd:string"/>
+     <element name="label" nillable="true" type="xsd:string"/>
+    </sequence>
+   </complexType>
+   <complexType name="ConceptRelatives">
+    <sequence>
+     <element name="distance" type="xsd:int"/>
+     <element name="concepts" nillable="true" type="tns1:Concept" maxOccurs="unbounded"/>
+     <element name="relation" nillable="true" type="tns1:Relation"/>
+    </sequence>
+   </complexType>
+  </schema>
+  <schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI">
+   <import namespace="http://schemas.xmlsoap.org/soap/encoding/"/>
+   <complexType name="ArrayOf_tns1_Concept">
+    <complexContent>
+     <restriction base="soapenc:Array">
+      <attribute ref="soapenc:arrayType" wsdl:arrayType="tns1:Concept[]"/>
+     </restriction>
+    </complexContent>
+   </complexType>
+   <complexType name="ArrayOf_tns1_Relation">
+    <complexContent>
+     <restriction base="soapenc:Array">
+      <attribute ref="soapenc:arrayType" wsdl:arrayType="tns1:Relation[]"/>
+     </restriction>
+    </complexContent>
+   </complexType>
+   <complexType name="ArrayOf_tns1_ConceptRelatives">
+    <complexContent>
+     <restriction base="soapenc:Array">
+      <attribute ref="soapenc:arrayType" wsdl:arrayType="tns1:ConceptRelatives[]"/>
+     </restriction>
+    </complexContent>
+   </complexType>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="getConceptsMatchingRegexRequest">
+
+      <wsdl:part name="in0" type="xsd:string"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptRelativesRequest">
+
+      <wsdl:part name="in0" type="tns1:Concept"/>
+
+      <wsdl:part name="in1" type="tns1:Relation"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptRelativesResponse">
+
+      <wsdl:part name="getConceptRelativesReturn" type="impl:ArrayOf_tns1_Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getAllConceptsByPathResponse">
+
+      <wsdl:part name="getAllConceptsByPathReturn" type="impl:ArrayOf_tns1_ConceptRelatives"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptResponse">
+
+      <wsdl:part name="getConceptReturn" type="tns1:Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getTopmostConceptsResponse">
+
+      <wsdl:part name="getTopmostConceptsReturn" type="impl:ArrayOf_tns1_Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getAllConceptsByPathRequest">
+
+      <wsdl:part name="in0" type="tns1:Concept"/>
+
+      <wsdl:part name="in1" type="tns1:Relation"/>
+
+      <wsdl:part name="in2" type="xsd:int"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptsMatchingKeywordResponse">
+
+      <wsdl:part name="getConceptsMatchingKeywordReturn" type="impl:ArrayOf_tns1_Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptsMatchingKeywordRequest">
+
+      <wsdl:part name="in0" type="xsd:string"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptsMatchingRegexResponse">
+
+      <wsdl:part name="getConceptsMatchingRegexReturn" type="impl:ArrayOf_tns1_Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptsMatchingKeywordByThesaurusResponse">
+
+      <wsdl:part name="getConceptsMatchingKeywordByThesaurusReturn" type="impl:ArrayOf_tns1_Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptRelativesByPathResponse">
+
+      <wsdl:part name="getConceptRelativesByPathReturn" type="impl:ArrayOf_tns1_ConceptRelatives"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getSupportedSemanticRelationsResponse">
+
+      <wsdl:part name="getSupportedSemanticRelationsReturn" type="impl:ArrayOf_tns1_Relation"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getTopmostConceptsRequest">
+
+      <wsdl:part name="in0" type="tns1:URI"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptByExternalIDResponse">
+
+      <wsdl:part name="getConceptByExternalIDReturn" type="tns1:Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptsMatchingKeywordByThesaurusRequest">
+
+      <wsdl:part name="in0" type="xsd:string"/>
+
+      <wsdl:part name="in1" type="tns1:URI"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptsMatchingRegexByThesaurusResponse">
+
+      <wsdl:part name="getConceptsMatchingRegexByThesaurusReturn" type="impl:ArrayOf_tns1_Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptByPreferredLabelResponse">
+
+      <wsdl:part name="getConceptByPreferredLabelReturn" type="tns1:Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptByExternalIDRequest">
+
+      <wsdl:part name="in0" type="xsd:string"/>
+
+      <wsdl:part name="in1" type="tns1:URI"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptByPreferredLabelRequest">
+
+      <wsdl:part name="in0" type="xsd:string"/>
+
+      <wsdl:part name="in1" type="tns1:URI"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptRelativesByThesaurusRequest">
+
+      <wsdl:part name="in0" type="tns1:Concept"/>
+
+      <wsdl:part name="in1" type="tns1:Relation"/>
+
+      <wsdl:part name="in2" type="tns1:URI"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptRelativesByThesaurusResponse">
+
+      <wsdl:part name="getConceptRelativesByThesaurusReturn" type="impl:ArrayOf_tns1_Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getTopConceptsRequest">
+
+      <wsdl:part name="in0" type="tns1:Concept"/>
+
+      <wsdl:part name="in1" type="tns1:URI"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptRelativesByPathRequest">
+
+      <wsdl:part name="in0" type="tns1:Concept"/>
+
+      <wsdl:part name="in1" type="tns1:Relation"/>
+
+      <wsdl:part name="in2" type="tns1:URI"/>
+
+      <wsdl:part name="in3" type="xsd:int"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getAllConceptRelativesByThesaurusResponse">
+
+      <wsdl:part name="getAllConceptRelativesByThesaurusReturn" type="impl:ArrayOf_tns1_Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getSupportedSemanticRelationsByThesaurusResponse">
+
+      <wsdl:part name="getSupportedSemanticRelationsByThesaurusReturn" type="impl:ArrayOf_tns1_Relation"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getSupportedSemanticRelationsByThesaurusRequest">
+
+      <wsdl:part name="in0" type="tns1:URI"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getAllConceptRelativesResponse">
+
+      <wsdl:part name="getAllConceptRelativesReturn" type="impl:ArrayOf_tns1_Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getAllConceptRelativesRequest">
+
+      <wsdl:part name="in0" type="tns1:Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getTopConceptsResponse">
+
+      <wsdl:part name="getTopConceptsReturn" type="impl:ArrayOf_tns1_Concept"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getSupportedSemanticRelationsRequest">
+
+   </wsdl:message>
+
+   <wsdl:message name="getAllConceptRelativesByThesaurusRequest">
+
+      <wsdl:part name="in0" type="tns1:Concept"/>
+
+      <wsdl:part name="in1" type="tns1:URI"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptsMatchingRegexByThesaurusRequest">
+
+      <wsdl:part name="in0" type="xsd:string"/>
+
+      <wsdl:part name="in1" type="tns1:URI"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getConceptRequest">
+
+      <wsdl:part name="in0" type="tns1:URI"/>
+
+   </wsdl:message>
+
+   <wsdl:portType name="SKOSThesaurus">
+
+      <wsdl:operation name="getConcept" parameterOrder="in0">
+
+         <wsdl:input name="getConceptRequest" message="impl:getConceptRequest"/>
+
+         <wsdl:output name="getConceptResponse" message="impl:getConceptResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptsMatchingKeyword" parameterOrder="in0">
+
+         <wsdl:input name="getConceptsMatchingKeywordRequest" message="impl:getConceptsMatchingKeywordRequest"/>
+
+         <wsdl:output name="getConceptsMatchingKeywordResponse" message="impl:getConceptsMatchingKeywordResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptsMatchingRegex" parameterOrder="in0">
+
+         <wsdl:input name="getConceptsMatchingRegexRequest" message="impl:getConceptsMatchingRegexRequest"/>
+
+         <wsdl:output name="getConceptsMatchingRegexResponse" message="impl:getConceptsMatchingRegexResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getSupportedSemanticRelations">
+
+         <wsdl:input name="getSupportedSemanticRelationsRequest" message="impl:getSupportedSemanticRelationsRequest"/>
+
+         <wsdl:output name="getSupportedSemanticRelationsResponse" message="impl:getSupportedSemanticRelationsResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptRelatives" parameterOrder="in0 in1">
+
+         <wsdl:input name="getConceptRelativesRequest" message="impl:getConceptRelativesRequest"/>
+
+         <wsdl:output name="getConceptRelativesResponse" message="impl:getConceptRelativesResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getAllConceptRelatives" parameterOrder="in0">
+
+         <wsdl:input name="getAllConceptRelativesRequest" message="impl:getAllConceptRelativesRequest"/>
+
+         <wsdl:output name="getAllConceptRelativesResponse" message="impl:getAllConceptRelativesResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getTopmostConcepts" parameterOrder="in0">
+
+         <wsdl:input name="getTopmostConceptsRequest" message="impl:getTopmostConceptsRequest"/>
+
+         <wsdl:output name="getTopmostConceptsResponse" message="impl:getTopmostConceptsResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getTopConcepts" parameterOrder="in0 in1">
+
+         <wsdl:input name="getTopConceptsRequest" message="impl:getTopConceptsRequest"/>
+
+         <wsdl:output name="getTopConceptsResponse" message="impl:getTopConceptsResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptByPreferredLabel" parameterOrder="in0 in1">
+
+         <wsdl:input name="getConceptByPreferredLabelRequest" message="impl:getConceptByPreferredLabelRequest"/>
+
+         <wsdl:output name="getConceptByPreferredLabelResponse" message="impl:getConceptByPreferredLabelResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptByExternalID" parameterOrder="in0 in1">
+
+         <wsdl:input name="getConceptByExternalIDRequest" message="impl:getConceptByExternalIDRequest"/>
+
+         <wsdl:output name="getConceptByExternalIDResponse" message="impl:getConceptByExternalIDResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptsMatchingKeywordByThesaurus" parameterOrder="in0 in1">
+
+         <wsdl:input name="getConceptsMatchingKeywordByThesaurusRequest" message="impl:getConceptsMatchingKeywordByThesaurusRequest"/>
+
+         <wsdl:output name="getConceptsMatchingKeywordByThesaurusResponse" message="impl:getConceptsMatchingKeywordByThesaurusResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptsMatchingRegexByThesaurus" parameterOrder="in0 in1">
+
+         <wsdl:input name="getConceptsMatchingRegexByThesaurusRequest" message="impl:getConceptsMatchingRegexByThesaurusRequest"/>
+
+         <wsdl:output name="getConceptsMatchingRegexByThesaurusResponse" message="impl:getConceptsMatchingRegexByThesaurusResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getSupportedSemanticRelationsByThesaurus" parameterOrder="in0">
+
+         <wsdl:input name="getSupportedSemanticRelationsByThesaurusRequest" message="impl:getSupportedSemanticRelationsByThesaurusRequest"/>
+
+         <wsdl:output name="getSupportedSemanticRelationsByThesaurusResponse" message="impl:getSupportedSemanticRelationsByThesaurusResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptRelativesByThesaurus" parameterOrder="in0 in1 in2">
+
+         <wsdl:input name="getConceptRelativesByThesaurusRequest" message="impl:getConceptRelativesByThesaurusRequest"/>
+
+         <wsdl:output name="getConceptRelativesByThesaurusResponse" message="impl:getConceptRelativesByThesaurusResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getAllConceptRelativesByThesaurus" parameterOrder="in0 in1">
+
+         <wsdl:input name="getAllConceptRelativesByThesaurusRequest" message="impl:getAllConceptRelativesByThesaurusRequest"/>
+
+         <wsdl:output name="getAllConceptRelativesByThesaurusResponse" message="impl:getAllConceptRelativesByThesaurusResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptRelativesByPath" parameterOrder="in0 in1 in2 in3">
+
+         <wsdl:input name="getConceptRelativesByPathRequest" message="impl:getConceptRelativesByPathRequest"/>
+
+         <wsdl:output name="getConceptRelativesByPathResponse" message="impl:getConceptRelativesByPathResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getAllConceptsByPath" parameterOrder="in0 in1 in2">
+
+         <wsdl:input name="getAllConceptsByPathRequest" message="impl:getAllConceptsByPathRequest"/>
+
+         <wsdl:output name="getAllConceptsByPathResponse" message="impl:getAllConceptsByPathResponse"/>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="SKOSThesaurusServiceSoapBinding" type="impl:SKOSThesaurus">
+
+      <wsdlsoap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="getConcept">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getConceptRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getConceptResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptsMatchingKeyword">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getConceptsMatchingKeywordRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getConceptsMatchingKeywordResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptsMatchingRegex">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getConceptsMatchingRegexRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getConceptsMatchingRegexResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getSupportedSemanticRelations">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getSupportedSemanticRelationsRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getSupportedSemanticRelationsResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptRelatives">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getConceptRelativesRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getConceptRelativesResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getAllConceptRelatives">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getAllConceptRelativesRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getAllConceptRelativesResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getTopmostConcepts">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getTopmostConceptsRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getTopmostConceptsResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getTopConcepts">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getTopConceptsRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getTopConceptsResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptByPreferredLabel">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getConceptByPreferredLabelRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getConceptByPreferredLabelResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptByExternalID">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getConceptByExternalIDRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getConceptByExternalIDResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptsMatchingKeywordByThesaurus">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getConceptsMatchingKeywordByThesaurusRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getConceptsMatchingKeywordByThesaurusResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptsMatchingRegexByThesaurus">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getConceptsMatchingRegexByThesaurusRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getConceptsMatchingRegexByThesaurusResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getSupportedSemanticRelationsByThesaurus">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getSupportedSemanticRelationsByThesaurusRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getSupportedSemanticRelationsByThesaurusResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptRelativesByThesaurus">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getConceptRelativesByThesaurusRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getConceptRelativesByThesaurusResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getAllConceptRelativesByThesaurus">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getAllConceptRelativesByThesaurusRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getAllConceptRelativesByThesaurusResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getConceptRelativesByPath">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getConceptRelativesByPathRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getConceptRelativesByPathResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getAllConceptsByPath">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getAllConceptsByPathRequest">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getAllConceptsByPathResponse">
+
+            <wsdlsoap:body use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://www.w3.org/2001/sw/Europe/skos/ServiceAPI"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="SKOSThesaurusService">
+
+      <wsdl:port name="SKOSThesaurusService" binding="impl:SKOSThesaurusServiceSoapBinding">
+
+         <wsdlsoap:address location="http://thes.ilrt.bris.ac.uk/SKOSThesaurusService"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>
