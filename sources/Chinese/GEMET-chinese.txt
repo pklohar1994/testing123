@@ -17,11 +17,11 @@ Chinese Term:非生物环境
 Translation: 环境中无生命成分（例如岩石、矿物质、土地、水和气候）。
 
 
-Code: 11
-English Term: abiotic environment
-Definition: The non-living components of the environment (rocks, minerals, soil, water and climate).&#10;(Source: WRIGHT)
-Chinese Term: 非生物环境
-Translation: 环境中无生命成分（例如岩石、矿物质、土地、水和气候）。
+#Code: 11
+#English Term: abiotic environment
+#Definition: The non-living components of the environment (rocks, minerals, soil, water and climate).&#10;(Source: WRIGHT)
+#Chinese Term: 非生物环境
+#Translation: 环境中无生命成分（例如岩石、矿物质、土地、水和气候）。
 
 Code: 13
 English Term: absorption (exposure)
@@ -30,11 +30,11 @@ Chinese Term:吸收（暴露）
 Translation:细胞或者组织对于液体或者其他物质的摄入
 
 
-Code: 91
-English Term: acceptable daily intake
-Definition: The taking in of fluids or other substances by cells or tissues.&#10;(Source: LANDY)
-Chinese Term: 每日允许摄入量
-Translation:细胞或者其他组织对液体或者其他物质的吸收
+#Code: 91
+#English Term: acceptable daily intake
+#Definition: The taking in of fluids or other substances by cells or tissues.&#10;(Source: LANDY)
+#Chinese Term: 每日允许摄入量
+#Translation:细胞或者其他组织对液体或者其他物质的吸收
 
 Code: 91
 English Term: acceptable daily intake
@@ -2881,7 +2881,7 @@ Chinese Term: 生物生产
 Translation: 1）在一个特定的生态系统发生在一个特定时期的生产的数量和速率。它可以适用于一个单一的有机体，一个物群，或整个社区和生态系统。&#10;2）在一段特定时期累计的有机物质的数量，或者它在干物重、碳或者能量含量方面的等价物的数量。
 
 
-Code: 7137?
+Code: 7137
 English Term: biological reserve
 Definition: An area of land and/or of water designated as having protected status for purposes of preserving certain biological features. Reserves are managed primarily to safeguard these features and provide opportunities for research into the problems underlying the management of natural sites and of vegetation and animal populations. Regulations are normally imposed controlling public access and disturbance.&#10;(Source: GOOD)
 Chinese Term: 生物保护区
@@ -9191,11 +9191,11 @@ Chinese Term:   电子信息网络
 Translation:   连接相关的电脑和通信设备，以允许数字数据或类比信号交换的系统。
 
 
-Code:   14868
-English Term:   bulletin board system
-Definition:    An assemblage of computer hardware and software that can be linked by computer modem dialing for the purpose of sharing or exchanging messages or other files.&#10;(Source: WIC)
-Chinese Term:  公告栏系统
-Translation:   通过调制解调器连接电脑软硬件的结合，将消息或者资料进行分享与交流。
+#Code:   14868
+#English Term:   bulletin board system
+#Definition:    An assemblage of computer hardware and software that can be linked by computer modem dialing for the purpose of sharing or exchanging messages or other files.&#10;(Source: WIC)
+#Chinese Term:  公告栏系统
+#Translation:   通过调制解调器连接电脑软硬件的结合，将消息或者资料进行分享与交流。
 
 
 Code:   2623
@@ -12303,7 +12303,6 @@ Definition: Forests produce a range of products including firewood and charcoal,
 Chinese Term: 林业生产
 Translation: 森林产出许多种产品，包括木柴和木炭、木材、纸张和作物如咖啡、棕榈油、橡胶。如果仔细规划生长和收获，木材和其他森林产品理论上说是可再生资源。但是，实现可再生需要时间，通常是几十年，有时几个世纪。没有经过细致的管理，短期开采的压力可能造成树木的移除、土壤退化、林地改造。森林资源的消耗会导致诸多环境问题以及重要物种栖息地和物种的丧失。
 
-Code: 10706
 English Term: forest protection
 Definition: Branch of forestry concerned with the prevention and control of damage to forests arising from the action of people or livestock, of pests and abiotic agents.  &#10;(Source: DUNSTE)
 Chinese Term: 森林保护
@@ -12326,56 +12325,6 @@ English Term: forest resource assessment
 Definition:
 Chinese Term: 森林资源评估
 Translation:
-
-
-Code: 3439
-English Term: forestry
-Definition: The management of forest lands for wood, forages, water, wildlife, and recreation.  &#10;(Source: MGH)
-Chinese Term: 林业
-Translation: 为从森林获取木材，饲料，水，野生动物，和娱乐休闲设施而对森林进行的管理。
-
-Code: 3440
-English Term: forestry economics
-Definition: The production, distribution, and consumption of goods and services from the industry involved with the process of establishing and managing forests.
-Chinese Term:
-Translation: 由政府或其他组织采取的行动方针，旨在保存和保护大片的林区，同时产生产品和收益，例如木材，野生动物栖息地，清洁水，生物多样性和娱乐休闲。
-
-Code: 3432
-English Term: forest product
-Definition: Any material afforded by a forest for commercial use, such as tree products and forage.  &#10;(Source: MGH)
-Chinese Term: 森林产品
-Translation: 任何由森林提供的商业产品，如树木产品和饲料。
-
-Code: 3431
-English Term: forest production
-Definition: Forests produce a range of products including firewood and charcoal, lumber, paper, and crops such as coffee, oil palm, and rubber. With careful planning of growth and harvesting, wood and other forest products are, in principle, renewable resources. But achieving renewability takes time - often decades, sometimes centuries. Without careful management, pressure for short-term exploitation can lead to tree removal, soil degradation, and conversion of woodland to other uses. Consumption of forest resources can lead to environmental problems as well as loss of critical habitat and species.  &#10;(Source: WRES)
-Chinese Term: 林业生产
-Translation: 森林产出许多种产品，包括木柴和木炭，木材，纸张和作物如咖啡，棕榈油，橡胶。如果仔细规划生长和收获，木材和其他森林产品理论上说是可再生资源。但是，实现可再生需要时间，通常是几十年，有时几个世纪。没有经过细致的管理，短期开采的压力可能造成树木的移除，土壤退化，林地改造。森林资源的消耗会导致诸多环境问题以及重要物种栖息地和物种的丧失。
-
-Code: 10706
-English Term: forest protection
-Definition: Branch of forestry concerned with the prevention and control of damage to forests arising from the action of people or livestock, of pests and abiotic agents.  &#10;(Source: DUNSTE)
-Chinese Term: 森林保护
-Translation: 与森林预防与控制损害相关的林业科。损害的原因是人或牲畜，害虫和非生物制剂的活动。是一门关于预防与控制由人或牲畜、害虫、非生物制剂等因素而造成森林损害的林业科。
-
-Code: 3435
-English Term: forest reserve
-Definition: Forest area set aside for the purpose of protecting certain fauna and flora, or both.  &#10;(Source: GILP96)
-Chinese Term: 森林保护区
-Translation: 保护森林区域，目的是保护某些动物和植物，或两者兼而有之。为了保护某些动物、植物，或两者兼而有之而预留的森林区域。
-
-Code: 3438
-English Term: forest resource
-Definition: Forest resources consist of two separate but closely related parts: the forest land and the trees (timber) on that land.  &#10;(Source: PARCOR)
-Chinese Term: 森林资源
-Translation: 森林资源包括两个独立但又密切相关的部分：林地和林地上的树木（木材）。
-
-Code: 3437
-English Term: forest resource assessment
-Definition:
-Chinese Term: 森林资源评估
-Translation:
-
 
 Code: 3439
 English Term: forestry
@@ -13134,7 +13083,7 @@ Definition: The transformation to digital form of data collected by remote sensi
 Chinese Term: 地理信息系统数字技术
 Translation: 对由遥感，传统领域和文件的方法和现有的历史数据,如纸张地图，图表和出版物等收集的数据以数字形式转变。对由遥感技术收集的数据、传统领域和文件方式（存储）的数据以及现有的历史数据，如纸张地图，图表和出版物等，向数字形式进行转变的技术。
 
-Code:1 4939
+Code:14939
 English Term: GIS laboratory
 Definition: A laboratory where GIS data drawn from different sources are stored, handled, analyzed and updated.&#10;(Source: GILP96a)
 Chinese Term:地理信息系统实验室
@@ -13490,7 +13439,7 @@ Chinese Term: 地下水水质
 Translation: 地下水占地球可用淡水资源的95％；超过半数的地球人口依靠地下水作为饮用水源。这种看不见的资源容易受到污染和过度开采，为有效节约地下水资源，必须整合土地使用和水资源管理。(来源: GILP96)
 
 Code: 3788
-English Term: group behavior
+English Term: group behaviour
 Definition: An observable pattern of activity displayed by persons in and as an aggregate.&#10;(Source: RHW)
 Chinese Term: 群体行为
 Translation: 一个群体内的多人或一整个群体所展现出来的行为模式。 (来源: RHW)
@@ -14147,7 +14096,7 @@ Chinese Term:住宅需求
 Translation:
 
 Code: 4037
-English Term: housing program
+English Term: housing programme
 Definition: A planned system of projects, services or activities intended to support individuals or families in need of shelter, including transitional or permanent housing and safe havens for low-income, elderly or homeless populations.&#10;(Source: HUD)
 Chinese Term: 居住供给方案
 Translation: 专案、服务和活动的计划性系统，目的是向有庇护需要的个人或家庭提供支援，包括低收入家庭、老年人和无家可归人员提供临时的和永久的住房以及安全的庇护所。(来源: HUD)
@@ -14273,7 +14222,7 @@ Chinese Term: 狩猎
 Translation: 对野外动物进行追捕与捕杀或者俘获，被认为是一种运动。(来源: CED)
 
 Code: 11502
-English Term: hunting license
+English Term: hunting licence
 Definition: Official permission granted to individuals or commercial enterprises allowing and regulating by time, location, species, size or amount the wild animals or game that can be killed and taken from lands within a particular jurisdiction.&#10;(Source: RHW)
 Chinese Term: 狩猎证
 Translation: 核发给个人或商务企业的官方许可﹐该许可容许并规定﹐在某些特殊司法管辖权下的土地上﹐可宰杀及捕获野生动物的时间、地点、种类、大小或数量。(根源: RHW)
@@ -15427,7 +15376,7 @@ Chinese Term: 监督部门
 Translation: 由社会某一部门或另一团体，用来调查、监督和评价人员以及一些机构和部门的工作，或对法律和法规的遵守情况的组织。(来源:OED)
 
 Code: 5885
-English Term: installation optimization
+English Term: installation optimisation
 Definition: Adjustments made to a building or to a mechanical or electrical system or apparatus in order to maximize its functionality and efficiency.&#10;(Source: OED)
 Chinese Term: 装备最优化
 Translation: 为了使建筑物、机械、电子系统或者设备到达最大功率和效率而做的调整。(来源: OED)
@@ -15711,7 +15660,7 @@ Chinese Term: 国际环境关系
 Translation: 关于生态保护的政治或外交活动或独立国家之间的往来。
 
 Code: 4429
-English Term: international harmonization
+English Term: international harmonisation
 Definition: Harmonisation of the interrelationship of sovereign states by the application of general principles recognized by civilized nations.&#10;(Source: DICLAWa)
 Chinese Term: 国际协调
 Translation: 通过实施由文明国家所认可的一般原则来调协主权国家的相互关系。
@@ -15729,7 +15678,7 @@ Chinese Term: 国际货币基金会
 Translation: 国际组织，成立于1944年，隶属于联合国，为促进国家货币汇率的一个国际银行，并为成员国提供银行贷款。同时其也评价世界各国的经济表现。
 
 Code: 4434
-English Term: international organization
+English Term: international organisation
 Definition: An association of independent states, whose representatives gather for the promotion of common interests including defense and trade.&#10;(Source: GT2)
 Chinese Term: 国际组织
 Translation: 独立的国家选派各自的代表为促进包括国防和贸易在内的共同利益而进行会晤的联盟。
@@ -19576,9 +19525,9 @@ Definition: A discussion group on a specific topic maintained on a computer netw
 Chinese Term: 新闻组
 Translation: 一个维护在计算机网络上具有特定主题的讨论组，经常出现在互联网上。
 
-Code:  14873 (Source: CED)
+Code:  14873
 English Term: newsletter
-Definition: A printed periodical bulletin circulated to members of a group.
+Definition: A printed periodical bulletin circulated to members of a group.  (Source: CED)
 Chinese Term: 时事通讯
 Translation: 分发给一组成员的定期印制的新闻简报。
 
@@ -20582,8 +20531,8 @@ Chinese Term: 橄榄油厂废水
 Translation: 橄榄油提取过程中产生的水性残留物，它是由橄榄混合水组成，水用于提取和洗涤的过程。它也含有一定比例的矿物成分，及仅部分是可生物降解的有机物质。
 
 Code:  5869
-English Term: onchocerciasis Infection with the filaria
-Definition: Onchocerca volvulus; results in skin tumours, papular dermatitis, and ocular complications.(Source: MGH)
+English Term: onchocerciasis
+Definition: Infection with the filaria Onchocerca volvulus; results in skin tumours, papular dermatitis, and ocular complications.(Source: MGH)
 Chinese Term: 盘尾丝虫感染
 Translation: 盘尾丝虫；导致皮肤肿瘤、丘疹性皮炎和眼部并发症。
 
@@ -20594,7 +20543,7 @@ Chinese Term: 肿瘤学
 Translation: 肿瘤的的起因、发展、特征和治疗的研究。
 
 
-Code:  14940 S
+Code:  14940
 English Term: on-line service
 Definition: Service providing an active connection with a communications network.(Source: DBMDE)
 Chinese Term: 在线服务
@@ -20725,17 +20674,6 @@ English Term: organic solvent
 Definition: Organic materials, including diluents and thinners, which are liquids at standard conditions and which are used as dissolvers, viscosity reducers, or cleaning agents.(Source: LEE)
 Chinese Term: 有机溶剂
 Translation: 有机材料，包括稀释剂和冲淡剂，它在标准条件是液体并被用作溶解装置、粘度还原剂或清洗剂。
-
-
-
-
-
-
-
-
-
-
-
 
 Code: 7668
 English Term: shooting range
@@ -22340,7 +22278,7 @@ Chinese Term: 钢铁行业
 Translation:涉及铁处理的产业。
 
 Code: 13183
-English Term: sterilisation
+English Term: sterilisation (biological)
 Definition: Procedure by which a human or other animal is made incapable of reproduction.
 Chinese Term: 绝育
 Translation:使得一个人或动物丧失生殖能力的手术。
@@ -23758,7 +23696,7 @@ Definition:Test for the determination of the inherent toxicity of a chemical.
 Chinese Term:毒理试验
 Translation:为决定一种化学品的固有毒性而做的试验
 
-Code: 8542
+Code: 8543
 English Term: toxicology
 Definition:A science that deals with poisons, their actions, their detection, and the treatment of the conditions they produce.
 Chinese Term:毒理学
@@ -24122,12 +24060,6 @@ English Term: trapping
 Definition: To catch an animal in a mechanical device or enclosed place or pit. (Source: CED)
 Chinese Term: 诱捕
 Translation:在机械设备中或封闭的地方、或陷阱中来捕杀动物。
-
-Code:8658
-English Term: travel
-Definition: Moving from one place to another generally by using a transportation mean. (Source: RRDA)
-Chinese Term: 旅行
-Translation:通常通过交通工具从一个地方移动到另一个地方。
 
 Code:8658
 English Term: travel
@@ -24886,7 +24818,7 @@ Definition: 1) The plants of an area considered in general or as communities, bu
 Chinese Term: 植被
 Translation:1）一个地区总体的或群落的植物，但未被分类的；覆盖在某一特定地区或整个地球的所有植物。2）占据某一区域的植物体的总称。
 
-Code: 8909
+Code: 8908
 English Term: vegetation cover
 Definition: Number of plants growing on a certain area of land. (Source: PHC)
 Chinese Term: 植被覆盖
@@ -25097,7 +25029,7 @@ Chinese Term: 硫化
 Translation:硫（或其他硫化剂）与橡胶或塑料反应导致聚合物链交叉联接的一种化学反应；它增加聚合物的强度和弹性。
 
 Code: 9015
-English Term: vulnerable species (IUCN)
+English Term: vulnerable species  (IUCN)
 Definition: Species which is likely to become endangered unless protective measures are taken. (Source: PHC)
 Chinese Term: 脆弱的物种(IUCN)
 Translation:不采取保护性措施有可能变为濒危的物种。
@@ -26337,7 +26269,7 @@ Definition:Power station which uses wind to drive a turbine which creates electr
 Chinese Term: 风力发电站
 Translation: 利用风驱动涡轮机来发电的电站。
 
-Code: 10068
+Code: 10685
 English Term: windfall
 Definition:1) Falling of old trees in a forest caused by a storm or strong wind. It plays an important role in the spontaneous regeneration of forest ecosystems. 2) A plot of land covered with trees blown down by the wind. (Source: RAMADE / CED)
 Chinese Term:风倒区
@@ -29455,18 +29387,6 @@ Definition: An unexpected incident, failure or loss involving a vessel or its co
 Chinese Term: 运输事故
 Translation: 在商业运输中车辆或货物发生的事故、失误或损失。这可能会引起对人、财产或环境的危害。
 
-Code:11644
-English Term:organic pollution
-Definition:Pollution caused by animal or plant material derived from living and dead organisms that may contain pathogenic bacteria and negatively influences the environment.&#10;(Source: GILP96a)
-Chinese Term: 有机污染
-Translation: 动物或植物机体对环境造成的污染，其产生的致病性细菌会破坏环境。
-
-Code:5910
-English Term:organic solvent
-Definition:Organic materials, including diluents and thinners, which are liquids at standard conditions and which are used as dissolvers, viscosity reducers, or cleaning agents.&#10;(Source: LEE)
-Chinese Term: 有机溶剂
-Translation: 一种液体有机材料，包括稀释剂，黏度还原剂或者洗涤剂。
-
 Code:5912
 English Term:organic substance
 Definition:Chemical compounds, based on carbon chains or rings and also containing hydrogen with or without oxygen, nitrogen, or other elements.&#10;(Source: MGH)
@@ -29917,7 +29837,7 @@ Definition:The conveyance of people over land, water or through air by automobil
 Translation: 运输人的汽车、公共汽车、火车、飞机或其它的旅行方式。
 
 Code:6062
-English Term:paste-like waste paste-like
+English Term:paste-like waste
 Chinese Term: 浆状废物
 Definition:Waste deriving from various activities having a pasty consistency.&#10;(Source: RRDA)
 Translation: 来源于各种活动的废料，且具有浆状属性。
@@ -30075,7 +29995,7 @@ Definition:A plant or animal organism which is attached or clings to surfaces of
 Translation: 一种植物或动物附着于茎叶和根植物的表面。
 
 Code:11309
-English Term:periurban space periurban
+English Term:periurban space
 Chinese Term: 城郊空间
 Definition:Any expanse of land or region located on the outskirts of a city or town.&#10;(Source: RHW)
 Translation: 位于市郊的城市或小镇，有着一望无垠的土地。
@@ -31079,13 +30999,13 @@ Definition:The act or process in which polluting agents are created, produced or
 Translation:污染代理创建、产生或形成的过程。
 
 Code:6417
-English Term:pollutant immission immission
+English Term:pollutant immission
 Chinese Term:污染物释入
 Definition:The transfer of solid, liquid, or gaseous contaminants in the air, water, and soil.&#10;(Source: DIFIDa)
 Translation:固体、液体或者气体污染物进入空气、水和土壤。
 
 Code:6418
-English Term:pollutant immobilisation immobilisation
+English Term:pollutant immobilisation
 Chinese Term:污染物停止流通
 Definition:The treatment process used to reduce the solubility of pollutants in order to minimize possible migration or leaching or to prepare for their disposal.&#10;(Source: FFD)
 Translation:在处理过程中用来减少污染物的溶解性，为了减少污染物可能的迁移或为处理做准备。
@@ -31131,7 +31051,7 @@ Definition:All measures aimed at reducing pollutants often through physical or c
 Translation:所有旨在减少污染物的措施，通常是通过物理或化学清除有毒、或潜在有毒的材料。
 
 Code:6430
-English Term:pollutant remobilisation remobilisation
+English Term:pollutant remobilisation
 Chinese Term:污染物
 
 Code:6438
@@ -31151,7 +31071,7 @@ Definition:Any place that has been made unclean or unsafe by the discharge of hi
 Translation:任何已经不洁净和不安全的地方，主要是由于排放高危险浓度或有害的物质到它的水、土和大气中。
 
 Code:6443
-English Term:polluter-pays principle polluter-pays
+English Term:polluter-pays principle
 Chinese Term:污染者支付原则
 Definition:The principle that those causing pollution should meet the costs to which it gives rise.&#10;(Source: BRACK)
 Translation: 原则，由造成污染的一方来负责承担清除污染的责任。
@@ -32042,8 +31962,8 @@ English Term:protection of birds
 Chinese Term:鸟类保护
 
 Code:6752
-English Term:protection of birds
-Chinese Term:鸟类保护
+English Term:protection of species
+Chinese Term:物种保护
 Definition:Measures adopted for the safeguarding of species, of their ecosystems and their biodiversity.&#10;(Source: ADMIN)
 Translation:为维护鸟类的生态平衡及其多样性采取的措施。
 
