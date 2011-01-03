@@ -1,3 +1,7 @@
+#
+# Note: About 300 definitions had the (Source: XXX) translated as well. Since this is only 5% of all
+# we removed the words starting with （来源 or (来源
+#
 Code:7
 English Term: abandoned industrial site
 Definition: Site that cannot be used for any purpose, being contaminated by pollutants, not necessarily radioactive.&#10;(Source: RRDA)
@@ -5505,19 +5509,19 @@ Code: 1568
 English Term: colloidal state
 Definition: A system of particles in a dispersion medium, with properties distinct from those of a true solution because of the larger size of the particles. The presence of these particles can often be detected by means of the ultramicroscope.&#10;(Source: UVAROV)
 Chinese Term:胶体状态
-Translation:一个分散系中的颗粒系统，由于粒子尺寸较大，其性质有别于真正的溶液。这些颗粒可以通过超显微镜检测手段检测出来。
+Translation:一个分散系中的颗粒系统，由于粒子尺寸较大，其性质有别于真正的溶液。这些颗粒可以通过超显微镜检测手段检测出来。（来源：UVAROV）
 
 Code: 1569
 English Term: colonisation
 Definition: The successful invasion of a new habitat by a species.&#10;(Source: LBC)
 Chinese Term:集群现象
-Translation:对一个新栖息地的成功入侵。
+Translation:对一个新栖息地的成功入侵。（来源：LBC）
 
 Code: 1571
 English Term: colour
 Definition: An attribute of things that results from the light they reflect, transmit, or emit in so far as this light causes a visual sensation that depends on its wavelengths.&#10;(Source: CED)
 Chinese Term:色彩
-Translation:由某物所反射，传送，或排放出的光所导致的该物的一种属性，现在暂时被认为是因为由于波长差异，不同光能引发不同的视觉感觉。
+Translation:由某物所反射，传送，或排放出的光所导致的该物的一种属性，现在暂时被认为是因为由于波长差异，不同光能引发不同的视觉感觉。（来源：CED）
 
 Code: 14914
 English Term: colour composition
@@ -5529,19 +5533,19 @@ Code: 1570
 English Term: colourimetry
 Definition: Any technique by which an unknown colour is evaluated in terms of standard colours; the technique may be visual, photoelectric or indirect by means of spectrophotometry.&#10;(Source: MGH)
 Chinese Term:色度测量
-Translation:采用标准颜色来评价一种未知颜色的任何技术，该技术可能是视觉，光电或间接分光光度法手段。
+Translation:采用标准颜色来评价一种未知颜色的任何技术，该技术可能是视觉，光电或间接分光光度法手段。（来源：MGH）
 
 Code: 7768
 English Term: colubrid
 Definition: Any snakes of the family of Colubridae, including many harmless snakes, such as the grass snake and whip belonging to the Colubridae.
 Chinese Term:无毒蛇类
-Translation:游蛇科的一种，包括许多无毒蛇，如草蛇（the  grass snake）和属于游蛇科的whip蛇。
+Translation:游蛇科的一种，包括许多无毒蛇，如草蛇（the  grass snake）和属于游蛇科的whip蛇。（来源：CED）
 
 Code: 1574
 English Term: combination effect
 Definition: A combined effect of two or more substances or organisms which is greater than the sum of the individual effect of each.&#10;(Source: KOREN)
 Chinese Term:综合效应
-Translation:两种或两种以上的物质或生物的综合效果，影响超过了单个个体效应的总和。
+Translation:两种或两种以上的物质或生物的综合效果，影响超过了单个个体效应的总和。（来源：KOREN）
 
 Code: 1575
 English Term: combined cycle-power station
@@ -5553,55 +5557,55 @@ Code: 12276
 English Term: combined sewer system
 Definition: A sewer intended to serve as a sanitary sewer and a storm sewer, or as an industrial sewer and a storm sewer.&#10;(Source: JJK)
 Chinese Term:合流制排水系统
-Translation:一种作为排放清洁污水和雨水，或排放工业污水和雨水的下水道。
+Translation:一种作为排放清洁污水和雨水，或排放工业污水和雨水的下水道。（来源：JJK）
 
 Code: 11296
 English Term: combined transport
 Definition: Transport in which more than one carrier is used, e.g. road, rail and sea.(Source: ECHO1)
 Chinese Term:联合运输
-Translation:使用了超过一个运输工具的运输，例如公路，铁路和水路。
+Translation:使用了超过一个运输工具的运输，例如公路，铁路和水路。（来源：ECHO1）
 
 Code: 1576
 English Term: combined waste water
 Definition: A mixture of domestic or industrial wastewater and surface runoff.&#10;(Source: ISEP / WWC)
 Chinese Term:综合废水
-Translation:一种家庭或工业废水和地表径流的混合物。
+Translation:一种家庭或工业废水和地表径流的混合物。（来源：ISEP/WWC）
 
 Code: 1578
 English Term: combustibility
 Definition:The property of a substance of being capable of igniting and burning.&#10;(Source: CEDa)
 Chinese Term:可燃性
-Translation:物质能够被点燃和燃烧的性质。
+Translation:物质能够被点燃和燃烧的性质。（来源：CEDa）
 
 Code: 1582
 English Term: combustion engine
 Definition: An engine that operates by the energy of combustion of a fuel.&#10;(Source: MGH)
 Chinese Term:内燃机
-Translation:一种由燃料燃烧供能的发动机。
+Translation:一种由燃料燃烧供能的发动机。（来源：MGH）
 
 Code: 1583
 English Term: combustion gas
 Definition: The exhaust gas from a combustion process. It may contain nitrogen oxides, carbon oxides, water vapour, sulfur oxides, particles and many chemical pollutants.(Source: LEE)
 Chinese Term:燃烧废气
-Translation:燃烧过程中排放出的气体。可能包含氮氧化物，碳氧化物，水蒸气，硫氧化物，小颗粒和许多其他化学污染物。
+Translation:燃烧过程中排放出的气体。可能包含氮氧化物，碳氧化物，水蒸气，硫氧化物，小颗粒和许多其他化学污染物。（来源：LEE）
 
 Code: 1584
 English Term: combustion residue
 Definition: A residual layer of ash on the heat-exchange surfaces of a combustion chamber, resulting from the burning of fuel.(Source: APD)
 Chinese Term:燃烧残余物
-Translation: 燃料燃烧产生的剩余灰层，在进行热交换的燃烧室表面产生。
+Translation: 燃料燃烧产生的剩余灰层，在进行热交换的燃烧室表面产生。（来源：APD）
 
 Code: 10758
 English Term: commercial fishery
 Definition: Such fisheries belong to one of two groups: one catching demersal (bottom-living) fish, e.g. cod, haddock, plaice, sole; the other catching pelagic (surface-living) fish, e.g. anchovy, tuna, herring.&#10;(Source: GOOD)
 Chinese Term:商品渔业
-Translation: 这种渔业属于以下两个集团之一：一种捕捞底层（底层生活）的鱼类，如鳕鱼，黑线鳕，鲽鱼，可食用比目鱼；另一种捕捞中上层（表面生活）的鱼类，如鳀鱼，金枪鱼，鲱鱼。
+Translation: 这种渔业属于以下两个集团之一：一种捕捞底层（底层生活）的鱼类，如鳕鱼，黑线鳕，鲽鱼，可食用比目鱼；另一种捕捞中上层（表面生活）的鱼类，如鳀鱼，金枪鱼，鲱鱼。（来源：GOOD）
 
 Code: 1590
 English Term: commercial law
 Definition: The whole body of substantive jurisprudence applicable to the rights, intercourse and relations of persons engaged in commerce, trade or mercantile pursuits.(Source: BLACK)
 Chinese Term:商法
-Translation:人们从事于商业，贸易或商机追逐时，人与人之间的交际和相互关系所使用权利的独立法学主体。
+Translation:人们从事于商业，贸易或商机追逐时，人与人之间的交际和相互关系所使用权利的独立法学主体。（来源：BLACK）
 
 Code: 1591
 English Term: commercial noise
@@ -12993,31 +12997,31 @@ Code: 14909
 English Term: geometric correction
 Definition: A remote sensing term referring to the adjustment of an image for geometric errors.&#10;(Source: DWEB)
 Chinese Term: 几何校正
-Translation: 遥感术语，意思是因几何错误而作的影像调整。
+Translation: 遥感术语，意思是因几何错误而作的影像调整。(来源: DWEB)
 
 Code:3652
 English Term: geomorphic process
 Definition:The physical and chemical interactions between the Earth's surface and the natural forces acting upon it to produce landforms. The processes are determined by such natural environmental variables as geology, climate, vegetation and baselevel, to say nothing of human interference. The nature of the process and the rate at which it operates will be influenced by a change in any of these variables.&#10;(Source: WHIT)
 Chinese Term: 地貌形成过程
-Translation:地球表面和作用其上的自然力之间的物理和化学交互作用。此过程由地质情况、气候、植被、基准面等自然环境变量来决定，与人为影响无关。而这些变量中任意一个的改变都会影响这个过程的本质和进度。
+Translation:地球表面和作用其上的自然力之间的物理和化学交互作用。此过程由地质情况、气候、植被、基准面等自然环境变量来决定，与人为影响无关。而这些变量中任意一个的改变都会影响这个过程的本质和进度。（来源：WHIT）
 
 Code:3654
 English Term: geomorphology
 Definition: The study of the classification, description, nature, origin, and development of present landforms and their relationships to underlying structures, and of the history of geologic changes as recorded by these surface features.&#10;(Source: BJGEO)
 Chinese Term: 地形学
-Translation: 对目前地形的分类，描述，性质，起源和发展及其与底层结构的联系，和地表特征所记录的地质变化历史所进行的研究。
+Translation: 对目前地形的分类，描述，性质，起源和发展及其与底层结构的联系，和地表特征所记录的地质变化历史所进行的研究。（来源：BJGEO）
 
 Code: 13195
 English Term: geophysical environment
 Definition: The physical earth and its surroundings, consisting of the oceans and inland waters, lower and upper atmosphere, space, land masses and land forms.&#10;(Source: APD / ENZ)
 Chinese Term:地球物理环境
-Translation: 物理上的地球和其包围的环境，包括海洋、内陆水、低空和高空大气圈、太空、陆地块、陆地地形等。
+Translation: 物理上的地球和其包围的环境，包括海洋、内陆水、低空和高空大气圈、太空、陆地块、陆地地形等。(来源: APD / ENZ)
 
 Code:3655
 English Term: geophysics
 Definition:The physics of the earth and its environment, that is, earth, air and space.&#10;(Source: MGH)
 Chinese Term: 地球物理学
-Translation: 地球和地球环境的物理构造，也就是地球、大气和太空。
+Translation: 地球和地球环境的物理构造，也就是地球、大气和太空。(来源: MGH)
 
 Code: 14933
 English Term: geo-referenced data
@@ -13041,13 +13045,13 @@ Code: 3657
 English Term: geotechnology
 Definition: The application of scientific methods and engineering techniques to the exploitation and use of natural resources.&#10;(Source: BJGEO)
 Chinese Term:地球工程学
-Translation:科学方法和工程技术在自然资源的探测和使用方面的应用
+Translation:科学方法和工程技术在自然资源的探测和使用方面的应用(来源: BJGEO)
 
 Code: 3658
 English Term: geothermal energy
 Definition: An energy produced by tapping the earth's internal heat. At present, the only available technologies to do this are those that extract heat from hydrothermal convection systems, where water or steam transfer the heat from the deeper part of the earth to the areas where the energy can be tapped. The amount of pollutants found in geothermal vary from area to area but may contain arsenic, boron, selenium, lead, cadmium, and fluorides. They also may contain hydrogen sulphide, mercury, ammonia, radon, carbon dioxide, and methane.&#10;(Source: KOREN)
 Chinese Term: 地热能
-Translation:通过开发地球内部热量而产生的能量。目前唯一能够这样做的技术是从水热对流系统中提取出热量。水热对流系统是通过水或蒸汽将热量从地球深处向能量能被提取的地方转移。地热中含有的污染物的多少根据区域的不同而不同，包括砷、硼、硒、铅、镉氟化物，也包括硫化氢、汞、氨、氡、二氧化碳和甲烷等。
+Translation:通过开发地球内部热量而产生的能量。目前唯一能够这样做的技术是从水热对流系统中提取出热量。水热对流系统是通过水或蒸汽将热量从地球深处向能量能被提取的地方转移。地热中含有的污染物的多少根据区域的不同而不同，包括砷、硼、硒、铅、镉氟化物，也包括硫化氢、汞、氨、氡、二氧化碳和甲烷等。(来源: KOREN)
 
 Code: 3661
 English Term: germ
@@ -13059,25 +13063,25 @@ Code: 3664
 English Term: germ plasm
 Definition: The hereditary material transmitted to the offspring via the gametes.&#10;(Source: LBC)
 Chinese Term:遗传物质，基因物质
-Translation:通过交配传播给子代的遗传物质。
+Translation:通过交配传播给子代的遗传物质。(来源: LBC)
 
 Code: 3663
 English Term: germination
 Definition: The beginning or the process of development of a spore or seed.&#10;(Source: MGH)
 Chinese Term:胚芽
-Translation:孢子或种子生长过程的开始。
+Translation:孢子或种子生长过程的开始。(来源: MGH)
 
 Code: 14917
 English Term: GIS digital format
 Definition: The digital form of data collected by remote sensing.&#10;(Source: YOUNG)
 Chinese Term:地理信息系统数字形式
-Translation:通过遥感收集的数据的数字形式。
+Translation:通过遥感收集的数据的数字形式。(来源: YOUNG)
 
 Code: 14916
 English Term: GIS digital system
 Definition: An organized collection of computer hardware, software, geographic data, and personnel designed to efficiently capture, store, update, manipulate, analyze, and display all forms of geographically referenced information that can be drawn from different sources, both statistical and mapped.&#10;(Source: SFRC / GILP96)
 Chinese Term: 地理信息系统数字系统
-Translation:一种计算机硬件、软件、地理数据和人事部门的有组织的收集，旨在有效获取、存储、更新、操纵、分析和显示各种形式的地理参照信息，可以从不同的来源，如统计数据和绘制地图来绘画。
+Translation:一种计算机硬件、软件、地理数据和人事部门的有组织的收集，旨在有效获取、存储、更新、操纵、分析和显示各种形式的地理参照信息，可以从不同的来源，如统计数据和绘制地图来绘画。(来源: SFRC / GILP96)
 
 Code: 14924
 English Term: GIS digital technique
@@ -13095,43 +13099,43 @@ Code: 3673
 English Term: glacier
 Definition: Slow moving masses of ice which have accumulated either on mountains or in polar regions. They are found where warm, moist air or warm water meets cold air or water. They move, influenced by the force of gravity and the pressure of the ice, above the underlying slush layers and slide downhill, eventually melting at lower levels to form rivers or reaching sea-level, where they form ice shelves or fall into the water as icebergs.&#10;(Source: WRIGHT)
 Chinese Term:冰河，冰川
-Translation: 积聚在高山或者极地地区的缓慢移动的冰块。可以发现它们存在于有温暖潮湿的大气处或者热水流与冷水流相遇的地方。它们的移动受地心引力作用和冰的压力的影响，高于基本烂泥层和下滑坡，最终会融化到低层形成河流或到达海平面形成冰架或以冰山形式掉进海里。
+Translation: 积聚在高山或者极地地区的缓慢移动的冰块。可以发现它们存在于有温暖潮湿的大气处或者热水流与冷水流相遇的地方。它们的移动受地心引力作用和冰的压力的影响，高于基本烂泥层和下滑坡，最终会融化到低层形成河流或到达海平面形成冰架或以冰山形式掉进海里。(来源: WRIGHT)
 
 Code: 3676
 English Term: glaciology
 Definition: 1) The study of all aspects of snow and ice; the science that treats quantitatively the whole range of processes associated with all forms of solid existing water. 2) The study of existing glaciers and ice sheets, and of their physical properties.&#10;(Source: BJGEO)
 Chinese Term:冰河学
-Translation: 1）冰雪所有方面的研究；定量地对与各种形式的固态现存水及相关全部范围内的过程进行探讨的科学。
+Translation: 1）冰雪所有方面的研究；定量地对与各种形式的固态现存水及相关全部范围内的过程进行探讨的科学。(来源: BJGEO)
 
 Code: 3678
 English Term: glass
 Definition: A hard, amorphous, inorganic, usually transparent, brittle substance made by fusing silicates, sometimes borates and phosphates, with certain basic oxides and then rapidly cooling to prevent crystallization.&#10;(Source: MGH)
 Chinese Term: 玻璃
-Translation: 一种坚固、非晶态、无机、通常为透明的易碎的物质。通过熔融硅胶酸，（有时候是硼酸盐和磷酸盐），混合一些特定的氧化物并迅速冷却以防止结晶，而制成。
+Translation: 一种坚固、非晶态、无机、通常为透明的易碎的物质。通过熔融硅胶酸，（有时候是硼酸盐和磷酸盐），混合一些特定的氧化物并迅速冷却以防止结晶，而制成。(来源: MGH)
 
 Code: 3681
 English Term: glass industry
 Definition: Industry for the production of glassware.&#10;(Source: CED)
 Chinese Term: 玻璃制造业
-Translation:玻璃器具的制造工业。
+Translation:玻璃器具的制造工业。(来源: CED)
 
 Code: 12091
 English Term: glaze
 Definition: A coating of ice, generally clear and smooth but usually containing some air pockets, formed on exposed objects by the freezing of a film of supercooled water deposited by rain, drizzle, or fog, or possibly condensed from supercooled water vapour.&#10;(Source: MGH)
 Chinese Term:釉面，釉料
-Translation: 冰涂料，一般纯净流畅但通常包含一些气泡，这些气泡在通过过冷水的涂层冷冻而成的暴露的对象上形成，而过冷水是通过雨、毛毛雨、雾或可能是由过冷水蒸汽凝结沉淀而成。
+Translation: 冰涂料，一般纯净流畅但通常包含一些气泡，这些气泡在通过过冷水的涂层冷冻而成的暴露的对象上形成，而过冷水是通过雨、毛毛雨、雾或可能是由过冷水蒸汽凝结沉淀而成。(来源: MGH)
 
 Code: 3686
 English Term: global aspect
 Definition: Aspects concerning the whole world considered as being closely connected by modern telecommunications and as being interdependent economically, socially and politically.&#10;(Source: CEDa)
 Chinese Term: 全球观
-Translation: 认为整个世界通过现代通讯工具紧密相连，并在经济、社会、政治等方面相互依赖的观念。
+Translation: 认为整个世界通过现代通讯工具紧密相连，并在经济、社会、政治等方面相互依赖的观念。(来源: CEDa)
 
 Code: 3687
 English Term: global convention
 Definition: A worldwide assembly of national, political party or organizational delegates, or the pact or the agreement that arises from such an assembly that forms, often, the preliminary to an international treaty.&#10;(Source: BLD)
 Chinese Term: 全球公约
-Translation: 由各国、各政党或各组织代表参加的全球性会议、或由这样的形式会议达成的协定、协议，而通常是初步的国际协定。 
+Translation: 由各国、各政党或各组织代表参加的全球性会议、或由这样的形式会议达成的协定、协议，而通常是初步的国际协定。 (来源: BLD)
 
 Code: 3688
 English Term: Global Environment Facility
@@ -13142,31 +13146,31 @@ Code: 3690
 English Term: global model
 Definition: Models concerning different aspects of reality which can be applied at global level.&#10;(Source: RRDA)
 Chinese Term: 全球模式
-Translation: 考虑现实的各个方面且能应用到全球层面的模式。
+Translation: 考虑现实的各个方面且能应用到全球层面的模式。(来源: RRDA)
 
 Code: 3692
 English Term: global warming
 Definition: Changes in the surface-air temperature, referred to as the global temperature, brought about by the greenhouse effect which is induced by emission of greenhouse gases into the air.&#10;(Source: WRIGHT)
 Chinese Term:全球变暖
-Translation: 由于温室气体的排放所导致的温室效应造成地球表面空气温度的变化。
+Translation: 由于温室气体的排放所导致的温室效应造成地球表面空气温度的变化。(来源: WRIGHT)
 
 Code: 3694
 English Term: glossary
 Definition: An alphabetical list of terms concerned with a particular subject, field or area of usage that includes accompanying definitions.&#10;(Source: CED / RHW)
 Chinese Term:术语表
-Translation: 按字母顺序排列关于某一特定主题、领域和使用范围并包括伴随的定义的专用术语列表。
+Translation: 按字母顺序排列关于某一特定主题、领域和使用范围并包括伴随的定义的专用术语列表。(来源: CED / RHW)
 
 Code: 3695
 English Term: glue
 Definition: A crude, impure, amber-colored form of commercial gelatin of unknown detailed composition produced by the hydrolysis of animal collagen; gelatinizes in aqueous solutions and dries to form a strong, adhesive layer.&#10;(Source: MGH)
 Chinese Term: 胶水
-Translation:动物胶原质水解形成的一种不知详细组成成分的天然的、不纯的琥珀色的商业明胶；它在水溶液中呈胶体状，干后便形成一种很坚固的黏性层。
+Translation:动物胶原质水解形成的一种不知详细组成成分的天然的、不纯的琥珀色的商业明胶；它在水溶液中呈胶体状，干后便形成一种很坚固的黏性层。(来源: MGH)
 
 Code: 3698
 English Term: goal of individual economic business
 Definition: The aim, purpose, objective, or end for a profit-seeking enterprise engaged in commerce, manufacturing, or a service.&#10;(Source: RHW)
 Chinese Term: 个体经济业务目标
-Translation: 营利性企业从事商业、制造或服务的目标、目的或意图等。
+Translation: 营利性企业从事商业、制造或服务的目标、目的或意图等。(来源: RHW)
 
 Code: 3701
 English Term: golf
@@ -13178,25 +13182,25 @@ Code: 3705
 English Term: good management
 Definition: The competent, skillful and successful process of planning, leading and working toward the accomplishment or completion of goals, objectives and mission of an organization or institution.&#10;(Source: DAM)
 Chinese Term: 良好管理
-Translation: 为了贯彻或完成组织或机构的目标，目的与任务而在计划、领导、和工作上做出的适当、技术高明且成功的处理过程。 
+Translation: 为了贯彻或完成组织或机构的目标，目的与任务而在计划、领导、和工作上做出的适当、技术高明且成功的处理过程。 (来源: DAM)
 
 Code: 10930
 English Term: goods
 Definition: A term of variable content and meaning. It may include every species of personal chattels or property. Items of merchandise, supplies, raw materials, or finished goods. Land is excluded.&#10;(Source: DICLAW / WESTS)
 Chinese Term: 财货
-Translation: 一个多意涵的专用术语。 它可能包括每一类型私人的动产或不动产。 如货物、供应品、原料或成品等形式，但不包括土地。
+Translation: 一个多意涵的专用术语。 它可能包括每一类型私人的动产或不动产。 如货物、供应品、原料或成品等形式，但不包括土地。(来源: DICLAW / WESTS)
 
 Code: 10931
 English Term: goods and services
 Definition: The total of economic assets, including both physical or storable objects and intangible acts of human assistance.&#10;(Source: ODE)
 Chinese Term: 财货与服务
-Translation: 总体经济资产，包括实体的或储存的物体及人类协助的无形行为等。 
+Translation: 总体经济资产，包括实体的或储存的物体及人类协助的无形行为等。 (来源: ODE)
 
 Code: 3715
 English Term: government (cabinet)
 Definition: A body of top government officials appointed to advise the President or the chief executive officer of a country, usually consisting of the heads of government departments or agencies.&#10;(Source: OED)
 Chinese Term: 政府(内阁)
-Translation: 委派作为总统或国家行政首长咨询的高阶政府官员主体，一般由政府部门或机关主管所组成。
+Translation: 委派作为总统或国家行政首长咨询的高阶政府官员主体，一般由政府部门或机关主管所组成。(来源: OED)
 
 Code: 3712
 English Term: government advisory body
@@ -13208,7 +13212,7 @@ Code: 3714
 English Term: government building
 Definition: Building for the offices of the main departments of government.&#10;(Source: HARRIS)
 Chinese Term: 政府大楼
-Translation: 政府主要部门的办公室所在建筑。
+Translation: 政府主要部门的办公室所在建筑。(来源: HARRIS)
 
 Code: 14588
 English Term: government contracting
@@ -13226,49 +13230,49 @@ Code: 3717
 English Term: government liability
 Definition: A public body's debt or other legal obligation arising out of transactions in the past which must be liquidated, renewed or refunded at some future date.&#10;(Source: EFP)
 Chinese Term: 政府职责，政府公务
-Translation: 由以前的交易所衍生，必须在未来清算、延续或偿还的公共团体债务或其他法律责任。
+Translation: 由以前的交易所衍生，必须在未来清算、延续或偿还的公共团体债务或其他法律责任。(来源: EFP)
 
 Code: 3718
 English Term: government policy
 Definition: Any course of action adopted and pursued by a ruling political authority or system, which determines the affairs for a nation, state or region.&#10;(Source: RHW)
 Chinese Term: 政府政策
-Translation: 由决策国家、州、或区域事务的执政权责机构或系统，所采用或贯彻的任何行动方针。 
+Translation: 由决策国家、州、或区域事务的执政权责机构或系统，所采用或贯彻的任何行动方针。 (来源: RHW)
 
 Code: 3721
 English Term: grain
 Definition: Edible, starchy seeds of the grass family (Graminae) usable as food by man and his livestock.&#10;(Source: MGH)
 Chinese Term: 谷物
-Translation: 可食用的草属植物，其种子富含淀粉，可被人和家畜食用。
+Translation: 可食用的草属植物，其种子富含淀粉，可被人和家畜食用。(来源: MGH)
 
 Code: 10612
 English Term: graminaceous plant
 Definition: A very large family of plants including cereals such as wheat, maize, etc.&#10;(Source: PHC)
 Chinese Term: 禾本科植物
-Translation: 一个很大的植物家族，包括谷物，如小麦，玉米等。
+Translation: 一个很大的植物家族，包括谷物，如小麦，玉米等。(来源: PHC)
 
 Code: 11809
 English Term: granulometry
 Definition: 1) The determination of the different grain size in a granular material.&#10; 2) The proportion by weight of particles of different sizes in granular material.&#10;(Source: ECHO2)
 Chinese Term: 粒径分析
-Translation: 1)对粒状物不同颗粒大小的判定。 2) 粒状物中不同大小的粒子的重量比率。
+Translation: 1)对粒状物不同颗粒大小的判定。 2) 粒状物中不同大小的粒子的重量比率。(来源: ECHO2)
 
 Code: 3729
 English Term: grass
 Definition: A very large and widespread family of Monocotyledoneae, with more than 10.000 species, most of which are herbaceous, but a few are woody. The stems are jointed, the long, narrow leaves originating at the nodes. The flowers are inconspicuous, with a much reduced perianth, and are wind-pollinated or cleistogamous. The fruit in single-seeded, usually a caryopsis. Grasses are the most important of all plants for food.&#10;(Source: ALL)
 Chinese Term: 禾本科，稻科植物
-Translation: 一种大而散布广泛的单子叶科植物，有超过10000个品种，大多为草本植物，但有少数是木本的。莖間連接，在結點長出長而窄的葉子，花不顯著，非常小的花被，是風傳花粉或閉花受精，單種果實，通常一個穎果。草是所有植物中最重要的食物來源。茎间连接，在结点处长出长而窄的叶子，花不显著，非常小的花被，是风传花粉或闭花受精，单种果实，通常一个颖果，是所有植物中最重要的食物来源。 
+Translation: 一种大而散布广泛的单子叶科植物，有超过10000个品种，大多为草本植物，但有少数是木本的。莖間連接，在結點長出長而窄的葉子，花不顯著，非常小的花被，是風傳花粉或閉花受精，單種果實，通常一個穎果。草是所有植物中最重要的食物來源。茎间连接，在结点处长出长而窄的叶子，花不显著，非常小的花被，是风传花粉或闭花受精，单种果实，通常一个颖果，是所有植物中最重要的食物来源。 (来源: ALL)
 
 Code: 3730
 English Term: grass fire
 Definition: A conflagration in or destroying large areas of any vegetation in the Gramineae family as found in fields, meadows, savannas or other grasslands.&#10;(Source: ISEP / ALL)
 Chinese Term: 草地火灾
-Translation: 破坏生长在原野、草地、大草原或其他牧草地等大片面积禾本科植物地区的大火。 
+Translation: 破坏生长在原野、草地、大草原或其他牧草地等大片面积禾本科植物地区的大火。 (来源: ISEP /ALL)
 
 Code: 3732
 English Term: grasshopper
 Definition: A plant-eating insect with long back legs that can jump very high and makes a sharp high noise using its back legs or wings.&#10;(Source: CAMB)
 Chinese Term: 蚱蜢
-Translation: 一种食草昆虫，具有能跳得非常高的细长后腿，在使用后腿或翅膀时会发出尖锐的高度的噪音。
+Translation: 一种食草昆虫，具有能跳得非常高的细长后腿，在使用后腿或翅膀时会发出尖锐的高度的噪音。(來源：CAMB)
 
 Code: 3733
 English Term: grassland
@@ -13287,38 +13291,38 @@ Code: 3738
 English Term: gravel
 Definition: A mixture of rock fragments and pebbles that is coarser than sand.&#10;(Source: CED)
 Chinese Term: 砂砾
-Translation: 岩石碎片与比砂还粗大的卵石所组成的混合物。
+Translation: 岩石碎片与比砂还粗大的卵石所组成的混合物。 (来源：CED)
 
 Code: 3739
 English Term: gravel extraction
 Definition: Obtaining a mixture of coarse sand and small water- worn or pounded stones, (used for paths and roads and as an aggregate) from the earth.&#10;(Source: GILP96a)
 Chinese Term: 砂石开采，砂石挖掘
-Translation: 从地层中获取粗砂和细小的受水磨蚀或磨碎之石头混合物，通常用作舖设道路的材料。
+Translation: 从地层中获取粗砂和细小的受水磨蚀或磨碎之石头混合物，通常用作舖设道路的材料。(来源: GILP96a)
 
 Code: 3742
 English Term: gravel pit
 Definition: A place where gravel is dug out of the ground. (Source: CAMB)
 Chinese Term: 砂石坑
-Translation: 地面上被挖出砂石的地方。
+Translation: 地面上被挖出砂石的地方。(来源: CAMB)
 
 Code: 3748
 English Term: grazing
 Definition: The vegetation on pastures that is available for livestock to feed upon.&#10;(Source: CED)
 Chinese Term: 牧草
-Translation: 牧场上可供牲畜食用的植物。
+Translation: 牧场上可供牲畜食用的植物。(来源: CED)
 
 Code: 3755
 English Term: green building
 Definition: The self-contained dwelling where man simulates the ways of ecosystems, i.e. his wastes are converted to fuel by anaerobic digestion for methane production and the residues from the digestion are used for growing food. The food residues are composted and/or used for methane production. Solar energy is trapped by the greenhouse effect and used for house, crop and water heating. A windmill would be used for electricity. Thus, given sufficient space, sunshine, rainfall and wind, the ecohouse is in theory a self-contained system recycling its own wastes and using the sun as its energy input.&#10;(Source: PORT)
 Chinese Term: 绿色建筑
-Translation: 人们模仿生态系统所建造的可以自给自足的居住环境，也就是其产生的废弃物可以经由厌氧消化转换为甲烷而作为燃料，而剩余残物则可作为种植肥料。剩余食物可用作堆肥或生产甲烷；太阳能经由温室效应收集后可供给家庭、作物热能或水的加热用；风车则可产生电力。因此，在足够的空间、阳光、雨、和风的条件下，理论上，生态房屋可自成一个独立系统，循环其产生的废弃物并使用太阳为其能源。
+Translation: 人们模仿生态系统所建造的可以自给自足的居住环境，也就是其产生的废弃物可以经由厌氧消化转换为甲烷而作为燃料，而剩余残物则可作为种植肥料。剩余食物可用作堆肥或生产甲烷；太阳能经由温室效应收集后可供给家庭、作物热能或水的加热用；风车则可产生电力。因此，在足够的空间、阳光、雨、和风的条件下，理论上，生态房屋可自成一个独立系统，循环其产生的废弃物并使用太阳为其能源。(来源: PORT)
 
 
 Code: 3756
 English Term: green corridor
 Definition: Avenues along which wide-ranging animals can travel, plants can propagate, genetic interchange can occur, populations can move in response to environmental changes and natural disasters, and threatened species can be replenished from other areas.&#10;(Source: WILDLAa)
 Chinese Term: 绿色走廊
-Translation: 沿着廊道，在此广泛的多种动物可以行走、植物可以繁殖、遗传交换可以发生、物种群数可随著环境改变和自然灾害而迁移、而受威胁物种可从他处获得补充。 
+Translation: 沿着廊道，在此广泛的多种动物可以行走、植物可以繁殖、遗传交换可以发生、物种群数可随著环境改变和自然灾害而迁移、而受威胁物种可从他处获得补充。 (来源: WILDLAa)
 
 Code: 14835
 English Term: green fiscal instrument
@@ -13330,79 +13334,79 @@ Code: 3766
 English Term: green manure
 Definition: Herbaceous plant material plowed into the soil while still green.&#10;(Source: MGH)
 Chinese Term: 绿色肥料
-Translation:仍呈绿色时被犁入土壤的草本植物原料。
+Translation:仍呈绿色时被犁入土壤的草本植物原料。(来源: MGH)
 
 Code: 3768
 English Term: green revolution
 Definition: The name given to the widespread development of high-yield strains of wheat, corn and rice during the 1960s and early 1970s. It was more formally known as the Indicative World Plan for Agricultural Development. The revolution came after the Food and Agricultural Organization held the World Food Congress in 1963. A "Freedom from Hunger" campaign was set up with the goal of increasing food supplies and solving the world's hunger problems.&#10;(Source: WRIGHT)
 Chinese Term:绿色革命
-Translation: 1960年代至1970早期间对于米、谷物、小麦高产能品种的快速发展所给予的名称，它经常被当作是为了农业发展的互动性世界计划，革命一词是在1963年世界食品代表大会中由粮食和农业组织所提出。 以增加食物与解决世界饥饿问题为目的「免于饥饿」的战役亦被建立。
+Translation: 1960年代至1970早期间对于米、谷物、小麦高产能品种的快速发展所给予的名称，它经常被当作是为了农业发展的互动性世界计划，革命一词是在1963年世界食品代表大会中由粮食和农业组织所提出。 以增加食物与解决世界饥饿问题为目的「免于饥饿」的战役亦被建立。(来源: WRIGHT)
 
 Code: 3770
 English Term: green space
 Definition: A plot of vegetated land separating or surrounding areas of intensive residential or industrial use and devoted to recreation or park uses.&#10;(Source: LANDY)
 Chinese Term:绿色空间，绿地
-Translation: 被稠密的住宅或工业用地所包围或分隔，作为休闲或公园使用的植物园地。
+Translation: 被稠密的住宅或工业用地所包围或分隔，作为休闲或公园使用的植物园地。(来源: LANDY)
 
 Code: 12219
 English Term: green tide
 Definition: A proliferation of a marine green plankton toxic and often fatal to fish, perhaps stimulated by the addition of nutrients.&#10;(Source: RRDA)
 Chinese Term: 绿潮
-Translation: 可能是由于营养物质的添加，刺激了海洋绿色浮游生物毒性的大量激增，通常对鱼类具有致命性。
+Translation: 可能是由于营养物质的添加，刺激了海洋绿色浮游生物毒性的大量激增，通常对鱼类具有致命性。(来源: RRDA)
 
 Code: 3771
 English Term: green vegetable
 Definition: A vegetable having the edible parts rich in chlorophyll and forming an important source of vitamins and micronutrients.&#10;(Source: WEBSTE)
 Chinese Term:绿色蔬菜
-Translation: 可食用蔬菜部分,含有丰富的叶绿素，维生素和微量营养素。
+Translation: 可食用蔬菜部分,含有丰富的叶绿素，维生素和微量营养素。 (来源: WEBSTE)
 
 Code: 3754
 English Term: greenbelt
 Definition: 1) An area of land, not necessarily continuous, near to and sometimes surrounding a large built-up area. The area is kept open by permanent and severe restriction on building. &#10;2) An irrigated, landscaped, and regularly maintained fuelbreak, usually put to some additional use, such as a golf course, park, or playground. &#10;3) A planning designation that mandates the setting aside of otherwise developable lands for the purpose of creating natural or semi-natural open spaces. Greenbelts are usually linear parkways, tracts, or belts of land running through or around urban conurbations.&#10; 4) An area or zone of open, semi-rural, low-density land surrounding existing major urban areas, but not necessarily continuous. The zone is to be kept open by permanent and severe restrictions on new development.&#10;(Source: ALL /  DUNSTE /  GOOD)
 Chinese Term: 绿带
-Translation: (1)接近或围绕大型建设区域的连续或不连续的土地。此地区将永久维持开放，且对于任何建筑皆有严格的限制。2)需浇灌且有造景，且定期加以维护的防火带，通常会有一些附加的用途，如供作高尔夫球场、公园或儿童游戏场。3)经过规划设计，坐落于已开发地区旁的自然或半自然的开放空间。绿带通常是围绕或穿越都市地区的长条状公园大道、大片土地或带状土地。4)围绕现有主要都市地区的开放式、半田园式、低密度开发的地区，不一定是要连续性的。此地区将永久维持开放，且对于新开发有严格的限制。
+Translation: (1)接近或围绕大型建设区域的连续或不连续的土地。此地区将永久维持开放，且对于任何建筑皆有严格的限制。2)需浇灌且有造景，且定期加以维护的防火带，通常会有一些附加的用途，如供作高尔夫球场、公园或儿童游戏场。3)经过规划设计，坐落于已开发地区旁的自然或半自然的开放空间。绿带通常是围绕或穿越都市地区的长条状公园大道、大片土地或带状土地。4)围绕现有主要都市地区的开放式、半田园式、低密度开发的地区，不一定是要连续性的。此地区将永久维持开放，且对于新开发有严格的限制。&#10;(来源: ALL /  DUNSTE /  GOOD)
 
 Code: 3760
 English Term: greenhouse cultivation
 Definition: Cultivation of plants, especially of out-of-season plants, in glass-enclosed, climate-controlled structures.&#10;(Source: MGH)
 Chinese Term: 温室栽培
-Translation: 在用玻璃围成,可控制气候的建筑物內培育植物，特別是培育那些生长期已过的植物。
+Translation: 在用玻璃围成,可控制气候的建筑物內培育植物，特別是培育那些生长期已过的植物。 (来源: MGH)
 
 Code: 3761
 English Term: greenhouse effect
 Definition: The warming of the Earth's atmosphere caused by the increasing concentration of atmospheric gases, such as water vapour and carbon dioxide. These gases absorb radiation emitted by the Earth, thus slowing down the loss of radiant energy from the Earth back to space.&#10;(Source: DUNSTE)
 Chinese Term: 温室效应
-Translation: 因大气中的气体，如水气和二氧化碳浓度的增加，而造成地球大气温度的上升。这些气体会吸收地球释出的辐射，减缓辐射能释回太空。
+Translation: 因大气中的气体，如水气和二氧化碳浓度的增加，而造成地球大气温度的上升。这些气体会吸收地球释出的辐射，减缓辐射能释回太空。(来源: DUNSTE)
 
 Code: 3763
 English Term: greenhouse gas
 Definition: A collective expression for those components of the atmosphere that influence the greenhouse effect, namely carbon dioxide, methane, nitrous oxides, ozone, CFCs and water vapour.&#10;(Source: GILP96)
 Chinese Term: 温室气体
-Translation: 大气组成中影响温室效应的集合表示，即二氧化碳、甲烷、氧化亚氮、臭氧、氟氯碳化物和水蒸气。
+Translation: 大气组成中影响温室效应的集合表示，即二氧化碳、甲烷、氧化亚氮、臭氧、氟氯碳化物和水蒸气。(来源: GILP96)
 
 Code: 14926
 English Term: gridding
 Definition: A system of uniformly spaced perpendicular lines and horizontal lines running north and south, and east and west on a map, chart, or aerial photograph; used in locating points.&#10;(Source: MGH)
 Chinese Term: 网格定位
-Translation: 地图、表格和航空摄影上使用间距相等的南北向垂直线和东西向水平线所组成的系统，用来确定定点位置。
+Translation: 地图、表格和航空摄影上使用间距相等的南北向垂直线和东西向水平线所组成的系统，用来确定定点位置。(来源: MGH)
 
 Code: 3774
 English Term: grinding
 Definition: To reduce to powder or small fragments. (Source: LEE)
 Chinese Term: 研磨
-Translation: （把物质）磨成粉末或小碎片。
+Translation: （把物质）磨成粉末或小碎片。 (来源: LEE)
 
 Code: 11050
 English Term: gross domestic product
 Definition: The total output of goods and services produced by a national economy in a given period, usually a year, valued at market prices. It is gross, since no allowance is made, for the value of replacement capital goods.&#10;(Source: GOOD)
 Chinese Term: 国内生产毛收入
-Translation: 在一定时期，通常是一年内由国民经济生产，根据市场价格评价的货物和服务的总输出。指未考虑替代资本货物价值的总额。
+Translation: 在一定时期，通常是一年内由国民经济生产，根据市场价格评价的货物和服务的总输出。指未考虑替代资本货物价值的总额。 (来源: GOOD)
 
 Code: 3777
 English Term: gross national product
 Definition: Gross domestic product adjusted for foreign transactions, i.e. to the figure for Gross Domestic Product must be added any income accruing to residents of the country arising from investment and other factor earnings abroad and from it must be deducted any income earned in the domestic market by factors owned by foreigners abroad.&#10;(Source: GOOD)
 Chinese Term: 国民生产毛收入
-Translation: 调整外贸后的国内生产毛额，亦即国内生产毛额计算时,须增加国民在国外投资或其他生产要素收益所带来的任何收入，及须扣除外国人拥有生产要素而在国内市场获得的任何收入。
+Translation: 调整外贸后的国内生产毛额，亦即国内生产毛额计算时,须增加国民在国外投资或其他生产要素收益所带来的任何收入，及须扣除外国人拥有生产要素而在国内市场获得的任何收入。 (来源: GOOD)
 
 Code: 3780
 English Term: groundwater
@@ -13414,13 +13418,13 @@ Code: 2704
 English Term: groundwater endangering
 Definition: Threat to the quality and quantity of groundwater by activities related to the use of land. As some activities (e.g. landfill) present a particular risk of pollution, the closer an activity is to a well or borehole, the greater the risk of the pumped water being polluted. The type of soil, the geology, the rainfall and the amount of water pumped out of the ground must all be taken into consideration.&#10;(Source: PORTa)
 Chinese Term: 地下水损害危机
-Translation: 由于土地使用的相关活动造成地下水之质与量的威胁。某些活动(如掩埋场)有其特定的污染风险，任何活动与井或凿孔的距离愈近，其抽出水质遭受污染的风险愈高。凡土壤的型态、地质、降雨量、和井水的抽出量，都应纳入考虑。
+Translation: 由于土地使用的相关活动造成地下水之质与量的威胁。某些活动(如掩埋场)有其特定的污染风险，任何活动与井或凿孔的距离愈近，其抽出水质遭受污染的风险愈高。凡土壤的型态、地质、降雨量、和井水的抽出量，都应纳入考虑。(来源: PORTa)
 
 Code: 3781
 English Term: groundwater extraction
 Definition: The process, deliberate or inadvertent, of extracting ground water from a source at a rate so in excess of the replenishment that the ground water level declines persistently, threatening exhaustion of the supply or at least a decline of pumping levels to uneconomic depths.&#10;(Source: BJGEO)
 Chinese Term: 地下水提取
-Translation: 精心策划或随意自地下水源以超过地下水补充的速率汲取水的过程，会造成地下水位持续的下降，使得水源有枯竭的危险，或至少使水位下降至不符合经济效益的抽取位置。
+Translation: 精心策划或随意自地下水源以超过地下水补充的速率汲取水的过程，会造成地下水位持续的下降，使得水源有枯竭的危险，或至少使水位下降至不符合经济效益的抽取位置。(来源: BJGEO)
 
 Code: 3784
 English Term: groundwater pollution
@@ -13432,49 +13436,49 @@ Code: 3785
 English Term: groundwater protection
 Definition: Precautionary actions, procedures or installations undertaken to prevent or reduce harm to the environmental integrity of fresh water found beneath the earth's surface, usually in aquifers, which supply wells and springs.&#10;(Source: RHW / TOE)
 Chinese Term:地下水保护
-Translation: 为避免和减少对地下水体环境整体性的损害，所采取的预防措施、程序或安装的装置，而这些地下水体通常位于含水层，是井水和泉水的来源。
+Translation: 为避免和减少对地下水体环境整体性的损害，所采取的预防措施、程序或安装的装置，而这些地下水体通常位于含水层，是井水和泉水的来源。(来源: RHW / TOE)
 
 Code: 13106
 English Term: groundwater quality
 Definition: Groundwater accounts for over 95% of the earth's useable fresh-water resources; over half the world's population depends on groundwater for drinking-water supplies. This invisible resource is vulnerable to pollution and over-exploitation. Effective conservation of groundwater supplies requires the integration of land-use and water management.&#10;(Source: GILP96)
 Chinese Term: 地下水水质
-Translation: 地下水占地球可用淡水资源的95％；超过半数的地球人口依靠地下水作为饮用水源。这种看不见的资源容易受到污染和过度开采，为有效节约地下水资源，必须整合土地使用和水资源管理。
+Translation: 地下水占地球可用淡水资源的95％；超过半数的地球人口依靠地下水作为饮用水源。这种看不见的资源容易受到污染和过度开采，为有效节约地下水资源，必须整合土地使用和水资源管理。(来源: GILP96)
 
 Code: 3788
 English Term: group behaviour
 Definition: An observable pattern of activity displayed by persons in and as an aggregate.&#10;(Source: RHW)
 Chinese Term: 群体行为
-Translation: 一个群体内的多人或一整个群体所展现出来的行为模式。
+Translation: 一个群体内的多人或一整个群体所展现出来的行为模式。 (来源: RHW)
 
 Code: 3800
 English Term: gulf
 Definition: An inlet of the sea of large areal proportions, more indented than a bay and generally more enclosed.&#10;(Source: WHIT)
 Chinese Term:海湾
-Translation: 海上面积比例较大的小湾， 比海湾更为弯曲且通常较为封闭。
+Translation: 海上面积比例较大的小湾， 比海湾更为弯曲且通常较为封闭。 (来源： WHIT)
 
 Code: 3805
 English Term: gymnosperm
 Definition: Any seed-bearing plant of the division Gymnospermae, in which the ovules are borne naked on the surface of the mega sporophylls, which are often arranged in cones.&#10;(Source: CED)
 Chinese Term: 裸子植物
-Translation: 任何会结种子的部分裸子植物，其胚珠裸露在许多毬果内排列的孢子叶的表面。
+Translation: 任何会结种子的部分裸子植物，其胚珠裸露在许多毬果内排列的孢子叶的表面。 (来源: CED)
 
 Code: 3806
 English Term: gypsum
 Definition: A colourless or white mineral used in the building industry and in the manufacture of cement, rubber, paper and plaster of Paris.&#10;(Source: CED)
 Chinese Term: 石膏
-Translation: 建筑业及水泥、橡胶、纸张和熟石膏的生产工业,常用的一种无色或白色的矿物质。
+Translation: 建筑业及水泥、橡胶、纸张和熟石膏的生产工业,常用的一种无色或白色的矿物质。 (来源: CED)"
 
 Code: 3808
 English Term: habitat
 Definition: 1) The locality in which a plant or animal naturally grows or lives. It can be either the geographical area over which it extends, or the particular station in which a specimen is found.&#10; 2) A physical portion of the environment that is inhabited by an organism or population of organisms. A habitat is characterized by a relative uniformity of the physical environment and fairly close interaction of all the biological species involved. In terms of region, a habitat may comprise a desert, a tropical forest, a prairie field, the Arctic Tundra or the Arctic Ocean.&#10;(Source: WRIGHT /  GILP)
 Chinese Term: 栖息地
-Translation: 1）植物或动物自然生长或生活的地方。它可以是可伸展的地理区域，或是样本发现的具体地方。2）一种生物或一个生物群落栖息的自然地域。具有相对均一的环境和所有生物品系的近距离作用。就地区而言，它可以包括沙漠、热带森林、大草原、北极冻原或北冰洋。
+Translation: 1）植物或动物自然生长或生活的地方。它可以是可伸展的地理区域，或是样本发现的具体地方。2）一种生物或一个生物群落栖息的自然地域。具有相对均一的环境和所有生物品系的近距离作用。就地区而言，它可以包括沙漠、热带森林、大草原、北极冻原或北冰洋。(来源: WRIGHT , GILP)
 
 Code: 14851
 English Term: habitat destruction
 Definition: Destruction of wildlife habitats by increasing pressure for land by fast-growing human populations, pollution and over-exploitation. Whole species or populations of plants and animals have disappeared causing a loss of genetic resource that is not only regrettable from an aesthetic or philosophical point of view but also threatens man's food supply. Habitat loss takes several forms: outright loss of areas used by wild species; degradation, for example, from vegetation removal and erosion, which deprive native species of food, shelter, and breeding areas; and fragmentation, when native species are squeezed onto small patches of undisturbed land surrounded by areas cleared for agriculture and other purposes.&#10;(Source: WPR /  WRES)
 Chinese Term: 栖息地破坏
-Translation: 由于人口的快速成长对土地需求的增加、以及污染和过度的开发，造成野生动物栖地的破坏。动、植物之物种或族群的全面消失使得基因源丧失，其不仅在哲学和美学的层面会留下遗憾，且威胁人类的食物来源。栖地的消失有几种型式：如，野生物种栖地的澈底消失；植被移除或腐蚀导致土质恶化，影响原生物种的食物、栖地、养育地；或因为农业或其他用地的使用，使原生物种被迫迁移至未受干扰但被其他用途所围绕的小块土地时，其活动区域遭到分割。
+Translation: 由于人口的快速成长对土地需求的增加、以及污染和过度的开发，造成野生动物栖地的破坏。动、植物之物种或族群的全面消失使得基因源丧失，其不仅在哲学和美学的层面会留下遗憾，且威胁人类的食物来源。栖地的消失有几种型式：如，野生物种栖地的澈底消失；植被移除或腐蚀导致土质恶化，影响原生物种的食物、栖地、养育地；或因为农业或其他用地的使用，使原生物种被迫迁移至未受干扰但被其他用途所围绕的小块土地时，其活动区域遭到分割。(来源: WPR / WRES)
 
 
 Code: 3810
@@ -13487,49 +13491,49 @@ Code: 3812
 English Term: hail
 Definition: Precipitation in the form of balls or irregular lumps of ice, always produced by convective clouds, nearly always cumulonimbus.&#10;(Source: MGH)
 Chinese Term: 冰雹
-Translation: 以球状或不规则冰块形态呈现的降水，都由对流云层所产生，几乎都是积雨云。
+Translation: 以球状或不规则冰块形态呈现的降水，都由对流云层所产生，几乎都是积雨云。 (来源：MGH)
 
 Code: 3815
 English Term: half-life
 Definition: The time required for one-half the atoms of a given amount of radioactive material to undergo radioactive decay.&#10;(Source: KOREN)
 Chinese Term: 半衰期
-Translation: 定量的辐射性物质，其原子之数量经由辐射衰退为原来的一半所需的时间。
+Translation: 定量的辐射性物质，其原子之数量经由辐射衰退为原来的一半所需的时间。(来源: KOREN)
 
 Code: 3817
 English Term: haloform
 Definition: A haloalkane, containing three halogen atoms, e.g. iodoform, CHI3; a haloform reaction is a reaction to produce haloforms from a ketone. For example, if propanone is treated with bleaching powder, the chlorinated ketone so formed reacts to form chloroform.&#10;(Source: UVAROV)
 Chinese Term: 卤仿
-Translation: 一种分子中含三个卤素原子的卤烷烃物质,如碘仿CHI3(三碘甲烷)；卤仿反应是从酮中产生卤仿的反应。例如，让丙酮与漂白粉反应，被氯化了的酮便会发生化学反应生成氯仿。
+Translation: 一种分子中含三个卤素原子的卤烷烃物质,如碘仿CHI3(三碘甲烷)；卤仿反应是从酮中产生卤仿的反应。例如，让丙酮与漂白粉反应，被氯化了的酮便会发生化学反应生成氯仿。 (来源: UVAROV)
 
 Code: 3819
 English Term: halogenated biphenyl
 Definition: Halogen derivatives of biphenyl.&#10;(Source: MGH)
 Chinese Term: 卤化联苯
-Translation:联苯的卤化衍生物。
+Translation:联苯的卤化衍生物。(来源: MGH)
 
 Code: 11718
 English Term: halogenated compound
 Definition: A substance containing halogen atoms.&#10;(Source: MGHa)
 Chinese Term: 卤化物
-Translation: 含有卤素原子的物质。
+Translation: 含有卤素原子的物质。(来源: MGHa)
 
 Code: 3820
 English Term: halogenated hydrocarbon
 Definition: One of a group of halogen derivatives of organic hydrogen and carbon containing compounds; the group includes monohalogen compounds (alkyl or aryl halides) and polyhalogen compounds that contain the same or different halogen atoms.&#10;(Source: MGH)
 Chinese Term: 卤化碳氢化合物
-Translation: 含有卤素的有机碳氢化合物的衍生物，此类化合物包含单一卤素化合物(烷基或芳香族化合物)和含有相同或不同卤素的多卤素化合物。
+Translation: 含有卤素的有机碳氢化合物的衍生物，此类化合物包含单一卤素化合物(烷基或芳香族化合物)和含有相同或不同卤素的多卤素化合物。(来源: MGHa)
 
 Code: 3821
 English Term: halogenated phenol
 Definition: Halogen derivatives of phenol. (Source: MGHa)
 Chinese Term: 卤化酚
-Translation: 酚的卤化衍生物。
+Translation: 酚的卤化衍生物。(来源: MGHa)
 
 Code: 3822
 English Term: halogenated pollutant
 Definition: An organic compound bonded with one of the five halogen elements (astatine, bromine, chlorine, fluorine, and iodine). Several of these compounds contribute to reductions in the concentration of ozone in the stratosphere.&#10;(Source: OER / ERG)
 Chinese Term: 卤化污染物
-Translation: 与五种卤素元素（砈、溴、氯、氟、碘）中的任何一种元素键结的有机化合物。许多此类化合物会减少平流层中臭氧的浓度。
+Translation: 与五种卤素元素（砈、溴、氯、氟、碘）中的任何一种元素键结的有机化合物。许多此类化合物会减少平流层中臭氧的浓度。(来源: OER / ERG)
 
 Code: 3823
 English Term: halogenated terphenyl
@@ -13541,121 +13545,121 @@ Code: 3830
 English Term: handicraft
 Definition: A particular skill performed with the hands. (Source: CED)
 Chinese Term: 手工艺，手工艺品
-Translation:  用手完成的特殊工艺（技巧）。
+Translation:  用手完成的特殊工艺（技巧）。(来源: CED)
 
 Code: 3828
 English Term: handicraft business
 Definition: The profession, commercial firm or trade involving the production and distribution of articles that are made through the skilled use of one's hands.&#10;(Source: RHW)
 Chinese Term: 手工艺业
-Translation: 从事手工商品的生产和销售的行业或贸易公司，这种商品主要是靠具有手工技艺的人员制作出来的。
+Translation: 从事手工商品的生产和销售的行业或贸易公司，这种商品主要是靠具有手工技艺的人员制作出来的。 (来源: RHW)
 
 Code: 3834
 English Term: harbour
 Definition: Area of water next to the coast, often surrounded by thick walls, where ships and boats can be sheltered.&#10;(Source: CAMB)
 Chinese Term: 海港
-Translation: 临海岸的水域，通常有厚墙围绕，可提供船只的掩蔽。
+Translation: 临海岸的水域，通常有厚墙围绕，可提供船只的掩蔽。(来源: CAMB)
 
 Code: 3837
 English Term: hardness
 Definition: Resistance of a solid to indentation, scratching, abrasion or cutting.&#10;(Source: MGH)
 Chinese Term: 硬度
-Translation: 固体抵抗变形、刮、摩擦、或切割的阻力。
+Translation: 固体抵抗变形、刮、摩擦、或切割的阻力。(来源: MGH)
 
 Code: 3838
 English Term: hard-to-dispose-of waste
 Definition: Discarded material, often hazardous or in large volume, for which there is no obvious disposal route.&#10;(Source: DHW)
 Chinese Term: 难处理废弃物
-Translation: 通常由于有毒或具有较大体积，而没有明显的处置途径的废弃物质。
+Translation: 通常由于有毒或具有较大体积，而没有明显的处置途径的废弃物质。(来源: DHW)
 
 Code: 3847
 English Term: harmonisation of law
 Definition: The process by which two or more states, sometimes under the auspices of an interstate or international organization, change their legislation relevant to some area of common concern to conform their statutes and to facilitate compliance and enforcement across borders.&#10;(Source: GT2)
 Chinese Term: 法律协调
-Translation: 两个以上国家（州），有时在国际性或跨州组织的协助下，改变其有关某些共同关切地区的立法，以适合其法规并使不同区域内的承诺与执行更加容易的过程。
+Translation: 两个以上国家（州），有时在国际性或跨州组织的协助下，改变其有关某些共同关切地区的立法，以适合其法规并使不同区域内的承诺与执行更加容易的过程。 (来源: GT2)
 
 Code: 3849
 English Term: harvest
 Definition: The amount or measure of the crop gathered in a season. (Source: AMHER)
 Chinese Term: 收成
-Translation: 在一定季节被采集的农作物的数量或量度。
+Translation: 在一定季节被采集的农作物的数量或量度。(来源: AMHER)
 
 Code: 3852
 English Term: hazard
 Definition: A physical or chemical agent capable of causing harm to persons, property, animals, plants or other natural resources.&#10;(Source: FFD / HMD)
 Chinese Term: 危险物
-Translation: 一种能够对个人、财产、动物、植物、或其他自然资源造成危害的物理性或化学性介质。
+Translation: 一种能够对个人、财产、动物、植物、或其他自然资源造成危害的物理性或化学性介质。(来源: FFD / HMD)
 
 Code: 12783
 English Term: hazard area
 Definition: Any site or region in which there is a physical or chemical agent capable of causing harm to property, persons, animals, plants or other natural resources.&#10;(Source: FFD / HMD)
 Chinese Term: 危险区域
-Translation: 任何含有某种能够导致财产、人员、动物、植物或其他天然资源受到伤害的物理或化学介质的地点或地区。
+Translation: 任何含有某种能够导致财产、人员、动物、植物或其他天然资源受到伤害的物理或化学介质的地点或地区。(来源: FFD / HMD)
 
 Code: 3853
 English Term: hazard of pollutants
 Definition: Risk or danger to human health, property or the environment posed by the introduction of a harmful substances into the ecosystem.&#10;(Source: RHW / TOE)
 Chinese Term: 污染物危害
-Translation: 有害物质引入生态系统后，对人体健康、财产或环境所造成的危害与风险。
+Translation: 有害物质引入生态系统后，对人体健康、财产或环境所造成的危害与风险。(来源: RHW / TOE)
 
 Code: 1968
 English Term: hazardous chemical export
 Definition: Transporting substances capable of producing adverse health effects, fires or explosions to other countries or areas for the conduct of foreign trade.&#10;(Source: TOE / MGHME)
 Chinese Term: 有害（危险）化学品出口
-Translation: 利用外贸手段将对健康有负面作用、易燃或易爆的物质运送到其他国家和地区。
+Translation: 利用外贸手段将对健康有负面作用、易燃或易爆的物质运送到其他国家和地区。 (来源: TOE /MGHME)
 
 Code: 3854
 English Term: hazardous substance
 Definition: Any material that poses a threat to human health and/or the environment. Typical hazardous substances are toxic, corrosive, ignitable, explosive, or chemically reactive.&#10;(Source: LEE)
 Chinese Term: 有害（危险）物质
-Translation: 指能对人类健康或环境产生威胁的物质，典型的有害物质通常是有毒、具腐蚀性、易燃、易爆炸或具化学反应性的物品。
+Translation: 指能对人类健康或环境产生威胁的物质，典型的有害物质通常是有毒、具腐蚀性、易燃、易爆炸或具化学反应性的物品。(来源: LEE)
 
 Code: 3855
 English Term: hazardous substances legislation
 Definition: A binding rule or body of rules prescribed by a government to regulate the production, use or clean-up of materials that pose a threat to human health and the environment, particularly materials that are toxic, corrosive, ignitable, explosive or chemically reactive.&#10;(Source: TOE / BLD)
 Chinese Term: 有害物质立法
-Translation: 政府为管制对人体健康及环境具有威胁物质的生产、使用或清除,所规定必须遵守的规则或法体，特别是指具有毒性、腐蚀性、可燃性、爆炸性或化学反应性的物质。
+Translation: 政府为管制对人体健康及环境具有威胁物质的生产、使用或清除,所规定必须遵守的规则或法体，特别是指具有毒性、腐蚀性、可燃性、爆炸性或化学反应性的物质。 (来源: TOE/BLD)"
 
 Code: 3858
 English Term: hazardous waste
 Definition: Any waste or combination of wastes with the potential to damage human health, living organisms or the environment. Hazardous wastes usually require special handling and disposal procedures which are regulated by national and international laws.&#10;(Source: HMD / DEE /  HMH)
 Chinese Term: 有害废弃物
-Translation: 对人类健康、生物体或环境具有潜在危害作用的任何废弃物或废弃物的混合。有害废弃物通常需要特殊的处理与处置程序，而这些程序由国家或国际性法律所管制。
+Translation: 对人类健康、生物体或环境具有潜在危害作用的任何废弃物或废弃物的混合。有害废弃物通常需要特殊的处理与处置程序，而这些程序由国家或国际性法律所管制。(来源: HMD / DEE / HMH)
 
 Code: 3857
 English Term: hazardous waste dump
 Definition: Disposal facilities where hazardous waste is placed in or on land. Properly designed and operated landfills are lined to prevent leakage and contain systems to collect potentially contaminated surface water run-off.&#10;(Source: PARCOR /  WPR)
 Chinese Term:有害废弃物弃置场
-Translation: 地面或地下的有害废弃物处置场所。经由适当设计和操作的掩埋场，其底部舖设防水布以防止泄漏，并设置污水收集系统以防止有可能被污染的地表水溢流。
+Translation: 地面或地下的有害废弃物处置场所。经由适当设计和操作的掩埋场，其底部舖设防水布以防止泄漏，并设置污水收集系统以防止有可能被污染的地表水溢流。(来源: PARCOR /  WPR)
 
 Code: 3859
 English Term: hazardous working material
 Definition: A poison, corrosive agent, flammable substance, explosive, radioactive chemical, or any other material which can endanger human health or well-being if handled improperly.&#10;(Source: MGH)
 Chinese Term: 有害作业物质
-Translation: 一种有毒的、有腐蚀性的介质、易燃物、易爆物、放射性化学品或其他任何若处理不当则可危及人类健康或福祉的物质。
+Translation: 一种有毒的、有腐蚀性的介质、易燃物、易爆物、放射性化学品或其他任何若处理不当则可危及人类健康或福祉的物质。(来源: MGH)
 
 Code: 3860
 English Term: haze
 Definition: Reduced visibility in the air as a result of condensed water vapour, dust, etc., in the atmosphere.&#10;(Source: CED)
 Chinese Term: 烟雾，霾
-Translation: 由于大气中凝结水蒸气与灰尘等而降低空气中可见度的物质。
+Translation: 由于大气中凝结水蒸气与灰尘等而降低空气中可见度的物质。 (来源：CED)
 
 Code: 3864
 English Term: headland (farm)
 Definition: A strip of land left at the end of a furrow in a field in order to facilitate the turning of the plough.&#10;(Source: WHIT)
 Chinese Term: 枕地（农场方面）
-Translation: 位于犁田末端的一块条状地，其用途是为了方便犁耕时的迴转。
+Translation: 位于犁田末端的一块条状地，其用途是为了方便犁耕时的迴转。(来源: WHIT)
 
 Code: 10144
 English Term: headland (geography)
 Definition: A cape or promontory jutting seawards from a coastline, usually with a significant sea cliff.&#10;(Source: WHIT)
 Chinese Term: 岬角（地理学方面）
-Translation: 从岸边往海的方向伸出的海岬，通常有明显的海岸峭壁。
+Translation: 从岸边往海的方向伸出的海岬，通常有明显的海岸峭壁。 (来源： WHIT)
 
 Code: 3865
 English Term: health
 Definition: A state of dynamic equilibrium between an organism and its environment in which all functions of mind and body are normal.&#10;(Source: MGH)
 Chinese Term: 健康、卫生
-Translation: 生物个体与所处环境间的动态平衡状态，在此状态中身心功能皆处于正常状态。
+Translation: 生物个体与所处环境间的动态平衡状态，在此状态中身心功能皆处于正常状态。(来源: MGH)
 
 Code: 3866
 English Term: health care
@@ -13673,7 +13677,7 @@ Code: 10017
 English Term: health effect of noise
 Definition: Noise consequences on human health consist in loss of hearing and psychological effects.&#10;(Source: KOREN)
 Chinese Term: 噪音对的健康影响
-Translation: 导致人类听力损失与心理影响的噪音影响。
+Translation: 导致人类听力损失与心理影响的噪音影响。(来源: KOREN)
 
 Code: 3871
 English Term: health facility
@@ -13691,7 +13695,7 @@ Code: 3874
 English Term: health legislation
 Definition: Laws, ordinances, or Codes prescribing sanitary, clean air, etc., standards and regulations, designed to promote and preserve the health of the community and working conditions of businesses.&#10;(Source: BLACK)
 Chinese Term: 健康立法
-Translation: 设计规格和规章,用来促进和保护社区和企业工作环境健康的法律、法令、公共卫生法、空气污染法等。
+Translation: 设计规格和规章,用来促进和保护社区和企业工作环境健康的法律、法令、公共卫生法、空气污染法等。(来源: BLACK)
 
 Code: 3877
 English Term: health protection
@@ -13703,13 +13707,13 @@ Code: 3878
 English Term: health regulation
 Definition: A body of rules or orders prescribed by government or management to promote or protect the soundness of human bodies and minds in the workplace, at home or in the general environment.&#10;(Source: BLD / RHW)
 Chinese Term:健康法规
-Translation: 由政府或管理部门,为促进或保护在工作场所、家庭或一般环境中人体或心智的健全,所规定的法规或命令。
+Translation: 由政府或管理部门,为促进或保护在工作场所、家庭或一般环境中人体或心智的健全,所规定的法规或命令。 (来源: BLD / RHW)
 
 Code: 3881
 English Term: health service
 Definition: The supply of health care to the public. (Source: CEDa)
 Chinese Term:健康服务、医疗服务
-Translation:为大众提供健康护理服务。
+Translation:为大众提供健康护理服务。(来源: CEDa)
 
 Code: 12379
 English Term: health-care activities waste
@@ -13721,25 +13725,25 @@ Code: 3869
 English Term: health-environment relationship
 Definition: Relationship between the quality of the environment and the health conditions of individuals.&#10;(Source: DIZAMB)
 Chinese Term:健康与环境的关系
-Translation: 环境品质与个人健康状况之间的关系。
+Translation: 环境品质与个人健康状况之间的关系。(来源: DIZAMB)
 
 Code: 3880
 English Term: health-related biotechnology
 Definition:Health-related biotechnologies are concerned with large-molecule protein pharmaceuticals, genetic engineering, etc.&#10;(Source: BIOTAZ /  DELFINa)
 Chinese Term: 健康相关生物技术
-Translation: 研究大分子蛋白质药品、基因工程等健康相关的生化技术。
+Translation: 研究大分子蛋白质药品、基因工程等健康相关的生化技术。(来源: BIOTAZ /  DELFINa)
 
 Code: 3887
 English Term: hearing (sense)
 Definition: The general perceptual behaviour and the specific responses made in relation to sound stimuli.&#10;(Source: MGH)
 Chinese Term:听觉（感官）
-Translation: 对相应的声音刺激所产生的一般认知行为和特定反应。
+Translation: 对相应的声音刺激所产生的一般认知行为和特定反应。 (来源： MGH)
 
 Code: 11879
 English Term: hearing acuity
 Definition: Effectiveness of hearing. (Source: CAMB)
 Chinese Term: 听觉灵敏度，听力
-Translation:听觉的有效性。
+Translation:听觉的有效性。(来源: CAMB)
 
 Code: 3884
 English Term: hearing impairment
@@ -13751,115 +13755,115 @@ Code: 3885
 English Term: hearing procedure
 Definition: Any prescribed course or mode of action governing the preliminary examination by a magistrate of basic evidence and charges to determine whether criminal proceedings, a trial or other judicial actions are justified.&#10;(Source: RHW)
 Chinese Term: 聆讯（听审）过程
-Translation: 由地方法官执掌初步审问基本证据和指控，以确定是否有罪的过程。任何诉讼所规定的过程或模式，是为审问或其他司法行动辩护。
+Translation: 由地方法官执掌初步审问基本证据和指控，以确定是否有罪的过程。任何诉讼所规定的过程或模式，是为审问或其他司法行动辩护。 (来源: RHW)
 
 Code: 3886
 English Term: hearing protection
 Definition: The total of measures and devices implemented to preserve persons from harm to the faculty of perceiving sound.&#10;(Source: OED)
 Chinese Term:听觉保护、听力保健
-Translation: 为了使个人接受声音的机能免于伤害而采用的方法与设备的总称。
+Translation: 为了使个人接受声音的机能免于伤害而采用的方法与设备的总称。(来源: OED)
 
 Code: 11835
 English Term: hearing system
 Definition: The system that is concerned with the perception of sound, is mediated through the organ of Corti of the ear in mammals or through corresponding sensory receptors of the lagena in lower vertebrates, is normally sensitive in man to sound vibrations between 16 and 27.000 cycles per second but most receptive to those between 2.000 and 5.000 cycles per second, is conducted centrally by the cochlear branch of the auditory nerve, and is coordinated especially in the medial geniculate body.&#10;(Source: WEBSTE)
 Chinese Term: 听觉系统
-Translation: 与声音的认知有关，经由哺乳动物耳朵内的耳蜗接受器(Corti器官)或低等脊椎动物的瓶状知觉接收器传导的系统。正常情况下人可以感知到16-27000周每秒的音频，而对2000-5000周每秒之间的感知较为敏锐。听觉系统是由听觉神经中的耳蜗分支为中心主导，且由脑神经室的中央膝状体来专门协调。
+Translation: 与声音的认知有关，经由哺乳动物耳朵内的耳蜗接受器(Corti器官)或低等脊椎动物的瓶状知觉接收器传导的系统。正常情况下人可以感知到16-27000周每秒的音频，而对2000-5000周每秒之间的感知较为敏锐。听觉系统是由听觉神经中的耳蜗分支为中心主导，且由脑神经室的中央膝状体来专门协调。(来源: WEBSTE)
 
 Code: 3890
 English Term: heat (physics)
 Definition: A form of energy that is transferred by a difference in temperature: it is equal to the total kinetic energy of the atoms or molecules of a system.&#10;(Source: CED)
 Chinese Term:热（物理）
-Translation: 能量的一种形式，其经由温度的不同而传送，它等同于一系统的原子或分子的总动能。
+Translation: 能量的一种形式，其经由温度的不同而传送，它等同于一系统的原子或分子的总动能。(来源: CED)
 
 Code: 3891
 English Term: heat and power station
 Definition: Power station which produces both electricity and hot water for the local population. A CHP (Combined Heat and Power Station) plant may operate on almost any fuel, including refuse.&#10;(Source: PHC)
 Chinese Term: 汽电共生厂
-Translation: 为当地居民供应电力和热水的能量站。一个（结合热和电能）的电厂可使用任何形式的能源而运转，包括垃圾。
+Translation: 为当地居民供应电力和热水的能量站。一个（结合热和电能）的电厂可使用任何形式的能源而运转，包括垃圾。(来源: PHC)
 
 Code: 3904
 English Term: heat pump
 Definition: A device which transfers heat from a cooler reservoir to a hotter one, expending mechanical energy in the process, especially when the main purpose is to heat the hot reservoir rather than refrigerate the cold one.&#10;(Source: MGH)
 Chinese Term: 热泵
-Translation: 一种由温度较低的储槽将热量传送到温度较高的热源的装置，在传递过程中消耗机械能，特别是在主要目的是升温而非降温时消耗的机械能更多。
+Translation: 一种由温度较低的储槽将热量传送到温度较高的热源的装置，在传递过程中消耗机械能，特别是在主要目的是升温而非降温时消耗的机械能更多。 (来源: MGH)
 
 Code: 3906
 English Term: heat storage
 Definition: Keeping heat created during a period of low consumption until a peak period when it is needed.&#10;(Source: PHC)
 Chinese Term:热储存
-Translation: 在需热较少的时期贮存产生的热量，以备在需热高峰期使用。
+Translation: 在需热较少的时期贮存产生的热量，以备在需热高峰期使用。 (来源: PHC)
 
 Code: 3907
 English Term: heat supply
 Definition: The provision of heating fuel, coal or other heating source materials, or the amount of heating capacity, for the use of a municipality, or other heat user.&#10;(Source: ISEP)
 Chinese Term:热供应、供热
-Translation: 用于全市居民或其他热能使用者的加热燃料、煤或其他加热资源的供应，或加热的最大能量。
+Translation: 用于全市居民或其他热能使用者的加热燃料、煤或其他加热资源的供应，或加热的最大能量。(来源: ISEP)
 
 Code: 3892
 English Term: heater
 Definition: An apparatus that heats or provides heat.&#10;(Source: AMHER)
 Chinese Term:供热器
-Translation: 一种加热或提供热量的装置、设备。
+Translation: 一种加热或提供热量的装置、设备。(来源: AMHER)
 
 Code: 3893
 English Term: heathland
 Definition: An area with poor acid soil, typically dominated by ling (Calluna) or heaths (Erica).&#10;(Source: ALL)
 Chinese Term: 荒野
-Translation: 贫瘠的酸性土壤地区，通常蔓生着石南植物(欧石楠或彩萼石楠)。
+Translation: 贫瘠的酸性土壤地区，通常蔓生着石南植物(欧石楠或彩萼石楠)。 (来源： ALL)
 
 Code: 3894
 English Term: heating
 Definition: A system for supplying heat, especially central heating, to a building.&#10;(Source: HARRIS)
 Chinese Term:供热系统
-Translation: 为建筑物提供热能的系统，特别是中央供热系统。
+Translation: 为建筑物提供热能的系统，特别是中央供热系统。(来源: HARRIS)
 
 Code: 3900
 English Term: heating plant
 Definition: Plant for producing and supplying heat.&#10;(Source: CEDa)
 Chinese Term: 供热工厂
-Translation: 产生和供应热能的工厂。
+Translation: 产生和供应热能的工厂。(来源: CEDa)
 
 Code: 3911
 English Term: heavy goods vehicle traffic
 Definition: Traffic of large motor vehicles designed to carry heavy loads. (Source: CEDa)
 Chinese Term:重装载车辆运输
-Translation: 设计用来运载重物的大型机动车辆的运输。
+Translation: 设计用来运载重物的大型机动车辆的运输。 (来源: CEDa)
 
 Code: 3915
 English Term: heavy metal
 Definition: A metal whose specific gravity is approximately 5.0 or higher.&#10;(Source: MGH)
 Chinese Term: 重金属
-Translation: 比重接近或高于5.0的金属。
+Translation: 比重接近或高于5.0的金属。 (来源: MGH)
 
 Code: 3914
 English Term: heavy metal load
 Definition: The amount of stress put on an ecosystem by heavy metal pollution released into it.&#10;(Source: ISEP)
 Chinese Term: 重金属负荷
-Translation: 重金属污染排放到生态系统，对生态系统所造成的压力负荷。
+Translation: 重金属污染排放到生态系统，对生态系统所造成的压力负荷。(来源: ISEP)
 
 Code: 3917
 English Term: hedge
 Definition: A line of closely planted bushes or shrubs, marking the boundaries of a field. The type of hedge varies between parts of the country, and its age can be dated from the number of species of tree and shrub present. Over the last thirty years hedge-row removal has had a marked visual effect on lowland agricultural landscapes. From the farmer's point of view, in areas of predominant arable or intensively managed grazing, there is little or no economic justification for retaining hedges.&#10;(Source: GOOD)
 Chinese Term: 树篱
-Translation: 在周界种植一排紧密的灌木或矮树丛之场地。树篱的类型因地区不同而异，而其使用时间也可由现有树木及灌木之种类数量加以推算。过去的三十年中，树篱被整列移除对低地的农业景观里有明显影响，因为从农民的观点而言，在主要的耕地和密集的牧草地，并无特别的理由需要维持树篱的存在。
+Translation: 在周界种植一排紧密的灌木或矮树丛之场地。树篱的类型因地区不同而异，而其使用时间也可由现有树木及灌木之种类数量加以推算。过去的三十年中，树篱被整列移除对低地的农业景观里有明显影响，因为从农民的观点而言，在主要的耕地和密集的牧草地，并无特别的理由需要维持树篱的存在。(来源: GOOD)
 
 Code: 3933
 English Term: herbicide
 Definition: A chemical that controls or destroys undesirable plants.&#10;(Source: LANDY)
 Chinese Term: 除草剂
-Translation: 用来控制或破坏不想要的植物的化学物质。
+Translation: 用来控制或破坏不想要的植物的化学物质。(来源: LANDY)
 
 Code: 3935
 English Term: herbivore
 Definition: An animal that feeds on grass and other plants.&#10;(Source: CED)
 Chinese Term: 草食动物
-Translation: 以青草或其他植物为食物的动物。
+Translation: 以青草或其他植物为食物的动物。 (来源： CED)
 
 Code: 3937
 English Term: heterocyclic compound
 Definition: Compound in which the ring structure is a combination of more than one kind of atom.&#10;(Source: MGH)
 Chinese Term: 杂环化合物
-Translation: 环状结构中含有一种以上不同原子的化合物。
+Translation: 环状结构中含有一种以上不同原子的化合物。(来源: MGH)
 
 Code: 3949
 English Term: high mountain
@@ -13877,98 +13881,98 @@ Code: 3958
 English Term: high tide water
 Definition: The level of water when the tide is at its highest level. (Source: CED)
 Chinese Term: 高潮水位
-Translation: 潮汐达到其最高程度时的水位。
+Translation: 潮汐达到其最高程度时的水位。 (来源： CED)
 
 Code: 3960
 English Term: high voltage line
 Definition: An electric line with a voltage on the order of thousands of volts.&#10;(Source: MGH)
 Chinese Term: 高压电线
-Translation: 电压达到数千伏特的电线。
+Translation: 电压达到数千伏特的电线。(来源: MGH)
 
 Code: 3945
 English Term: higher education
 Definition: Study beyond secondary school at an institution that offers programs terminating in undergraduate and graduate degrees.&#10;(Source: COE)
 Chinese Term: 高等教育
-Translation: 中学以后的教育，这类教育机构提供学士与研究所（硕士、博士）学位课程。
+Translation: 中学以后的教育，这类教育机构提供学士与研究所（硕士、博士）学位课程。(来源: COE)
 
 Code: 3947
 English Term: highland ecosystem
 Definition: The interacting systems of the biological communities and their non-living surroundings in regions of relatively high elevation, typically characterized by decreased air pressure and temperature, reduced oxygen availability and increased isolation.&#10;(Source: TOE / APD)
 Chinese Term: 高地生态系统
-Translation: 位于具有相对高海拔及大气压力与温度降低，氧气可用率减少，以及隔绝性增加等典型特征的地区中，生物群体与其非居住环境之间相互影响的系统。
+Translation: 位于具有相对高海拔及大气压力与温度降低，氧气可用率减少，以及隔绝性增加等典型特征的地区中，生物群体与其非居住环境之间相互影响的系统。(来源: TOE / APD)
 
 Code: 3954
 English Term: high-rise building
 Definition: Any tall, multistoried structure or edifice that is equipped with elevators.&#10;(Source: RHW)
 Chinese Term: 高层建筑
-Translation: 配有电梯的高耸、多层的建筑物或大厦。
+Translation: 配有电梯的高耸、多层的建筑物或大厦。(来源: RHW)
 
 Code: 3955
 English Term: high-speed railway
 Definition: The term "high-speed traffic" encompasses all trains running at speeds over 200 km/h but also trains running at 200 km/h if the terrain, population density or economic reasons do not justify higher speeds.&#10;(Source: EJRCF)
 Chinese Term: 高速铁路
-Translation: “高速运输”这个术语包含了所有时速在200公里以上的列车，但也包括某些因地域限制、人口密度或经济理由而不允许较高车速时，其时速维持在200公里的列车。
+Translation: “高速运输”这个术语包含了所有时速在200公里以上的列车，但也包括某些因地域限制、人口密度或经济理由而不允许较高车速时，其时速维持在200公里的列车。(来源: EJRCF)
 
 Code: 3956
 English Term: high-speed train
 Definition: Trains travelling at maximum speeds of 300kmh on special high-speed rail lines.&#10;(Source: RRDA)
 Chinese Term:高速火车
-Translation: 行驶于特殊高速轨道上且最高时速可达300kmh的火车。
+Translation: 行驶于特殊高速轨道上且最高时速可达300kmh的火车。(来源: RRDA)
 
 Code: 3963
 English Term: highway
 Definition: A public road especially an important road that joins cities or towns together.&#10;(Source: CAMB)
 Chinese Term:公路
-Translation: 供公众使用的道路，特别是指连接城市或乡镇之间的道路。
+Translation: 供公众使用的道路，特别是指连接城市或乡镇之间的道路。(来源: CAMB)
 
 Code: 13568
 English Term: hiking trail
 Definition: A trail in the country along which one can walk, usually for pleasure or exercise.&#10;(Source: CEDa)
 Chinese Term:人行小径
-Translation: 乡间提供行走的路径，通常用来做休闲或运动。
+Translation: 乡间提供行走的路径，通常用来做休闲或运动。(来源: CEDa)
 
 Code: 3966
 English Term: hill
 Definition:A natural elevation of the land surface, rising rather prominently above the surrounding land, usually of limited extent and having a well-defined outline, rounded rather than peaked or rugged, with no specific definition of absolute elevation.&#10;(Source: BJGEO)
 Chinese Term: 山，山丘
-Translation: 地表上自然高起之处，较周围陆地显著的隆起，常具有有限的范围与轮廓清楚的外形，圆形而较不尖锐或崎岖不平的顶端，没有特别定义的绝对高度。
+Translation: 地表上自然高起之处，较周围陆地显著的隆起，常具有有限的范围与轮廓清楚的外形，圆形而较不尖锐或崎岖不平的顶端，没有特别定义的绝对高度。(来源: BJGEO)
 
 
 Code: 10066
 English Term: historic centre
 Definition: hat part of a town or city in which the principal public and historic buildings are located.&#10;(Source: GOOD)
 Chinese Term: 历史中心
-Translation: 城镇中主要的公共和历史建筑的所在地。
+Translation: 城镇中主要的公共和历史建筑的所在地。(来源: GOOD)
 
 Code: 3971
 English Term: historical evolution
 Definition: The process by which small but cumulative changes in the learned, nonrandom, systematic behavior and knowledge of a people occur from generation to generation.&#10;(Source: ANT)
 Chinese Term: 历史变迁
-Translation: 一代接一代，不断发生的某种过程，即个人在学习上的、非随机的、系统性的行为和知识方面产生微小但不断累积的过程。
+Translation: 一代接一代，不断发生的某种过程，即个人在学习上的、非随机的、系统性的行为和知识方面产生微小但不断累积的过程。(来源: ANT)
 
 Code: 3974
 English Term: historical monument
 Definition: Monument built in memory of an historical event. &#10;(Source: RRDA)
 Chinese Term: 历史纪念碑
-Translation:  为纪念历史事件而设立的纪念碑。
+Translation:  为纪念历史事件而设立的纪念碑。(来源: RRDA)
 
 Code: 3975
 English Term: historical research
 Definition: The study of events in relation to their development over time.&#10;(Source: GOOD)
 Chinese Term: 历史研究
-Translation: 对事件随时间变迁而发展的关系的研究。
+Translation: 对事件随时间变迁而发展的关系的研究。(来源: GOOD)
 
 Code: 3977
 English Term: historical site
 Definition:Place where significant historical events occurred and which is important to an indigenous culture or a community.&#10;(Source: LANDYa)
 Chinese Term: 历史遗址
-Translation: 重要历史事件发生的所在地，对当地的文化或社会相当重要。
+Translation: 重要历史事件发生的所在地，对当地的文化或社会相当重要。(来源: LANDYa)
 
 Code: 3983
 English Term: history
 Definition: A systematic written account comprising a chronological record of events (as affecting a city, state, nation, institution, science, or art) and usually including a philosophical explanation of the cause and origin of such events.&#10;(Source: WEBSTE)
 Chinese Term: 历史
-Translation: 有系统的书面记录，包含按时间顺序记录的事件（对城市、州、国家、机构、科学、艺术的影响），内容通常包括对这些事件起因的客观说明。
+Translation: 有系统的书面记录，包含按时间顺序记录的事件（对城市、州、国家、机构、科学、艺术的影响），内容通常包括对这些事件起因的客观说明。(来源: WEBSTE)
 
 Code: 3986
 English Term: holiday
@@ -13980,50 +13984,50 @@ Code: 3984
 English Term: holiday camp
 Definition: A place providing accommodation, recreational facilities, etc. for holiday-makers.&#10;(Source: CED)
 Chinese Term: 假日野营地、度假村
-Translation: 提供度假游客住宿、娱乐设施等的地点。
+Translation: 提供度假游客住宿、娱乐设施等的地点。(来源: CED)
 
 
 Code: 13122
 English Term: home garden
 Definition: A plot of cultivated ground adjacent to a dwelling and usually devoted in whole or in part to the growing of herbs, fruits, flowers, or vegetables for household use.&#10;(Source: WEBSTE)
 Chinese Term: 宅园
-Translation: 临近住宅的一块有栽种植物的土地，通常其全部或部分地区用于种植供家用的草本植物、水果、花卉或蔬菜。
+Translation: 临近住宅的一块有栽种植物的土地，通常其全部或部分地区用于种植供家用的草本植物、水果、花卉或蔬菜。(来源: WEBSTE)
 
 Code: 14864
 English Term: homepage
 Definition: The preset document that is displayed after starting a World Wide Web browser, or the main World Wide Web document in a series of related documents.&#10;(Source: UNM / WIC)
 Chinese Term:主页
-Translation: 开启万维网（WWW）浏览器后的第一个页面，或是WWW上一系列相关文档的主要页面。
+Translation: 开启万维网（WWW）浏览器后的第一个页面，或是WWW上一系列相关文档的主要页面。(来源: UNM / WIC)
 
 Code: 11618
 English Term: homologation
 Definition: The approval given by the judge of certain acts and agreements for the purpose of rendering them more binding and executory.&#10;(Source: WESTS)
 Chinese Term: 审批
-Translation: 为成为更具法律约束力及可实行性的目的，赞同法官的某项法案和协定判定。
+Translation: 为成为更具法律约束力及可实行性的目的，赞同法官的某项法案和协定判定。(来源: WESTS)
 
 Code: 3995
 English Term: horse
 Definition: A large animal with four legs which people ride on or use for carrying things or pulling vehicles.&#10;(Source: CAMB)
 Chinese Term:马
-Translation:一种四条腿的大型动物，人们可以骑乘其上或用其来搬运东西、拉车等。
+Translation:一种四条腿的大型动物，人们可以骑乘其上或用其来搬运东西、拉车等。(来源: CAMB)
 
 Code: 3998
 English Term: horticulture
 Definition: The art and science of growing plants.&#10;(Source: MGH)
 Chinese Term: 园艺（学）
-Translation: 种植植物的技巧和科学。
+Translation: 种植植物的技巧和科学。(来源: MGH)
 
 Code: 3999
 English Term: hospital
 Definition: A place where people who are ill or injured are treated and taken care of by doctors and nurses.&#10;(Source: CAMB)
 Chinese Term:医院
-Translation:一个有医生和护士治疗，照顾生病或受伤病人的地方。
+Translation:一个有医生和护士治疗，照顾生病或受伤病人的地方。(来源: CAMB)
 
 Code: 4002
 English Term: hospital waste
 Definition: olid waste, both biological and non-biological, produced by hospitals and discarded and not intended for further use.&#10;(Source: SHG)
 Chinese Term: 医疗垃圾
-Translation: 由医院产生并丢弃不再使用的生物及非生物性固体废弃物。
+Translation: 由医院产生并丢弃不再使用的生物及非生物性固体废弃物。(来源: SHG)
 
 Code: 4009
 English Term: hot water
@@ -14035,13 +14039,13 @@ Code: 4008
 English Term: hotel industry
 Definition:The industry related with the provision of lodging and usually meals and other services for travelers and other paying guests.&#10;(Source: AMHER)
 Chinese Term:旅馆业
-Translation: 旅游者或其它付费顾客提供住处、膳食或其它服务的行业。
+Translation: 旅游者或其它付费顾客提供住处、膳食或其它服务的行业。(来源: AMHER)
 
 Code: 4015
 English Term: household
 Definition: A group of persons sharing a home or living space, who aggregate and share their incomes, as evidenced by the fact that they regularly take meals together.&#10;(Source: SOCIOL)
 Chinese Term: 家庭
-Translation: 分享一个家或居住空间的一群人，他们聚集并分享收入，具体的证据是他们规律性的一起用餐。
+Translation: 分享一个家或居住空间的一群人，他们聚集并分享收入，具体的证据是他们规律性的一起用餐。(来源: SOCIOL)
 
 Code: 4016
 English Term: household chemical
@@ -14053,7 +14057,7 @@ Code: 11038
 English Term: household expenditure
 Definition: Any spending done by a person living alone or by a group of people living together in shared accommodation and with common domestic expenses.&#10;(Source: ODE)
 Chinese Term: 家庭开支
-Translation: 任何由个人单独生活所用花销，或一起居住共同承担住宿和一般的家用花费的一群人的一切开支。
+Translation: 任何由个人单独生活所用花销，或一起居住共同承担住宿和一般的家用花费的一群人的一切开支。(来源: ODE)
 
 Code: 4018
 English Term: household goods
@@ -14071,7 +14075,7 @@ Code: 4027
 English Term: housing density
 Definition: The number of dwelling units or the residential population of a given geographic area.&#10;(Source: MIB)
 Chinese Term: 住宅稠密度
-Translation: 一定地理区域住宅单位的数量或人口总数。
+Translation: 一定地理区域住宅单位的数量或人口总数。 (来源: MIB)
 
 Code: 4029
 English Term: housing finance
@@ -14083,13 +14087,13 @@ Code: 4030
 English Term: housing improvement
 Definition: n addition, renovation or repair to a place of residence that increases its aesthetic, functional or financial value.&#10;(Source: RHW)
 Chinese Term:住宅装修
-Translation: 附加、更新或修补居住地,以增加美观、功能或财政价值。
+Translation: 附加、更新或修补居住地,以增加美观、功能或财政价值。 (来源: RHW)
 
 Code: 4032
 English Term: housing legislation
 Definition: A binding rule or body of rules prescribed by a government to regulate the buying, selling, leasing, construction or maintenance of dwelling places.&#10;(Source: BLD)
 Chinese Term: 住宅立法
-Translation: 政府为管制住所的买、卖、租赁、建造或维修,所规定必须遵守的规则或法体。
+Translation: 政府为管制住所的买、卖、租赁、建造或维修,所规定必须遵守的规则或法体。 (来源: BLD)
 
 Code: 4034
 English Term: housing need
@@ -14101,37 +14105,37 @@ Code: 4037
 English Term: housing programme
 Definition: A planned system of projects, services or activities intended to support individuals or families in need of shelter, including transitional or permanent housing and safe havens for low-income, elderly or homeless populations.&#10;(Source: HUD)
 Chinese Term: 居住供给方案
-Translation: 专案、服务和活动的计划性系统，目的是向有庇护需要的个人或家庭提供支援，包括低收入家庭、老年人和无家可归人员提供临时的和永久的住房以及安全的庇护所。
+Translation: 专案、服务和活动的计划性系统，目的是向有庇护需要的个人或家庭提供支援，包括低收入家庭、老年人和无家可归人员提供临时的和永久的住房以及安全的庇护所。(来源: HUD)
 
 Code: 4039
 English Term: housing quality standard
 Definition: A norm or measure applicable in legal cases and considered to reflect a relatively high grade or level of excellence in the construction, maintenance, operation, occupancy, use or appearance of dwelling units.&#10;(Source: BLD)
 Chinese Term: 住宅质量标准
-Translation: 适用于合法案件的准则或标准,和考虑使住所单位在建造、维修、运作、居住、使用或外观上,反映出较高等级或优秀水平。
+Translation: 适用于合法案件的准则或标准,和考虑使住所单位在建造、维修、运作、居住、使用或外观上,反映出较高等级或优秀水平。 (来源: BLD)
 
 Code: 4045
 English Term: human biology
 Definition: The study of human life and character.&#10;(Source: ZINZAN)
 Chinese Term:人类生物学
-Translation:对人类生活和特征的研究。
+Translation:对人类生活和特征的研究。(来源: ZINZAN)
 
 Code: 10018
 English Term: human body
 Definition: The entire physical structure of an human being.&#10;(Source: CED)
 Chinese Term:人体
-Translation:人类身体的整个物理结构。
+Translation:人类身体的整个物理结构。(来源: CED)
 
 Code: 4046
 English Term: human disease
 Definition: An interruption, cessation or disorder of human bodily functions, systems or organs resulting from genetic or developmental errors, infection, nutritional deficiency, toxicity, illness or unfavorable environmental factors.&#10;(Source: SMD / ISEP)
 Chinese Term:人类疾病
-Translation: 由于遗传或发展误差、感染、营养不足、毒性、生病或不适宜的环境因素所造成的人体机能、系统或组织的障碍、停止或不正常。
+Translation: 由于遗传或发展误差、感染、营养不足、毒性、生病或不适宜的环境因素所造成的人体机能、系统或组织的障碍、停止或不正常。(来源: SMD / ISEP)
 
 Code: 4047
 English Term: human ecology
 Definition: The study of the growth, distribution, and organization of human communities relative to their interrelationships with other humans and other species and with their environment.&#10;(Source: UNUN)
 Chinese Term:人类生态学
-Translation: 研究人类群体的成长、分布和组织，与其他人类、其他种群、周围环境之间的相互关係。
+Translation: 研究人类群体的成长、分布和组织，与其他人类、其他种群、周围环境之间的相互关係。(来源: UNUN)
 
 Code: 4049
 English Term: human exposure to pollutants
@@ -14143,31 +14147,31 @@ Code: 13120
 English Term: human habitat
 Definition: Any of the conditions in which people live. Also all human settlements in villages, towns or major cities, which require environmental management to provide water, public spaces, remove public wastes, etc.&#10;(Source: WRIGHT)
 Chinese Term: 人类居住地
-Translation: 任何人类居住的环境。包括所有供人们居住的乡村、城镇或主要城市，而这些地方都需要做好环境管理以提供水、公共空间和移除公共垃圾等。
+Translation: 任何人类居住的环境。包括所有供人们居住的乡村、城镇或主要城市，而这些地方都需要做好环境管理以提供水、公共空间和移除公共垃圾等。(来源: WRIGHT)
 
 Code: 4051
 English Term: human health
 Definition: The avoidance of disease and injury and the promotion of normalcy through efficient use of the environment, a properly functioning society, and an inner sense of well-being.&#10;(Source: KOREN)
 Chinese Term:人体健康
-Translation: 通过有效率的环境利用、适当的社会机制与内在的安宁意识，来避免疾病与伤害并促进身体机能的正常。
+Translation: 通过有效率的环境利用、适当的社会机制与内在的安宁意识，来避免疾病与伤害并促进身体机能的正常。(来源: KOREN)
 
 Code: 5236
 English Term: human migration
 Definition: The permanent or semipermanent change of a person's place of residence.&#10;(Source: GOOD)
 Chinese Term:人类移民
-Translation: 个人居住场所永久或暂时性的改变。
+Translation: 个人居住场所永久或暂时性的改变。(来源: GOOD)
 
 Code: 4054
 English Term: human pathology
 Definition: Branch of medicine concerned with the cause, origin, and nature of disease, including the changes occurring as a result of disease.&#10;(Source: CED)
 Chinese Term: 人体病理学
-Translation: 医学的分支，研究疾病的病因、病源和性质，包括疾病导致的变化。
+Translation: 医学的分支，研究疾病的病因、病源和性质，包括疾病导致的变化。(来源: CED)
 
 Code: 4055
 English Term: human physiology
 Definition: A branch of biological sciences that studies the functions of organs and tissues in human beings.&#10;(Source: OMD / WOR)
 Chinese Term: 人体生理学
-Translation: 生物学的分支，研究人体内器官与组织的功能。
+Translation: 生物学的分支，研究人体内器官与组织的功能。(来源: OMD / WOR)
 
 Code: 4056
 English Term: human population
@@ -14203,25 +14207,25 @@ Code: 13303
 English Term: humanitarian aid
 Definition: The support or relief given to save human lives or to alleviate suffering, including public health efforts and the provision of financial resources and food, often when governmental authorities are unable or unwilling to provide for such assistance.&#10;(Source: RHW / DPG)
 Chinese Term: 人道援助
-Translation: 拯救人命或舒解痛苦的援助或救助，包含公共卫生﹐财政资源与食物的供应，其时机通常为政府当权者无法或不愿提供这类救助之时。
+Translation: 拯救人命或舒解痛苦的援助或救助，包含公共卫生﹐财政资源与食物的供应，其时机通常为政府当权者无法或不愿提供这类救助之时。 (来源: RHW , DPG )
 
 Code: 4052
 English Term: human-made disaster
 Definition: Violent, sudden and destructive change in the environment caused by man.&#10;(Source: ISEP / RHW)
 Chinese Term:人为灾难
-Translation:由人类导致环境剧烈、突然和毁灭性的环境改变。
+Translation:由人类导致环境剧烈、突然和毁灭性的环境改变。(来源: ISEP /  RHW)
 
 Code: 4070
 English Term: humus
 Definition: The more or less decomposed organic matter in the soil. Besides being the source of most of the mineral salts needed by plants, humus improves the texture of the soil and holds water, so reducing the loss of nutrients by leaching.&#10;(Source: ALL)
 Chinese Term: 腐殖质
-Translation: 在土壤中或多或少不同程度分解的有机物质。除了可作为植物所需的主要矿物盐类来源，腐植土亦可改善土壤的组织和保住水，进而降低营养物因渗滤作用的流失。
+Translation: 在土壤中或多或少不同程度分解的有机物质。除了可作为植物所需的主要矿物盐类来源，腐植土亦可改善土壤的组织和保住水，进而降低营养物因渗滤作用的流失。(来源: ALL)
 
 Code: 4072
 English Term: hunting
 Definition: The pursuit and killing or capture of wild animals, regarded as a sport.&#10;(Source: CED)
 Chinese Term: 狩猎
-Translation: 对野外动物进行追捕与捕杀或者俘获，被认为是一种运动。
+Translation: 对野外动物进行追捕与捕杀或者俘获，被认为是一种运动。(来源: CED)
 
 Code: 11502
 English Term: hunting licence
@@ -14233,13 +14237,13 @@ Code: 4073
 English Term: hunting reserve
 Definition: Area of land where the pursuit and killing or capture of game and wild animals is permitted.&#10;(Source: CED)
 Chinese Term: 狩猎保留区
-Translation: 允许追踪、射杀或捕捉野生动物的地区。
+Translation: 允许追踪、射杀或捕捉野生动物的地区。(来源: CED)
 
 Code: 4077
 English Term: hurricane
 Definition: A tropical cyclone of great intensity; any wind reaching a speed of more than 73 miles per hour (117 kilometers per hour) is said to have hurricane force.&#10;(Source: MGH)
 Chinese Term: 飓风
-Translation: 强烈的热带气旋；风速超过每小时73英哩(每小时117公里)时，即被称为具有颶风威力。
+Translation: 强烈的热带气旋；风速超过每小时73英哩(每小时117公里)时，即被称为具有颶风威力。 (来源： MGH)
 
 Code: 4080
 English Term: hybridisation
@@ -14251,247 +14255,247 @@ Code: 4082
 English Term: hydraulic construction
 Definition: Any structure built to route the flow of water, or to support the weight and pressure of a body of water.&#10;(Source: ENC / LIV)
 Chinese Term: 水工结构物、水利建筑
-Translation: 任何用来引导水流或支撑水体重量和压力的建筑结构。
+Translation: 任何用来引导水流或支撑水体重量和压力的建筑结构。(来源: ENC / LIV)
 
 Code: 4084
 English Term: hydraulic engineering
 Definition: A branch of civil engineering concerned with the design, erection, and construction of sewage disposal plants, waterworks, dams, water-operated power plants and such.&#10;(Source: MGH)
 Chinese Term: 水利工程学
-Translation: 土木工程学的分支，研究污水处理厂、自来水厂、大坝、水力发电厂等的设计、建立和建造。
+Translation: 土木工程学的分支，研究污水处理厂、自来水厂、大坝、水力发电厂等的设计、建立和建造。(来源: MGH)
 
 Code: 4085
 English Term: hydraulics
 Definition: The branch of science and technology concerned with the mechanics of fluids, especially liquids.&#10;(Source: MGH)
 Chinese Term: 水利学
-Translation: 科学与技术的分支，研究流体动力学，特别是水力。
+Translation: 科学与技术的分支，研究流体动力学，特别是水力。(来源: MGH)
 
 Code: 4088
 English Term: hydrobiology
 Definition: Study of organisms living in water. (Source: ZINZAN)
 Chinese Term: 水生生物学
-Translation: 水生生物体的相关研究。
+Translation: 水生生物体的相关研究。(来源: ZINZAN)
 
 Code: 4091
 English Term: hydrocarbon
 Definition: A very large group of chemical compounds composed only of carbon and hydrogen.&#10;(Source: MGH)
 Chinese Term: 碳氢化合物
-Translation: 仅含有碳和氢元素的化学化合物。
+Translation: 仅含有碳和氢元素的化学化合物。(来源: MGH)
 
 Code: 12485
 English Term: hydrocarbon storage tank
 Definition: A container or a reservoir for the storage of hydrocarbons.&#10;(Source: MGH)
 Chinese Term: 碳氢化合物储存罐
-Translation: 储存碳氢化合物的容器或储存槽。
+Translation: 储存碳氢化合物的容器或储存槽。(来源: MGH)
 
 Code: 4094
 English Term: hydrochloric acid
 Definition: A solution of hydrogen chloride gas in water; a poisonous, pungent liquid forming a constant-boiling mixture at 20% concentration in water; widely used as a reagent, in organic synthesis, in acidizing oil wells, ore reduction, food processing, and metal cleaning and pickling. Also known as muriatic acid.&#10;(Source: MGH)
 Chinese Term: 盐酸
-Translation: 水中含氯化氢气体的溶液，具有毒性和刺激性气味，当其在水中的浓度达20%时可形成持续起泡(沸腾)的混合物。广泛被使用于溶剂、有机合成、油井酸洗、矿物还原、食物加工、和金属清洗。也称为氯化酸。
+Translation: 水中含氯化氢气体的溶液，具有毒性和刺激性气味，当其在水中的浓度达20%时可形成持续起泡(沸腾)的混合物。广泛被使用于溶剂、有机合成、油井酸洗、矿物还原、食物加工、和金属清洗。也称为氯化酸。(来源: MGH)
 
 Code: 4095
 English Term: hydroculture
 Definition: Growing plants without soil but in sand or vermiculite or other granular material, using a liquid solution of nutrients to feed them.&#10;(Source: PHC)
 Chinese Term: 溶液培养、水生栽培
-Translation: 使植物在沙、蛭石或其它细小颗粒物等非土壤环境中生长，用液体营养液为其提供养分。
+Translation: 使植物在沙、蛭石或其它细小颗粒物等非土壤环境中生长，用液体营养液为其提供养分。(来源: PHC)
 
 Code: 11967
 English Term: hydroelectric energy
 Definition: The free renewable source of energy provided by falling water that drives the turbines. Hydropower is the most important of the regenerable energy sources because of its highest efficiency at the energy conversion. There are two types of hydroelectric power plants: a) run-of-river power plants for the use of affluent water; b) storage power plants (power stations with reservoir) where the influx can be regulated with the help of a reservoir. Mostly greater differences in altitudes are being used, like mountain creeks. Power stations with reservoirs are generally marked by barrages with earth fill dam or concrete dams. Though hydropower generally can be called environmentally acceptable, there exist also some problems: a) change of groundwater level and fill up of the river bed with rubble. b) Risk of dam breaks. c) Great demand for land space for the reservoir. d) Diminution, but partly also increase of value of recreation areas. As the hydropowers of the world are limited, the world energy demand however is rising, finally the share of hydropower will decrease.&#10;(Source: PORT /  PHC /  PZ)
 Chinese Term: 水力发电能源
-Translation: 由流下的水推动涡轮机产生能量。因水力的高能量转换率，故成为最重要的再生能源。有两种型式的水力电厂：a)利用丰沛的河水发电的电厂；b)储存式电厂(水库电厂)，进流水水量可经由水库的调节控制。大部分是利用高度差，如高山溪流。水库电厂通常是有土壤或水泥建造的水坝。虽然水力发电的环境相容性高，但仍有一些问题：a)改变地下水水位，并将河岸填充碎石；b)水坝溃决的危险；c)对土地空间的需求大；d)缩小但也部分增加了休閒地区。世上的水力发电有限，但世上对能源的需求却不断上升，造成水力发电的分配量将会降低。
+Translation: 由流下的水推动涡轮机产生能量。因水力的高能量转换率，故成为最重要的再生能源。有两种型式的水力电厂：a)利用丰沛的河水发电的电厂；b)储存式电厂(水库电厂)，进流水水量可经由水库的调节控制。大部分是利用高度差，如高山溪流。水库电厂通常是有土壤或水泥建造的水坝。虽然水力发电的环境相容性高，但仍有一些问题：a)改变地下水水位，并将河岸填充碎石；b)水坝溃决的危险；c)对土地空间的需求大；d)缩小但也部分增加了休閒地区。世上的水力发电有限，但世上对能源的需求却不断上升，造成水力发电的分配量将会降低。(来源: PORT /  PHC /  PZ)
 
 Code: 4098
 English Term: hydroelectric power plant
 Definition: Power station which operates with the free renewable source of energy provided by falling water.&#10;(Source: PORT)
 Chinese Term: 水力发电厂
-Translation: 使用落下的水力所产生的免费可再生能源进行发电的电厂。
+Translation: 使用落下的水力所产生的免费可再生能源进行发电的电厂。(来源: PORT)
 
 Code: 4103
 English Term: hydrogen
 Definition: A flammable colourless gas that is the lightest and most abundant element in the universe. It occurs mainly in water and in most organic compounds and is used in the production of ammonia and other chemicals, in the hydrogenation of fats and oils, and in welding.&#10;(Source: CED)
 Chinese Term: 氢
-Translation: 易燃、无色的气体，且是最轻和宇宙中含量最丰富的元素，它主要存在于水和大部分的有机化合物中，且被使用于制造氨和其他化学物质、油和脂的氢化，和焊接中。
+Translation: 易燃、无色的气体，且是最轻和宇宙中含量最丰富的元素，它主要存在于水和大部分的有机化合物中，且被使用于制造氨和其他化学物质、油和脂的氢化，和焊接中。(来源: CED)
 
 Code: 4107
 English Term: hydrogen sulphide
 Definition: Flammable, poisonous gas with characteristic odour of rotten eggs, perceptible in air in a dilution of 0.002 mg/l. It is used as a reagent in chemical analysis; extremely hazardous; collapse, coma and death from respiratory failure may come within a few seconds after one or two inspirations; low concentrations produce irritation of conjunctiva and mucous membranes. Headache, dizziness, nausea, lassitude may appear after exposure.&#10;(Source: MGH /  INDMER)
 Chinese Term: 硫化氢
-Translation: 易燃、有毒的气体，味道似腐臭的蛋，在空气中的浓度0.002 mg/L即可察觉。是化学分析中的试剂、危害性极高、在数秒内吸入一到二口硫化氢后可能产生呼吸衰竭、休克、和死亡；低浓度会造成结膜和黏液的刺激。若暴露其下可能会感到头痛、晕眩、恶心和厌倦。
+Translation: 易燃、有毒的气体，味道似腐臭的蛋，在空气中的浓度0.002 mg/L即可察觉。是化学分析中的试剂、危害性极高、在数秒内吸入一到二口硫化氢后可能产生呼吸衰竭、休克、和死亡；低浓度会造成结膜和黏液的刺激。若暴露其下可能会感到头痛、晕眩、恶心和厌倦。(来源: MGH /  INDMER)
 
 Code: 4108
 English Term: hydrogeology
 Definition: The science dealing with the occurrence of surface and ground water, its utilization, and its functions in modifying the earth, primarily by erosion and deposition.&#10;(Source: MGH)
 Chinese Term: 水文地质学
-Translation: 一门科学用以研究地表与地下水的形成、利用、和改变土地的功能（主要是藉由冲蚀和沉积）。
+Translation: 一门科学用以研究地表与地下水的形成、利用、和改变土地的功能（主要是藉由冲蚀和沉积）。(来源: MGH)
 
 Code: 12145
 English Term: hydrographic basin
 Definition: 1) The drainage basin of a stream. &#10;2) An area occupied by a lake and its drainage basin.&#10;(Source: BJGEO)
 Chinese Term: 水文流域
-Translation: 1) 溪流的流域。 2)湖泊与其流域所涵盖的地区。
+Translation: 1) 溪流的流域。 2)湖泊与其流域所涵盖的地区。 (来源： BJGEO)
 
 Code: 12135
 English Term: hydrographic network
 Definition: The configuration or arrangement in plan view of the natural stream courses in an area. It is related to local geologic and geomorphologic features and history. Synonym: drainage pattern.&#10;(Source: BJGEO)
 Chinese Term: 水系、水道网
-Translation: 某一区域自然河流路线的平面配置或排列。这与当地的地质和地貌特征及历史有关。同义词: drainage pattern。
+Translation: 某一区域自然河流路线的平面配置或排列。这与当地的地质和地貌特征及历史有关。同义词: drainage pattern。（来源：BJGEO）
 
 Code: 4109
 English Term: hydrography
 Definition: Science which deals with the measurement and description of the physical features of the oceans, lakes, rivers, and their adjoining coastal areas, with particular reference to their control and utilization.&#10;(Source: MGH)
 Chinese Term: 水道学
-Translation: 量测并描述海洋、湖泊、河流及其沿岸地区的物理性特征徵，特别是对它们的控制和利用的科学。
+Translation: 量测并描述海洋、湖泊、河流及其沿岸地区的物理性特征徵，特别是对它们的控制和利用的科学。(来源: MGH)
 
 Code: 4115
 English Term: hydrologic balance
 Definition: An accounting of the inflow to, outflow from, and storage in a hydrologic unit such as a drainage basin, aquifer, soil zone, lake or reservoir; the relationship between evaporation, precipitation, runoff, and the change in water storage.&#10;(Source: BJGEO)
 Chinese Term: 水文平衡
-Translation: 计算流域、含水层、土层、湖泊或水库这类水文系统中的流入量、流出量以及储水量；包括蒸发、降水、迳流以及储水量变化之间的关系。
+Translation: 计算流域、含水层、土层、湖泊或水库这类水文系统中的流入量、流出量以及储水量；包括蒸发、降水、迳流以及储水量变化之间的关系。（来源：BJGEO）
 
 Code: 4116
 English Term: hydrologic cycle
 Definition: The movement of water between the oceans, ground surface and atmosphere by evaporation, precipitation and the activity of living organisms, as one of the mayor biogeochemical cycles. Each day water evaporates from the oceans and is carried in the air from the sea over the land, which receives it as precipitation, and finally returns from the land to the sea through rivers, thus completing the cycle.&#10;(Source: ALLa)
 Chinese Term: 水文循环
-Translation: 通过蒸发、降水以及生物活动使海洋、地表和大气中的水分转移，这是主要的生物地化循环之一。每天水分从海上蒸发进入空气，飘至陆地上空降落为雨，最终通过江河再汇回海洋，就这样完成一个循环。
+Translation: 通过蒸发、降水以及生物活动使海洋、地表和大气中的水分转移，这是主要的生物地化循环之一。每天水分从海上蒸发进入空气，飘至陆地上空降落为雨，最终通过江河再汇回海洋，就这样完成一个循环。 (来源: ALLa)
 
 Code: 4111
 English Term: hydrologic disaster
 Definition: Violent, sudden and destructive change either in the quality of the earth's water or in the distribution or movement of water on land, below the surface or in the atmosphere.&#10;(Source: ISEP /  APD)
 Chinese Term: 水文灾害
-Translation: 地球上水流品质，或地面上、地表下、大气中的水流移动或分配的剧烈、突然与毁灭性的变化。
+Translation: 地球上水流品质，或地面上、地表下、大气中的水流移动或分配的剧烈、突然与毁灭性的变化。(来源: ISEP /  APD)
 
 Code: 9172
 English Term: hydrologic flow
 Definition: The characteristic behaviour and the total quantity of water involved in a drainage basin, determined by measuring such quantities as rainfall, surface and subsurface storage and flow, and evapotranspiration.&#10;(Source: BJGEO)
 Chinese Term: 水文流量
-Translation: 通过测量降水量、地表和地下水库储水量，流量和蒸发量来确定流域盆地中总水量及其特征。
+Translation: 通过测量降水量、地表和地下水库储水量，流量和蒸发量来确定流域盆地中总水量及其特征。（来源：BJGEO）
 
 Code: 4118
 English Term: hydrology
 Definition: The science that treats the occurrence, circulation, distribution, and properties of the waters of the earth, and their reaction with the environment.&#10;(Source: MGH)
 Chinese Term: 水文学
-Translation: 研究地球上水的产生、循环、分布、性质，及其与环境反应的科学。
+Translation: 研究地球上水的产生、循环、分布、性质，及其与环境反应的科学。(来源: MGH)
 
 Code: 4119
 English Term: hydrolysis
 Definition: 1) Decomposition or alteration of a chemical substance by water. &#10;2) In aqueous solutions of electrolytes, the reactions of cations with water to produce a weak base or of anions to produce a weak acid.&#10;(Source: MGH)
 Chinese Term: 水解
-Translation: (1)化学物质被水所分解和改变。2)在电解质的水溶液中，阳离子与水反应生成弱硷，或阴离子与水反应生成弱酸。
+Translation: (1)化学物质被水所分解和改变。2)在电解质的水溶液中，阳离子与水反应生成弱硷，或阴离子与水反应生成弱酸。(来源: MGH)
 
 Code: 4120
 English Term: hydrometeorology
 Definition: That part of meteorology of direct concern to hydrologic problems, particularly to flood control, hydroelectric power, irrigation, and similar fields of engineering and water resource.&#10;(Source: ZINZAN)
 Chinese Term: 水文气象学
-Translation: 气象学中直接有关水文问题的部分，尤其是洪水控制、水力发电、灌溉、以及工程和水资源相关的领域。
+Translation: 气象学中直接有关水文问题的部分，尤其是洪水控制、水力发电、灌溉、以及工程和水资源相关的领域。(来源: ZINZAN)
 
 Code: 12128
 English Term: hydrometry
 Definition: The science and technology of measuring specific gravities, particularly of liquids.&#10;(Source: MGH)
 Chinese Term: 液体比重测量法
-Translation: 测量比重的科学和技术，尤其是液体。
+Translation: 测量比重的科学和技术，尤其是液体。(来源: MGH)
 
 Code: 4124
 English Term: hydrosphere
 Definition: The waters of the Earth, as distinguished from the rocks (lithosphere), living things (biosphere), and the air (atmosphere). Includes the waters of the ocean; rivers, lakes, and other bodies of surface water in liquid form on the continents; snow, ice, and glaciers; and liquid water, ice, and water vapour in both the unsaturated and saturated zones below the land surface. Included by some, but excluded by others, is water in the atmosphere , which includes water vapour, clouds, and all forms of precipitation while still in the atmosphere.&#10;(Source: BJGEO)
 Chinese Term: 水圈
-Translation: 地球上的水域，与岩石(岩石圈)，生物(生物圈)与空气(大气)有所区别。包括海洋、河川、湖泊水域及其他在陆地上以液体形态存在的表面水体；雪，冰，冰河；还有在地表下的未饱和与饱和区域内的液态水、冰与水蒸气。 有时还包括大气中的水分，如水蒸气，云与仍在大气层中的所有型态的降水。
+Translation: 地球上的水域，与岩石(岩石圈)，生物(生物圈)与空气(大气)有所区别。包括海洋、河川、湖泊水域及其他在陆地上以液体形态存在的表面水体；雪，冰，冰河；还有在地表下的未饱和与饱和区域内的液态水、冰与水蒸气。 有时还包括大气中的水分，如水蒸气，云与仍在大气层中的所有型态的降水。 (来源： BJGEO)
 
 Code: 4126
 English Term: hygiene
 Definition: The science that deals with the principles and practices of good health.&#10;(Source: MGH)
 Chinese Term: 卫生学、保健学
-Translation: 有关良好健康的原理与实践科学。
+Translation: 有关良好健康的原理与实践科学。 (来源: MGH)
 
 Code: 4127
 English Term: hymenopteran
 Definition: Insects including bees, wasps, ants, and sawflies, having two pair of membranous wings and an ovipositor specialized for stinging, sawing or piercing.&#10;(Source: CED)
 Chinese Term: 膜翅目昆虫
-Translation: 包括蜜蜂、黄蜂、蚂蚁和锯蝇，有两对膜翅和一个特别用来叮、锯、或刺的产卵器。
+Translation: 包括蜜蜂、黄蜂、蚂蚁和锯蝇，有两对膜翅和一个特别用来叮、锯、或刺的产卵器。(来源: CED)
 
 Code: 14865
 English Term: hypertext
 Definition: The organization of information units typically containing visible links that users can select or click with a mouse pointer or some other computer device to automatically retrieve or display other documents.&#10;(Source: WIC / TWI)
 Chinese Term: 超文本
-Translation: 资讯单元组织，包含可见的连结，用户可以用鼠标指针或其他电脑设备来选择或点击连结，进而回到原文件或打开其他文件。
+Translation: 资讯单元组织，包含可见的连结，用户可以用鼠标指针或其他电脑设备来选择或点击连结，进而回到原文件或打开其他文件。(来源: WIC / TWI)
 
 Code: 4131
 English Term: ice
 Definition: The dense substance formed by the freezing of water to the solid state; it commonly occurs in the form of hexagonal crystals.&#10;(Source: MGH)
 Chinese Term: 冰
-Translation: 由水结冻成为固态而形成的高密度物质； 一般以六角形冰晶的形式出现。
+Translation: 由水结冻成为固态而形成的高密度物质； 一般以六角形冰晶的形式出现。 (来源： MGH)
 
 Code: 4133
 English Term: ice pack
 Definition: Large areas of floating ice, usually occurring in polar seas, consisting of separate pieces that have become massed together.&#10;(Source: CED)
 Chinese Term: 浮冰群
-Translation: 通常发生在两极海域的大片区域浮冰，由分散碎冰聚集在一起而形成。
+Translation: 通常发生在两极海域的大片区域浮冰，由分散碎冰聚集在一起而形成。 (来源： CED)
 
 Code: 4132
 English Term: iceberg
 Definition: A large mass of detached land ice floating in the sea or stranded in shallow water.&#10;(Source: MGH)
 Chinese Term: 冰山
-Translation: 飘浮在海上或搁浅在浅水中，不与陆地连结的巨大冰层。
+Translation: 飘浮在海上或搁浅在浅水中，不与陆地连结的巨大冰层。 (来源： MGH)
 
 Code: 4136
 English Term: identification of pollutants
 Definition: The determination of the specific substance or substances that are causing pollution.&#10;(Source: RHW)
 Chinese Term: 污染物鉴定
-Translation: 确定特定物质或引起污染的物质。
+Translation: 确定特定物质或引起污染的物质。(来源: RHW)
 
 Code: 4137
 English Term: ideology
 Definition: A body of ideas that reflects the beliefs and interest of a nation, political system, etc. and underlies political action.&#10;(Source: CED)
 Chinese Term: 意识形态
-Translation: 反应一个国家、政治系统等的信仰和利益的思想主体。
+Translation: 反应一个国家、政治系统等的信仰和利益的思想主体。(来源: CED)
 
 Code: 14911
 English Term: image classification
 Definition: Processing techniques which apply quantitative methods to the values in a digital yield or remotely sensed scene to group pixels with similar digital number values into feature classes or categories.&#10;(Source: DYNAMO)
 Chinese Term: 图像（影像）分类
-Translation: 在遥感技术中的资料以过滤与其他程序，透过控制像素，产生能突显特征或视觉解释的影像。
+Translation: 在遥感技术中的资料以过滤与其他程序，透过控制像素，产生能突显特征或视觉解释的影像。(来源: DYNAMO)
 
 Code: 14908
 English Term: image enhancement
 Definition: In remote sensing, the filtering of data and other processes to manipulate pixels to produce an image that accentuates features of interest or visual interpretation.&#10;(Source: DUNSTE)
 Chinese Term: 图像增强、影像强化
-Translation: 在遥感技术中的资料过滤与其他程序，其目的是通过控制像素，产生能突显特征或视觉解释的影像。
+Translation: 在遥感技术中的资料过滤与其他程序，其目的是通过控制像素，产生能突显特征或视觉解释的影像。(来源: DUNSTE)
 
 Code: 14907
 English Term: image filtering
 Definition: A remote sensing term related to image enhancement that refers to the removal of a spatial component of electromagnetic radiation.&#10;(Source: WHITa)
 Chinese Term:图像（影像）过滤
-Translation: 与影像强化相关的遥感术语，指移除电磁辐射的空间成份。
+Translation: 与影像强化相关的遥感术语，指移除电磁辐射的空间成份。(来源: WHITa)
 
 Code: 4140
 English Term: image processing
 Definition: The process of converting 'raw' remotely sensed data into a usable form through the application of various transformations such as supervised and unsupervised classification schemes.&#10;(Source: FORUMT)
 Chinese Term:图像处理
-Translation: 通过各种转换程序，将原始的遥感资料转化为有用的形式的过程，例如经过监督性与非监督性的分类方法。
+Translation: 通过各种转换程序，将原始的遥感资料转化为有用的形式的过程，例如经过监督性与非监督性的分类方法。(来源: FORUMT)
 
 Code: 14903
 English Term: image processing digital system
 Definition: A coordinated assemblage of computer devices designed to capture and manipulate pictures stored as data in discrete, quantized units or digits.&#10;(Source: GIS)
 Chinese Term: 图像处理数字系统
-Translation: 一个电脑设备的整合系统，该系统被用来获得与处理图片，储存成离散化、量子化或数位化的单元或形式。
+Translation: 一个电脑设备的整合系统，该系统被用来获得与处理图片，储存成离散化、量子化或数位化的单元或形式。(来源: GIS)
 
 Code: 14910
 English Term: image registration
 Definition: The process of linking map coordinates to control points with known earth-surface coordinates. Related term: coordinate systems.&#10;(Source: FORUMT)
 Chinese Term: 图像配准、影像重合
-Translation: 连结地图系统过程，连接控制点与已知地表坐标的过程。
+Translation: 连结地图系统过程，连接控制点与已知地表坐标的过程。(来源: FORUMT)
 
 Code: 4141
 English Term: IMCO Code
 Definition: Codes published by Intergovernmental Maritime Consultative Organisation (IMCO) relating to international shipping, particularly regarding safety and marine pollution.&#10;(Source: BRACK)
 Chinese Term:政府间海事咨询组织( IMCO)规范
-Translation: 由政府间海事咨询机构（IMCO）颁布的尤其是关于安全和海洋污染方面的国际海运规范。
+Translation: 由政府间海事咨询机构（IMCO）颁布的尤其是关于安全和海洋污染方面的国际海运规范。(来源: BRACK)
 
 Code: 4146
 English Term: immission
 Definition: The reception of material, such as pollutants, by the environment and from any source.&#10;(Source: ALL)
 Chinese Term: 排入
-Translation:  污染物和来自任何污染来源的物质被环境所承受。
+Translation:  污染物和来自任何污染来源的物质被环境所承受。(来源: ALL)
 
 Code: 4147
 English Term: immission control
@@ -14508,74 +14512,74 @@ Code: 4149
 English Term: immission damage
 Definition: Damage caused by pollution from a distinct source of emission.&#10;(Source: GILP96)
 Chinese Term: 排入损害
-Translation: 由不同排放源的污染所造成的危害。
+Translation: 由不同排放源的污染所造成的危害。(来源: GILP96)
 
 Code: 4150
 English Term: immission forecast
 Definition: The prediction of immissions is calculated on the basis of the pollutant load, the source height, the wind speed and the dispersion coefficient.&#10;(Source: FLGISA)
 Chinese Term: 排入预测
-Translation: 排放预测的计算基于污染物负荷、污染源高度、风速以及扩散系数。
+Translation: 排放预测的计算基于污染物负荷、污染源高度、风速以及扩散系数。(来源: FLGISA)
 
 Code: 4151
 English Term: immission limit
 Definition: Maximum levels of selected pollutants which would lead to unacceptable air quality.&#10;(Source: PORT)
 Chinese Term: 排入限度
-Translation: 会导致无法接受的空气品质发生时的最大污染物排放量。
+Translation: 会导致无法接受的空气品质发生时的最大污染物排放量。(来源: PORT)
 
 Code: 4152
 English Term: immission load
 Definition: The total amount of immissions introduced in a given environment.&#10;(Source: RRDA)
 Chinese Term: 排入负荷
-Translation: 输入给固定环境的污染物注入总量。
+Translation: 输入给固定环境的污染物注入总量。(来源: RRDA)
 
 Code: 4154
 English Term: immune system
 Definition: A body system that helps an organism to resist disease, through the activities of specialised blood cells or antibodies produced by them in response to natural exposure or inoculation.&#10;(Source: KOREN /  CED)
 Chinese Term: 免疫系统
-Translation: 协助生物体抵制疾病的身体系统。自然感染或接种后产生的特殊的血球细胞或抗体的活动可以发挥此作用。
+Translation: 协助生物体抵制疾病的身体系统。自然感染或接种后产生的特殊的血球细胞或抗体的活动可以发挥此作用。(来源: KOREN , CED)
 
 Code: 4155
 English Term: immunity
 Definition: The ability of an organism to resist disease or toxins by natural or artificial means.&#10;(Source: KOREN)
 Chinese Term: 免疫力
-Translation: 生物体用自然或人为方法抵抗疾病或毒性物质的能力 。
+Translation: 生物体用自然或人为方法抵抗疾病或毒性物质的能力 。(来源: KOREN)
 
 Code: 4156
 English Term: immunoassay
 Definition: Any of several methods for the quantitative determination of chemical substances such as hormones, drugs, and certain proteins that utilize the highly specific binding between an antigen and an antibody.&#10;(Source: KOREN)
 Chinese Term: 免疫分析法
-Translation: 下列任何一种以定量方式来确定化学物质的方法，如荷尔蒙、药剂和某些携带抗原和抗体间及特定连接的蛋白质。
+Translation: 下列任何一种以定量方式来确定化学物质的方法，如荷尔蒙、药剂和某些携带抗原和抗体间及特定连接的蛋白质。(来源: KOREN)
 
 Code: 4157
 English Term: immunological disease
 Definition: The disruption of the complex system of interacting cells, cell products and cell-forming tissues that protects the body from pathogens, destroys infected and malignant cells and removes cellular debris.&#10;(Source: SMD / RHW)
 Chinese Term: 免疫疾病
-Translation: 相互作用的细胞、细胞产物与细胞形成组织间所构成的复杂系统的破坏。这复杂系统保护身体免于病原体影响，破坏受感染的恶性细胞并移除细胞残骸。
+Translation: 相互作用的细胞、细胞产物与细胞形成组织间所构成的复杂系统的破坏。这复杂系统保护身体免于病原体影响，破坏受感染的恶性细胞并移除细胞残骸。(来源: SMD / RHW)
 
 
 Code: 4158
 English Term: immunology
 Definition: A branch of biological science concerned with the native or acquired resistance of higher animal forms and humans to infection with microorganisms.&#10;(Source: MGH)
 Chinese Term: 免疫学
-Translation: 生物学的分支，研究较高等动物和人类其先天的或后天所获得的抵抗微生物感染的能力。
+Translation: 生物学的分支，研究较高等动物和人类其先天的或后天所获得的抵抗微生物感染的能力。(来源: MGH)
 
 Code: 4159
 English Term: impact assessment
 Definition: Evaluation of the effect of a project upon the environment. (Source: PHC)
 Chinese Term: 影响（冲击）评估
-Translation: 项目对环境影响的评估。
+Translation: 项目对环境影响的评估。(来源: PHC)
 
 Code: 4160
 English Term: impact minimisation
 Definition: Actions, procedures or installations undertaken to reduce the extent or degree of negative effects on human health and the ecosystem introduced by human design or interaction with the environment.&#10;(Source: OED)
 Chinese Term: 影响（冲击）最小化
-Translation: 为降低因为人为影响及与环境交互作用所致的人类健康及生态体系的负面影响所采取的行动、手段或装置。
+Translation: 为降低因为人为影响及与环境交互作用所致的人类健康及生态体系的负面影响所采取的行动、手段或装置。(来源: OED)
 
 Code: 4162
 English Term: impact prevention
 Definition: Precautionary measures, actions or installations implemented to avert negative effects on the environment.&#10;(Source: TOE)
 Chinese Term: 影响（冲击）预防
-Translation: 避免对于环境的负面影响所实施的预防措施、行动或所安装的设备。
+Translation: 避免对于环境的负面影响所实施的预防措施、行动或所安装的设备。(来源: TOE)
 
 Code: 7185
 English Term: impact reversal
@@ -14587,7 +14591,7 @@ Code: 4163
 English Term: impact source
 Definition: Elements of an action which cause damage to the surrounding environment.&#10;(Source: RRDA)
 Chinese Term: 影响（冲击）源
-Translation: 导致周围环境破坏的行为元素。
+Translation: 导致周围环境破坏的行为元素。(来源: RRDA)
 
 Code: 4161
 English Term: impactor
@@ -14605,13 +14609,13 @@ Code: 4167
 English Term: import
 Definition: The act of bringing goods and merchandise into a country from a foreign country.&#10;(Source: WESTS)
 Chinese Term: 进口
-Translation: 将商品和货物从外国带入本国的行为。
+Translation: 将商品和货物从外国带入本国的行为。（来源：WESTS）
 
 Code: 4169
 English Term: import licence
 Definition: Permission from a government to bring within its borders and sell a product manufactured in a foreign country.&#10;(Source: BLD)
 Chinese Term: 进口许可
-Translation: 将国外制造的产品带入国境内贩卖所需的政府许可。
+Translation: 将国外制造的产品带入国境内贩卖所需的政府许可。 (来源: BLD)
 
 Code: 4171
 English Term: impoverishment
@@ -14623,49 +14627,49 @@ Code: 4172
 English Term: impregnating agent
 Definition: A material used to fill holes in wood, plaster, or other surfaces before applying a coating such as paint or varnish.&#10;(Source: MGH)
 Chinese Term: 渗透剂
-Translation: 在对木材、石膏或其他物质表面涂漆前,应注满它们表面的孔隙，注入时所用的制剂被称为渗透剂。
+Translation: 在对木材、石膏或其他物质表面涂漆前,应注满它们表面的孔隙，注入时所用的制剂被称为渗透剂。 (来源: MGH)
 
 Code: 4173
 English Term: impregnation (materials)
 Definition: The forcing of a liquid substance into the spaces of a porous solid in order to change its properties, as the impregnation of wood with creosote to preserve its integrity against water damage.&#10;(Source: MGHa)
 Chinese Term: 渗透原料
-Translation: 对液体施压使其通过多孔固体的孔隙，从而改变固体的某些性能，如用木榴油浸渍过的木材可以免受水的侵蚀而保持自身的完整性。
+Translation: 对液体施压使其通过多孔固体的孔隙，从而改变固体的某些性能，如用木榴油浸渍过的木材可以免受水的侵蚀而保持自身的完整性。 (来源: MGHa)
 
 Code: 4176
 English Term: improvement of efficiency
 Definition: The beneficial development or progress in the volume of output that is achieved in terms of productivity and input, or in getting the maximum possible output from given or allocated resources.&#10;(Source: ODE)
 Chinese Term: 效率改善
-Translation: 以生产力及输入资源为指标的有利的发展和进步的产出量，或从既定的配给资源中求得最大的可能输出。
+Translation: 以生产力及输入资源为指标的有利的发展和进步的产出量，或从既定的配给资源中求得最大的可能输出。 (来源: ODE)
 
 Code: 4178
 English Term: impulsive noise
 Definition: Noise characterized by transient short-duration disturbances distributed essentially uniformly over the useful passband of a transmission system.&#10;(Source: MGH)
 Chinese Term: 冲击性噪音
-Translation: 经由传达系统所产生的一致性且持续时间短的噪音。
+Translation: 经由传达系统所产生的一致性且持续时间短的噪音。 (来源: MGH)
 
 Code: 4359
 English Term: in situ
 Definition: In the natural or normal place.&#10;(Source: KOREN)
 Chinese Term: 原位
-Translation:在自然或平常的地方。
+Translation:在自然或平常的地方。(来源: KOREN)
 
 Code: 4480
 English Term: in vitro assay
 Definition: Assay taking place in an artificial environment.&#10;(Source: KOREN)
 Chinese Term: 试管试验
-Translation: 在人为环境下进行的测定与化验。
+Translation: 在人为环境下进行的测定与化验。(来源: KOREN)
 
 Code: 4481
 English Term: in vivo assay
 Definition: Experiments that are carried out in the living organism.&#10;(Source: UVAROV)
 Chinese Term: 活体试验
-Translation: 在活的有机体中进行的试验。
+Translation: 在活的有机体中进行的试验。(来源: UVAROV)
 
 Code: 8098
 English Term: incentive fund
 Definition: Money or financial resources set aside to stimulate, encourage, or incite action towards greater productivity.&#10;(Source: RHW)
 Chinese Term: 奖励基金
-Translation: 拨出作为刺激、鼓励或激励朝向提高生产力的货币或金融资源。
+Translation: 拨出作为刺激、鼓励或激励朝向提高生产力的货币或金融资源。 (来源: RHW)
 
 Code: 11048
 English Term: incentive tax
@@ -14677,43 +14681,43 @@ Code: 11638
 English Term: incidental pollution
 Definition: Pollution caused by oil spills, by the accidental release of radioactive substances, by the immission in water bodies or in the atmosphere of chemical substances deriving from industrial activities.&#10;(Source: DIFIDa)
 Chinese Term: （意外）事故污染
-Translation: 因石油泄漏、放射性物质的意外释放、工业活动导致化学物质排入水体或大气中等所造成的污染。
+Translation: 因石油泄漏、放射性物质的意外释放、工业活动导致化学物质排入水体或大气中等所造成的污染。(来源: DIFIDa)
 
 Code: 4182
 English Term: incineration
 Definition: Controlled process by which solid, liquid, or gaseous combustible wastes are burned and changed into gases; residue produced contains little or no combustible material.&#10;(Source: LANDY)
 Chinese Term: 焚化、燃烧
-Translation: 燃烧固态、液态或气态可燃性废弃物使其转化成气体的控制程序。焚化后的残渣含有极少或没有可燃性成分。
+Translation: 燃烧固态、液态或气态可燃性废弃物使其转化成气体的控制程序。焚化后的残渣含有极少或没有可燃性成分。(来源: LANDY)
 
 Code: 4183
 English Term: incineration of waste
 Definition: The controlled burning of solid, liquid, or gaseous combustible wastes to produce gases and solid residues containing little or no combustible material in order to reduce the bulk of the original waste materials.&#10;(Source: ISEP)
 Chinese Term: 垃圾焚化
-Translation: 为减少原废弃物质的体积，对固态、液态或气态等可燃废弃物的燃烧控制，以产生含较少或不含可燃物质的固态或气态残渣。
+Translation: 为减少原废弃物质的体积，对固态、液态或气态等可燃废弃物的燃烧控制，以产生含较少或不含可燃物质的固态或气态残渣。(来源: ISEP)
 
 Code: 12431
 English Term: incineration residue
 Definition: Any material, solid or semisolid, left after processing in a device designed to reduce waste volume by combustion.&#10;(Source: DEE / HMD)
 Chinese Term: 焚化残渣
-Translation: 经设计用来减少废弃物体积的燃烧装置，处理后剩餘的任何固体或半固体物质。
+Translation: 经设计用来减少废弃物体积的燃烧装置，处理后剩餘的任何固体或半固体物质。(来源: DEE / HMD)
 
 Code: 4184
 English Term: incinerator
 Definition: Device which burns waste.&#10;(Source: PHC)
 Chinese Term: 焚化炉
-Translation: 燃烧垃圾的设备。
+Translation: 燃烧垃圾的设备。(来源: PHC)
 
 Code: 4187
 English Term: income
 Definition: The gain derived from capital, from labour or effort, or both combined, including profit or gain through sale or conversion of capital.&#10;(Source: WESTS)
 Chinese Term: 收入、所得
-Translation: 自资本、劳动或努力或两者组合所取得的获利，包括利润或销售获利或资本转化获利等。
+Translation: 自资本、劳动或努力或两者组合所取得的获利，包括利润或销售获利或资本转化获利等。(来源: WESTS)
 
 Code: 13252
 English Term: income tax
 Definition: A tax on the annual profits arising from property, business pursuits, professions, trades or offices.&#10;(Source: BLACK)
 Chinese Term: 所得税
-Translation: 对来自财产、商业从事、职业、贸易或营业的年利润所征收的一种税。
+Translation: 对来自财产、商业从事、职业、贸易或营业的年利润所征收的一种税。(来源: BLACK)
 
 Code: 4189
 English Term: incorporation
@@ -14725,7 +14729,7 @@ Code: 8886
 English Term: indefinite legal concept
 Definition: A condition or extent of time in a government enforced contract, instrument or agreement that lacks precision, distinguishing characteristics or fixed boundaries.&#10;(Source: BLD)
 Chinese Term: 不确定法律概念
-Translation: 政府强制执行缺乏精确度、可区别特征或固定边界的契约、手段或协定的一种状态或时间范围。
+Translation: 政府强制执行缺乏精确度、可区别特征或固定边界的契约、手段或协定的一种状态或时间范围。 (来源: BLD)
 
 Code: 4194
 English Term: indemnity
@@ -14737,25 +14741,25 @@ Code: 11124
 English Term: index
 Definition: A list of record surrogates arranged in order of some attribute expressible in machine-orderable form.&#10;(Source: MGH)
 Chinese Term: 索引
-Translation: 记录的代用品，按照机器顺序形式表达的属性排列。
+Translation: 记录的代用品，按照机器顺序形式表达的属性排列。(来源: MGH)
 
 Code: 14886
 English Term: indexing of documentation
 Definition: A service which creates a special contents list, containing titles, authors, abstracts, subject headings and other information, to describe a large number of publications and to be used in searchable, machine-readable (or printed) look-up tables.&#10;(Source: RHW)
 Chinese Term: 建立文档索引
-Translation: 提供一种在可搜索，机读（或打印）的平台中对公共出版物按照特殊的目录列表进行查寻的服务。这些特殊的目录列表包括标题，作者，摘要，主题及其它方面的信息。
+Translation: 提供一种在可搜索，机读（或打印）的平台中对公共出版物按照特殊的目录列表进行查寻的服务。这些特殊的目录列表包括标题，作者，摘要，主题及其它方面的信息。(来源: RHW)
 
 Code: 4195
 English Term: Indian Ocean
 Definition: A body of water between the continents of Africa, Antarctica, Asia and Australia including the Bay of Bengal in the east and the Arabian Sea (with the Red Sea, the Gulf of Aden and the Persian Gulf) in the west, and containing several islands and island chains, such as the Andaman, Nicobar and Seychelles.&#10;(Source: INP)
 Chinese Term: 印度洋
-Translation: 在非洲，南极洲，亚洲与澳洲大陆之间的水域，包括东边的孟加拉湾与西边的阿拉伯海(含红海，亚丁湾与波斯湾)，包含一些岛屿与群岛，如安达曼群岛，尼古巴群岛与塞席尔群岛。
+Translation: 在非洲，南极洲，亚洲与澳洲大陆之间的水域，包括东边的孟加拉湾与西边的阿拉伯海(含红海，亚丁湾与波斯湾)，包含一些岛屿与群岛，如安达曼群岛，尼古巴群岛与塞席尔群岛。 (来源： INP)
 
 Code: 4196
 English Term: indicator
 Definition: Something that provides an indication especially of trends.&#10;(Source: CED)
 Chinese Term: 指标
-Translation: 可提供说明的事物，特别是针对趋势。
+Translation: 可提供说明的事物，特别是针对趋势。(来源: CED)
 
 Code: 4200
 English Term: indicator of environmental management
@@ -14767,31 +14771,31 @@ Code: 4202
 English Term: indicator of environmental quality
 Definition: Qualitative or quantitative parameter used as a measure of an environmental condition, e.g. of air or water quality.&#10;(Source: DIZAMB)
 Chinese Term: 环境品质指标
-Translation: 评估环境状况的定性定量参数，如评量空气品质或水质。
+Translation: 评估环境状况的定性定量参数，如评量空气品质或水质。(来源: DIZAMB)
 
 Code: 4204
 English Term: indigenous forest
 Definition: Forests which are native to a given area.&#10;(Source: LANDY)
 Chinese Term: 原始森林
-Translation: 在特定区域内的天然的原始森林。
+Translation: 在特定区域内的天然的原始森林。 (来源： LANDY)
 
 Code: 14845
 English Term: indigenous knowledge
 Definition: Local knowledge that is unique to a given culture or society, which is the basis for local-level decision making in agriculture, health care, education and other matters of concern in rural communities.&#10;(Source: WIK)
 Chinese Term: 本土知识、土著文化
-Translation: 某特定文化或社会所特有的地区化知识，它是地方决策阶层在进行农业、卫生、教育和其他受关注事件的地方性决策的基础。
+Translation: 某特定文化或社会所特有的地区化知识，它是地方决策阶层在进行农业、卫生、教育和其他受关注事件的地方性决策的基础。(来源: WIK)
 
 Code: 4205
 English Term: indigenous technology
 Definition: Technologies employed by the native inhabitants of a country and which constitute an important part of its cultural heritage and should therefore be protected against exploitation by industrialized countries; the problem of indigenous knowledge has been discussed during the Rio Conference but it does not receive much protection under the Biodiversity Convention. Article 8 mandates that parties "respect, preserve and maintain knowledge, innovations and practices of indigenous and local communities embodying traditional life styles... and promote their wider application with the approval and involvement of holders of such knowledge, innovations and practices and encourage the equitable sharing of benefits arising from them".&#10;(Source: RRDA /  WRES)
 Chinese Term: 原住民科技，本土科技
-Translation: 一个国家原住民所使用的科技，是其文化传统的重要组成部分，因此应该加以保护，使其免受工业化的影响。原住民知识的问题在里约大会中已有讨论，但在生物多元化会议之下并未受到多少保护。第8章要求各国应该尊重、保护和维持原住民的知识、发明及风俗和本土社区所表现的传统文化形态等。并在拥有这些知识、发明及风俗的所有者的同意及参与下推广其更广泛的应用，鼓励他们将所得利益公平分享。
+Translation: 一个国家原住民所使用的科技，是其文化传统的重要组成部分，因此应该加以保护，使其免受工业化的影响。原住民知识的问题在里约大会中已有讨论，但在生物多元化会议之下并未受到多少保护。第8章要求各国应该尊重、保护和维持原住民的知识、发明及风俗和本土社区所表现的传统文化形态等。并在拥有这些知识、发明及风俗的所有者的同意及参与下推广其更广泛的应用，鼓励他们将所得利益公平分享。(来源: RRDA /  WRES)
 
 Code: 4206
 English Term: indirect discharger
 Definition: A non-domestic source introducing pollutants into a publicly owned waste-treatment system. Indirect dischargers can be commercial or industrial facilities whose wastes enter local sewers.&#10;(Source: EPAGLO)
 Chinese Term: 间接排放者
-Translation: 非住宅用的污染源将废弃物排入公共污水下水道系统。此间接排放者可能是商业或工业设备，它们把废水排到当地下水道。
+Translation: 非住宅用的污染源将废弃物排入公共污水下水道系统。此间接排放者可能是商业或工业设备，它们把废水排到当地下水道。(来源: EPAGLO)
 
 
 Code: 12278
@@ -14804,25 +14808,25 @@ Code: 4209
 English Term: indoor air pollution
 Definition: Chemical, physical or biological contaminants in the air inside buildings and other enclosed spaces occupied by humans. This pollution can arise from tobacco smoke, pesticides, cleaning agents, gases released from building materials, rugs, household products, etc.&#10;(Source: EED /  ISEP)
 Chinese Term:室内空气污染
-Translation: 建筑物及其它人类居住的密封空间内的空气中所含的化学的、物理的、生物的污染物质。这些污染物质可能来自抽烟、农药、清洁剂、及由建材、地毯、家用产品所释放的气体。
+Translation: 建筑物及其它人类居住的密封空间内的空气中所含的化学的、物理的、生物的污染物质。这些污染物质可能来自抽烟、农药、清洁剂、及由建材、地毯、家用产品所释放的气体。(来源: EED / ISEP)
 
 Code: 4211
 English Term: indoor environment
 Definition: Environment situated in the inside of a house or other building.&#10;(Source: CED)
 Chinese Term:室内环境
-Translation: 在房屋或其它建筑物内的环境。
+Translation: 在房屋或其它建筑物内的环境。(来源: CED)
 
 Code: 12450
 English Term: industrial activity
 Definition: Operations, functions and processes involved in industrial production.&#10;(Source: RRDA)
 Chinese Term:工业活动
-Translation: 工业生产中的操作、运行和加工活动。
+Translation: 工业生产中的操作、运行和加工活动。(来源: RRDA)
 
 Code: 4213
 English Term: industrial area
 Definition: Areas allocated for industry within a town-planning scheme or environmental plan. The range of industries accommodated in a plan may include: light industry, service industry, general industry, hazardous, noxious or offensive industry, waterfront industry, extractive industry. Standards are usually defined for industrial areas relating to access and roads, drainage, car parking, aesthetics, landscaping, buffer zones, noise levels, and air and water pollution.&#10;(Source: GILP96)
 Chinese Term:工业区
-Translation: 城镇规划方案或环境规划中分配作为工业发展的所在地。计划中工业区可容纳的工厂有：轻工业、服务业、一般工业、有害、有毒或国防工业、沿海工业、采掘工业。在工业区内对于进出管制、道路使用权利、排放水、停车、美学、景观、缓冲区、噪音限值和空气和水的污染皆订有管制标准。
+Translation: 城镇规划方案或环境规划中分配作为工业发展的所在地。计划中工业区可容纳的工厂有：轻工业、服务业、一般工业、有害、有毒或国防工业、沿海工业、采掘工业。在工业区内对于进出管制、道路使用权利、排放水、停车、美学、景观、缓冲区、噪音限值和空气和水的污染皆订有管制标准。(来源: GILP96)
 
 Code: 4216
 English Term: industrial association
@@ -14834,13 +14838,13 @@ Code: 4217
 English Term: industrial building
 Definition: A building directly used in manufacturing or technically productive enterprises. Industrial buildings are not generally or typically accessible to other than workers. Industrial buildings include buildings used directly in the production of power, the manufacture of products, the mining of raw materials, and the storage of textiles, petroleum products, wood and paper products, chemicals, plastics, and metals.&#10;(Source: JJK)
 Chinese Term:工业建筑物
-Translation: 作为生产制造和技术生产事业所使用的建筑。工业建筑通常仅允许工人进入。工业建筑包含电力生产、产品制造、原料开采、以及纺织品、石油产品、木材和纸制品、化学物、塑胶和金属等物品的储存。
+Translation: 作为生产制造和技术生产事业所使用的建筑。工业建筑通常仅允许工人进入。工业建筑包含电力生产、产品制造、原料开采、以及纺织品、石油产品、木材和纸制品、化学物、塑胶和金属等物品的储存。(来源: JJK)
 
 Code: 4224
 English Term: industrial crop
 Definition: Any crop that provides materials for industrial processes and products such as soybeans, cotton (lint and seed), flax, and tobacco.&#10;(Source: MGH)
 Chinese Term: 工业原料作物
-Translation: 任何一种可供工业生产和加工原料的作物，如大豆、棉花(棉絮及种子)、亚麻和烟草等。
+Translation: 任何一种可供工业生产和加工原料的作物，如大豆、棉花(棉絮及种子)、亚麻和烟草等。(来源: MGH)
 
 Code: 4226
 English Term: industrial development
@@ -14852,55 +14856,55 @@ Code: 4227
 English Term: industrial dumping
 Definition: The disposal of any waste generated by a manufacturing or processing process by the agency or body which produced it.&#10;(Source: RHW / ERG)
 Chinese Term: 工业倾销（废品）
-Translation: 经销商或生产商在制造或处理程序中对所产生任何废弃物的处置。
+Translation: 经销商或生产商在制造或处理程序中对所产生任何废弃物的处置。(来源: RHW / ERG)
 
 Code: 4228
 English Term: industrial economics
 Definition: The production, distribution, and consumption of goods and services resulting from all manufacturing business.&#10;(Source: RHW)
 Chinese Term:工业经济
-Translation:整个制造业的货品和服务的生产、分配和消费。
+Translation:整个制造业的货品和服务的生产、分配和消费。(来源: RHW)
 
 Code: 4229
 English Term: industrial effluent
 Definition: Materials generally discarded from industrial operations or derived from manufacturing processes.&#10;(Source: LANDY)
 Chinese Term: 工业废水
-Translation: 通常是工业操作或制造过程中所排放的物质。
+Translation: 通常是工业操作或制造过程中所排放的物质。(来源: LANDY)
 
 Code: 4231
 English Term: industrial emission
 Definition: Gas-borne pollutants discharged into the atmosphere from smokestacks of industrial plants.&#10;(Source: LEE)
 Chinese Term: 工业废气
-Translation: 由工厂烟囱排放进入大气的气体承载污染物。
+Translation: 由工厂烟囱排放进入大气的气体承载污染物。（来源：LEE）
 
 Code: 10099
 English Term: industrial environment (in general)
 Definition: Environment where the manifold activities connected with the production of goods and services take place.&#10;(Source: RRDA)
 Chinese Term:工业环境（一般的）
-Translation: 与货品生产和服务发生相关的多种活动所处的环境。
+Translation: 与货品生产和服务发生相关的多种活动所处的环境。(来源: RRDA)
 
 Code: 4233
 English Term: industrial environmental policy
 Definition: The guiding procedure, philosophy or course of action for the protection of natural resources from pollution generated by manufacturing or business enterprises.&#10;(Source: RHW)
 Chinese Term:工业环境政策
-Translation: 为保护自然资源免受制造或商业企业产生的污染而制定的指引程序、理念或行动。
+Translation: 为保护自然资源免受制造或商业企业产生的污染而制定的指引程序、理念或行动。（来源：RRDA）
 
 Code: 4234
 English Term: industrial equipment
 Definition: Equipment related to industrial activities.&#10;(Source: RRDA)
 Chinese Term:工业设备
-Translation:与工业活动相关的设备。
+Translation:与工业活动相关的设备。（来源：RRDA）
 
 Code: 4238
 English Term: industrial fume
 Definition: Any smokelike or vaporous exhalation from matters or substances, especially of an odorous or harmful nature, which result from trading, commercial or manufacturing processes.&#10;(Source: RHW / ALL)
 Chinese Term:工业烟雾
-Translation: 由贸易、商业、制造过程所产生的，特别是由难闻或有害原料或物质散发出来的类似烟雾或蒸气排放物。
+Translation: 由贸易、商业、制造过程所产生的，特别是由难闻或有害原料或物质散发出来的类似烟雾或蒸气排放物。(来源: RHW / ALL)
 
 Code: 4242
 English Term: industrial installation
 Definition: A device, system or piece of equipment installed for a particular industry.&#10;(Source: CED)
 Chinese Term: 工业装置
-Translation: 为特定工业所安装的设备、系统或仪器。
+Translation: 为特定工业所安装的设备、系统或仪器。(来源: CED)
 
 Code: 4247
 English Term: industrial legislation
@@ -14912,7 +14916,7 @@ Code: 13226
 English Term: industrial manufacturing
 Definition: To make or process (a raw material) into a finished product, especially by means of a large-scale industrial operation.&#10;(Source: AMHER)
 Chinese Term:工业制造
-Translation: 将原料制成或加工成成品的过程，特别指通过大规模的工业生产的过程。
+Translation: 将原料制成或加工成成品的过程，特别指通过大规模的工业生产的过程。(来源: AMHER)
 
 Code: 4249
 English Term: industrial material
@@ -14936,31 +14940,31 @@ Code: 4253
 English Term: industrial planning
 Definition: The process of making arrangements or preparations to facilitate the manufacturing, producing and processing of goods or merchandise.&#10;(Source: RHW / ODE)
 Chinese Term:工业规划
-Translation: 便利商品或货物之制造、生产及处理所作的安排或准备程序。
+Translation: 便利商品或货物之制造、生产及处理所作的安排或准备程序。(来源: RHW / ODE)
 
 Code: 4254
 English Term: industrial plant (building)
 Definition: Buildings where the operations related to industrial productive processes are carried out.&#10;(Source: ZINZAN)
 Chinese Term:工厂（建筑物）
-Translation: 从事工业生产相关活动所在的建筑物。
+Translation: 从事工业生产相关活动所在的建筑物。 (来源: ZINZAN)
 
 Code: 13189
 English Term: industrial plant (organism)
 Definition: Plants employed in industry, e.g. cotton, flax, hemp, peanuts, etc.&#10;(Source: RRDA)
 Chinese Term:工业作物（有机体、生物）
-Translation: 用于工业上的栽种作物，例如棉花、亚麻、大麻(纤维)、花生等。
+Translation: 用于工业上的栽种作物，例如棉花、亚麻、大麻(纤维)、花生等。(来源： RRDA)
 
 Code: 4255
 English Term: industrial policy
 Definition: Course of action adopted by national government to support and promote industrial activities.&#10;(Source: GOODa)
 Chinese Term:工业政策
-Translation:国家政府采用的、用来支持和提升工业活动的方针原则 
+Translation:国家政府采用的、用来支持和提升工业活动的方针原则 (来源：GOODa)
 
 Code: 4256
 English Term: industrial pollution
 Definition: Pollution as a result of industrial processes and manufacturing.&#10;(Source: RRDA)
 Chinese Term:工业污染
-Translation:由于工业流程和制造业所导致的污染
+Translation:由于工业流程和制造业所导致的污染(来源: RRDA)
 
 Code: 4257
 English Term: industrial process
@@ -14978,7 +14982,7 @@ Code: 4258
 English Term: industrial production
 Definition: Any process of converting or transforming raw materials and other resources into goods or services which have value.&#10;(Source: ODE)
 Chinese Term: 工业生产
-Translation: 任何将原料和其它资源转变成有价值的商品或服务的过程。
+Translation: 任何将原料和其它资源转变成有价值的商品或服务的过程。(来源: ODE)
 
 Code: 4259
 English Term: industrial production statistics
@@ -14990,19 +14994,19 @@ Code: 4262
 English Term: industrial property right
 Definition: A justifiable claim granted by government or some other authority that offers protection or excludes others from making, using or selling an invention, a unique design of an article of manufacture or some other creation or discovery.&#10;(Source: BLD)
 Chinese Term: 工业财产权
-Translation: 由政府或其他权责单位所赋予的正当权利﹐其目的为了保护或排除他人制造、使用或贩卖某一发明、某一产品制造的独特设计或其它的创造发明。
+Translation: 由政府或其他权责单位所赋予的正当权利﹐其目的为了保护或排除他人制造、使用或贩卖某一发明、某一产品制造的独特设计或其它的创造发明。(来源: BLD)
 
 Code: 12764
 English Term: industrial safety
 Definition: Measures or techniques implemented to reduce the risk of injury, loss and danger to persons, property or the environment in any facility or place involving the manufacturing, producing and processing of goods or merchandise.&#10;(Source: ODE)
 Chinese Term:工业安全保障
-Translation: 在任何有关货物或商品制造、生产和处理的设施或地方，为了降低对个人、财产或环境的伤害、损失与危险所采用的方法与技术。
+Translation: 在任何有关货物或商品制造、生产和处理的设施或地方，为了降低对个人、财产或环境的伤害、损失与危险所采用的方法与技术。(来源: ODE)
 
 Code: 4267
 English Term: industrial site
 Definition: The location for the individual manufacturing firm.&#10;(Source: GOOD)
 Chinese Term:工业地点
-Translation:个体工业制造公司的地点。
+Translation:个体工业制造公司的地点。(来源: GOOD)
 
 Code: 4268
 English Term: industrial sludge
@@ -15014,7 +15018,7 @@ Code: 4269
 English Term: industrial society
 Definition: A large-scale community with diverse manufacturing sectors and an infrastructure and economy based on the science, technology and instrumental rationality of the modern West.&#10;(Source: FUT / RHW)
 Chinese Term:工业社会
-Translation: 以现代西方科学、技术与理性手段为基础，具有不同制造部门与公共设施与经济条件的大型社区。
+Translation: 以现代西方科学、技术与理性手段为基础，具有不同制造部门与公共设施与经济条件的大型社区。(来源: FUT / RHW)
 
 Code: 13179
 English Term: industrial structure
@@ -15026,13 +15030,13 @@ Code: 4273
 English Term: industrial waste
 Definition: Waste materials discarded from industrial operations, or derived from manufacturing processes; may be solid, sludge (wet solids) or liquid wastes and may or may not be considered hazardous.&#10;(Source: HMD /  ISEP)
 Chinese Term:工业废料
-Translation: 由工业操作或制造过程丢弃的废弃物质，可能是固体、污泥（湿固体）或液体废弃物，可能具有或不具有有害性。
+Translation: 由工业操作或制造过程丢弃的废弃物质，可能是固体、污泥（湿固体）或液体废弃物，可能具有或不具有有害性。(来源: HMD /  ISEP)
 
 Code: 4274
 English Term: industrial waste gas
 Definition: Waste gases resulting from manufacturing and other industrial processes which may be treated and released, treated and reused or released without treatment.&#10;(Source: ISEP)
 Chinese Term:工业废气
-Translation: 由（工业）制造和其他工业程序产生的废气，这些废气可能经处理后排放、处理后回收再用或未经处理就排放。
+Translation: 由（工业）制造和其他工业程序产生的废气，这些废气可能经处理后排放、处理后回收再用或未经处理就排放。(来源: ISEP)
 
 Code: 4276
 English Term: industrial waste water
@@ -15044,25 +15048,25 @@ Code: 12456
 English Term: industrial wasteland
 Definition: Area of land which is no longer usable for cultivation or for any other purpose after having been the site of an industrial plant.&#10;(Source: PHCa)
 Chinese Term:工业废弃土地
-Translation: 过去曾是工厂用地，而今无法再作为农地或其它用途的土地区块。
+Translation: 过去曾是工厂用地，而今无法再作为农地或其它用途的土地区块。(来源: PHCa)
 
 Code: 4278
 English Term: industrial zoning
 Definition: A system of land use planning that forms zones or boundaries to be used only by manufacturing or business enterprises.&#10;(Source: ISEP)
 Chinese Term: 工业分区制
-Translation: 一种土地使用规划系统，形成只有生产或商业企业所使用的区域或界线。
+Translation: 一种土地使用规划系统，形成只有生产或商业企业所使用的区域或界线。(来源: ISEP)
 
 #Code: 4242
 #English Term: industrialisation
 #Definition: A system of land use planning that forms zones or boundaries to be used only by manufacturing or business enterprises.&#10;(Source: ISEP)
 #Chinese Term: 工业化
-#Translation: 在一个国家或区域经济中，制造工业逐渐占有优势地位的过程。
+#Translation: 在一个国家或区域经济中，制造工业逐渐占有优势地位的过程。(来源: ISEP)
 
 Code: 4279
 English Term: industry
 Definition: An industry is a group of establishments engaged in the same or similar kinds of economic activities. Industries produce commodities that are sold with the expectation of recovering the total cost of production. A single industry can produce many different commodities.&#10;(Source: PGE)
 Chinese Term: 工业
-Translation:工业代表一类从事相同或类似经济活动的企业。工业生产的商品被期待以高于生产总成本的价格出售。一种工业可生产许多不同的商品。
+Translation:工业代表一类从事相同或类似经济活动的企业。工业生产的商品被期待以高于生产总成本的价格出售。一种工业可生产许多不同的商品。(来源: PGE)
 
 Code: 4283
 English Term: inert waste
@@ -15074,62 +15078,62 @@ Code: 4282
 English Term: inertisation
 Definition: The process of waste inertisation includes solidification and stabilisation; stabilisation is the process used for reduction of hazard potential of the waste by converting the contaminants into their least soluble, least immobile, or least toxic form. Solidification physically binds or encapsulates the waste in a monolithic solid of high structural integrity. Thus solidification may be used for powders, liquids or gases.&#10;(Source: ENVAR)
 Chinese Term: 惰化
-Translation: 垃圾惰化的过程包括两个步骤，即固化和稳定化；稳定化是指把废弃物中的污染物转化成更难溶、更稳定、具有最小毒性的物质，从而降低废弃物潜在的毒性。固化是指通过物理作用将废物联结或压缩成一个大的集合体的过程，因此固化广泛适用于粉末固体、液体和气体的处理。
+Translation: 垃圾惰化的过程包括两个步骤，即固化和稳定化；稳定化是指把废弃物中的污染物转化成更难溶、更稳定、具有最小毒性的物质，从而降低废弃物潜在的毒性。固化是指通过物理作用将废物联结或压缩成一个大的集合体的过程，因此固化广泛适用于粉末固体、液体和气体的处理。(来源: ENVAR)
 
 Code: 9406
 English Term: infant
 Definition: A young child in the first years of life.&#10;(Source: ISEP)
 Chinese Term: 婴儿
-Translation: 一岁以下的小孩。
+Translation: 一岁以下的小孩。(来源: ISEP)
 
 
 Code: 4284
 English Term: infant mortality
 Definition: The rate of deaths occurring in the first year of life for a given population.&#10;(Source: MED)
 Chinese Term: 婴儿死亡率
-Translation: 在一定的人口中，出生一年内的婴儿死亡的比率。
+Translation: 在一定的人口中，出生一年内的婴儿死亡的比率。(来源: MED)
 
 Code: 4286
 English Term: infection
 Definition: The entry and development or multiplication of an infectious agent in the body of a living organism.&#10;(Source: KOREN)
 Chinese Term:传染
-Translation: 传染性病原入侵活有机体并发展或复制的过程。
+Translation: 传染性病原入侵活有机体并发展或复制的过程。(来源: KOREN)
 
 Code: 4288
 English Term: infectious disease
 Definition: Pathogenic condition resulting from invasion of a host by a pathogen that propagates causing infection.&#10;(Source: KOREN)
 Chinese Term: 传染病
-Translation: 由于会传染且引起发炎的病原宿主的侵入，而导致的疾病状态。
+Translation: 由于会传染且引起发炎的病原宿主的侵入，而导致的疾病状态。 (来源: KOREN)
 
 Code: 4289
 English Term: infestation of crops
 Definition: Invasion of crop by parasites. Among vertebrate animals, many crop pests are mammals, especially in the order of rodents and birds. Among invertebrates, certain species of gastropods and a large number of roundworms from the class of nematodes harm crops. The most varied and numerous species of crop pests are arthropods-insects, arachnids and some species of millipedes and crustaceans. Diseases vary from viral, bacterial, and nutritional to fungal, environmental and non-specific. The FAO has estimated that annual worldwide losses done by plant pests and diseases amount to approximately 20-25% of the potential worldwide yield of food crops.&#10;(Source: RRDA /  WPR)
 Chinese Term: 农作物虫害
-Translation: 农作物遭受寄生虫的侵害。在脊椎动物中，许多的作物害虫为哺乳动物，尤其是啮齿目动物和鸟类。在无脊椎动物中，某些种类的腹足动物和数量颇大属线虫纲的迴虫也会对作物造成危害。种类最多和数目最大的作物害虫为节肢昆虫、蛛形纲动物和某些种类的节肢动物和甲壳纲动物。病害随著病毒、细菌、真菌、覃菌类营养和环境而异。FAO (联合国粮农组织) 估计每年全世界植物病虫害的损失约占全世界食用作物产量的20~25%。
+Translation: 农作物遭受寄生虫的侵害。在脊椎动物中，许多的作物害虫为哺乳动物，尤其是啮齿目动物和鸟类。在无脊椎动物中，某些种类的腹足动物和数量颇大属线虫纲的迴虫也会对作物造成危害。种类最多和数目最大的作物害虫为节肢昆虫、蛛形纲动物和某些种类的节肢动物和甲壳纲动物。病害随著病毒、细菌、真菌、覃菌类营养和环境而异。FAO (联合国粮农组织) 估计每年全世界植物病虫害的损失约占全世界食用作物产量的20~25%。(来源: RRDA /  WPR)
 
 Code: 4290
 English Term: infestation of food
 Definition: Food that has been contaminated and deteriorated by some kind of pest.&#10;(Source: RRDA)
 Chinese Term: 受虫害的食物
-Translation: 已遭受某些害虫污染或败坏的食物。
+Translation: 已遭受某些害虫污染或败坏的食物。(来源: RRDA)
 
 Code: 4291
 English Term: infiltration
 Definition: Movement of water through the soil surface into the ground.&#10;(Source: MGH)
 Chinese Term: 渗透
-Translation: 水流过土壤表面进入地下的运动过程。
+Translation: 水流过土壤表面进入地下的运动过程。(来源: MGH)
 
 Code: 4296
 English Term: inflammable substance
 Definition: Substance liable to catch fire.&#10;(Source: CED)
 Chinese Term: 易燃物
-Translation: 容易着火的物质。
+Translation: 容易着火的物质。（来源：CED）
 
 Code: 4300
 English Term: inflow
 Definition: 1) Water other than wastewater that enters a sewer system (including sewer service connections) from sources such as, but not limited to, roof leaders, cellars drains, yard drains, area drains, drains from springs and swampy areas, manhole covers, cross connections between storm sewers and sanitary sewers, catch basins, cooling towers, storm waters, surface runoff, street wash waters, or drainage. Inflow does not include, and is distinguished from, infiltration. &#10;2) Action of flowing in; an inflow of effluent into a river.&#10;(Source: JJK /  PHC)
 Chinese Term: 入流水
-Translation: (1)除污水外其他进入污水下水道系统的水，来源于（但不限于）屋顶导流、地窖排水、庭院排水、场地排水、泉水和沼泽地区的排水、人孔盖、暴雨排水管和生活污水管之间的交叉连接、过滤器、冷却塔、雨水、地表径流、洗街废水和排放水。入流水不应包括渗透水,且与渗透水有明显区别。 (2)流入的过程；放入流水流入江河中。
+Translation: (1)除污水外其他进入污水下水道系统的水，来源于（但不限于）屋顶导流、地窖排水、庭院排水、场地排水、泉水和沼泽地区的排水、人孔盖、暴雨排水管和生活污水管之间的交叉连接、过滤器、冷却塔、雨水、地表径流、洗街废水和排放水。入流水不应包括渗透水,且与渗透水有明显区别。 (2)流入的过程；放入流水流入江河中。(来源: JJK / PHC)
 
 Code: 4301
 English Term: informal negotiation
@@ -15141,115 +15145,115 @@ Code: 4302
 English Term: informatics
 Definition: Science and technique of data elaboration and of automatic treatment of information.&#10;(Source: ZINZAN)
 Chinese Term: 信息学
-Translation:数据精化和信息自动处理的科学与技术。
+Translation:数据精化和信息自动处理的科学与技术。 (来源: ZINZAN)
 
 Code: 4303
 English Term: information
 Definition: All facts, ideas or imaginative works of the mind which have been communicated, published or distributed formally or informally in any format, or the knowledge that is  communicated or received.&#10;(Source: CCL / RHW)
 Chinese Term:信息
-Translation: 以正式或任何形式的非正式方式交流、出版或分发的所有事实、想法或具有想象力的工作，以及被交流或接收的知识
+Translation: 以正式或任何形式的非正式方式交流、出版或分发的所有事实、想法或具有想象力的工作，以及被交流或接收的知识(来源: CCL / RHW)
 
 Code: 13041
 English Term: information centre
 Definition: Any facility devoted to the collection, maintenance and distribution of materials or data compiled to convey knowledge on some subject, often with trained staff persons available to answer questions.&#10;(Source: RHW)
 Chinese Term:信息中心
-Translation: 用于收集、保存、分配材料或数据的设施，这些材料或数据被汇编起来传递某一主题的知识，通常备有训练过的人员用以回答问题。
+Translation: 用于收集、保存、分配材料或数据的设施，这些材料或数据被汇编起来传递某一主题的知识，通常备有训练过的人员用以回答问题。(来源: RHW)
 
 Code: 14892
 English Term: information clearing-house
 Definition: A central institution or agency for the collection, maintenance, and distribution of materials or data compiled to convey knowledge on some subject.&#10;(Source: RHW)
 Chinese Term:信息交换中心
-Translation: 负责收集、维护及分发材料或数据的中央机构或专业行政机构，该材料或数据是被汇编起来传递某一主题知识的。
+Translation: 负责收集、维护及分发材料或数据的中央机构或专业行政机构，该材料或数据是被汇编起来传递某一主题知识的。(来源: RHW)
 
 Code: 14896
 English Term: information exchange
 Definition: A reciprocal transference of data between two or more parties for the purpose of enhancing knowledge of the participants.&#10;(Source: RHW)
 Chinese Term:信息交换
-Translation: 用于提升参与者知识的目的而在双方或多方之间进行的相互的数据传递。
+Translation: 用于提升参与者知识的目的而在双方或多方之间进行的相互的数据传递。(来源: RHW)
 
 Code: 14856
 English Term: information infrastructure
 Definition: The basic, underlying framework and features of a communications system supporting the exchange of knowledge, including hardware, software and transmission media.&#10;(Source: WIC / RHW)
 Chinese Term:信息架构
-Translation: 通讯系统的基础、底层架构和特性，该系统支援知识交换，包括硬件、软件和传输介质。
+Translation: 通讯系统的基础、底层架构和特性，该系统支援知识交换，包括硬件、软件和传输介质。(来源: WIC / RHW)
 
 Code: 14871
 English Term: information kit
 Definition: A set or collection of materials compiled to convey knowledge on some subject and usually placed in some type of container.&#10;(Source: RHW)
 Chinese Term:信息套组
-Translation: 一组或一套经过汇编以传递某些主题知识的素材，通常放置在某种容器包装中。
+Translation: 一组或一套经过汇编以传递某些主题知识的素材，通常放置在某种容器包装中。(来源: RHW)
 
 Code: 13060
 English Term: information network
 Definition: A system of interrelated persons and/or devices linked to permit the exchange of data or knowledge.&#10;(Source: ISEP /  RHW)
 Chinese Term:信息网络
-Translation:一个连接内部相关人员和/或设备并允许它们之间进行知识、数据交换的系统。
+Translation:一个连接内部相关人员和/或设备并允许它们之间进行知识、数据交换的系统。(来源: ISEP /  RHW)
 
 Code: 4307
 English Term: information processing
 Definition: A systematic series of actions performed by a person or computer on data elements including classifying, sorting, calculating, summarizing, transmitting, retrieving and receiving.&#10;(Source: JON)
 Chinese Term:信息处理
-Translation: 个人或电脑针对资料所执行的系统化地一系列行动，包括分类、排序、计算、总结、传输、恢复和接收。
+Translation: 个人或电脑针对资料所执行的系统化地一系列行动，包括分类、排序、计算、总结、传输、恢复和接收。(来源: JON)
 
 Code: 4309
 English Term: information service
 Definition: An organized system of providing assistance or aid to individuals who are seeking information, such as by using databases and other information sources to communicate or supply knowledge or factual data.&#10;(Source: RHW / OMD)
 Chinese Term:信息服务
-Translation: 为个人寻找信息的提供协助的组织性系统，如使用数据库与其它信息来源进行交流、提供知识及事实资料。
+Translation: 为个人寻找信息的提供协助的组织性系统，如使用数据库与其它信息来源进行交流、提供知识及事实资料。(来源: RHW / OMD)
 
 Code: 4310
 English Term: information source
 Definition: Generally, any resource initiating and substantiating the reception of knowledge or specifically, the origin of a data transmission.&#10;(Source: RHW)
 Chinese Term:信息来源
-Translation: 一般说明创始并实例化知识接收的任何来源，特别指数据传输的来源。
+Translation: 一般说明创始并实例化知识接收的任何来源，特别指数据传输的来源。(来源: RHW)
 
 Code: 4311
 English Term: information system
 Definition: Any coordinated assemblage of persons, devices and institutions used for communicating or exchanging knowledge or data, such as by simple verbal communication, or by completely computerized methods of storing, searching and retrieving information.&#10;(Source: MHD)
 Chinese Term:信息系统
-Translation: 用来沟通交换知识或资料的人、设备和机构之间的整合的集合，如通过简单的口头交流或通过完全电脑化方法储存、查寻、重新获得信息。
+Translation: 用来沟通交换知识或资料的人、设备和机构之间的整合的集合，如通过简单的口头交流或通过完全电脑化方法储存、查寻、重新获得信息。(来源: MHD)
 
 Code: 4313
 English Term: information technology
 Definition: The systems, equipment, components and software required to ensure the retrieval, processing and storage of information in all centres of human activity (home, office, factory, etc.), the application of which generally requires the use of electronics or similar technology.&#10;(Source: ECHO2)
 Chinese Term:信息科技
-Translation:可用以确保人们各样活动(如在家中、办公室和工厂等)中的信息抽取、处理和贮存的系统、设备、组件及软件。该技术之运用通常需要运用电子学及其相关知识。
+Translation:可用以确保人们各样活动(如在家中、办公室和工厂等)中的信息抽取、处理和贮存的系统、设备、组件及软件。该技术之运用通常需要运用电子学及其相关知识。(来源: ECHO2)
 
 Code: 13215
 English Term: information technology industry
 Definition: A sector of the economy in which an aggregate of commercial enterprises is engaged in the design, manufacture and marketing of electronic machines designed to accept information or data that is easily manipulated for some result based on a program or some set of instructions, and the technology or materials used with these machines, such as storage devices, terminals and peripheral equipment.&#10;(Source: WIC / SIC)
 Chinese Term:信息科技工业
-Translation: 商业企业集合中的经济部门，该部门从事可接收信息或数据的电子产品的开发，制造和销售，利用一系列的指令、程序或其它如存贮器，终端和周边设备，该产品可以很方便的对输入的数据进行操作，从而快速地得到分析的结果。
+Translation: 商业企业集合中的经济部门，该部门从事可接收信息或数据的电子产品的开发，制造和销售，利用一系列的指令、程序或其它如存贮器，终端和周边设备，该产品可以很方便的对输入的数据进行操作，从而快速地得到分析的结果。(来源: WIC / SIC)
 
 Code: 10024
 English Term: information transfer
 Definition: The communication or conveyance of data or materials for the purpose of enhancing knowledge from one person, place or position to another.&#10;(Source: RHW)
 Chinese Term:信息传输
-Translation: 为了加强不同位置间人与人之间的知识传递而进行的数据或材料的通讯或传送。
+Translation: 为了加强不同位置间人与人之间的知识传递而进行的数据或材料的通讯或传送。(来源: RHW)
 
 Code: 4315
 English Term: infraction
 Definition: A breach, violation, or infringement; as of a law, a contract, a right or duty.&#10;(Source: BLACK)
 Chinese Term:违法
-Translation: 对法律、契约、权利或责任的破坏、违规、或侵犯。
+Translation: 对法律、契约、权利或责任的破坏、违规、或侵犯。(来源: BLACK)
 
 Code: 4317
 English Term: infrared radiation
 Definition: Electron magnetic radiation whose wavelengths lie in the range from 0.75 or 0.8 micrometer to 1000 micrometers.&#10;(Source: MGH)
 Chinese Term: 红外线辐射
-Translation: 介于波长0.75或0.80微米至1000微米间之电磁辐射。
+Translation: 介于波长0.75或0.80微米至1000微米间之电磁辐射。(来源: MGH)
 
 Code: 4320
 English Term: infrasound
 Definition: Vibrations of the air at frequencies too low to be perceived as sound by the human ear, below about 15 hertz.&#10;(Source: MGH)
 Chinese Term: 超低频音
-Translation: 低于15赫兹，人耳无法识别的空气振动频率。
+Translation: 低于15赫兹，人耳无法识别的空气振动频率。(来源: MGH)
 
 Code: 4321
 English Term: infrastructure
 Definition: The basic network or foundation of capital facilities or community investments which are necessary to support economic and community activities.&#10;(Source: LANDY)
 Chinese Term: 公共建设
-Translation: 支撑经济和社区大众活动必须的重要设施或社区投资的基本网络或基础建设。
+Translation: 支撑经济和社区大众活动必须的重要设施或社区投资的基本网络或基础建设。(来源: LANDY)
 
 Code: 4323
 English Term: inhabitant
@@ -15261,109 +15265,109 @@ Code: 10780
 English Term: initial training
 Definition: Any education, instruction or discipline occurring at the beginning of an activity, task, occupation or life span.&#10;(Source: RHW)
 Chinese Term: 职前训练
-Translation: 在一项活动、任务、职业或人生开始之际所进行的教育、指导或训练。
+Translation: 在一项活动、任务、职业或人生开始之际所进行的教育、指导或训练。(来源: RHW)
 
 Code: 4325
 English Term: injury
 Definition: A stress upon an organism that disrupts the structure or function and results in a pathological process.&#10;(Source: KOREN)
 Chinese Term:伤害
-Translation: 加在有机体上而破坏其结构或功能，进而导致一段病理过程的压力。
+Translation: 加在有机体上而破坏其结构或功能，进而导致一段病理过程的压力。(来源: KOREN)
 
 Code: 4326
 English Term: ink
 Definition: A dispersion of a pigment or a solution of a dye in a carrier vehicle, yielding a fluid, paste, or powder to be applied to and dried on a substrate; writing, marking, drawing, and printing inks are applied by several methods to paper, metal, plastic, wood, glass, fabric, or other substrate.&#10;(Source: MGH)
 Chinese Term: 油墨
-Translation: 一种颜料的分散或填料展色的染料溶液。可以产生流动的，粘稠的或粉末状物质并能够从底层干透。墨水、打印油墨和印刷油墨被应用到纸张、金属、塑胶、木材、玻璃、纤维或其它物质上。
+Translation: 一种颜料的分散或填料展色的染料溶液。可以产生流动的，粘稠的或粉末状物质并能够从底层干透。墨水、打印油墨和印刷油墨被应用到纸张、金属、塑胶、木材、玻璃、纤维或其它物质上。(来源: MGH)
 
 Code: 4329
 English Term: inland fishery
 Definition: Fishing grounds located in lakes, streams, etc.&#10;(Source: RRDA)
 Chinese Term: 内陆钓鱼区
-Translation: 处于湖泊、溪流等的可钓鱼的地方
+Translation: 处于湖泊、溪流等的可钓鱼的地方(来源: RRDA)
 
 Code: 4331
 English Term: inland navigation
 Definition: The navigation of inland waterways, i.e. navigable rivers, canals, sounds, lakes, inlets, etc.&#10;(Source: MGH)
 Chinese Term: 内河航行
-Translation: 内陆水道的航行，水道包括:可通航的江河、运河、峡湾、湖泊、港口等。
+Translation: 内陆水道的航行，水道包括:可通航的江河、运河、峡湾、湖泊、港口等。(来源: MGH)
 
 Code: 4333
 English Term: inland water
 Definition: A lake, river, or other body of water wholly within the boundaries of a state.&#10;(Source: MGH)
 Chinese Term:内陆水
-Translation:湖泊、河流或其他形式整体都在国家疆土范围内的水。
+Translation:湖泊、河流或其他形式整体都在国家疆土范围内的水。(来源: MGH)
 
 Code: 4336
 English Term: inland waterways transport
 Definition: Transportation of persons and goods by boats travelling on rivers, channels or lakes.&#10;(Source: RRDA)
 Chinese Term:内陆水路运输
-Translation:通过船在河流、渠道或湖泊上航行对人和货物的运输
+Translation:通过船在河流、渠道或湖泊上航行对人和货物的运输(来源: RRDA)
 
 Code: 13748
 English Term: inner city
 Definition: 1) Part of a city at or near the centre, especially a slum area where poor people live in bad housing.&#10; 2) City centres of many industrialized countries which exhibit environmental degradation. The numerous and highly competitive activities entailing land use overwhelm the limited space and create a situation of overcrowding, functional incompatibility and cultural degradation. Inner city areas have a high level of commercial specialization, a large number of offices and a sizeable daytime population. At the same time, city centres generally remain a sort of ghetto for a permanent, low-income population living in run-down housing and enjoying little in the way of public services and civic amenities. The concentration of service industries inevitably entails the replacement of traditional housing and shops by office blocks, the provision of basic utilities at the expense of civic amenities and the provision of major access roads which eat up urban space. Structures of historic origin are often unable to meet modern requirements and, notwithstanding their value, frequently face demolition.&#10;(Source: PHC /  WPR)
 Chinese Term: 市内贫民区
-Translation: 1)城市中在市中心或接近市中心的部份，尤指穷人居住的贫民区。2) 许多环境恶化的工业化国家的市中心区。数量众多且高竞争性活动带来的土地过量使用，会侵占有限空间，造成过度拥挤、各种功能无法互相协调，及文化衰退。市中心地区具有高度商业化特性，拥有许多办公室和可观的日间工作人口。同时，市中心通常一直为贫民区，有着一群固定的低收入人口，居住在年久失修的房屋中，很少享受到公共服务和都市化的舒适。随着服务产业的集中，办公大楼不可避免的取代传统住宅及商店，基本公共设施的提供相对的牺牲都市舒适度，而主要联络道路也侵吞了都市空间。
+Translation: 1)城市中在市中心或接近市中心的部份，尤指穷人居住的贫民区。2) 许多环境恶化的工业化国家的市中心区。数量众多且高竞争性活动带来的土地过量使用，会侵占有限空间，造成过度拥挤、各种功能无法互相协调，及文化衰退。市中心地区具有高度商业化特性，拥有许多办公室和可观的日间工作人口。同时，市中心通常一直为贫民区，有着一群固定的低收入人口，居住在年久失修的房屋中，很少享受到公共服务和都市化的舒适。随着服务产业的集中，办公大楼不可避免的取代传统住宅及商店，基本公共设施的提供相对的牺牲都市舒适度，而主要联络道路也侵吞了都市空间。 (来源: PHC /  WPR)
 
 Code: 4340
 English Term: innovation
 Definition: Something newly introduced, such as a new method or device.&#10;(Source: CED)
 Chinese Term:创新
-Translation:一些新生事物的引入，例如新的方法和设备。
+Translation:一些新生事物的引入，例如新的方法和设备。(来源:CED)
 
 Code: 4342
 English Term: inorganic chemistry
 Definition: A branch of chemistry dealing with the chemical reactions and properties of all inorganic matter.&#10;(Source: LEE)
 Chinese Term: 无机化学
-Translation: 化学的分支，研究各种无机物的化学反应和化学性质。
+Translation: 化学的分支，研究各种无机物的化学反应和化学性质。(来源:LEE)
 
 Code: 4345
 English Term: inorganic fertiliser
 Definition: Inorganic chemical which promotes plant growth by enhancing the supply of essential nutrients such as ammonium sulphate or lime.&#10;(Source: PORT)
 Chinese Term: 无机肥
-Translation: 用以提高所需基本营养物的供应来促进植物生长的无机化学物质，如硫酸铵或石灰。
+Translation: 用以提高所需基本营养物的供应来促进植物生长的无机化学物质，如硫酸铵或石灰。(来源:PORT)
 
 Code: 4347
 English Term: inorganic pollutant
 Definition: A pollutant of mineral origin and not of basically carbon structure.&#10;(Source: ERG)
 Chinese Term: 无机污染物
-Translation: 源自矿物且基本不含碳结构的一种污染物。
+Translation: 源自矿物且基本不含碳结构的一种污染物。(来源:ERG)
 
 Code: 4350
 English Term: inorganic substance
 Definition: Chemical compounds that do not contain carbon as the principal element (excepting carbonates, cyanides, and cyanoses), that is, matter other than plant or animal.&#10;(Source: MGH)
 Chinese Term:无机物质
-Translation:碳不为主要元素的化合物(除了碳酸盐、氰化物、和氨基氰)，意指动物、植物之外的物质。
+Translation:碳不为主要元素的化合物(除了碳酸盐、氰化物、和氨基氰)，意指动物、植物之外的物质。(来源:MGH)
 
 Code: 4358
 English Term: insect
 Definition: A class of the Arthropods typically having a segmented body with an external, chitinous covering, a pair of compound eyes, a pair of antennae, three pairs of mouthparts, and two pairs of wings.&#10;(Source: MGH)
 Chinese Term:昆虫
-Translation: 属节肢动物纲。典型特征包括外覆有几丁质的分节身体，有一对复眼，一对触角，三对口器，两对翅。
+Translation: 属节肢动物纲。典型特征包括外覆有几丁质的分节身体，有一对复眼，一对触角，三对口器，两对翅。(来源:MGH)
 
 Code: 4354
 English Term: insecticide
 Definition: Any chemical agent used to destroy invertebrate pests.&#10;(Source: LBC)
 Chinese Term:杀虫剂
-Translation:用于杀死无脊椎类害虫的化学药剂。
+Translation:用于杀死无脊椎类害虫的化学药剂。(来源:LBC)
 
 Code: 4356
 English Term: insectivore
 Definition: Any placental mammal of the order Insectivore, being typically small, with simple teeth, and feeding on invertebrates. The group includes shrews, moles, and hedgehogs.&#10;(Source: CED)
 Chinese Term:食虫动物
-Translation:任何属于食虫目而有胎盘的哺乳动物，一般体型较小，具有简单的牙齿，以无脊椎动物为食物。此类动物包括鼩鼱，钱鼠与刺猬。
+Translation:任何属于食虫目而有胎盘的哺乳动物，一般体型较小，具有简单的牙齿，以无脊椎动物为食物。此类动物包括鼩鼱，钱鼠与刺猬。(来源:CED)
 
 Code: 11791
 English Term: insoluble substance
 Definition: Substance incapable of forming a solution, especially in water.&#10;(Source: CED)
 Chinese Term: 不溶解性物质
-Translation:不能溶于溶液的物质，特别是指不溶于水。
+Translation:不能溶于溶液的物质，特别是指不溶于水。(来源:CED)
 
 Code: 4360
 English Term: inspection
 Definition: An official examination and evaluation of the extent to which specified goals, objectives, standards, policies or procedures of an agency, organization, department or unit have been met properly.&#10;(Source: DAM)
 Chinese Term: 检查
-Translation: 一种正式检查及评估的程序，用以了解机关、组织、部门或单位特定目的、目标、标准、政策或规范是否确切达成。
+Translation: 一种正式检查及评估的程序，用以了解机关、组织、部门或单位特定目的、目标、标准、政策或规范是否确切达成。(来源:DAM)
 
 Code: 4361
 English Term: inspection of records
@@ -15375,26 +15379,26 @@ Code: 4362
 English Term: inspection service
 Definition: An organization designated to look into, supervise and report upon, the staff members and workings of some institution or department, or the conforming to laws and regulations by a segment of society or other group.&#10;(Source: OED)
 Chinese Term: 监督部门
-Translation: 由社会某一部门或另一团体，用来调查、监督和评价人员以及一些机构和部门的工作，或对法律和法规的遵守情况的组织。
+Translation: 由社会某一部门或另一团体，用来调查、监督和评价人员以及一些机构和部门的工作，或对法律和法规的遵守情况的组织。(来源:OED)
 
 Code: 5885
 English Term: installation optimisation
 Definition: Adjustments made to a building or to a mechanical or electrical system or apparatus in order to maximize its functionality and efficiency.&#10;(Source: OED)
 Chinese Term: 装备最优化
-Translation: 为了使建筑物、机械、电子系统或者设备到达最大功率和效率而做的调整。
+Translation: 为了使建筑物、机械、电子系统或者设备到达最大功率和效率而做的调整。(来源: OED)
 
 Code: 4363
 English Term: installation requiring approval
 Definition: The official authorization needed to assemble and place into position any apparatus, facility, military post or machinery.&#10;(Source: RHW)
 Chinese Term: 装备需求认可
-Translation: 组装和配置任何仪器、设备、军事营区或机械所需要的正式授权认可。
+Translation: 组装和配置任何仪器、设备、军事营区或机械所需要的正式授权认可。(来源: RHW)
 
 
 Code: 4040
 English Term: installation restoration
 Definition: The process of repairing or reconstructing an edifice in order to return it to its original condition.&#10;(Source: ZINZANa)
 Chinese Term: 设施复原
-Translation: 为了使建筑物恢复原来面貌所进行的维修和重建的过程。
+Translation: 为了使建筑物恢复原来面貌所进行的维修和重建的过程。(来源: ZINZANa)
 
 
 Code: 13293
@@ -29848,7 +29852,7 @@ Code:6061
 English Term:pasture
 Chinese Term: 牧场
 Definition:Land covered with grass or herbage and grazed by or suitable for grazing by livestock.&#10;(Source: CED)
-Translation: 家畜用草和吃草，或适用于吃草的土地。
+Translation: 家畜用草和吃草，或适用于吃草的土地。&#10;(来源： CED)
 
 Code:12977
 English Term:patent
