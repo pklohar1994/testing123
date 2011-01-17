@@ -1,0 +1,1192 @@
+http://aims.fao.org/aos/agrovoc/c_62	Accounting	exactMatch	accounting	10002
+http://aims.fao.org/aos/agrovoc/c_90	Acidification	exactMatch	acidification	44
+http://aims.fao.org/aos/agrovoc/c_130	administration	exactMatch	administration	95
+http://aims.fao.org/aos/agrovoc/c_137	Adsorption	exactMatch	adsorption	120
+http://aims.fao.org/aos/agrovoc/c_141	side effects	exactMatch	side effect	7688
+http://aims.fao.org/aos/agrovoc/c_154	Aeration	exactMatch	aeration	132
+http://aims.fao.org/aos/agrovoc/c_162	Afforestation	exactMatch	afforestation	167
+http://aims.fao.org/aos/agrovoc/c_165	Africa	exactMatch	Africa	170
+http://aims.fao.org/aos/agrovoc/c_186	Age	exactMatch	age	173
+http://aims.fao.org/aos/agrovoc/c_201	Agricultural policies	exactMatch	agricultural policy	215
+http://aims.fao.org/aos/agrovoc/c_202	agricultural structure	exactMatch	agricultural structure	13136
+http://aims.fao.org/aos/agrovoc/c_203	agriculture	exactMatch	agriculture	232
+http://aims.fao.org/aos/agrovoc/c_207	agroforestry	exactMatch	agroforestry	239
+http://aims.fao.org/aos/agrovoc/c_211	Agronomy	exactMatch	agronomy	11152
+http://aims.fao.org/aos/agrovoc/c_224	Air	exactMatch	air	245
+http://aims.fao.org/aos/agrovoc/c_225	Air conditioning	exactMatch	air conditioning	250
+http://aims.fao.org/aos/agrovoc/c_228	air pollution	exactMatch	air pollution	265
+http://aims.fao.org/aos/agrovoc/c_230	Air temperature	exactMatch	air temperature	281
+http://aims.fao.org/aos/agrovoc/c_233	Aircraft	exactMatch	aircraft	253
+http://aims.fao.org/aos/agrovoc/c_316	Altitude	exactMatch	altitude	10140
+http://aims.fao.org/aos/agrovoc/c_8744	Aluminium	exactMatch	aluminium	353
+http://aims.fao.org/aos/agrovoc/c_29677	Americas	exactMatch	Americas	367
+http://aims.fao.org/aos/agrovoc/c_342	Amino acids	exactMatch	amino acid	373
+http://aims.fao.org/aos/agrovoc/c_349	Ammonia	exactMatch	ammonia	375
+http://aims.fao.org/aos/agrovoc/c_359	amphibians	exactMatch	amphibian	387
+http://aims.fao.org/aos/agrovoc/c_413	angiosperms	exactMatch	angiosperm	411
+http://aims.fao.org/aos/agrovoc/c_415	Angling	exactMatch	angling	412
+http://aims.fao.org/aos/agrovoc/c_426	Animal diseases	exactMatch	animal disease	417
+http://aims.fao.org/aos/agrovoc/c_427	Animal ecology	exactMatch	animal ecology	420
+http://aims.fao.org/aos/agrovoc/c_431	Animal health	exactMatch	animal health	13321
+http://aims.fao.org/aos/agrovoc/c_432	Animal housing	exactMatch	animal housing	428
+http://aims.fao.org/aos/agrovoc/c_435	Animal population	exactMatch	animal population	10539
+http://aims.fao.org/aos/agrovoc/c_437	Animal production	exactMatch	animal production	441
+http://aims.fao.org/aos/agrovoc/c_438	Animal products	exactMatch	animal product	442
+http://aims.fao.org/aos/agrovoc/c_440	Animal resources	exactMatch	animal resource	445
+http://aims.fao.org/aos/agrovoc/c_444	animals	exactMatch	animal	450
+http://aims.fao.org/aos/agrovoc/c_465	Antagonism	exactMatch	antagonism	458
+http://aims.fao.org/aos/agrovoc/c_468	Antarctic Ocean	exactMatch	Antarctic Ocean	464
+http://aims.fao.org/aos/agrovoc/c_471	Antarctica	exactMatch	Antarctica	461
+http://aims.fao.org/aos/agrovoc/c_492	antibiotics	exactMatch	antibiotic	473
+http://aims.fao.org/aos/agrovoc/c_529	apiculture	exactMatch	apiculture	490
+http://aims.fao.org/aos/agrovoc/c_544	Appropriate technology	exactMatch	appropriate technology	498
+http://aims.fao.org/aos/agrovoc/c_550	aquaculture	exactMatch	aquaculture	501
+http://aims.fao.org/aos/agrovoc/c_552	aquatic animals	exactMatch	aquatic animal	503
+http://aims.fao.org/aos/agrovoc/c_554	Aquatic environment	exactMatch	aquatic environment	10194
+http://aims.fao.org/aos/agrovoc/c_556	Aquatic mammals	exactMatch	aquatic mammal	508
+http://aims.fao.org/aos/agrovoc/c_557	Aquatic organisms	exactMatch	aquatic organism	511
+http://aims.fao.org/aos/agrovoc/c_559	Aquatic plants	exactMatch	aquatic plant	514
+http://aims.fao.org/aos/agrovoc/c_587	Arboriculture	exactMatch	arboriculture	527
+http://aims.fao.org/aos/agrovoc/c_592	Arctic Ocean	exactMatch	Arctic Ocean	542
+http://aims.fao.org/aos/agrovoc/c_622	Aromatic compounds	exactMatch	aromatic compound	560
+http://aims.fao.org/aos/agrovoc/c_629	Arsenic	exactMatch	arsenic	567
+http://aims.fao.org/aos/agrovoc/c_663	ASEAN	exactMatch	ASEAN	595
+http://aims.fao.org/aos/agrovoc/c_666	Asia	exactMatch	Asia	598
+http://aims.fao.org/aos/agrovoc/c_678	Assimilation	exactMatch	assimilation	605
+http://aims.fao.org/aos/agrovoc/c_694	Atmospheric sciences	exactMatch	atmospheric science	640
+http://aims.fao.org/aos/agrovoc/c_742	aviculture	exactMatch	aviculture	11192
+http://aims.fao.org/aos/agrovoc/c_768	Bacteriology	exactMatch	bacteriology	702
+http://aims.fao.org/aos/agrovoc/c_819	Barium	exactMatch	barium	719
+http://aims.fao.org/aos/agrovoc/c_862	Beef cattle	exactMatch	beef cattle	761
+http://aims.fao.org/aos/agrovoc/c_868	Behaviour	exactMatch	behaviour	765
+http://aims.fao.org/aos/agrovoc/c_9227	Benthos	exactMatch	benthos	775
+http://aims.fao.org/aos/agrovoc/c_879	Benzene	exactMatch	benzene	776
+http://aims.fao.org/aos/agrovoc/c_887	Beryllium	exactMatch	beryllium	781
+http://aims.fao.org/aos/agrovoc/c_895	Beverage industry	exactMatch	beverage industry	783
+http://aims.fao.org/aos/agrovoc/c_910	biochemistry	exactMatch	biochemistry	815
+http://aims.fao.org/aos/agrovoc/c_912	Biocoenosis	exactMatch	biocoenosis	819
+http://aims.fao.org/aos/agrovoc/c_915	Biogeography	exactMatch	biogeography	836
+http://aims.fao.org/aos/agrovoc/c_921	biological development	exactMatch	biological development	846
+http://aims.fao.org/aos/agrovoc/c_925	biology	exactMatch	biology	881
+http://aims.fao.org/aos/agrovoc/c_926	biomass	exactMatch	biomass	883
+http://aims.fao.org/aos/agrovoc/c_928	Biosynthesis	exactMatch	biosynthesis	895
+http://aims.fao.org/aos/agrovoc/c_946	Black Sea	exactMatch	Black Sea	14842
+http://aims.fao.org/aos/agrovoc/c_989	Boiling point	exactMatch	boiling point	954
+http://aims.fao.org/aos/agrovoc/c_1018	Boron	exactMatch	boron	965
+http://aims.fao.org/aos/agrovoc/c_1020	Botanical gardens	exactMatch	botanical garden	969
+http://aims.fao.org/aos/agrovoc/c_1023	Botany	exactMatch	botany	971
+http://aims.fao.org/aos/agrovoc/c_1049	Brackish water	exactMatch	brackish water	984
+http://aims.fao.org/aos/agrovoc/c_1088	Brewing industry	exactMatch	brewing industry	997
+http://aims.fao.org/aos/agrovoc/c_1106	Bromine	exactMatch	bromine	1007
+http://aims.fao.org/aos/agrovoc/c_1134	budgets	exactMatch	budget	1025
+http://aims.fao.org/aos/agrovoc/c_1178	Cadmium	exactMatch	cadmium	1100
+http://aims.fao.org/aos/agrovoc/c_1182	Caesium	exactMatch	caesium	1103
+http://aims.fao.org/aos/agrovoc/c_1196	Calcium	exactMatch	calcium	1111
+http://aims.fao.org/aos/agrovoc/c_1300	Carbohydrates	exactMatch	carbohydrate	1159
+http://aims.fao.org/aos/agrovoc/c_1693	Carbon	exactMatch	carbon	1160
+http://aims.fao.org/aos/agrovoc/c_1302	Carbon dioxide	exactMatch	carbon dioxide	1168
+http://aims.fao.org/aos/agrovoc/c_1303	Carbon monoxide	exactMatch	carbon monoxide	1173
+http://aims.fao.org/aos/agrovoc/c_1317	Cardiovascular system	exactMatch	cardiovascular system	11836
+http://aims.fao.org/aos/agrovoc/c_1344	cartography	exactMatch	cartography	1200
+http://aims.fao.org/aos/agrovoc/c_1391	Cattle	exactMatch	cattle	1225
+http://aims.fao.org/aos/agrovoc/c_1423	Cellulose	exactMatch	cellulose	1244
+http://aims.fao.org/aos/agrovoc/c_1426	Cement	exactMatch	cement	1247
+http://aims.fao.org/aos/agrovoc/c_1432	Central Africa	exactMatch	Central Africa	1255
+http://aims.fao.org/aos/agrovoc/c_1434	Central America	exactMatch	Central America	1256
+http://aims.fao.org/aos/agrovoc/c_1437	Central government	exactMatch	central government	1259
+http://aims.fao.org/aos/agrovoc/c_1456	Cephalopoda	exactMatch	cephalopod	1265
+http://aims.fao.org/aos/agrovoc/c_1503	Charcoal	exactMatch	charcoal	1290
+http://aims.fao.org/aos/agrovoc/c_1513	Analytical methods	exactMatch	analytical method	402
+http://aims.fao.org/aos/agrovoc/c_1515	Chemical industry	exactMatch	chemical industry	1310
+http://aims.fao.org/aos/agrovoc/c_1516	Chemical oceanography	exactMatch	chemical oceanography	1312
+http://aims.fao.org/aos/agrovoc/c_1520	chemicals	exactMatch	chemical	1327
+http://aims.fao.org/aos/agrovoc/c_1522	Chemistry	exactMatch	chemistry	1348
+http://aims.fao.org/aos/agrovoc/c_1560	Chiroptera	exactMatch	chiropteran	1362
+http://aims.fao.org/aos/agrovoc/c_1568	Chlorine	exactMatch	chlorine	1373
+http://aims.fao.org/aos/agrovoc/c_1577	Chlorophylls	exactMatch	chlorophyll	1391
+http://aims.fao.org/aos/agrovoc/c_1579	Chlorosis	exactMatch	chlorosis	1393
+http://aims.fao.org/aos/agrovoc/c_1594	Chromatography	exactMatch	chromatography	1400
+http://aims.fao.org/aos/agrovoc/c_1595	Chromium	exactMatch	chromium	1401
+http://aims.fao.org/aos/agrovoc/c_1648	Civil engineering	exactMatch	civil engineering	1434
+http://aims.fao.org/aos/agrovoc/c_1653	classification	exactMatch	classification	1447
+http://aims.fao.org/aos/agrovoc/c_1662	Land clearing	exactMatch	land clearing	4609
+http://aims.fao.org/aos/agrovoc/c_1665	climate	exactMatch	climate	1462
+http://aims.fao.org/aos/agrovoc/c_1666	Climatic change	exactMatch	climatic change	1471
+http://aims.fao.org/aos/agrovoc/c_1669	climatic zones	exactMatch	climatic zone	1476
+http://aims.fao.org/aos/agrovoc/c_1671	Climatology	exactMatch	climatology	1479
+http://aims.fao.org/aos/agrovoc/c_1691	Coagulation	exactMatch	coagulation	1499
+http://aims.fao.org/aos/agrovoc/c_1693	Coal	exactMatch	coal	1500
+http://aims.fao.org/aos/agrovoc/c_1701	Coating	exactMatch	coating	1530
+http://aims.fao.org/aos/agrovoc/c_1702	Cobalt	exactMatch	cobalt	1532
+http://aims.fao.org/aos/agrovoc/c_1743	Cold	exactMatch	cold	1556
+http://aims.fao.org/aos/agrovoc/c_1773	Colour	exactMatch	colour	1571
+http://aims.fao.org/aos/agrovoc/c_1791	Compensation	exactMatch	compensation	1633
+http://aims.fao.org/aos/agrovoc/c_1794	Chemical composition	exactMatch	chemical composition	1299
+http://aims.fao.org/aos/agrovoc/c_1798	expropriation	exactMatch	expropriation	3071
+http://aims.fao.org/aos/agrovoc/c_1802	Economic concentration	exactMatch	economic concentration	13258
+http://aims.fao.org/aos/agrovoc/c_1804	Concrete	exactMatch	concrete	1677
+http://aims.fao.org/aos/agrovoc/c_1813	Coniferous forests	exactMatch	coniferous forest	1694
+http://aims.fao.org/aos/agrovoc/c_1821	Consumer behaviour	exactMatch	consumer behaviour	1736
+http://aims.fao.org/aos/agrovoc/c_1826	consumer protection	exactMatch	consumer protection	1740
+http://aims.fao.org/aos/agrovoc/c_1827	Consumption	exactMatch	consumption	1743
+http://aims.fao.org/aos/agrovoc/c_1833	Continental climate	exactMatch	continental climate	12060
+http://aims.fao.org/aos/agrovoc/c_1834	Continuing education	exactMatch	continuing education	10778
+http://aims.fao.org/aos/agrovoc/c_1843	Controlled burning	exactMatch	controlled burning	1769
+http://aims.fao.org/aos/agrovoc/c_1854	Cooling	exactMatch	cooling	1781
+http://aims.fao.org/aos/agrovoc/c_1868	Copper	exactMatch	copper	1792
+http://aims.fao.org/aos/agrovoc/c_1880	Coral reefs	exactMatch	coral reef	1796
+http://aims.fao.org/aos/agrovoc/c_1895	Cork	exactMatch	cork	1800
+http://aims.fao.org/aos/agrovoc/c_1919	Cost benefit analysis	exactMatch	cost-benefit analysis	1818
+http://aims.fao.org/aos/agrovoc/c_1926	Cotton	exactMatch	cotton	1827
+http://aims.fao.org/aos/agrovoc/c_1954	credit	exactMatch	credit	13177
+http://aims.fao.org/aos/agrovoc/c_1962	crocodiles	exactMatch	crocodile	1870
+http://aims.fao.org/aos/agrovoc/c_2018	Cultivation	exactMatch	cultivation	1899
+http://aims.fao.org/aos/agrovoc/c_2021	Cultural development	exactMatch	cultural development	1909
+http://aims.fao.org/aos/agrovoc/c_2091	cytology	exactMatch	cytology	1945
+http://aims.fao.org/aos/agrovoc/c_2111	Dairy industry	exactMatch	dairy industry	1951
+http://aims.fao.org/aos/agrovoc/c_2140	debt	exactMatch	debt	2000
+http://aims.fao.org/aos/agrovoc/c_2143	decentralization	exactMatch	decentralisation	2003
+http://aims.fao.org/aos/agrovoc/c_2152	deer	exactMatch	deer	2029
+http://aims.fao.org/aos/agrovoc/c_2159	Degradation	exactMatch	degradation	2040
+http://aims.fao.org/aos/agrovoc/c_2171	demand	exactMatch	demand	2053
+http://aims.fao.org/aos/agrovoc/c_2186	Density	exactMatch	density	11116
+http://aims.fao.org/aos/agrovoc/c_2194	Dermaptera	exactMatch	dermapteran	2093
+http://aims.fao.org/aos/agrovoc/c_2204	Desertification	exactMatch	desertification	2105
+http://aims.fao.org/aos/agrovoc/c_2219	Detoxification	exactMatch	detoxification	2143
+http://aims.fao.org/aos/agrovoc/c_2223	Heavy metals	exactMatch	heavy metal	3915
+http://aims.fao.org/aos/agrovoc/c_2225	Development aid	exactMatch	development aid	2155
+http://aims.fao.org/aos/agrovoc/c_2227	Development plans	exactMatch	development plan	2161
+http://aims.fao.org/aos/agrovoc/c_2240	Dialysis	exactMatch	dialysis	2167
+http://aims.fao.org/aos/agrovoc/c_2331	Disinfectants	exactMatch	disinfectant	2237
+http://aims.fao.org/aos/agrovoc/c_2333	Dispersions	exactMatch	dispersion	2245
+http://aims.fao.org/aos/agrovoc/c_2337	Distilling industry	exactMatch	distilling industry	2262
+http://aims.fao.org/aos/agrovoc/c_10337	DNA	exactMatch	DNA	2279
+http://aims.fao.org/aos/agrovoc/c_2350	Documentation	exactMatch	documentation	2284
+http://aims.fao.org/aos/agrovoc/c_2358	Domestic trade	exactMatch	domestic trade	2300
+http://aims.fao.org/aos/agrovoc/c_2372	drainage	exactMatch	drainage	2319
+http://aims.fao.org/aos/agrovoc/c_2374	Drainage water	exactMatch	drainage water	2323
+http://aims.fao.org/aos/agrovoc/c_2391	Drought	exactMatch	drought	2347
+http://aims.fao.org/aos/agrovoc/c_15647	Dry farming	exactMatch	dry farming	2360
+http://aims.fao.org/aos/agrovoc/c_2402	Drying	exactMatch	drying	2361
+http://aims.fao.org/aos/agrovoc/c_2438	Earth sciences	exactMatch	earth science	2405
+http://aims.fao.org/aos/agrovoc/c_2440	Earthquakes	exactMatch	earthquake	2402
+http://aims.fao.org/aos/agrovoc/c_2442	East Africa	exactMatch	East Africa	2411
+http://aims.fao.org/aos/agrovoc/c_2448	Eastern Europe	exactMatch	Eastern Europe	2413
+http://aims.fao.org/aos/agrovoc/c_2467	ecology	exactMatch	ecology	2470
+http://aims.fao.org/aos/agrovoc/c_2469	Economic analysis	exactMatch	economic analysis	2478
+http://aims.fao.org/aos/agrovoc/c_2471	Economic development	exactMatch	economic development	2484
+http://aims.fao.org/aos/agrovoc/c_2473	Economic geography	exactMatch	economic geography	13170
+http://aims.fao.org/aos/agrovoc/c_2474	Economic growth	exactMatch	economic growth	2490
+http://aims.fao.org/aos/agrovoc/c_2477	economic sectors	exactMatch	economic sector	7554
+http://aims.fao.org/aos/agrovoc/c_2479	economic systems	exactMatch	economic system	2508
+http://aims.fao.org/aos/agrovoc/c_2481	economics	exactMatch	economics	2501
+http://aims.fao.org/aos/agrovoc/c_2482	ecosystems	exactMatch	ecosystem	2519
+http://aims.fao.org/aos/agrovoc/c_2488	education	exactMatch	education	2547
+http://aims.fao.org/aos/agrovoc/c_2515	Electrical engineering	exactMatch	electrical engineering	2586
+http://aims.fao.org/aos/agrovoc/c_2518	Electricity	exactMatch	electricity	2592
+http://aims.fao.org/aos/agrovoc/c_2522	Electronics	exactMatch	electronics	2624
+http://aims.fao.org/aos/agrovoc/c_2550	Employment	exactMatch	employment	2683
+http://aims.fao.org/aos/agrovoc/c_2565	energy	exactMatch	energy	2712
+http://aims.fao.org/aos/agrovoc/c_2566	Energy balance	exactMatch	energy balance	2713
+http://aims.fao.org/aos/agrovoc/c_2567	Energy conservation	exactMatch	energy conservation	2714
+http://aims.fao.org/aos/agrovoc/c_2570	energy sources	exactMatch	energy source	2741
+http://aims.fao.org/aos/agrovoc/c_2571	engineering	exactMatch	engineering	12586
+http://aims.fao.org/aos/agrovoc/c_2584	Enterovirus	exactMatch	enterovirus	11852
+http://aims.fao.org/aos/agrovoc/c_2593	environment	exactMatch	environment	2944
+http://aims.fao.org/aos/agrovoc/c_2615	Epidemiology	exactMatch	epidemiology	2949
+http://aims.fao.org/aos/agrovoc/c_2631	Equipment	exactMatch	equipment	2956
+http://aims.fao.org/aos/agrovoc/c_2638	ergonomics	exactMatch	ergonomics	2960
+http://aims.fao.org/aos/agrovoc/c_2651	Erosion	exactMatch	erosion	2963
+http://aims.fao.org/aos/agrovoc/c_2652	erosion control	exactMatch	erosion control	2964
+http://aims.fao.org/aos/agrovoc/c_2724	Europe	exactMatch	Europe	2992
+http://aims.fao.org/aos/agrovoc/c_2734	Eutrophication	exactMatch	eutrophication	3007
+http://aims.fao.org/aos/agrovoc/c_2736	evaluation	exactMatch	evaluation	3011
+http://aims.fao.org/aos/agrovoc/c_2739	Evaporation	exactMatch	evaporation	3019
+http://aims.fao.org/aos/agrovoc/c_2741	Evapotranspiration	exactMatch	evapotranspiration	3022
+http://aims.fao.org/aos/agrovoc/c_2745	evolution	exactMatch	evolution	3026
+http://aims.fao.org/aos/agrovoc/c_2757	expenditure	exactMatch	expenditure	3049
+http://aims.fao.org/aos/agrovoc/c_2789	family planning	exactMatch	family planning	3119
+http://aims.fao.org/aos/agrovoc/c_2790	Famine	exactMatch	famine	3120
+http://aims.fao.org/aos/agrovoc/c_2821	Fauna	exactMatch	fauna	3138
+http://aims.fao.org/aos/agrovoc/c_2855	Fermentation	exactMatch	fermentation	3159
+http://aims.fao.org/aos/agrovoc/c_2879	fibres	exactMatch	fibre	3174
+http://aims.fao.org/aos/agrovoc/c_2900	Filtration	exactMatch	filtration	3190
+http://aims.fao.org/aos/agrovoc/c_2901	finance	exactMatch	finances	3194
+http://aims.fao.org/aos/agrovoc/c_2920	Fish diseases	exactMatch	fish disease	3236
+http://aims.fao.org/aos/agrovoc/c_2942	Fishery resources	exactMatch	fishery resource	3241
+http://aims.fao.org/aos/agrovoc/c_2947	Fishing grounds	exactMatch	fishing ground	13211
+http://aims.fao.org/aos/agrovoc/c_2954	Fishing vessels	exactMatch	fishing vessel	3266
+http://aims.fao.org/aos/agrovoc/c_2969	Flavourings	exactMatch	flavouring	3287
+http://aims.fao.org/aos/agrovoc/c_2975	Flocculation	exactMatch	flocculation	3295
+http://aims.fao.org/aos/agrovoc/c_2976	Flood control	exactMatch	flood control	3300
+http://aims.fao.org/aos/agrovoc/c_2980	Flooding	exactMatch	flooding	3301
+http://aims.fao.org/aos/agrovoc/c_2986	Flotation	exactMatch	flotation	3308
+http://aims.fao.org/aos/agrovoc/c_2996	Fluorine	exactMatch	fluorine	3334
+http://aims.fao.org/aos/agrovoc/c_14926	Fog	exactMatch	fog	3347
+http://aims.fao.org/aos/agrovoc/c_3011	Food additives	exactMatch	food additive	3356
+http://aims.fao.org/aos/agrovoc/c_3014	Food chains	exactMatch	food chain	3358
+http://aims.fao.org/aos/agrovoc/c_3015	Food colourants	exactMatch	food colourant	3360
+http://aims.fao.org/aos/agrovoc/c_3019	Food hygiene	exactMatch	food hygiene	3367
+http://aims.fao.org/aos/agrovoc/c_3020	Food industry	exactMatch	food industry	3368
+http://aims.fao.org/aos/agrovoc/c_3027	food science	exactMatch	food science	3384
+http://aims.fao.org/aos/agrovoc/c_3030	Food technology	exactMatch	food technology	3391
+http://aims.fao.org/aos/agrovoc/c_3044	Forest ecology	exactMatch	forest ecology	10128
+http://aims.fao.org/aos/agrovoc/c_3045	Forest fires	exactMatch	forest fire	3419
+http://aims.fao.org/aos/agrovoc/c_3049	Forest products	exactMatch	forest product	3432
+http://aims.fao.org/aos/agrovoc/c_3050	Forest resources	exactMatch	forest resource	3438
+http://aims.fao.org/aos/agrovoc/c_3055	forestry	narrowMatch	forestry	3439
+http://aims.fao.org/aos/agrovoc/c_3062	forests	exactMatch	forest	3406
+http://aims.fao.org/aos/agrovoc/c_3102	Freshwater	exactMatch	freshwater	3485
+http://aims.fao.org/aos/agrovoc/c_3113	Frost	exactMatch	frost	3496
+http://aims.fao.org/aos/agrovoc/c_3119	Fruit	exactMatch	fruit	3498
+http://aims.fao.org/aos/agrovoc/c_3128	Fruit trees	exactMatch	fruit tree	3502
+http://aims.fao.org/aos/agrovoc/c_3142	Fumigation	exactMatch	fumigation	3521
+http://aims.fao.org/aos/agrovoc/c_3146	fungicides	exactMatch	fungicide	3530
+http://aims.fao.org/aos/agrovoc/c_3152	Furniture	exactMatch	furniture	3539
+http://aims.fao.org/aos/agrovoc/c_3186	Gamma radiation	exactMatch	gamma radiation	3554
+http://aims.fao.org/aos/agrovoc/c_3196	gardens	exactMatch	garden	3559
+http://aims.fao.org/aos/agrovoc/c_3218	genetic resources	exactMatch	genetic resource	3632
+http://aims.fao.org/aos/agrovoc/c_3222	genetics	exactMatch	genetics	3633
+http://aims.fao.org/aos/agrovoc/c_3228	Geodesy	exactMatch	geodesy	3638
+http://aims.fao.org/aos/agrovoc/c_3230	Geography	exactMatch	geography	3646
+http://aims.fao.org/aos/agrovoc/c_3232	Geology	exactMatch	geology	3650
+http://aims.fao.org/aos/agrovoc/c_3233	Geomorphology	exactMatch	geomorphology	3654
+http://aims.fao.org/aos/agrovoc/c_3235	Geophysics	exactMatch	geophysics	3655
+http://aims.fao.org/aos/agrovoc/c_3238	Geothermal energy	exactMatch	geothermal energy	3658
+http://aims.fao.org/aos/agrovoc/c_3247	Germination	exactMatch	germination	3663
+http://aims.fao.org/aos/agrovoc/c_3272	glass	exactMatch	glass	3678
+http://aims.fao.org/aos/agrovoc/c_3366	grasslands	exactMatch	grassland	3733
+http://aims.fao.org/aos/agrovoc/c_3375	Green manures	exactMatch	green manure	3766
+http://aims.fao.org/aos/agrovoc/c_3391	groundwater	exactMatch	groundwater	3780
+http://aims.fao.org/aos/agrovoc/c_3453	Gypsum	exactMatch	gypsum	3806
+http://aims.fao.org/aos/agrovoc/c_3469	Hail	exactMatch	hail	3812
+http://aims.fao.org/aos/agrovoc/c_3476	Halogenated hydrocarbons	exactMatch	halogenated hydrocarbon	3820
+http://aims.fao.org/aos/agrovoc/c_3483	Handicrafts	exactMatch	handicraft	3830
+http://aims.fao.org/aos/agrovoc/c_3511	health	exactMatch	health	3865
+http://aims.fao.org/aos/agrovoc/c_3512	health protection	exactMatch	health protection	3877
+http://aims.fao.org/aos/agrovoc/c_3513	health services	exactMatch	health service	3881
+http://aims.fao.org/aos/agrovoc/c_3524	Heating	exactMatch	heating	3894
+http://aims.fao.org/aos/agrovoc/c_3579	heterocyclic compounds	exactMatch	heterocyclic compound	3937
+http://aims.fao.org/aos/agrovoc/c_3613	Higher education	exactMatch	higher education	3945
+http://aims.fao.org/aos/agrovoc/c_3635	History	exactMatch	history	3983
+http://aims.fao.org/aos/agrovoc/c_3668	horses	exactMatch	horse	3995
+http://aims.fao.org/aos/agrovoc/c_3671	horticulture	exactMatch	horticulture	3998
+http://aims.fao.org/aos/agrovoc/c_3675	Household expenditure	exactMatch	household expenditure	11038
+http://aims.fao.org/aos/agrovoc/c_3676	households	exactMatch	household	4015
+http://aims.fao.org/aos/agrovoc/c_3678	housing	exactMatch	housing	4022
+http://aims.fao.org/aos/agrovoc/c_3682	Human ecology	exactMatch	human ecology	4047
+http://aims.fao.org/aos/agrovoc/c_3683	Human population	exactMatch	human population	4056
+http://aims.fao.org/aos/agrovoc/c_61592	Humus	exactMatch	humus	4070
+http://aims.fao.org/aos/agrovoc/c_3697	Hunting	exactMatch	hunting	4072
+http://aims.fao.org/aos/agrovoc/c_3713	Hydraulic engineering	exactMatch	hydraulic engineering	4084
+http://aims.fao.org/aos/agrovoc/c_3718	Hydrobiology	exactMatch	hydrobiology	4088
+http://aims.fao.org/aos/agrovoc/c_3719	Hydrocarbons	exactMatch	hydrocarbon	4091
+http://aims.fao.org/aos/agrovoc/c_3720	Hydrochloric acid	exactMatch	hydrochloric acid	4094
+http://aims.fao.org/aos/agrovoc/c_3724	Hydrogen	exactMatch	hydrogen	4103
+http://aims.fao.org/aos/agrovoc/c_3727	Hydrography	exactMatch	hydrography	4109
+http://aims.fao.org/aos/agrovoc/c_3731	Hydrology	exactMatch	hydrology	4118
+http://aims.fao.org/aos/agrovoc/c_3733	Hydrometeorology	exactMatch	hydrometeorology	4120
+http://aims.fao.org/aos/agrovoc/c_3739	hygiene	exactMatch	hygiene	4126
+http://aims.fao.org/aos/agrovoc/c_3751	Hymenoptera	exactMatch	hymenopteran	4127
+http://aims.fao.org/aos/agrovoc/c_3782	ice	exactMatch	ice	4131
+http://aims.fao.org/aos/agrovoc/c_3802	immunity	exactMatch	immunity	4155
+http://aims.fao.org/aos/agrovoc/c_3806	Immunological diseases	exactMatch	immunological disease	4157
+http://aims.fao.org/aos/agrovoc/c_3808	Immunology	exactMatch	immunology	4158
+http://aims.fao.org/aos/agrovoc/c_3820	Income	exactMatch	income	4187
+http://aims.fao.org/aos/agrovoc/c_3828	Indian Ocean	exactMatch	Indian Ocean	4195
+http://aims.fao.org/aos/agrovoc/c_3845	Industrial crops	exactMatch	industrial crop	4224
+http://aims.fao.org/aos/agrovoc/c_3848	industry	exactMatch	industry	4279
+http://aims.fao.org/aos/agrovoc/c_3852	Infection	exactMatch	infection	4286
+http://aims.fao.org/aos/agrovoc/c_3862	Information processing	exactMatch	information processing	4307
+http://aims.fao.org/aos/agrovoc/c_3865	information services	exactMatch	information service	4309
+http://aims.fao.org/aos/agrovoc/c_3867	Infrared radiation	exactMatch	infrared radiation	4317
+http://aims.fao.org/aos/agrovoc/c_3876	Inland waters	exactMatch	inland water	4333
+http://aims.fao.org/aos/agrovoc/c_3887	Insecticides	exactMatch	insecticide	4354
+http://aims.fao.org/aos/agrovoc/c_3888	Insectivora	exactMatch	insectivore	4356
+http://aims.fao.org/aos/agrovoc/c_3894	inspection	exactMatch	inspection	4360
+http://aims.fao.org/aos/agrovoc/c_3902	insurance	exactMatch	insurance	4374
+http://aims.fao.org/aos/agrovoc/c_3906	Intensive farming	exactMatch	intensive farming	4391
+http://aims.fao.org/aos/agrovoc/c_3911	Interest groups	exactMatch	interest group	4402
+http://aims.fao.org/aos/agrovoc/c_3915	International agreements	exactMatch	international agreement	4417
+http://aims.fao.org/aos/agrovoc/c_3918	International organizations	exactMatch	international organisation	4434
+http://aims.fao.org/aos/agrovoc/c_3919	International trade	exactMatch	international trade	4444
+http://aims.fao.org/aos/agrovoc/c_3929	Invertebrates	exactMatch	invertebrate	4475
+http://aims.fao.org/aos/agrovoc/c_3930	investment	exactMatch	investment	4478
+http://aims.fao.org/aos/agrovoc/c_3932	Iodine	exactMatch	iodine	4483
+http://aims.fao.org/aos/agrovoc/c_3933	Ion exchange	exactMatch	ion exchange	4485
+http://aims.fao.org/aos/agrovoc/c_3950	Iron	exactMatch	iron	4498
+http://aims.fao.org/aos/agrovoc/c_3951	irradiation	exactMatch	irradiation	4504
+http://aims.fao.org/aos/agrovoc/c_3954	Irrigation	exactMatch	irrigation	4505
+http://aims.fao.org/aos/agrovoc/c_6021	Labour	exactMatch	labour	4577
+http://aims.fao.org/aos/agrovoc/c_4172	Land	narrowMatch	land	4599
+http://aims.fao.org/aos/agrovoc/c_4173	Land consolidation	exactMatch	land consolidation	4611
+http://aims.fao.org/aos/agrovoc/c_4180	Land tax	exactMatch	land tax	13115
+http://aims.fao.org/aos/agrovoc/c_4182	land use	exactMatch	land use	4678
+http://aims.fao.org/aos/agrovoc/c_4185	Landscape	exactMatch	landscape	4648
+http://aims.fao.org/aos/agrovoc/c_4222	Latitude	exactMatch	latitude	14936
+http://aims.fao.org/aos/agrovoc/c_4235	Lead	exactMatch	lead	4723
+http://aims.fao.org/aos/agrovoc/c_4241	Leather	exactMatch	leather	4735
+http://aims.fao.org/aos/agrovoc/c_4242	Leather industry	exactMatch	leather industry	4738
+http://aims.fao.org/aos/agrovoc/c_4253	legislation	exactMatch	legislation	4749
+http://aims.fao.org/aos/agrovoc/c_4268	Lepidoptera	exactMatch	lepidopteran	4777
+http://aims.fao.org/aos/agrovoc/c_4297	Leukaemia	exactMatch	leukaemia	4782
+http://aims.fao.org/aos/agrovoc/c_4317	life cycle	exactMatch	life cycle	4802
+http://aims.fao.org/aos/agrovoc/c_4318	life sciences	exactMatch	life science	4805
+http://aims.fao.org/aos/agrovoc/c_4322	Light	exactMatch	light	4810
+http://aims.fao.org/aos/agrovoc/c_4326	Lighting	exactMatch	lighting	4814
+http://aims.fao.org/aos/agrovoc/c_4342	Limestone	exactMatch	limestone	4823
+http://aims.fao.org/aos/agrovoc/c_4343	Limnology	exactMatch	limnology	4830
+http://aims.fao.org/aos/agrovoc/c_4373	Liquid manures	exactMatch	liquid manure	4843
+http://aims.fao.org/aos/agrovoc/c_4375	Liquid wastes	exactMatch	liquid waste	4845
+http://aims.fao.org/aos/agrovoc/c_4397	Livestock	exactMatch	livestock	4862
+http://aims.fao.org/aos/agrovoc/c_4400	living standards	exactMatch	living standard	10939
+http://aims.fao.org/aos/agrovoc/c_4412	Local government	exactMatch	local government	10992
+http://aims.fao.org/aos/agrovoc/c_4483	Lymphatic system	exactMatch	lymphatic system	4945
+http://aims.fao.org/aos/agrovoc/c_4543	Malnutrition	exactMatch	malnutrition	4979
+http://aims.fao.org/aos/agrovoc/c_4577	Mangrove swamps	exactMatch	mangrove swamp	4999
+http://aims.fao.org/aos/agrovoc/c_4590	Manpower	exactMatch	manpower	5004
+http://aims.fao.org/aos/agrovoc/c_4603	Marginal land	exactMatch	marginal land	5023
+http://aims.fao.org/aos/agrovoc/c_4609	Marine ecology	exactMatch	marine ecology	5030
+http://aims.fao.org/aos/agrovoc/c_4610	Marine environment	exactMatch	marine environment	5033
+http://aims.fao.org/aos/agrovoc/c_4612	Marine geology	exactMatch	marine geology	5038
+http://aims.fao.org/aos/agrovoc/c_4614	economic competition	exactMatch	economic competition	1639
+http://aims.fao.org/aos/agrovoc/c_4618	Market research	exactMatch	market research	5068
+http://aims.fao.org/aos/agrovoc/c_4620	Marketing	exactMatch	marketing	5064
+http://aims.fao.org/aos/agrovoc/c_4626	markets	exactMatch	market	5058
+http://aims.fao.org/aos/agrovoc/c_61648	Mass media	exactMatch	mass media	5079
+http://aims.fao.org/aos/agrovoc/c_4669	Meat	exactMatch	meat	5124
+http://aims.fao.org/aos/agrovoc/c_4682	Mechanical engineering	exactMatch	mechanical engineering	5128
+http://aims.fao.org/aos/agrovoc/c_4695	medical sciences	exactMatch	medical science	5135
+http://aims.fao.org/aos/agrovoc/c_4697	Mediterranean climate	exactMatch	Mediterranean climate	12063
+http://aims.fao.org/aos/agrovoc/c_4699	Mediterranean Sea	exactMatch	Mediterranean Sea	14844
+http://aims.fao.org/aos/agrovoc/c_4731	Melting	exactMatch	melting	5148
+http://aims.fao.org/aos/agrovoc/c_4751	Mercury	exactMatch	mercury	5154
+http://aims.fao.org/aos/agrovoc/c_4769	Metabolism	exactMatch	metabolism	5161
+http://aims.fao.org/aos/agrovoc/c_4770	Metabolites	exactMatch	metabolite	5165
+http://aims.fao.org/aos/agrovoc/c_4783	Meteorology	exactMatch	meteorology	5197
+http://aims.fao.org/aos/agrovoc/c_4784	Methane	exactMatch	methane	5199
+http://aims.fao.org/aos/agrovoc/c_4800	Microbiology	exactMatch	microbiology	5218
+http://aims.fao.org/aos/agrovoc/c_4802	microclimate	exactMatch	microclimate	5219
+http://aims.fao.org/aos/agrovoc/c_4810	Microscopy	exactMatch	microscopy	5230
+http://aims.fao.org/aos/agrovoc/c_4821	Migrant labour	exactMatch	migrant labour	5234
+http://aims.fao.org/aos/agrovoc/c_4826	milk	exactMatch	milk	5254
+http://aims.fao.org/aos/agrovoc/c_4851	Mineral oils	exactMatch	mineral oil	12394
+http://aims.fao.org/aos/agrovoc/c_4852	Mineral resources	exactMatch	mineral resource	5274
+http://aims.fao.org/aos/agrovoc/c_4856	Mineralogy	exactMatch	mineralogy	5270
+http://aims.fao.org/aos/agrovoc/c_4857	minerals	exactMatch	mineral	5277
+http://aims.fao.org/aos/agrovoc/c_4873	Mixed farming	exactMatch	mixed farming	5313
+http://aims.fao.org/aos/agrovoc/c_4874	Mixed forests	exactMatch	mixed forest	5316
+http://aims.fao.org/aos/agrovoc/c_4877	Mixing	exactMatch	mixing	5318
+http://aims.fao.org/aos/agrovoc/c_4891	Molecular biology	exactMatch	molecular biology	5333
+http://aims.fao.org/aos/agrovoc/c_29424	monitoring	exactMatch	monitoring	5346
+http://aims.fao.org/aos/agrovoc/c_4945	Mortality	exactMatch	mortality	5371
+http://aims.fao.org/aos/agrovoc/c_4958	Mountain climate	exactMatch	mountain climate	12064
+http://aims.fao.org/aos/agrovoc/c_5007	Music	exactMatch	music	5449
+http://aims.fao.org/aos/agrovoc/c_5014	mutation	exactMatch	mutation	5462
+http://aims.fao.org/aos/agrovoc/c_5019	Mycology	exactMatch	mycology	5463
+http://aims.fao.org/aos/agrovoc/c_5023	Mycorrhizae	exactMatch	mycorrhiza	5465
+http://aims.fao.org/aos/agrovoc/c_5076	National accounting	exactMatch	national accounting	11034
+http://aims.fao.org/aos/agrovoc/c_5079	National parks	exactMatch	national park	5484
+http://aims.fao.org/aos/agrovoc/c_5080	National planning	exactMatch	national planning	5486
+http://aims.fao.org/aos/agrovoc/c_5087	Natural gas	exactMatch	natural gas	5503
+http://aims.fao.org/aos/agrovoc/c_5090	Natural regeneration	exactMatch	natural regeneration	10707
+http://aims.fao.org/aos/agrovoc/c_5091	Natural resources	exactMatch	natural resource	5521
+http://aims.fao.org/aos/agrovoc/c_5092	Nature conservation	exactMatch	nature conservation	5537
+http://aims.fao.org/aos/agrovoc/c_5138	Nervous system	exactMatch	nervous system	5569
+http://aims.fao.org/aos/agrovoc/c_5140	Nesting	exactMatch	nesting	10535
+http://aims.fao.org/aos/agrovoc/c_5172	Nickel	exactMatch	nickel	5589
+http://aims.fao.org/aos/agrovoc/c_5192	Nitrogen	exactMatch	nitrogen	5605
+http://aims.fao.org/aos/agrovoc/c_5194	Nitrogen dioxide	exactMatch	nitrogen dioxide	5608
+http://aims.fao.org/aos/agrovoc/c_5196	Nitrogen fixation	exactMatch	nitrogen fixation	5611
+http://aims.fao.org/aos/agrovoc/c_5205	Noise	exactMatch	noise	5624
+http://aims.fao.org/aos/agrovoc/c_5207	nomenclature	exactMatch	nomenclature	5664
+http://aims.fao.org/aos/agrovoc/c_5209	Simulation	exactMatch	simulation	7702
+http://aims.fao.org/aos/agrovoc/c_5218	North Africa	exactMatch	North Africa	5692
+http://aims.fao.org/aos/agrovoc/c_5219	North America	exactMatch	North America	5693
+http://aims.fao.org/aos/agrovoc/c_5252	nuclear energy	exactMatch	nuclear energy	5712
+http://aims.fao.org/aos/agrovoc/c_5253	Nucleic acids	exactMatch	nucleic acid	5751
+http://aims.fao.org/aos/agrovoc/c_5294	occupations	exactMatch	occupation	10076
+http://aims.fao.org/aos/agrovoc/c_5296	Oceania	exactMatch	Oceania	5794
+http://aims.fao.org/aos/agrovoc/c_5298	Oceanic climate	exactMatch	oceanic climate	12065
+http://aims.fao.org/aos/agrovoc/c_5387	organic matter	exactMatch	organic matter	11227
+http://aims.fao.org/aos/agrovoc/c_5395	Organochlorine compounds	exactMatch	organochlorine compound	5921
+http://aims.fao.org/aos/agrovoc/c_5402	Organosulphur compounds	exactMatch	organosulphur compound	5936
+http://aims.fao.org/aos/agrovoc/c_5403	Organotin compounds	exactMatch	organotin compound	5937
+http://aims.fao.org/aos/agrovoc/c_5442	Osmosis	exactMatch	osmosis	5949
+http://aims.fao.org/aos/agrovoc/c_5466	Ownership	exactMatch	ownership	5971
+http://aims.fao.org/aos/agrovoc/c_5472	Oxidation	exactMatch	oxidation	5972
+http://aims.fao.org/aos/agrovoc/c_5477	Oxygen	exactMatch	oxygen	5982
+http://aims.fao.org/aos/agrovoc/c_5485	Ozone	exactMatch	ozone	5991
+http://aims.fao.org/aos/agrovoc/c_5495	Packaging	exactMatch	packaging	5999
+http://aims.fao.org/aos/agrovoc/c_5508	Palaeoclimatology	exactMatch	palaeoclimatology	12045
+http://aims.fao.org/aos/agrovoc/c_5509	Palaeontology	exactMatch	palaeontology	6013
+http://aims.fao.org/aos/agrovoc/c_5548	Paper	exactMatch	paper	6023
+http://aims.fao.org/aos/agrovoc/c_5578	Parasitology	exactMatch	parasitology	6038
+http://aims.fao.org/aos/agrovoc/c_5631	Pathology	exactMatch	pathology	6066
+http://aims.fao.org/aos/agrovoc/c_5647	Peat	exactMatch	peat	6081
+http://aims.fao.org/aos/agrovoc/c_5709	Periphyton	exactMatch	periphyton	6115
+http://aims.fao.org/aos/agrovoc/c_5718	Permeability	exactMatch	permeability	6120
+http://aims.fao.org/aos/agrovoc/c_5726	pest control	exactMatch	pest control	6139
+http://aims.fao.org/aos/agrovoc/c_5739	pesticides	exactMatch	pesticide	6140
+http://aims.fao.org/aos/agrovoc/c_5746	Petrol	exactMatch	petrol	6156
+http://aims.fao.org/aos/agrovoc/c_5747	Petroleum	exactMatch	petroleum	6161
+http://aims.fao.org/aos/agrovoc/c_5760	Pharmacology	exactMatch	pharmacology	6181
+http://aims.fao.org/aos/agrovoc/c_5804	Phosphorus	exactMatch	phosphorus	6196
+http://aims.fao.org/aos/agrovoc/c_5807	Photogrammetry	exactMatch	photogrammetry	6204
+http://aims.fao.org/aos/agrovoc/c_5808	Photography	exactMatch	photography	13123
+http://aims.fao.org/aos/agrovoc/c_5812	Photosynthesis	exactMatch	photosynthesis	6211
+http://aims.fao.org/aos/agrovoc/c_5830	Physical oceanography	exactMatch	physical oceanography	6224
+http://aims.fao.org/aos/agrovoc/c_5833	Physics	exactMatch	physics	6235
+http://aims.fao.org/aos/agrovoc/c_5848	Phytotoxicity	exactMatch	phytotoxicity	6250
+http://aims.fao.org/aos/agrovoc/c_5950	Plankton	exactMatch	plankton	6282
+http://aims.fao.org/aos/agrovoc/c_5951	planning	exactMatch	planning	6287
+http://aims.fao.org/aos/agrovoc/c_5956	Plant breeding	exactMatch	plant breeding	6298
+http://aims.fao.org/aos/agrovoc/c_5962	Plant diseases	exactMatch	plant disease	6304
+http://aims.fao.org/aos/agrovoc/c_5963	Plant ecology	exactMatch	plant ecology	8910
+http://aims.fao.org/aos/agrovoc/c_5975	plant population	exactMatch	plant population	10633
+http://aims.fao.org/aos/agrovoc/c_5976	Plant production	exactMatch	plant production	10044
+http://aims.fao.org/aos/agrovoc/c_5978	Plant protection	narrowMatch	plant protection	6318
+http://aims.fao.org/aos/agrovoc/c_5979	Plant resources	exactMatch	plant resource	8919
+http://aims.fao.org/aos/agrovoc/c_5992	Planting	exactMatch	planting	6313
+http://aims.fao.org/aos/agrovoc/c_6032	Plutonium	exactMatch	plutonium	6346
+http://aims.fao.org/aos/agrovoc/c_6051	Poisoning	exactMatch	poisoning	6359
+http://aims.fao.org/aos/agrovoc/c_6057	Polar regions	exactMatch	polar region	6364
+http://aims.fao.org/aos/agrovoc/c_6070	Pollen	exactMatch	pollen	6392
+http://aims.fao.org/aos/agrovoc/c_6076	pollutants	exactMatch	pollutant	6395
+http://aims.fao.org/aos/agrovoc/c_6077	Pollution	exactMatch	pollution	6445
+http://aims.fao.org/aos/agrovoc/c_6078	pollution control	exactMatch	pollution control	6451
+http://aims.fao.org/aos/agrovoc/c_6111	population dynamics	exactMatch	population dynamics	6518
+http://aims.fao.org/aos/agrovoc/c_6112	population density	exactMatch	population density	10918
+http://aims.fao.org/aos/agrovoc/c_6113	Population distribution	exactMatch	population distribution	6517
+http://aims.fao.org/aos/agrovoc/c_6115	population structure	exactMatch	population structure	6527
+http://aims.fao.org/aos/agrovoc/c_6145	poultry	exactMatch	poultry	6548
+http://aims.fao.org/aos/agrovoc/c_6148	Poultry farming	exactMatch	poultry farming	6549
+http://aims.fao.org/aos/agrovoc/c_6151	Poverty	exactMatch	poverty	6551
+http://aims.fao.org/aos/agrovoc/c_6163	predators	exactMatch	predator	6577
+http://aims.fao.org/aos/agrovoc/c_6172	Preservatives	exactMatch	preservative	6587
+http://aims.fao.org/aos/agrovoc/c_6173	Pressing	narrowMatch	pressing	6592
+http://aims.fao.org/aos/agrovoc/c_6174	Pressure	exactMatch	pressure	6593
+http://aims.fao.org/aos/agrovoc/c_6178	prices	exactMatch	price	6602
+http://aims.fao.org/aos/agrovoc/c_6180	Primary sector	exactMatch	primary sector	6619
+http://aims.fao.org/aos/agrovoc/c_6195	processing	exactMatch	processing	6650
+http://aims.fao.org/aos/agrovoc/c_6210	Productivity	exactMatch	productivity	6670
+http://aims.fao.org/aos/agrovoc/c_17206	Profit	exactMatch	profit	6678
+http://aims.fao.org/aos/agrovoc/c_6244	Protected species	exactMatch	protected species	6746
+http://aims.fao.org/aos/agrovoc/c_6256	Protein products	exactMatch	protein product	13198
+http://aims.fao.org/aos/agrovoc/c_6259	proteins	exactMatch	protein	6755
+http://aims.fao.org/aos/agrovoc/c_6274	Pruning	exactMatch	pruning	10691
+http://aims.fao.org/aos/agrovoc/c_6346	Public expenditure	exactMatch	public expenditure	11039
+http://aims.fao.org/aos/agrovoc/c_6347	public finance	exactMatch	public finance	6793
+http://aims.fao.org/aos/agrovoc/c_6349	public health	exactMatch	public health	6798
+http://aims.fao.org/aos/agrovoc/c_6351	Public parks	exactMatch	public park	6806
+http://aims.fao.org/aos/agrovoc/c_6352	public relations	exactMatch	public relations	14876
+http://aims.fao.org/aos/agrovoc/c_6353	Public services	exactMatch	public service	6817
+http://aims.fao.org/aos/agrovoc/c_6364	Pulp	exactMatch	pulp	6828
+http://aims.fao.org/aos/agrovoc/c_6377	Purification	narrowMatch	purification	6838
+http://aims.fao.org/aos/agrovoc/c_6401	quality controls	exactMatch	quality control	6860
+http://aims.fao.org/aos/agrovoc/c_6421	Radiation damage	exactMatch	radiation damage	6887
+http://aims.fao.org/aos/agrovoc/c_6422	Radiation	exactMatch	radiation	6884
+http://aims.fao.org/aos/agrovoc/c_6431	Radio	exactMatch	radio	6901
+http://aims.fao.org/aos/agrovoc/c_6425	Radioactive pollutants	exactMatch	radioactive pollutant	6915
+http://aims.fao.org/aos/agrovoc/c_6426	Radioactivity	exactMatch	radioactivity	6925
+http://aims.fao.org/aos/agrovoc/c_6434	Rail transport	exactMatch	rail transport	6941
+http://aims.fao.org/aos/agrovoc/c_6435	Rain	exactMatch	rain	6947
+http://aims.fao.org/aos/agrovoc/c_6477	recreation	exactMatch	recreation	7001
+http://aims.fao.org/aos/agrovoc/c_6478	Recycling	exactMatch	recycling	7015
+http://aims.fao.org/aos/agrovoc/c_6485	Refrigeration	exactMatch	refrigeration	7044
+http://aims.fao.org/aos/agrovoc/c_6488	Regional development	exactMatch	regional development	7066
+http://aims.fao.org/aos/agrovoc/c_6490	Regional planning	exactMatch	regional planning	7075
+http://aims.fao.org/aos/agrovoc/c_6491	registration	exactMatch	registration	7082
+http://aims.fao.org/aos/agrovoc/c_6493	Regulations	exactMatch	regulation	11514
+http://aims.fao.org/aos/agrovoc/c_6497	Religion	exactMatch	religion	7099
+http://aims.fao.org/aos/agrovoc/c_6498	Remote sensing	exactMatch	remote sensing	7102
+http://aims.fao.org/aos/agrovoc/c_6502	Renewable resources	exactMatch	renewable resource	7108
+http://aims.fao.org/aos/agrovoc/c_6513	research	exactMatch	research	7127
+http://aims.fao.org/aos/agrovoc/c_6523	Resource conservation	exactMatch	resource conservation	7170
+http://aims.fao.org/aos/agrovoc/c_6529	Respiratory diseases	exactMatch	respiratory disease	7179
+http://aims.fao.org/aos/agrovoc/c_6531	Respiratory system	exactMatch	respiratory system	7181
+http://aims.fao.org/aos/agrovoc/c_6599	Rice	exactMatch	rice	7214
+http://aims.fao.org/aos/agrovoc/c_6604	Right of access	broadMatch	right of access	11527
+http://aims.fao.org/aos/agrovoc/c_6612	risk	exactMatch	risk	7233
+http://aims.fao.org/aos/agrovoc/c_6620	Road transport	exactMatch	road transport	7296
+http://aims.fao.org/aos/agrovoc/c_6628	rock	exactMatch	rock	7298
+http://aims.fao.org/aos/agrovoc/c_6662	Crop rotation	exactMatch	crop rotation	1875
+http://aims.fao.org/aos/agrovoc/c_6678	Rubber	broadMatch	rubber	7324
+http://aims.fao.org/aos/agrovoc/c_6701	Rural development	exactMatch	rural development	11159
+http://aims.fao.org/aos/agrovoc/c_6702	Rural environment	exactMatch	rural environment	7348
+http://aims.fao.org/aos/agrovoc/c_6705	Rural population	exactMatch	rural population	7352
+http://aims.fao.org/aos/agrovoc/c_6732	safety	exactMatch	safety	7362
+http://aims.fao.org/aos/agrovoc/c_6743	Salamanders	exactMatch	salamander	7373
+http://aims.fao.org/aos/agrovoc/c_6757	Salmonella	exactMatch	salmonella	7384
+http://aims.fao.org/aos/agrovoc/c_6774	Sampling	exactMatch	sampling	7407
+http://aims.fao.org/aos/agrovoc/c_6779	Sand	exactMatch	sand	7413
+http://aims.fao.org/aos/agrovoc/c_6827	Sawdust	exactMatch	sawdust	7458
+http://aims.fao.org/aos/agrovoc/c_6903	Sea water	exactMatch	sea water	7535
+http://aims.fao.org/aos/agrovoc/c_6911	seasons	exactMatch	season	7529
+http://aims.fao.org/aos/agrovoc/c_6921	Secondary sector	exactMatch	secondary sector	7548
+http://aims.fao.org/aos/agrovoc/c_6953	Selenium	exactMatch	selenium	7590
+http://aims.fao.org/aos/agrovoc/c_6989	Services	exactMatch	services	7621
+http://aims.fao.org/aos/agrovoc/c_7007	Sewage	exactMatch	sewage	7628
+http://aims.fao.org/aos/agrovoc/c_7008	Sewage sludge	exactMatch	sewage sludge	7632
+http://aims.fao.org/aos/agrovoc/c_7033	Shellfish	exactMatch	shellfish	7646
+http://aims.fao.org/aos/agrovoc/c_7038	Shifting cultivation	exactMatch	shifting cultivation	7652
+http://aims.fao.org/aos/agrovoc/c_7039	Shipbuilding	exactMatch	shipbuilding	7655
+http://aims.fao.org/aos/agrovoc/c_7058	Sieving	exactMatch	sieving	7690
+http://aims.fao.org/aos/agrovoc/c_7061	Silicon	exactMatch	silicon	7694
+http://aims.fao.org/aos/agrovoc/c_7068	Silver	exactMatch	silver	7699
+http://aims.fao.org/aos/agrovoc/c_7097	Skin	exactMatch	skin	7716
+http://aims.fao.org/aos/agrovoc/c_7108	Sleep	exactMatch	sleep	7729
+http://aims.fao.org/aos/agrovoc/c_7124	Snow	exactMatch	snow	7769
+http://aims.fao.org/aos/agrovoc/c_7127	Soaking	exactMatch	soaking	7774
+http://aims.fao.org/aos/agrovoc/c_7129	social behaviour	exactMatch	social behaviour	7781
+http://aims.fao.org/aos/agrovoc/c_7133	Social security	exactMatch	social security	7815
+http://aims.fao.org/aos/agrovoc/c_7134	Social services	exactMatch	social service	7816
+http://aims.fao.org/aos/agrovoc/c_7135	social structure	exactMatch	social structure	7817
+http://aims.fao.org/aos/agrovoc/c_7137	social welfare	exactMatch	social welfare	7822
+http://aims.fao.org/aos/agrovoc/c_7142	Sociology	exactMatch	sociology	7831
+http://aims.fao.org/aos/agrovoc/c_7156	Soil	exactMatch	soil	7843
+http://aims.fao.org/aos/agrovoc/c_7158	soil air	exactMatch	soil air	7845
+http://aims.fao.org/aos/agrovoc/c_7160	Soil biology	exactMatch	soil biology	7847
+http://aims.fao.org/aos/agrovoc/c_7161	soil chemistry	exactMatch	soil chemistry	7849
+http://aims.fao.org/aos/agrovoc/c_7163	soil compaction	exactMatch	soil compaction	7850
+http://aims.fao.org/aos/agrovoc/c_7165	Soil conservation	exactMatch	soil conservation	7852
+http://aims.fao.org/aos/agrovoc/c_7168	Soil degradation	exactMatch	soil degradation	7857
+http://aims.fao.org/aos/agrovoc/c_7170	soil fertility	exactMatch	soil fertility	7860
+http://aims.fao.org/aos/agrovoc/c_7177	soil mechanics	exactMatch	soil mechanics	7871
+http://aims.fao.org/aos/agrovoc/c_7183	Soil pollution	exactMatch	soil pollution	7880
+http://aims.fao.org/aos/agrovoc/c_7187	Soil resources	exactMatch	soil resource	7886
+http://aims.fao.org/aos/agrovoc/c_7188	Soil sciences	exactMatch	soil science	7890
+http://aims.fao.org/aos/agrovoc/c_7196	Soil structure	exactMatch	soil structure	7895
+http://aims.fao.org/aos/agrovoc/c_7198	Soil analysis	exactMatch	soil analysis	7846
+http://aims.fao.org/aos/agrovoc/c_7199	Soil texture	exactMatch	soil texture	7898
+http://aims.fao.org/aos/agrovoc/c_7204	soil types	exactMatch	soil type	7899
+http://aims.fao.org/aos/agrovoc/c_7205	Soil water	exactMatch	soil water	7902
+http://aims.fao.org/aos/agrovoc/c_7222	Solar energy	exactMatch	solar energy	7906
+http://aims.fao.org/aos/agrovoc/c_7228	Solid wastes	exactMatch	solid waste	7920
+http://aims.fao.org/aos/agrovoc/c_7233	Solubility	exactMatch	solubility	7923
+http://aims.fao.org/aos/agrovoc/c_7236	solvents	exactMatch	solvent	7925
+http://aims.fao.org/aos/agrovoc/c_7250	Sorption	exactMatch	sorption	7930
+http://aims.fao.org/aos/agrovoc/c_7251	Sound	exactMatch	sound	7933
+http://aims.fao.org/aos/agrovoc/c_7253	South America	exactMatch	South America	7947
+http://aims.fao.org/aos/agrovoc/c_7265	Southern Africa	exactMatch	Southern Africa	7950
+http://aims.fao.org/aos/agrovoc/c_7277	spawning grounds	exactMatch	spawning ground	10521
+http://aims.fao.org/aos/agrovoc/c_7280	Species	exactMatch	species	7982
+http://aims.fao.org/aos/agrovoc/c_7328	Sport	exactMatch	sport	8008
+http://aims.fao.org/aos/agrovoc/c_7369	Starch	exactMatch	starch	8057
+http://aims.fao.org/aos/agrovoc/c_7384	Steel	exactMatch	steel	8088
+http://aims.fao.org/aos/agrovoc/c_7407	steroids	exactMatch	steroid	8096
+http://aims.fao.org/aos/agrovoc/c_7424	stones	exactMatch	stone	8104
+http://aims.fao.org/aos/agrovoc/c_7438	Stratification	exactMatch	stratification	8125
+http://aims.fao.org/aos/agrovoc/c_7452	Stress	exactMatch	stress	8141
+http://aims.fao.org/aos/agrovoc/c_7462	Strontium	exactMatch	strontium	8144
+http://aims.fao.org/aos/agrovoc/c_7486	Subsoil	exactMatch	subsoil	8167
+http://aims.fao.org/aos/agrovoc/c_7504	Sugar industry	exactMatch	sugar industry	8188
+http://aims.fao.org/aos/agrovoc/c_14679	Sulphur	exactMatch	sulphur	8198
+http://aims.fao.org/aos/agrovoc/c_7515	Sulphur dioxide	exactMatch	sulphur dioxide	8202
+http://aims.fao.org/aos/agrovoc/c_7517	Sulphuric acid	exactMatch	sulphuric acid	8203
+http://aims.fao.org/aos/agrovoc/c_7531	Surface tension	exactMatch	surface tension	8226
+http://aims.fao.org/aos/agrovoc/c_7537	surveys	exactMatch	survey	8240
+http://aims.fao.org/aos/agrovoc/c_7538	Survival	exactMatch	survival	10554
+http://aims.fao.org/aos/agrovoc/c_7563	Symbiosis	exactMatch	symbiosis	8259
+http://aims.fao.org/aos/agrovoc/c_7571	Synecology	exactMatch	synecology	8262
+http://aims.fao.org/aos/agrovoc/c_7581	systems analysis	exactMatch	systems analysis	8278
+http://aims.fao.org/aos/agrovoc/c_7631	taxonomy	exactMatch	taxonomy	8313
+http://aims.fao.org/aos/agrovoc/c_7638	Teaching	exactMatch	teaching	8319
+http://aims.fao.org/aos/agrovoc/c_7639	teaching materials	exactMatch	teaching material	13311
+http://aims.fao.org/aos/agrovoc/c_7640	Teaching methods	exactMatch	teaching method	8321
+http://aims.fao.org/aos/agrovoc/c_7643	technological changes	exactMatch	technological change	8330
+http://aims.fao.org/aos/agrovoc/c_7645	Technology transfer	exactMatch	technology transfer	8342
+http://aims.fao.org/aos/agrovoc/c_7651	Television	exactMatch	television	8353
+http://aims.fao.org/aos/agrovoc/c_7654	Temperate climate	exactMatch	temperate climate	12066
+http://aims.fao.org/aos/agrovoc/c_7657	Temperature	exactMatch	temperature	8366
+http://aims.fao.org/aos/agrovoc/c_7671	teratogens	exactMatch	teratogen	8379
+http://aims.fao.org/aos/agrovoc/c_7680	Tertiary sector	exactMatch	tertiary sector	8403
+http://aims.fao.org/aos/agrovoc/c_7696	Textile industry	exactMatch	textile industry	8421
+http://aims.fao.org/aos/agrovoc/c_7702	Thallium	exactMatch	thallium	8428
+http://aims.fao.org/aos/agrovoc/c_7715	therapy	exactMatch	therapy	8435
+http://aims.fao.org/aos/agrovoc/c_7796	Tobacco	exactMatch	tobacco	8501
+http://aims.fao.org/aos/agrovoc/c_7822	Tourism	exactMatch	tourism	8522
+http://aims.fao.org/aos/agrovoc/c_7825	toxic substances	exactMatch	toxic substance	8546
+http://aims.fao.org/aos/agrovoc/c_7826	toxicity	exactMatch	toxicity	8538
+http://aims.fao.org/aos/agrovoc/c_7827	Toxicology	exactMatch	toxicology	8543
+http://aims.fao.org/aos/agrovoc/c_7834	Trace elements	exactMatch	trace element	8554
+http://aims.fao.org/aos/agrovoc/c_7838	Tracheophyta	exactMatch	tracheophyte	8559
+http://aims.fao.org/aos/agrovoc/c_7851	trade barriers	exactMatch	trade barrier	8567
+http://aims.fao.org/aos/agrovoc/c_7861	training	exactMatch	training	8607
+http://aims.fao.org/aos/agrovoc/c_7866	Transhumance	exactMatch	transhumance	11199
+http://aims.fao.org/aos/agrovoc/c_7867	Transition elements	exactMatch	transition element	8629
+http://aims.fao.org/aos/agrovoc/c_7871	Transpiration	exactMatch	transpiration	8630
+http://aims.fao.org/aos/agrovoc/c_7878	trapping	exactMatch	trapping	8655
+http://aims.fao.org/aos/agrovoc/c_7909	Trickle irrigation	exactMatch	trickle irrigation	8675
+http://aims.fao.org/aos/agrovoc/c_7969	Trophic levels	exactMatch	trophic level	8683
+http://aims.fao.org/aos/agrovoc/c_7973	Tropical climate	exactMatch	tropical climate	12067
+http://aims.fao.org/aos/agrovoc/c_7976	Tropical rain forests	exactMatch	tropical rain forest	8688
+http://aims.fao.org/aos/agrovoc/c_8004	Tundra	exactMatch	tundra	8704
+http://aims.fao.org/aos/agrovoc/c_8046	Ultraviolet radiation	exactMatch	ultraviolet radiation	8742
+http://aims.fao.org/aos/agrovoc/c_8059	Underground storage	exactMatch	underground storage	8758
+http://aims.fao.org/aos/agrovoc/c_8061	Unemployment	exactMatch	unemployment	8768
+http://aims.fao.org/aos/agrovoc/c_8084	Uranium	exactMatch	uranium	8791
+http://aims.fao.org/aos/agrovoc/c_8085	urban areas	exactMatch	urban area	8797
+http://aims.fao.org/aos/agrovoc/c_8086	Urban population	exactMatch	urban population	8834
+http://aims.fao.org/aos/agrovoc/c_8154	Vanadium	exactMatch	vanadium	8893
+http://aims.fao.org/aos/agrovoc/c_8176	vegetation	exactMatch	vegetation	8922
+http://aims.fao.org/aos/agrovoc/c_8188	Ventilation	exactMatch	ventilation	8940
+http://aims.fao.org/aos/agrovoc/c_8196	vertebrates	exactMatch	vertebrate	8946
+http://aims.fao.org/aos/agrovoc/c_8206	Veterinary medicine	exactMatch	veterinary medicine	8951
+http://aims.fao.org/aos/agrovoc/c_8211	Vibration	exactMatch	vibration	8959
+http://aims.fao.org/aos/agrovoc/c_8259	Virology	exactMatch	virology	8974
+http://aims.fao.org/aos/agrovoc/c_8277	Viticulture	exactMatch	viticulture	8987
+http://aims.fao.org/aos/agrovoc/c_8285	Vocational training	exactMatch	vocational training	8992
+http://aims.fao.org/aos/agrovoc/c_8286	Volcanic areas	exactMatch	volcanic area	8997
+http://aims.fao.org/aos/agrovoc/c_8304	Wastage	exactMatch	wastage	9040
+http://aims.fao.org/aos/agrovoc/c_8305	Waste disposal	exactMatch	waste disposal	9062
+http://aims.fao.org/aos/agrovoc/c_8307	wastes	exactMatch	waste	9041
+http://aims.fao.org/aos/agrovoc/c_8315	Water conservation	exactMatch	water conservation	9159
+http://aims.fao.org/aos/agrovoc/c_8318	Water erosion	exactMatch	water erosion	9168
+http://aims.fao.org/aos/agrovoc/c_8320	water management	exactMatch	water management	9195
+http://aims.fao.org/aos/agrovoc/c_8321	Water pollution	exactMatch	water pollution	9202
+http://aims.fao.org/aos/agrovoc/c_8322	Water power	exactMatch	water power	4122
+http://aims.fao.org/aos/agrovoc/c_8324	Water reservoirs	exactMatch	water reservoir	12248
+http://aims.fao.org/aos/agrovoc/c_8325	Water resources	exactMatch	water resource	9221
+http://aims.fao.org/aos/agrovoc/c_8328	water supply	exactMatch	water supply	9244
+http://aims.fao.org/aos/agrovoc/c_8331	waterfowl	exactMatch	waterfowl	9183
+http://aims.fao.org/aos/agrovoc/c_8340	Weather forecasting	exactMatch	weather forecasting	9278
+http://aims.fao.org/aos/agrovoc/c_8345	Weed control	exactMatch	weed control	9281
+http://aims.fao.org/aos/agrovoc/c_8349	Weight	exactMatch	weight	9286
+http://aims.fao.org/aos/agrovoc/c_8355	West Africa	exactMatch	West Africa	9293
+http://aims.fao.org/aos/agrovoc/c_8364	Western Europe	exactMatch	Western Europe	9295
+http://aims.fao.org/aos/agrovoc/c_8372	whales	exactMatch	whale	9302
+http://aims.fao.org/aos/agrovoc/c_8376	Whey	exactMatch	whey	12395
+http://aims.fao.org/aos/agrovoc/c_8389	Wildlife	exactMatch	wildlife	9313
+http://aims.fao.org/aos/agrovoc/c_8393	Wind erosion	exactMatch	wind erosion	9330
+http://aims.fao.org/aos/agrovoc/c_8394	Wind power	exactMatch	wind power	9335
+http://aims.fao.org/aos/agrovoc/c_8428	wood preservation	exactMatch	wood preservation	9356
+http://aims.fao.org/aos/agrovoc/c_8436	Wool	exactMatch	wool	9363
+http://aims.fao.org/aos/agrovoc/c_8448	Working conditions	exactMatch	working condition	9369
+http://aims.fao.org/aos/agrovoc/c_8449	working hours	exactMatch	working hours	9371
+http://aims.fao.org/aos/agrovoc/c_8453	X rays	exactMatch	X ray	9398
+http://aims.fao.org/aos/agrovoc/c_20119	Zinc	exactMatch	zinc	9412
+http://aims.fao.org/aos/agrovoc/c_8529	Zoology	exactMatch	zoology	9425
+http://aims.fao.org/aos/agrovoc/c_8532	Animal husbandry	exactMatch	animal husbandry	429
+http://aims.fao.org/aos/agrovoc/c_8601	Acidity	exactMatch	acidity	47
+http://aims.fao.org/aos/agrovoc/c_8611	Activated sludge	exactMatch	activated sludge	73
+http://aims.fao.org/aos/agrovoc/c_8629	Adult education	exactMatch	adult education	122
+http://aims.fao.org/aos/agrovoc/c_8634	Aerial photography	exactMatch	aerial photography	14165
+http://aims.fao.org/aos/agrovoc/c_8671	Agricultural disasters	exactMatch	agricultural disaster	11157
+http://aims.fao.org/aos/agrovoc/c_8672	Agricultural economics	exactMatch	agricultural economics	193
+http://aims.fao.org/aos/agrovoc/c_8673	Agricultural engineering	exactMatch	agricultural engineering	195
+http://aims.fao.org/aos/agrovoc/c_8678	Agricultural products	exactMatch	agricultural product	220
+http://aims.fao.org/aos/agrovoc/c_8683	Agricultural wastes	exactMatch	agricultural waste	229
+http://aims.fao.org/aos/agrovoc/c_8689	Agrometeorology	exactMatch	agrometeorology	241
+http://aims.fao.org/aos/agrovoc/c_8784	Analytical chemistry	exactMatch	analytical chemistry	399
+http://aims.fao.org/aos/agrovoc/c_8811	Animal behaviour	exactMatch	animal behaviour	415
+http://aims.fao.org/aos/agrovoc/c_8812	Animal biology	exactMatch	animal biology	11868
+http://aims.fao.org/aos/agrovoc/c_8961	artificial lakes	exactMatch	artificial lake	579
+http://aims.fao.org/aos/agrovoc/c_8994	Atmosphere	exactMatch	atmosphere	617
+http://aims.fao.org/aos/agrovoc/c_9048	Bactericides	exactMatch	bactericide	700
+http://aims.fao.org/aos/agrovoc/c_9077	Banking	exactMatch	banking	716
+http://aims.fao.org/aos/agrovoc/c_9089	Barrier reefs	exactMatch	barrier reef	10175
+http://aims.fao.org/aos/agrovoc/c_9260	Bioclimatology	exactMatch	bioclimatology	818
+http://aims.fao.org/aos/agrovoc/c_9261	Biodegradation	exactMatch	biodegradation	826
+http://aims.fao.org/aos/agrovoc/c_9262	Biogas	exactMatch	biogas	832
+http://aims.fao.org/aos/agrovoc/c_9421	Respiration	exactMatch	respiration	7176
+http://aims.fao.org/aos/agrovoc/c_9445	Brooding	exactMatch	brooding	1014
+http://aims.fao.org/aos/agrovoc/c_9752	Chemical engineering	exactMatch	chemical engineering	1305
+http://aims.fao.org/aos/agrovoc/c_9949	Coastal erosion	exactMatch	coastal erosion	1519
+http://aims.fao.org/aos/agrovoc/c_10154	Hydroculture	exactMatch	hydroculture	4095
+http://aims.fao.org/aos/agrovoc/c_10289	Data processing	exactMatch	data processing	1986
+http://aims.fao.org/aos/agrovoc/c_10328	Demography	exactMatch	demography	2060
+http://aims.fao.org/aos/agrovoc/c_10391	Natural disasters	exactMatch	natural disaster	5496
+http://aims.fao.org/aos/agrovoc/c_10397	disinfection	exactMatch	disinfection	2238
+http://aims.fao.org/aos/agrovoc/c_10457	Draught animals	exactMatch	draught animal	2324
+http://aims.fao.org/aos/agrovoc/c_10463	Drinking water	exactMatch	drinking water	2339
+http://aims.fao.org/aos/agrovoc/c_10598	Endocrinology	exactMatch	endocrinology	2706
+http://aims.fao.org/aos/agrovoc/c_10608	Energy conversion	exactMatch	energy conversion	2716
+http://aims.fao.org/aos/agrovoc/c_10677	Ethanol	exactMatch	ethanol	12017
+http://aims.fao.org/aos/agrovoc/c_10679	Ethology	exactMatch	ethology	2984
+http://aims.fao.org/aos/agrovoc/c_10743	Farm buildings	exactMatch	farm building	3123
+http://aims.fao.org/aos/agrovoc/c_10962	Food contamination	exactMatch	food contamination	3365
+http://aims.fao.org/aos/agrovoc/c_10965	Food quality	exactMatch	food quality	3380
+http://aims.fao.org/aos/agrovoc/c_10980	Foreign trade	exactMatch	foreign trade	3405
+http://aims.fao.org/aos/agrovoc/c_11097	Gas chromatography	exactMatch	gas chromatography	3567
+http://aims.fao.org/aos/agrovoc/c_11116	gene banks	exactMatch	gene bank	3613
+http://aims.fao.org/aos/agrovoc/c_11350	Green revolution	exactMatch	green revolution	3768
+http://aims.fao.org/aos/agrovoc/c_11364	Gross national product	exactMatch	gross national product	3777
+http://aims.fao.org/aos/agrovoc/c_11371	Group behaviour	exactMatch	group behaviour	3788
+http://aims.fao.org/aos/agrovoc/c_11634	Human pathology	exactMatch	human pathology	4054
+http://aims.fao.org/aos/agrovoc/c_11650	hurricanes	exactMatch	hurricane	4077
+http://aims.fao.org/aos/agrovoc/c_11669	Hydrogeology	exactMatch	hydrogeology	4108
+http://aims.fao.org/aos/agrovoc/c_11722	Income tax	exactMatch	income tax	13252
+http://aims.fao.org/aos/agrovoc/c_11763	Industrial wastes	exactMatch	industrial waste	4273
+http://aims.fao.org/aos/agrovoc/c_11769	information systems	exactMatch	information system	4311
+http://aims.fao.org/aos/agrovoc/c_11795	Insectivores	exactMatch	insectivore	4356
+http://aims.fao.org/aos/agrovoc/c_11828	Ionizing radiation	exactMatch	ionising radiation	4491
+http://aims.fao.org/aos/agrovoc/c_12315	macroeconomics	exactMatch	macroeconomics	4957
+http://aims.fao.org/aos/agrovoc/c_12399	marine biology	exactMatch	marine biology	5027
+http://aims.fao.org/aos/agrovoc/c_12457	Measuring instruments	exactMatch	measuring instrument	10088
+http://aims.fao.org/aos/agrovoc/c_12522	methodology	exactMatch	methodology	5203
+http://aims.fao.org/aos/agrovoc/c_12600	Mineral waters	exactMatch	mineral water	5279
+http://aims.fao.org/aos/agrovoc/c_12676	mountains	exactMatch	mountain	5401
+http://aims.fao.org/aos/agrovoc/c_12679	Mowing	exactMatch	mowing	5412
+http://aims.fao.org/aos/agrovoc/c_12834	Nitrification	exactMatch	nitrification	5598
+http://aims.fao.org/aos/agrovoc/c_12837	Nitrosamines	exactMatch	nitrosamine	5618
+http://aims.fao.org/aos/agrovoc/c_12868	Nutrient balance	exactMatch	nutrient balance	5757
+http://aims.fao.org/aos/agrovoc/c_12889	Oceanography	exactMatch	oceanography	5797
+http://aims.fao.org/aos/agrovoc/c_12930	Oncology	exactMatch	oncology	5870
+http://aims.fao.org/aos/agrovoc/c_13280	Pharmacokinetics	exactMatch	pharmacokinetics	6180
+http://aims.fao.org/aos/agrovoc/c_13300	phenols	exactMatch	phenol	6183
+http://aims.fao.org/aos/agrovoc/c_13344	Phytoplankton	exactMatch	phytoplankton	6247
+http://aims.fao.org/aos/agrovoc/c_13513	Population growth	exactMatch	population growth	6523
+http://aims.fao.org/aos/agrovoc/c_13567	Pressure groups	exactMatch	pressure group	6594
+http://aims.fao.org/aos/agrovoc/c_13573	Primary education	exactMatch	primary education	6610
+http://aims.fao.org/aos/agrovoc/c_13667	pulmonary diseases	exactMatch	pulmonary disease	6827
+http://aims.fao.org/aos/agrovoc/c_13731	Radioactive tracers	exactMatch	radioactive tracer	6919
+http://aims.fao.org/aos/agrovoc/c_13802	Reforestation	exactMatch	reforestation	6979
+http://aims.fao.org/aos/agrovoc/c_14157	Secondary education	exactMatch	secondary education	7542
+http://aims.fao.org/aos/agrovoc/c_14370	social conditions	exactMatch	social condition	7784
+http://aims.fao.org/aos/agrovoc/c_14373	Social participation	exactMatch	social participation	7807
+http://aims.fao.org/aos/agrovoc/c_14402	Soil profiles	exactMatch	soil profile	7882
+http://aims.fao.org/aos/agrovoc/c_14415	Solar radiation	exactMatch	solar radiation	7912
+http://aims.fao.org/aos/agrovoc/c_14425	songbirds	exactMatch	songbird	7927
+http://aims.fao.org/aos/agrovoc/c_14498	Spectroscopy	exactMatch	spectroscopy	7992
+http://aims.fao.org/aos/agrovoc/c_14569	state forests	exactMatch	state forest	10694
+http://aims.fao.org/aos/agrovoc/c_14650	Subsidence	exactMatch	subsidence	8163
+http://aims.fao.org/aos/agrovoc/c_14875	Thunderstorms	exactMatch	thunderstorm	12084
+http://aims.fao.org/aos/agrovoc/c_15043	Turbidity	exactMatch	turbidity	8711
+http://aims.fao.org/aos/agrovoc/c_15219	Viscosity	exactMatch	viscosity	8977
+http://aims.fao.org/aos/agrovoc/c_15292	Weather	exactMatch	weather	9269
+http://aims.fao.org/aos/agrovoc/c_15504	Industrial development	exactMatch	industrial development	4226
+http://aims.fao.org/aos/agrovoc/c_15509	Necrosis	exactMatch	necrosis	5554
+http://aims.fao.org/aos/agrovoc/c_15510	Overpopulation	exactMatch	overpopulation	5965
+http://aims.fao.org/aos/agrovoc/c_15520	Social groups	exactMatch	social group	7796
+http://aims.fao.org/aos/agrovoc/c_15521	Social indicators	exactMatch	social indicator	7798
+http://aims.fao.org/aos/agrovoc/c_15579	Defoliation	exactMatch	defoliation	2035
+http://aims.fao.org/aos/agrovoc/c_15585	greenhouse effect	exactMatch	greenhouse effect	3761
+http://aims.fao.org/aos/agrovoc/c_36206	Deforestation	exactMatch	deforestation	2036
+http://aims.fao.org/aos/agrovoc/c_15591	Leaching	broadMatch	leaching	4722
+http://aims.fao.org/aos/agrovoc/c_15619	Clay	exactMatch	clay	1449
+http://aims.fao.org/aos/agrovoc/c_15649	Mariculture	exactMatch	mariculture	5024
+http://aims.fao.org/aos/agrovoc/c_15869	Denitrification	exactMatch	denitrification	2071
+http://aims.fao.org/aos/agrovoc/c_15893	chemical structure	exactMatch	chemical structure	1333
+http://aims.fao.org/aos/agrovoc/c_15894	coliform bacteria	exactMatch	coliform bacterium	1561
+http://aims.fao.org/aos/agrovoc/c_15898	environmental protection	exactMatch	environmental protection	2900
+http://aims.fao.org/aos/agrovoc/c_15905	Mineral fibres	exactMatch	mineral fibre	5267
+http://aims.fao.org/aos/agrovoc/c_15908	navigation	exactMatch	navigation	11289
+http://aims.fao.org/aos/agrovoc/c_15933	acid rain	exactMatch	acid rain	51
+http://aims.fao.org/aos/agrovoc/c_15934	Activated carbon	exactMatch	activated carbon	72
+http://aims.fao.org/aos/agrovoc/c_15944	Biological analysis	exactMatch	biological analysis	841
+http://aims.fao.org/aos/agrovoc/c_15952	cloning	exactMatch	cloning	1484
+http://aims.fao.org/aos/agrovoc/c_15956	Composting	exactMatch	composting	1652
+http://aims.fao.org/aos/agrovoc/c_15962	Data analysis	exactMatch	data analysis	1975
+http://aims.fao.org/aos/agrovoc/c_15963	Desorption	exactMatch	desorption	2119
+http://aims.fao.org/aos/agrovoc/c_15974	genetic engineering	exactMatch	genetic engineering	3624
+http://aims.fao.org/aos/agrovoc/c_15975	genetic variation	exactMatch	genetic variation	3634
+http://aims.fao.org/aos/agrovoc/c_15986	Hydrogen sulphide	exactMatch	hydrogen sulphide	4107
+http://aims.fao.org/aos/agrovoc/c_16002	Nitrogen oxides	exactMatch	nitrogen oxides	5613
+http://aims.fao.org/aos/agrovoc/c_16002	Nitrogen oxides	narrowMatch	nitrogen oxide	13577
+http://aims.fao.org/aos/agrovoc/c_16042	Solar collectors	exactMatch	solar collector	7905
+http://aims.fao.org/aos/agrovoc/c_16061	Water quality	exactMatch	water quality	9214
+http://aims.fao.org/aos/agrovoc/c_16064	Water analysis	exactMatch	water analysis	9147
+http://aims.fao.org/aos/agrovoc/c_16086	management	exactMatch	management	4985
+http://aims.fao.org/aos/agrovoc/c_16098	Economic viability	exactMatch	economic viability	2512
+http://aims.fao.org/aos/agrovoc/c_16121	Energy consumption	exactMatch	energy consumption	2715
+http://aims.fao.org/aos/agrovoc/c_16129	Forest management	exactMatch	forest management	3425
+http://aims.fao.org/aos/agrovoc/c_16141	Nature reserves	exactMatch	nature reserve	5545
+http://aims.fao.org/aos/agrovoc/c_16149	synergism	exactMatch	synergism	8263
+http://aims.fao.org/aos/agrovoc/c_16150	Water mills	exactMatch	water mill	11975
+http://aims.fao.org/aos/agrovoc/c_16165	Biotechnology	exactMatch	biotechnology	898
+http://aims.fao.org/aos/agrovoc/c_16173	curriculum	exactMatch	curriculum	1926
+http://aims.fao.org/aos/agrovoc/c_16198	recreational areas	exactMatch	recreational area	7003
+http://aims.fao.org/aos/agrovoc/c_16203	Wood products	exactMatch	wood product	9358
+http://aims.fao.org/aos/agrovoc/c_16373	Ivory	exactMatch	ivory	4524
+http://aims.fao.org/aos/agrovoc/c_16448	Onchocerciasis	exactMatch	onchocerciasis	5869
+http://aims.fao.org/aos/agrovoc/c_16510	water distribution systems	exactMatch	water distribution system	9165
+http://aims.fao.org/aos/agrovoc/c_16541	Educational institutions	exactMatch	educational institution	2551
+http://aims.fao.org/aos/agrovoc/c_17209	food requirements	exactMatch	food requirement	3381
+http://aims.fao.org/aos/agrovoc/c_17299	Carbon cycle	exactMatch	carbon cycle	1164
+http://aims.fao.org/aos/agrovoc/c_17949	Agricultural hydraulics	exactMatch	agricultural hydraulics	11165
+http://aims.fao.org/aos/agrovoc/c_21547	commercialization	exactMatch	commercialisation	1588
+http://aims.fao.org/aos/agrovoc/c_23633	Photochemical oxidants	exactMatch	photochemical oxidant	6199
+http://aims.fao.org/aos/agrovoc/c_24010	Microcomputers	exactMatch	microcomputer	5222
+http://aims.fao.org/aos/agrovoc/c_24011	Corrosion	exactMatch	corrosion	1808
+http://aims.fao.org/aos/agrovoc/c_24066	Polychlorinated biphenyls	exactMatch	polychlorinated biphenyl	6485
+http://aims.fao.org/aos/agrovoc/c_24071	Radar	exactMatch	radar	6883
+http://aims.fao.org/aos/agrovoc/c_24097	Ultrafiltration	exactMatch	ultrafiltration	8736
+http://aims.fao.org/aos/agrovoc/c_24100	Waste heat	exactMatch	waste heat	9085
+http://aims.fao.org/aos/agrovoc/c_24103	Wild animals	exactMatch	wild animal	9310
+http://aims.fao.org/aos/agrovoc/c_24120	Malformations	exactMatch	malformation	4977
+http://aims.fao.org/aos/agrovoc/c_24126	Wild plants	exactMatch	wild plant	9323
+http://aims.fao.org/aos/agrovoc/c_24127	Dust	broadMatch	dust	2381
+http://aims.fao.org/aos/agrovoc/c_24132	Schistosomiasis	exactMatch	schistosomiasis	7464
+http://aims.fao.org/aos/agrovoc/c_24134	Telemetry	exactMatch	telemetry	8351
+http://aims.fao.org/aos/agrovoc/c_24183	hospitals	exactMatch	hospital	3999
+http://aims.fao.org/aos/agrovoc/c_24248	Speed	exactMatch	speed	7994
+http://aims.fao.org/aos/agrovoc/c_24267	Whaling	exactMatch	whaling	9305
+http://aims.fao.org/aos/agrovoc/c_24389	Biophysics	exactMatch	biophysics	888
+http://aims.fao.org/aos/agrovoc/c_24402	Interdisciplinary research	exactMatch	interdisciplinary research	4400
+http://aims.fao.org/aos/agrovoc/c_24420	Environmental impact	exactMatch	environmental impact	2829
+http://aims.fao.org/aos/agrovoc/c_24425	Volatility	exactMatch	volatility	8995
+http://aims.fao.org/aos/agrovoc/c_24430	Agrochemicals	exactMatch	agrochemical	237
+http://aims.fao.org/aos/agrovoc/c_24837	Energy management	exactMatch	energy management	2730
+http://aims.fao.org/aos/agrovoc/c_24838	Ethics	exactMatch	ethics	2980
+http://aims.fao.org/aos/agrovoc/c_24840	Fly ash	exactMatch	fly ash	3342
+http://aims.fao.org/aos/agrovoc/c_24850	gravel	exactMatch	gravel	3738
+http://aims.fao.org/aos/agrovoc/c_24887	raw materials	exactMatch	raw material	6967
+http://aims.fao.org/aos/agrovoc/c_24891	research projects	exactMatch	research project	7135
+http://aims.fao.org/aos/agrovoc/c_24894	Seasonal variation	exactMatch	seasonal variation	11133
+http://aims.fao.org/aos/agrovoc/c_24904	Tropical forests	exactMatch	tropical forest	8687
+http://aims.fao.org/aos/agrovoc/c_24906	telecommunications	exactMatch	telecommunications	8347
+http://aims.fao.org/aos/agrovoc/c_24907	terminology	exactMatch	terminology	8380
+http://aims.fao.org/aos/agrovoc/c_24911	trends	exactMatch	trend	8671
+http://aims.fao.org/aos/agrovoc/c_24912	Tritium	exactMatch	tritium	8680
+http://aims.fao.org/aos/agrovoc/c_24920	world	exactMatch	world	9380
+http://aims.fao.org/aos/agrovoc/c_24936	Diffusion	exactMatch	diffusion	2186
+http://aims.fao.org/aos/agrovoc/c_24940	Hydrolysis	exactMatch	hydrolysis	4119
+http://aims.fao.org/aos/agrovoc/c_24945	Overgrazing	exactMatch	overgrazing	5962
+http://aims.fao.org/aos/agrovoc/c_24983	Chlorophenols	exactMatch	chlorophenol	1389
+http://aims.fao.org/aos/agrovoc/c_25005	Food preservation	exactMatch	food preservation	3375
+http://aims.fao.org/aos/agrovoc/c_25187	Animal physiology	exactMatch	animal physiology	437
+http://aims.fao.org/aos/agrovoc/c_25188	Human physiology	exactMatch	human physiology	4055
+http://aims.fao.org/aos/agrovoc/c_25189	Plant physiology	exactMatch	plant physiology	6316
+http://aims.fao.org/aos/agrovoc/c_25191	chemical reactions	exactMatch	chemical reaction	1324
+http://aims.fao.org/aos/agrovoc/c_25205	Coastal waters	exactMatch	coastal water	1526
+http://aims.fao.org/aos/agrovoc/c_25225	Camping	exactMatch	camping	1121
+http://aims.fao.org/aos/agrovoc/c_25239	Filter cakes	exactMatch	filter cake	3186
+http://aims.fao.org/aos/agrovoc/c_25243	Grazing	exactMatch	grazing	3748
+http://aims.fao.org/aos/agrovoc/c_25301	Watershed management	exactMatch	watershed management	9234
+http://aims.fao.org/aos/agrovoc/c_25302	Microbiological analysis	exactMatch	microbiological analysis	5216
+http://aims.fao.org/aos/agrovoc/c_25306	Pollutant load	exactMatch	pollutant load	6422
+http://aims.fao.org/aos/agrovoc/c_25317	Surface water	exactMatch	surface water	8229
+http://aims.fao.org/aos/agrovoc/c_25331	drainage systems	exactMatch	drainage system	11231
+http://aims.fao.org/aos/agrovoc/c_25332	irrigation systems	exactMatch	irrigation system	11232
+http://aims.fao.org/aos/agrovoc/c_25340	Irrigation canals	exactMatch	irrigation canal	4507
+http://aims.fao.org/aos/agrovoc/c_25341	Sediment	exactMatch	sediment	7565
+http://aims.fao.org/aos/agrovoc/c_25345	rock mechanics	exactMatch	rock mechanics	12666
+http://aims.fao.org/aos/agrovoc/c_25423	Water hardness	exactMatch	water hardness	9184
+http://aims.fao.org/aos/agrovoc/c_25560	aquifers	exactMatch	aquifer	518
+http://aims.fao.org/aos/agrovoc/c_25629	Hydrometry	exactMatch	hydrometry	12128
+http://aims.fao.org/aos/agrovoc/c_25632	Biological indicators	exactMatch	biological indicator	856
+http://aims.fao.org/aos/agrovoc/c_25724	explosives	exactMatch	explosive	3061
+http://aims.fao.org/aos/agrovoc/c_25731	Steam generators	exactMatch	steam generator	8086
+http://aims.fao.org/aos/agrovoc/c_25771	Industrial equipment	exactMatch	industrial equipment	4234
+http://aims.fao.org/aos/agrovoc/c_26026	lasers	exactMatch	laser	4698
+http://aims.fao.org/aos/agrovoc/c_26073	Diesel engines	exactMatch	diesel engine	2177
+http://aims.fao.org/aos/agrovoc/c_26896	bitumen	exactMatch	bitumen	921
+http://aims.fao.org/aos/agrovoc/c_26763	canals	exactMatch	canal	1126
+http://aims.fao.org/aos/agrovoc/c_26764	ceramics	exactMatch	ceramics	1266
+http://aims.fao.org/aos/agrovoc/c_26768	Damage	exactMatch	damage	1956
+http://aims.fao.org/aos/agrovoc/c_26777	Elasticity	exactMatch	elasticity	2582
+http://aims.fao.org/aos/agrovoc/c_26789	Infiltration	exactMatch	infiltration	4291
+http://aims.fao.org/aos/agrovoc/c_26790	infrastructure	exactMatch	infrastructure	4321
+http://aims.fao.org/aos/agrovoc/c_26793	international relations	exactMatch	international relations	4438
+http://aims.fao.org/aos/agrovoc/c_26815	Revegetation	exactMatch	revegetation	7202
+http://aims.fao.org/aos/agrovoc/c_26832	Vapour pressure	exactMatch	vapour pressure	8898
+http://aims.fao.org/aos/agrovoc/c_26870	Reverse osmosis	exactMatch	reverse osmosis	7204
+http://aims.fao.org/aos/agrovoc/c_26874	Pyrolysis	exactMatch	pyrolysis	6855
+http://aims.fao.org/aos/agrovoc/c_26950	fishing	exactMatch	fishing	3256
+http://aims.fao.org/aos/agrovoc/c_26997	Psychology	exactMatch	psychology	6776
+http://aims.fao.org/aos/agrovoc/c_27098	ultrasound	exactMatch	ultrasound	8739
+http://aims.fao.org/aos/agrovoc/c_27313	Posidonia	exactMatch	posidonia	10617
+http://aims.fao.org/aos/agrovoc/c_27446	Aliphatic compounds	exactMatch	aliphatic compound	311
+http://aims.fao.org/aos/agrovoc/c_27469	Bioreactors	exactMatch	bioreactor	889
+http://aims.fao.org/aos/agrovoc/c_27509	telematics	exactMatch	telematics	8350
+http://aims.fao.org/aos/agrovoc/c_27554	immune system	exactMatch	immune system	4154
+http://aims.fao.org/aos/agrovoc/c_27560	Innovation	exactMatch	innovation	4340
+http://aims.fao.org/aos/agrovoc/c_27575	Microfiltration	exactMatch	microfiltration	5226
+http://aims.fao.org/aos/agrovoc/c_27588	pharmaceutical industry	exactMatch	pharmaceutical industry	6177
+http://aims.fao.org/aos/agrovoc/c_27624	Vinasse	exactMatch	vinasse	8969
+http://aims.fao.org/aos/agrovoc/c_27742	Biological nitrogen fixation	exactMatch	biological nitrogen fixation	862
+http://aims.fao.org/aos/agrovoc/c_27925	animal nutrition	exactMatch	animal nutrition	435
+http://aims.fao.org/aos/agrovoc/c_27938	Nitrogen cycle	exactMatch	nitrogen cycle	5607
+http://aims.fao.org/aos/agrovoc/c_28006	Energy resources	exactMatch	energy resource	2738
+http://aims.fao.org/aos/agrovoc/c_28011	Management techniques	exactMatch	management technique	13291
+http://aims.fao.org/aos/agrovoc/c_28075	Forest protection	exactMatch	forest protection	10706
+http://aims.fao.org/aos/agrovoc/c_28136	Forest reserves	exactMatch	forest reserve	3435
+http://aims.fao.org/aos/agrovoc/c_28186	Waste paper	exactMatch	waste paper	9099
+http://aims.fao.org/aos/agrovoc/c_28233	Asbestos	exactMatch	asbestos	591
+http://aims.fao.org/aos/agrovoc/c_28256	Benzopyrene	exactMatch	benzopyrene	777
+http://aims.fao.org/aos/agrovoc/c_28259	Biodegradability	exactMatch	biodegradability	821
+http://aims.fao.org/aos/agrovoc/c_28280	catalysis	exactMatch	catalysis	1209
+http://aims.fao.org/aos/agrovoc/c_28317	Contamination	exactMatch	contamination	1752
+http://aims.fao.org/aos/agrovoc/c_28318	Biological contamination	exactMatch	biological contamination	11675
+http://aims.fao.org/aos/agrovoc/c_28319	Chemical contamination	exactMatch	chemical contamination	11676
+http://aims.fao.org/aos/agrovoc/c_28321	Radioactive contamination	exactMatch	radioactive contamination	6904
+http://aims.fao.org/aos/agrovoc/c_28326	Refrigerants	exactMatch	refrigerant	7042
+http://aims.fao.org/aos/agrovoc/c_28334	chemical decontamination	exactMatch	chemical decontamination	1303
+http://aims.fao.org/aos/agrovoc/c_28335	Radioactive decontamination	exactMatch	radioactive decontamination	6908
+http://aims.fao.org/aos/agrovoc/c_28352	Electrolysis	exactMatch	electrolysis	2618
+http://aims.fao.org/aos/agrovoc/c_28357	Encapsulation	exactMatch	encapsulation	2693
+http://aims.fao.org/aos/agrovoc/c_28423	Refrigeration industry	exactMatch	refrigeration industry	7043
+http://aims.fao.org/aos/agrovoc/c_28457	membranes	exactMatch	membrane	5150
+http://aims.fao.org/aos/agrovoc/c_28508	Polyvinyl chloride	exactMatch	polyvinyl chloride	6505
+http://aims.fao.org/aos/agrovoc/c_28514	Pumping	exactMatch	pumping	6833
+http://aims.fao.org/aos/agrovoc/c_28641	Building industry	exactMatch	building industry	1039
+http://aims.fao.org/aos/agrovoc/c_28647	Civil law	exactMatch	civil law	1437
+http://aims.fao.org/aos/agrovoc/c_28651	Commercial law	exactMatch	commercial law	1590
+http://aims.fao.org/aos/agrovoc/c_28674	economic situation	exactMatch	economic situation	2505
+http://aims.fao.org/aos/agrovoc/c_28676	Economic trends	exactMatch	economic trend	2511
+http://aims.fao.org/aos/agrovoc/c_28704	International law	exactMatch	international law	4430
+http://aims.fao.org/aos/agrovoc/c_28713	labour market	exactMatch	labour market	4581
+http://aims.fao.org/aos/agrovoc/c_28714	Labour relations	exactMatch	labour relations	4584
+http://aims.fao.org/aos/agrovoc/c_28728	Market prices	exactMatch	market price	13255
+http://aims.fao.org/aos/agrovoc/c_28753	Public debt	exactMatch	public debt	13249
+http://aims.fao.org/aos/agrovoc/c_28758	Public works	exactMatch	public works	6824
+http://aims.fao.org/aos/agrovoc/c_28759	quality of life	exactMatch	quality of life	6861
+http://aims.fao.org/aos/agrovoc/c_28767	Social costs	exactMatch	social cost	7787
+http://aims.fao.org/aos/agrovoc/c_28770	Social values	exactMatch	social value	7821
+http://aims.fao.org/aos/agrovoc/c_28781	Training centres	exactMatch	training centre	8608
+http://aims.fao.org/aos/agrovoc/c_28825	Agricultural planning	exactMatch	agricultural planning	213
+http://aims.fao.org/aos/agrovoc/c_28831	Agroindustry	exactMatch	agroindustry	240
+http://aims.fao.org/aos/agrovoc/c_28835	Applied research	exactMatch	applied research	11146
+http://aims.fao.org/aos/agrovoc/c_28855	democracy	exactMatch	democracy	2054
+http://aims.fao.org/aos/agrovoc/c_28994	Aromatic hydrocarbons	exactMatch	aromatic hydrocarbon	562
+http://aims.fao.org/aos/agrovoc/c_28999	housing needs	exactMatch	housing need	4034
+http://aims.fao.org/aos/agrovoc/c_29009	colloidal state	exactMatch	colloidal state	1568
+http://aims.fao.org/aos/agrovoc/c_29109	earthworms	exactMatch	earthworm	2408
+http://aims.fao.org/aos/agrovoc/c_29174	Western Asia	exactMatch	Western Asia	9294
+http://aims.fao.org/aos/agrovoc/c_29198	Human diseases	exactMatch	human disease	4046
+http://aims.fao.org/aos/agrovoc/c_29545	Atmospheric chemistry	exactMatch	atmospheric chemistry	621
+http://aims.fao.org/aos/agrovoc/c_29546	Atmospheric circulation	exactMatch	atmospheric circulation	622
+http://aims.fao.org/aos/agrovoc/c_29550	Atmospheric physics	exactMatch	atmospheric physics	634
+http://aims.fao.org/aos/agrovoc/c_29554	climatic factors	exactMatch	climatic factor	1474
+http://aims.fao.org/aos/agrovoc/c_29685	water levels	exactMatch	water level	9190
+http://aims.fao.org/aos/agrovoc/c_29699	Caspian Sea	exactMatch	Caspian Sea	14843
+http://aims.fao.org/aos/agrovoc/c_29769	economic structure	exactMatch	economic structure	13148
+http://aims.fao.org/aos/agrovoc/c_29770	Emergency relief	exactMatch	emergency relief	2657
+http://aims.fao.org/aos/agrovoc/c_29785	financing	exactMatch	financing	3205
+http://aims.fao.org/aos/agrovoc/c_31256	Atrazine	exactMatch	atrazine	11713
+http://aims.fao.org/aos/agrovoc/c_31904	tectonics	exactMatch	tectonics	8344
+http://aims.fao.org/aos/agrovoc/c_32377	Animal rights	exactMatch	animal rights	11477
+http://aims.fao.org/aos/agrovoc/c_32389	Bioaccumulation	exactMatch	bioaccumulation	798
+http://aims.fao.org/aos/agrovoc/c_32489	Lignite	exactMatch	lignite	4818
+http://aims.fao.org/aos/agrovoc/c_32525	Private sector	exactMatch	private sector	6640
+http://aims.fao.org/aos/agrovoc/c_32526	Public sector	exactMatch	public sector	6816
+http://aims.fao.org/aos/agrovoc/c_32529	Radon	exactMatch	radon	6935
+http://aims.fao.org/aos/agrovoc/c_32531	Red tide	exactMatch	red tide	7029
+http://aims.fao.org/aos/agrovoc/c_32634	Ammonium	exactMatch	ammonium	379
+http://aims.fao.org/aos/agrovoc/c_32704	Titanium	exactMatch	titanium	8495
+http://aims.fao.org/aos/agrovoc/c_32926	Animal migration	exactMatch	animal migration	5237
+http://aims.fao.org/aos/agrovoc/c_32983	biogeochemical cycle	exactMatch	biogeochemical cycle	833
+http://aims.fao.org/aos/agrovoc/c_33116	Platinum	exactMatch	platinum	6338
+http://aims.fao.org/aos/agrovoc/c_33467	DDT	exactMatch	DDT	1996
+http://aims.fao.org/aos/agrovoc/c_33475	Dendrochronology	exactMatch	dendrochronology	2069
+http://aims.fao.org/aos/agrovoc/c_33483	Environmental impact assessment	exactMatch	environmental impact assessment	2830
+http://aims.fao.org/aos/agrovoc/c_33509	Karst	exactMatch	karst	4545
+http://aims.fao.org/aos/agrovoc/c_33530	public opinion	exactMatch	public opinion	6804
+http://aims.fao.org/aos/agrovoc/c_33552	soil organisms	exactMatch	soil organism	7876
+http://aims.fao.org/aos/agrovoc/c_33949	Biodiversity	exactMatch	biodiversity	827
+http://aims.fao.org/aos/agrovoc/c_34000	Gasification	exactMatch	gasification	3581
+http://aims.fao.org/aos/agrovoc/c_34011	Disabled persons	exactMatch	disabled person	2213
+http://aims.fao.org/aos/agrovoc/c_34013	Health hazards	exactMatch	health hazard	3872
+http://aims.fao.org/aos/agrovoc/c_34024	infectious diseases	exactMatch	infectious disease	4288
+http://aims.fao.org/aos/agrovoc/c_34068	Overfishing	exactMatch	overfishing	5960
+http://aims.fao.org/aos/agrovoc/c_34115	sea level	exactMatch	sea level	7513
+http://aims.fao.org/aos/agrovoc/c_34145	water purification	exactMatch	water purification	9210
+http://aims.fao.org/aos/agrovoc/c_34217	artificial satellites	exactMatch	artificial satellite	587
+http://aims.fao.org/aos/agrovoc/c_34231	Cardiovascular diseases	exactMatch	cardiovascular disease	1185
+http://aims.fao.org/aos/agrovoc/c_34251	Cytotoxicity	exactMatch	cytotoxicity	1946
+http://aims.fao.org/aos/agrovoc/c_34277	Expert systems	exactMatch	expert system	3054
+http://aims.fao.org/aos/agrovoc/c_34285	genetically modified organisms	exactMatch	genetically modified organism	14602
+http://aims.fao.org/aos/agrovoc/c_34300	insulating materials	exactMatch	insulating material	15020
+http://aims.fao.org/aos/agrovoc/c_34305	Land conservation	exactMatch	land conservation	4610
+http://aims.fao.org/aos/agrovoc/c_34312	Malaria	exactMatch	malaria	4974
+http://aims.fao.org/aos/agrovoc/c_34316	Neurotoxicity	exactMatch	neurotoxicity	5575
+http://aims.fao.org/aos/agrovoc/c_34762	Dairy farms	exactMatch	dairy farm	1950
+http://aims.fao.org/aos/agrovoc/c_34763	Waste management	exactMatch	waste management	9092
+http://aims.fao.org/aos/agrovoc/c_34779	European Union	exactMatch	European Union	3006
+http://aims.fao.org/aos/agrovoc/c_34803	chlorination	exactMatch	chlorination	1371
+http://aims.fao.org/aos/agrovoc/c_34806	Chlorofluorocarbons	exactMatch	chlorofluorocarbon	1381
+http://aims.fao.org/aos/agrovoc/c_34836	Global warming	exactMatch	global warming	3692
+http://aims.fao.org/aos/agrovoc/c_34841	Greenhouse gases	exactMatch	greenhouse gas	3763
+http://aims.fao.org/aos/agrovoc/c_34866	Mutagenicity	exactMatch	mutagenicity	5456
+http://aims.fao.org/aos/agrovoc/c_34980	acceptable daily intake	exactMatch	acceptable daily intake	91
+http://aims.fao.org/aos/agrovoc/c_34981	acid deposition	exactMatch	acid deposition	42
+http://aims.fao.org/aos/agrovoc/c_34990	Anaerobic treatment	exactMatch	anaerobic treatment	12600
+http://aims.fao.org/aos/agrovoc/c_34996	anthropogenic factors	exactMatch	anthropogenic factor	470
+http://aims.fao.org/aos/agrovoc/c_35012	Bioethics	exactMatch	bioethics	830
+http://aims.fao.org/aos/agrovoc/c_35030	Biosafety	exactMatch	biosafety	891
+http://aims.fao.org/aos/agrovoc/c_35033	stratosphere	exactMatch	stratosphere	8128
+http://aims.fao.org/aos/agrovoc/c_35034	troposphere	exactMatch	troposphere	8695
+http://aims.fao.org/aos/agrovoc/c_35055	Chlorinated hydrocarbons	exactMatch	chlorinated hydrocarbon	1368
+http://aims.fao.org/aos/agrovoc/c_35166	Landscape conservation	exactMatch	landscape conservation	4653
+http://aims.fao.org/aos/agrovoc/c_35231	Novel foods	exactMatch	novel food	5701
+http://aims.fao.org/aos/agrovoc/c_35236	Occupational health	exactMatch	occupational health	5784
+http://aims.fao.org/aos/agrovoc/c_35237	Organic wastes	exactMatch	organic waste	5913
+http://aims.fao.org/aos/agrovoc/c_35242	Garden wastes	exactMatch	garden waste	3562
+http://aims.fao.org/aos/agrovoc/c_35252	Ozone layer	exactMatch	ozone layer	5993
+http://aims.fao.org/aos/agrovoc/c_35254	Tropospheric ozone	exactMatch	tropospheric ozone	8696
+http://aims.fao.org/aos/agrovoc/c_35287	quality assurance	exactMatch	quality assurance	6859
+http://aims.fao.org/aos/agrovoc/c_35294	Riparian zones	exactMatch	riparian zone	7230
+http://aims.fao.org/aos/agrovoc/c_35317	Soil salinity	exactMatch	soil salinity	11233
+http://aims.fao.org/aos/agrovoc/c_35332	Sustainable development	exactMatch	sustainable development	8247
+http://aims.fao.org/aos/agrovoc/c_35349	Waste reduction	exactMatch	waste reduction	9108
+http://aims.fao.org/aos/agrovoc/c_35352	Waste treatment	exactMatch	waste treatment	9121
+http://aims.fao.org/aos/agrovoc/c_35388	Runoff	exactMatch	runoff	7340
+http://aims.fao.org/aos/agrovoc/c_35649	Temperate forests	exactMatch	temperate forest	8361
+http://aims.fao.org/aos/agrovoc/c_35654	Rain forests	exactMatch	rain forest	6949
+http://aims.fao.org/aos/agrovoc/c_35655	statistical data	exactMatch	statistical data	8075
+http://aims.fao.org/aos/agrovoc/c_35702	Certification	exactMatch	certification	11612
+http://aims.fao.org/aos/agrovoc/c_35703	Forest pests	exactMatch	forest pest	3426
+http://aims.fao.org/aos/agrovoc/c_35704	Indigenous knowledge	exactMatch	indigenous knowledge	14845
+http://aims.fao.org/aos/agrovoc/c_35715	pollution prevention	exactMatch	pollution prevention	10049
+http://aims.fao.org/aos/agrovoc/c_35788	Ecotoxicology	exactMatch	ecotoxicology	2530
+http://aims.fao.org/aos/agrovoc/c_35794	Landfill leachates	exactMatch	landfill leachate	4626
+http://aims.fao.org/aos/agrovoc/c_35868	Carcass disposal	exactMatch	carcass disposal	1177
+http://aims.fao.org/aos/agrovoc/c_36089	radioactive decontamination (soil)	exactMatch	radioactive decontamination	6908
+http://aims.fao.org/aos/agrovoc/c_36106	Dissolved oxygen	exactMatch	dissolved oxygen	11788
+http://aims.fao.org/aos/agrovoc/c_36150	Genotoxicity	exactMatch	genotoxicity	11762
+http://aims.fao.org/aos/agrovoc/c_36196	Drinking water treatment	exactMatch	drinking water treatment	2344
+http://aims.fao.org/aos/agrovoc/c_36230	Spatial distribution	exactMatch	spatial distribution	11118
+http://aims.fao.org/aos/agrovoc/c_36259	Ecotoxicity	exactMatch	ecotoxicity	2528
+http://aims.fao.org/aos/agrovoc/c_36263	Environmental legislation	exactMatch	environmental legislation	2862
+http://aims.fao.org/aos/agrovoc/c_36315	Soil improvement	exactMatch	soil improvement	7863
+http://aims.fao.org/aos/agrovoc/c_36321	Teratogenicity	exactMatch	teratogenicity	8378
+http://aims.fao.org/aos/agrovoc/c_36345	Water reuse	exactMatch	water reuse	9227
+http://aims.fao.org/aos/agrovoc/c_36361	Information exchange	exactMatch	information exchange	14896
+http://aims.fao.org/aos/agrovoc/c_36389	Ecological factors	exactMatch	ecological factor	2450
+http://aims.fao.org/aos/agrovoc/c_36390	Social sciences	exactMatch	social science	10057
+http://aims.fao.org/aos/agrovoc/c_36402	Marine parks	exactMatch	marine park	10199
+http://aims.fao.org/aos/agrovoc/c_36496	refrigerators	exactMatch	refrigerator	7045
+http://aims.fao.org/aos/agrovoc/c_36528	arable farming	exactMatch	arable farming	521
+http://aims.fao.org/aos/agrovoc/c_36549	Calibration	exactMatch	calibration	1114
+http://aims.fao.org/aos/agrovoc/c_36556	Groundwater pollution	exactMatch	groundwater pollution	3784
+http://aims.fao.org/aos/agrovoc/c_36576	Arctic region	exactMatch	Arctic region	543
+http://aims.fao.org/aos/agrovoc/c_36581	UNCED	exactMatch	UNCED	8745
+http://aims.fao.org/aos/agrovoc/c_36649	Biological production	exactMatch	biological production	868
+http://aims.fao.org/aos/agrovoc/c_36652	Pentachlorophenol	exactMatch	pentachlorophenol	6106
+http://aims.fao.org/aos/agrovoc/c_36660	Information technology	exactMatch	information technology	4313
+http://aims.fao.org/aos/agrovoc/c_36661	Internet	exactMatch	Internet	14862
+http://aims.fao.org/aos/agrovoc/c_36752	foliage	exactMatch	foliage	3350
+http://aims.fao.org/aos/agrovoc/c_36761	Satellite imagery	exactMatch	satellite image	6253
+http://aims.fao.org/aos/agrovoc/c_36799	Beneficial organisms	exactMatch	beneficial organism	768
+http://aims.fao.org/aos/agrovoc/c_36828	Pilot projects	exactMatch	pilot project	6263
+http://aims.fao.org/aos/agrovoc/c_36855	Reflectometry	exactMatch	reflectometry	7038
+http://aims.fao.org/aos/agrovoc/c_36891	World Wide Web	exactMatch	World Wide Web	14863
+http://aims.fao.org/aos/agrovoc/c_36906	Dosage	exactMatch	dosage	2307
+http://aims.fao.org/aos/agrovoc/c_36910	Extraction	exactMatch	extraction	3087
+http://aims.fao.org/aos/agrovoc/c_36936	Zoning	exactMatch	zoning	9417
+http://aims.fao.org/aos/agrovoc/c_37196	Ammonification	exactMatch	ammonification	378
+http://aims.fao.org/aos/agrovoc/c_37250	Maritime law	exactMatch	maritime law	5051
+http://aims.fao.org/aos/agrovoc/c_37258	Structure activity relationships	exactMatch	structure-activity relationship	8148
+http://aims.fao.org/aos/agrovoc/c_37272	Road construction	exactMatch	road construction	7276
+http://aims.fao.org/aos/agrovoc/c_37277	Agricultural landscape	exactMatch	agricultural landscape	204
+http://aims.fao.org/aos/agrovoc/c_37336	Population ecology	exactMatch	population ecology	6520
+http://aims.fao.org/aos/agrovoc/c_37359	Image processing	exactMatch	image processing	4140
+http://aims.fao.org/aos/agrovoc/c_37402	alkanes	exactMatch	alkane	322
+http://aims.fao.org/aos/agrovoc/c_37468	New technology	exactMatch	new technology	5585
+http://aims.fao.org/aos/agrovoc/c_37602	participation	exactMatch	participation	6051
+http://aims.fao.org/aos/agrovoc/c_37636	Animal protection	exactMatch	animal protection	443
+http://aims.fao.org/aos/agrovoc/c_37748	Transboundary pollution	exactMatch	transboundary pollution	8621
+http://aims.fao.org/aos/agrovoc/c_37829	Access to information	exactMatch	access to information	3477
+http://aims.fao.org/aos/agrovoc/c_37845	AIDS	exactMatch	AIDS	243
+http://aims.fao.org/aos/agrovoc/c_37864	Central Asia	exactMatch	Central Asia	1257
+http://aims.fao.org/aos/agrovoc/c_37866	Communication	exactMatch	communications	1605
+http://aims.fao.org/aos/agrovoc/c_37871	early warning systems	exactMatch	early warning system	2398
+http://aims.fao.org/aos/agrovoc/c_37873	Energy technology	exactMatch	energy technology	2747
+http://aims.fao.org/aos/agrovoc/c_37875	environmental management	exactMatch	environmental management	2877
+http://aims.fao.org/aos/agrovoc/c_37876	Environmental monitoring	exactMatch	environmental monitoring	2882
+http://aims.fao.org/aos/agrovoc/c_37883	human rights	exactMatch	human rights	4060
+http://aims.fao.org/aos/agrovoc/c_37897	Land cover	exactMatch	land cover	4612
+http://aims.fao.org/aos/agrovoc/c_37899	Land use planning	exactMatch	land use planning	4682
+http://aims.fao.org/aos/agrovoc/c_37914	Technology assessment	exactMatch	technology assessment	8341
+http://aims.fao.org/aos/agrovoc/c_37932	risk assessment	exactMatch	risk assessment	7236
+http://aims.fao.org/aos/agrovoc/c_37934	risk management	exactMatch	risk management	10053
+http://aims.fao.org/aos/agrovoc/c_37936	Risk analysis	exactMatch	risk analysis	7235
+http://aims.fao.org/aos/agrovoc/c_37938	Impact assessment	exactMatch	impact assessment	4159
+http://aims.fao.org/aos/agrovoc/c_37946	War	exactMatch	war	9028
+http://aims.fao.org/aos/agrovoc/c_37947	Traffic	exactMatch	traffic	8582
+http://aims.fao.org/aos/agrovoc/c_37948	urban planning	exactMatch	urban planning	8829
+http://aims.fao.org/aos/agrovoc/c_37952	protected areas	exactMatch	protected area	6740
+http://aims.fao.org/aos/agrovoc/c_37955	Associations	exactMatch	association	607
+http://aims.fao.org/aos/agrovoc/c_37966	Cultural heritage	exactMatch	cultural heritage	1912
+http://aims.fao.org/aos/agrovoc/c_37967	Natural heritage	exactMatch	natural heritage	5507
+http://aims.fao.org/aos/agrovoc/c_37971	disaster preparedness	exactMatch	disaster preparedness	2220
+http://aims.fao.org/aos/agrovoc/c_37980	Disaster prevention	exactMatch	disaster prevention	2221
+http://aims.fao.org/aos/agrovoc/c_37989	sciences	exactMatch	science	7472
+http://aims.fao.org/aos/agrovoc/c_49825	information transfer	exactMatch	information transfer	10024
+http://aims.fao.org/aos/agrovoc/c_49842	thesaurus	exactMatch	thesaurus	8454
+http://aims.fao.org/aos/agrovoc/c_49851	glossary	exactMatch	glossary	3694
+http://aims.fao.org/aos/agrovoc/c_49852	dictionary	exactMatch	dictionary	2173
+http://aims.fao.org/aos/agrovoc/c_49855	Vocabulary	exactMatch	vocabulary	8990
+http://aims.fao.org/aos/agrovoc/c_49861	ornithology	exactMatch	ornithology	5942
+http://aims.fao.org/aos/agrovoc/c_49862	fishery economics	exactMatch	fishery economics	3243
+http://aims.fao.org/aos/agrovoc/c_49864	forestry economics	exactMatch	forestry economics	3440
+http://aims.fao.org/aos/agrovoc/c_49868	decision support systems	exactMatch	decision-support system	14893
+http://aims.fao.org/aos/agrovoc/c_49877	Social problems	exactMatch	social problem	7810
+http://aims.fao.org/aos/agrovoc/c_49879	diseases	exactMatch	disease	2232
+http://aims.fao.org/aos/agrovoc/c_49880	Tissue	exactMatch	tissue	8494
+http://aims.fao.org/aos/agrovoc/c_49881	Physiology	exactMatch	physiology	6240
+http://aims.fao.org/aos/agrovoc/c_49884	Physical sciences	exactMatch	physical science	6230
+http://aims.fao.org/aos/agrovoc/c_49888	Building components	exactMatch	building component	1033
+http://aims.fao.org/aos/agrovoc/c_49889	urban development	exactMatch	urban development	8804
+http://aims.fao.org/aos/agrovoc/c_49890	anatomy	exactMatch	anatomy	406
+http://aims.fao.org/aos/agrovoc/c_49891	health care	exactMatch	health care	3866
+http://aims.fao.org/aos/agrovoc/c_49892	nutrition	exactMatch	nutrition	5765
+http://aims.fao.org/aos/agrovoc/c_49893	Geological process	exactMatch	geological process	3648
+http://aims.fao.org/aos/agrovoc/c_49902	breeding	exactMatch	breeding	994
+http://aims.fao.org/aos/agrovoc/c_49903	Morphology	exactMatch	morphology	5369
+http://aims.fao.org/aos/agrovoc/c_49911	acoustics	exactMatch	acoustics	60
+http://aims.fao.org/aos/agrovoc/c_49912	Industrial buildings	exactMatch	industrial building	4217
+http://aims.fao.org/aos/agrovoc/c_49914	natural sciences	exactMatch	natural science	5524
+http://aims.fao.org/aos/agrovoc/c_49916	European Commission	exactMatch	European Commission	2993
+http://aims.fao.org/aos/agrovoc/c_49928	analysis	exactMatch	analysis	397
+http://aims.fao.org/aos/agrovoc/c_49978	statistics	exactMatch	statistics	8076
+http://aims.fao.org/aos/agrovoc/c_49980	food irradiation	exactMatch	food irradiation	3370
+http://aims.fao.org/aos/agrovoc/c_49981	laboratory techniques	exactMatch	laboratory technique	4574
+http://aims.fao.org/aos/agrovoc/c_49983	mining	exactMatch	mining	14837
+http://aims.fao.org/aos/agrovoc/c_49984	nuclear physics	exactMatch	nuclear physics	5733
+http://aims.fao.org/aos/agrovoc/c_49985	plant genetics	exactMatch	plant genetics	6307
+http://aims.fao.org/aos/agrovoc/c_49986	animal genetics	exactMatch	animal genetics	425
+http://aims.fao.org/aos/agrovoc/c_49987	political geography	exactMatch	political geography	6383
+http://aims.fao.org/aos/agrovoc/c_49988	politics	exactMatch	politics	6371
+http://aims.fao.org/aos/agrovoc/c_49990	food storage	exactMatch	food storage	3387
+http://aims.fao.org/aos/agrovoc/c_50112	gulf	exactMatch	gulf	3800
+http://aims.fao.org/aos/agrovoc/c_50113	educational systems	exactMatch	educational system	2557
+http://aims.fao.org/aos/agrovoc/c_50119	calculation	exactMatch	calculation	11113
+http://aims.fao.org/aos/agrovoc/c_50141	polybrominated biphenyls	exactMatch	polybrominated biphenyl	6481
+http://aims.fao.org/aos/agrovoc/c_50191	conventions	exactMatch	convention	1776
+http://aims.fao.org/aos/agrovoc/c_50261	multinational firms	exactMatch	multinational firm	5421
+http://aims.fao.org/aos/agrovoc/c_50285	political parties	exactMatch	political party	6387
+http://aims.fao.org/aos/agrovoc/c_50290	professional societies	exactMatch	professional society	14847
+http://aims.fao.org/aos/agrovoc/c_50291	programmes	exactMatch	programme	6705
+http://aims.fao.org/aos/agrovoc/c_50309	Society	exactMatch	society	7823
+http://aims.fao.org/aos/agrovoc/c_92327	disaster relief	exactMatch	disaster relief	2222
+http://aims.fao.org/aos/agrovoc/c_92337	materials	exactMatch	material	5086
+http://aims.fao.org/aos/agrovoc/c_92341	Biological resources	exactMatch	biological resource	873
+http://aims.fao.org/aos/agrovoc/c_92350	environmental economics	exactMatch	environmental economics	2811
+http://aims.fao.org/aos/agrovoc/c_92358	volcanic eruptions	exactMatch	volcanic eruption	8999
+http://aims.fao.org/aos/agrovoc/c_330058	indicators	exactMatch	indicator	4196
+http://aims.fao.org/aos/agrovoc/c_330835	Literature	exactMatch	literature	4850
+http://aims.fao.org/aos/agrovoc/c_330837	Philosophy	exactMatch	philosophy	6187
+http://aims.fao.org/aos/agrovoc/c_330888	economic activities	exactMatch	economic activity	2476
+http://aims.fao.org/aos/agrovoc/c_330897	rehabilitation	exactMatch	rehabilitation	7091
+http://aims.fao.org/aos/agrovoc/c_330899	Labelling	exactMatch	labelling	4566
+http://aims.fao.org/aos/agrovoc/c_330917	Exploration	exactMatch	exploration	3057
+http://aims.fao.org/aos/agrovoc/c_330957	bryophytes	exactMatch	bryophyte	1023
+http://aims.fao.org/aos/agrovoc/c_330964	behavioural sciences	exactMatch	behavioural science	13318
+http://aims.fao.org/aos/agrovoc/c_330966	information	exactMatch	information	4303
+http://aims.fao.org/aos/agrovoc/c_330973	site rehabilitation	exactMatch	site rehabilitation	10240
+http://aims.fao.org/aos/agrovoc/c_330977	liability	exactMatch	liability	4787
+http://aims.fao.org/aos/agrovoc/c_330997	mountain ranges	exactMatch	mountain range	5409
+http://aims.fao.org/aos/agrovoc/c_330999	biological processes	exactMatch	biological process	867
+http://aims.fao.org/aos/agrovoc/c_331026	monitoring techniques	exactMatch	monitoring technique	5354
+http://aims.fao.org/aos/agrovoc/c_331053	continents	exactMatch	continent	10148
+http://aims.fao.org/aos/agrovoc/c_331094	biochemical processes	exactMatch	biochemical process	812
+http://aims.fao.org/aos/agrovoc/c_331238	Chelicerata	exactMatch	chelicerate	1296
+http://aims.fao.org/aos/agrovoc/c_331242	industrial emissions	exactMatch	industrial emission	4231
+http://aims.fao.org/aos/agrovoc/c_331330	Titanium dioxide	exactMatch	titanium dioxide	8496
+http://aims.fao.org/aos/agrovoc/c_331336	Natural environment	exactMatch	natural environment	5498
+http://aims.fao.org/aos/agrovoc/c_331355	environmental engineering	exactMatch	environmental engineering	10133
+http://aims.fao.org/aos/agrovoc/c_331394	polycyclic aromatic hydrocarbons	exactMatch	polycyclic aromatic hydrocarbon	6492
+http://aims.fao.org/aos/agrovoc/c_331547	physicochemical processes	exactMatch	physicochemical process	6233
+http://aims.fao.org/aos/agrovoc/c_331558	silt	exactMatch	silt	7698
+http://aims.fao.org/aos/agrovoc/c_331559	environmental sciences	exactMatch	environmental science	2922
+http://aims.fao.org/aos/agrovoc/c_9000021	Coastal area	exactMatch	coastal area	1513
+http://aims.fao.org/aos/agrovoc/c_9000032	Devolution	exactMatch	devolution	11632
+http://aims.fao.org/aos/agrovoc/c_9000047	Energy demand	exactMatch	energy demand	2718
+http://aims.fao.org/aos/agrovoc/c_9000050	Environmental accounting	exactMatch	environmental accounting	2767
+http://aims.fao.org/aos/agrovoc/c_9000084	information infrastructure	exactMatch	information infrastructure	14856
+http://aims.fao.org/aos/agrovoc/c_9000088	integrated management	exactMatch	integrated management	10256
+http://aims.fao.org/aos/agrovoc/c_9000090	land access	exactMatch	land access	4600
+http://aims.fao.org/aos/agrovoc/c_9000152	software development	exactMatch	software development	14894
+http://aims.fao.org/aos/agrovoc/c_27465	Biofuels	closeMatch	biofuel	12011
