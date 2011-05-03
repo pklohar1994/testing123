@@ -1,0 +1,76 @@
+2894	Super groups	ASPECTES SOCIALS, POLÍTICA AMBIENTAL, MESURES
+4044	Super groups	ACTIVITATS HUMANES I PRODUCTES, EFECTES SOBRE EL MEDI AMBIENT
+5306	Super groups	LLISTES ADDICIONALS
+5499	Super groups	MEDI NATURAL, MEDI ANTRÒPIC
+96	Groups	ADMINISTRACIÓ, GESTIÓ, POLÍTICA, INSTITUCIONS, PLANIFICACIÓ
+234	Groups	AGRICULTURA, SILVICULTURA, CRIA D'ANIMALS, PESCA
+618	Groups	ATMOSFERA (aire, clima)
+893	Groups	BIOSFERA (organismes, ecosistemes)
+1062	Groups	ANTROPOSFERA (medi edificat, assentaments humans, ordenació del territori)
+1349	Groups	QUÍMICA, SUBSTÀNCIES, PROCESSOS
+1922	Groups	INFORMACIÓ, EDUCACIÓ, CULTURA, CONSCIÈNCIA AMBIENTAL
+2504	Groups	ECONOMIA, FINANCES
+2711	Groups	ENERGIA
+3875	Groups	SALUT, NUTRICIÓ
+4125	Groups	HIDROSFERA (aigua dolça, aigua marina, aigües)
+4281	Groups	INDÚSTRIA, ARTESANIA, TECNOLOGIA, EQUIPAMENTS
+4630	Groups	TERRITORI (paisatge, geografia)
+4750	Groups	LEGISLACIÓ, NORMES, CONVENCIONS
+4856	Groups	LITOSFERA (sòl, processos geològics)
+6237	Groups	ASPECTES FÍSICS, SOROLL, VIBRACIONS, RADIACIONS
+7007	Groups	RECREACIÓ, TURISME
+7136	Groups	INVESTIGACIÓ, CIÈNCIES
+7243	Groups	RISCOS, SEGURETAT
+7779	Groups	SOCIETAT
+7956	Groups	ESPAI
+8575	Groups	COMERÇ, SERVEIS
+8603	Groups	TRÀNSIT, TRANSPORT
+9117	Groups	RESIDUS, CONTAMINANTS, CONTAMINACIÓ
+10111	Groups	MEDI AMBIENT (medi natural, medi antròpic)
+10112	Groups	PRODUCTES MATERIALS
+10114	Groups	EFECTES, IMPACTES
+10117	Groups	TERMES GENERALS
+10118	Groups	RECURSOS (ús dels recursos)
+13109	Groups	POLÍTICA AMBIENTAL
+14979	Groups	TEMPS (cronologia) 
+14980	Groups	TERMES FUNCIONALS
+1	Themes	administració
+2	Themes	agricultura
+3	Themes	aire
+4	Themes	biologia
+5	Themes	edificació
+6	Themes	química
+7	Themes	clima
+8	Themes	dinàmica natural
+9	Themes	economia
+10	Themes	energia
+11	Themes	política ambiental
+12	Themes	pesca
+13	Themes	aliment, aigua potable
+14	Themes	silvicultura
+15	Themes	general
+16	Themes	geografia
+17	Themes	salut humana
+18	Themes	cria d'animals
+19	Themes	indústria
+20	Themes	informació
+21	Themes	legislació
+22	Themes	aspectes militars
+23	Themes	àrees naturals, paisatge, ecosistemes
+24	Themes	soroll, vibracions
+25	Themes	física
+26	Themes	contaminació
+27	Themes	materials
+28	Themes	radiacions
+29	Themes	turisme
+30	Themes	investigació
+31	Themes	recursos
+32	Themes	desastres, accidents, riscos
+33	Themes	comerç, serveis
+34	Themes	aspectes socials, població
+35	Themes	sòl
+36	Themes	espai
+37	Themes	transports
+38	Themes	medi ambient urbà, tensió urbana (estrès urbà)
+39	Themes	residu
+40	Themes	aigua

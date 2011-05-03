@@ -1,0 +1,5208 @@
+7	zona industrial abandonada
+8	vehicle abandonat
+11	factor abiòtic
+13	absorció (exposició)
+20	nivell de risc acceptable
+21	acord (administratiu)
+22	carretera d'accés
+23	accés a la cultura
+24	accés a la mar
+25	accident
+28	descàrrega accidental d'organismes
+30	font d'accidents
+36	acumulació en teixits corporals
+38	acumulador
+42	deposició àcida
+44	acidificació
+47	acidesa
+48	grau d'acidesa
+51	pluja àcida
+52	àcid
+54	filtre acústic
+55	aïllament acústic
+57	nivell acústic
+59	propietat acústica
+60	acústica (ciència i tecnologia)
+66	actínid
+68	actini
+71	grup d'acció
+72	carbó actiu
+73	llots activats
+77	participació activa
+78	intervenció en la terra
+79	actes
+81	espècie adaptable
+83	període d'adaptació
+84	addició
+86	envàs addicional
+87	polímer addicional
+88	additiu
+90	adhesiu
+91	consum diari acceptable
+95	administració
+100	òrgans administratius
+103	competència administrativa
+105	autorització administrativa
+107	jurisdicció administrativa
+108	dret administratiu
+111	procedimient administratiu
+112	sancions administratives
+120	adsorció
+121	adult
+122	educació d'adults
+126	publicitat
+129	publicitat del producte
+130	consell
+132	aeració
+135	fotografia aèria
+143	condicions aeròbiques
+146	procés aeròbic
+148	biologia de l'aire
+151	soroll aerodinàmic
+157	aerosol
+163	estètica
+167	repoblació forestal
+170	Àfrica
+171	postcombustió
+173	edat
+182	acord
+183	acord (contracte)
+185	biotecnologia agrícola
+186	construcció agrícola
+191	ecologia agrícola
+193	economia agropecuària
+194	efluent agricola
+195	enginyeria agrícola
+197	maquinària agrícola
+199	explotació agrícola
+202	sòl agrícola
+204	paisatge agrícola
+206	legislació agrícola
+207	maquinària agrícola
+208	gestió agrícola
+210	mètode agrícola
+212	plaga agrícola
+213	planificació agrícola
+215	política agrícola
+216	contaminació agrícola
+219	producció agrícola
+220	producte agrícola
+224	emmagatzematge de productes agrícoles
+229	residus agrícoles
+232	agricultura
+233	indústria agropecuària
+235	pla marc agrícola
+237	agroquímic
+239	agrosilvicultura
+240	agroindústria
+241	agrometeorologia
+243	SIDA
+245	aire
+250	condicionament de l'aire
+253	aeronau
+255	emissió de motors aeris
+256	soroll d'aeronaus
+262	moviment de l'aire
+263	contaminant atmosfèrics
+265	contaminació atmosfèrica
+267	aeroport
+270	qualitat de l'aire
+272	control de la qualitat de l'aire
+274	ordenament de la qualitat de l'aire
+277	seguretat aèria
+279	ordenació de l'espai aeri
+281	temperatura de l'aire
+282	trànsit aeri
+285	legislació relativa al trànsit aeri
+286	reglament del trànsit aeri
+289	transport aeri
+290	interacció aire-aigua
+293	alarma
+298	alcohol
+301	alga
+303	proliferació d'algues
+305	alguicidas
+308	compost alicíclic
+309	hidrocarbur alicíclic
+311	compost alifátic
+312	hidrocarburs alifàtics
+313	terreny alcalino
+319	sòl alcalí
+322	alcà
+326	compost alquílic
+329	al·lèrgogen
+332	al·lèrgia
+335	adjudicació, assignació
+336	pla d'adjudicació
+340	aleació
+341	al·luvió
+342	radiació alfa
+349	material alternatiu
+351	tecnologies alternatives
+352	alúmina
+353	alumini
+354	envàs d'alumini
+355	contingut d'alumini
+356	indústria de l'alumini
+360	alvèol
+363	amalgama
+367	Amèrica
+370	prova d'Ames
+372	amina
+373	aminoàcid
+375	amoníac
+378	amonificación
+379	amoni
+387	amfibi
+388	parc d'atraccions
+391	condició anaeròbica
+394	procés anaeròbic
+397	anàlisi
+398	programa d'anàlisi
+399	química analítica
+401	equip analític
+402	mètode analític
+404	anàtids
+406	anatomia
+411	angiospermes
+412	pesca esportiva
+415	comportament animal
+417	malalties d'animals
+419	fems com a combustible
+420	ecologia animal
+421	experimentació amb animals
+423	aliment per a animals
+425	genètica animal
+428	granja animal
+429	granja ramadera
+432	adob animal
+434	soroll animal
+435	nutrició animal
+437	fisiologia animal
+441	producció animal
+442	productes animals
+443	protecció dels animals
+445	recursos animals
+448	animal per a escorxador
+449	refugi per a animals
+450	animal
+451	fibra tèxtil d'origen animal
+452	comerç d'animals
+453	residus d'animals
+454	anió
+456	anèl·lids
+458	antagonisme
+460	efecte antagònic de substàncies tòxiques
+461	Antàrtida
+463	ecosistema antàrtic
+464	Oceà Antàrtic
+465	regió antàrtica
+468	activitat antròpica
+470	factor antropogènic
+471	reserva antropològica
+473	antibiòtic
+474	anticòs
+475	anticipació del perill
+478	agent antiincrustant
+483	incentius contra la contaminació
+486	valor AOX
+488	bloc d'apartaments
+490	apicultura
+492	apel·lació
+493	procediment d'apel·lació
+494	ecologia aplicada
+495	nutrició aplicada
+496	ciència aplicada
+498	tecnologies apropiades
+500	homologació d'instal·lacions
+501	aqüicultura
+503	animal aquàtic
+504	ecologia aquàtica
+505	ecosistema aquàtic
+508	mamífer aquàtic
+510	microorganisme aquàtic
+511	organisme aquàtic
+514	planta aquàtica
+516	activitat recreativa aquàtica
+517	aqüeducte
+518	aqüífer
+521	conreu del camp
+527	arboricultura
+529	zona arqueològica
+530	arqueologia
+531	arxipèlag
+538	arquitectura
+541	ecosistema àrtic
+542	Oceà Àrtic
+543	regió àrtica
+544	àrea de distribució
+547	àrea de contaminació potencial
+551	ecosistema àrid
+552	terreny àrid
+556	armament
+557	conversió d'armament
+558	forces armades
+560	compost aromàtic
+562	hidrocarburs aromàtics
+564	substància aromàtica
+566	acord sobre depòsit en embalatge
+567	arsènic
+568	art
+571	artròpode
+572	articulats
+579	llac artificial
+587	satèl·lits artificials
+591	amiant
+594	ciment a base d'amiant
+595	ASEAN
+596	cendres
+598	Àsia
+605	assimilació
+607	associacions
+611	astronàutica
+612	astronomia
+616	atles
+617	atmosfera
+621	química de l'atmosfera
+622	circulació atmosfèrica
+623	component de l'atmosfera
+624	composició atmosfèrica
+625	emissió atmosfèrica
+626	humitat atmosfèrica
+627	estratificació atmosfèrica
+629	model atmosfèric
+631	vigilància atmosfèrica
+632	ozó atmosfèric
+633	partícules atmosfèriques
+634	física de l'atmosfera
+636	contaminació atmosfèrica
+637	precipitació atmosfèrica
+639	processos atmosfèrics
+640	ciències de l'atmosfera
+641	estructura atmosfèrica
+654	atribució
+658	mitjans audiovisuaes
+661	autoritat
+662	autorització
+664	autoecologia
+665	detecció automàtica
+668	indústria automobilística
+678	allau
+680	protecció contra les allaus
+685	legislació relativa al trànsit aeri
+686	fauna avícola
+693	nivell de base
+695	radiació de fons
+698	bacteri
+699	llit bacterià
+700	bactericida
+702	bacteriologia
+709	balanç (economia)
+710	equilibri d'interessos
+716	activitat bancària
+718	prohibició d'extensió d'aigües residuals
+719	bari
+726	vigilància bàsica
+728	base (química)
+730	necessitat alimentària bàsica
+731	caràcter bàsic
+733	basidiomicet
+736	procés por lots
+740	aigües de bany
+745	bactèries
+746	desferra de bateris
+749	badía
+751	platja
+755	ordenació de platges
+760	conservació de les abelles
+761	bestiar vaccí per a carn
+762	abella
+764	coleòpter
+765	comportament
+766	comportament de les substàncies
+767	model de comportament
+768	organisme beneficiós
+772	divisió bèntica
+773	ecosistema bèntic
+775	bentos
+776	bencè
+777	benzopirè
+781	beril·li
+782	radiació beta
+783	indústria de les begudes
+784	beguda
+786	bibligorafia
+788	bicicleta
+792	conveni bilateral
+794	oli de sentina
+795	aigua de sentina
+798	bioacumulació
+800	contaminant bioacumulatiu
+802	disponibilitat biològica
+807	mètode bioquímic
+812	procés bioquímic
+813	substància bioquímica
+815	bioquímica
+816	biocida
+818	bioclimatologia
+819	biocenosi
+820	factor de bioconcentració
+821	biodegradabilitat
+823	contaminant biodegradable
+826	biodegradació
+827	biodiversitat
+830	bioètica
+832	biogàs
+833	cicle biogeoquímic
+834	biogeoquímica
+835	regions biogeogràfiques
+836	biogeografia
+839	activitat biològica
+841	anàlisi biològica
+842	atribut biològic
+846	desenvolupament biològic
+849	efecte biològic
+851	enginyeria biològica
+856	indicadors biològics
+861	control biològic
+862	fixació biològica del nitrogen
+864	control biològic de plagues
+865	contaminant biològic
+866	contaminació biològica
+867	procés biològic
+868	producció biològica
+873	recurs biològic
+878	purificació biològica de gas de residus
+879	tractament de residus biològics
+880	arma biològica
+881	biologia
+882	bioluminescència
+883	biomassa
+885	energia de la biomassa
+888	biofísica
+889	bioreactor
+890	ritme biològic
+891	bioseguretat
+892	biosfera
+894	reserva de la biosfera
+895	biosíntesi
+898	biotecnologia
+899	factor biòtic
+901	biòtop
+902	xarxa de biòtop
+903	protecció dels biòtops
+912	ocell
+913	santuari per a ocells
+914	ocell de presa
+915	espècie ornitològica
+917	control de natalitat
+921	betum
+926	carbó negre
+930	alt forn
+932	agent blanquejador
+933	argila blanquejadora
+934	procés de blanqueig
+935	sang
+939	alga verd-blava
+945	navegació esportiva
+947	demanda bioquímica d'oxigen
+953	caldera
+954	punt d'ebullició
+959	llibre
+961	tenidoria
+963	frontera
+965	boro
+969	jardí botànic
+971	botànica
+975	passar el límit
+976	estrat límit
+977	bòvid
+984	aigua salabrosa
+986	bradisisme
+992	llet materna
+994	criança
+995	ocell nidificant
+997	indústria de la cervesa
+998	totxo
+1001	pont
+1007	brom
+1014	incubació
+1015	rierol
+1020	matollar
+1023	briòfit
+1024	política de bombolles (comerç d'emissions)
+1025	pressupost
+1028	xinxa
+1029	edifici
+1031	àrea edificable
+1033	component d'un edifici
+1039	indústria de la construcció
+1041	terreny edificable
+1042	material de construcció
+1044	indústria de materials de construcció
+1046	planificació de construcció
+1049	reglament de construcció
+1052	obra
+1054	preparació del solar
+1058	tecnologia de la construcció
+1059	residu de l'edificació
+1061	sistemes artificials de drenatge
+1063	ambient construït
+1064	estructura edificada
+1065	zona edificada
+1067	conreu de bulbs
+1075	burocratització
+1082	autobús
+1084	empreses
+1091	papallona
+1092	piles botó
+1093	captura parcial
+1094	subproducte
+1098	cable
+1100	cadmi
+1101	contaminació per cadmi
+1103	cesi
+1111	calci
+1112	contingut en calci
+1113	mètode de càlcul
+1114	calibratge
+1115	calibratge de l'equip de mesura
+1121	càmping
+1123	lloc d'acampada
+1126	canal
+1130	càncer
+1133	risc de càncer
+1134	cànid
+1148	cotxe
+1159	carbohidrats
+1160	carboni
+1162	carbonats
+1164	cicle del carbó
+1168	diòxid de carboni
+1170	impost sobre el CO2
+1173	monòxid de carboni
+1177	eliminació de cadàvers
+1180	carcinogenicitat
+1181	prova de carcinogenicitat
+1182	carcinogen
+1184	cardiologia
+1185	malaltia cardiovascular
+1190	àrea del Carib
+1191	carnívor
+1198	capacitat de càrrega ecològica
+1199	efecte de romanent
+1200	cartografia
+1201	pneumàtic de cotxe
+1203	conreu comercial
+1209	catàlisi
+1210	catalitzador
+1212	convertidor catalític
+1213	catàstrofe
+1215	conca
+1220	captura de pesca
+1221	categoria d'espècie amenaçada
+1224	catió
+1225	bestiar boví
+1229	causa per al principi d'alerta
+1231	cova
+1239	cèl·lula
+1242	pila
+1244	cel·lulosa
+1245	indústria de la cel·lulosa
+1247	ciment
+1248	indústria del ciment
+1249	producció de ciment
+1255	Àfrica central
+1256	Centramèrica
+1257	Àsia central
+1259	govern central
+1261	centralització
+1262	centrifugació (procés)
+1265	cefalòpode
+1266	ceràmica
+1267	indústria de la ceràmica
+1275	cetaci
+1279	malaltia de Chagas
+1280	gestió continuada
+1286	canvi de valor
+1288	canalització
+1290	carbó vegetal
+1291	càrrega negociable
+1292	mapa
+1296	quelicerat
+1298	anàlisi química
+1299	composició química
+1303	descontaminació química
+1305	enginyeria química
+1306	polsim (productes químics)
+1307	fertilitzant químic
+1310	indústria química
+1311	instal·lació química
+1312	oceanografia química
+1314	control químic de plagues
+1316	planta química
+1317	política química
+1318	contaminants químics
+1319	contaminació química
+1320	processos químics
+1322	propietat química
+1324	reacions químiques
+1326	risc químic
+1327	productes químics
+1328	legislació sobre substàncies químiques
+1330	producte químic en el medi ambient
+1332	prova de substàncies químiques
+1333	estructura química
+1336	tractament químic
+1337	tractament químico de residus
+1341	residus químics
+1343	armes químiques
+1347	absorció química
+1348	química
+1350	nen
+1355	xemeneia
+1356	alçada de xemeneia
+1362	quiròpter
+1366	clorur
+1368	hidrocarbur clorat
+1371	cloració
+1373	clor
+1378	cloroetilè
+1381	clorofluorocarboni
+1384	prohibició de CFC i halons
+1385	clorofluorohidrocarbur parcialment halogenat
+1389	clorofenol
+1391	clorofil·la
+1393	clorosi
+1399	análisi cromatogràfica
+1400	cromatografia
+1401	crom
+1406	crisòfits
+1410	església
+1419	sensibilització ciutadana
+1421	ciutat
+1422	centre de la ciutat
+1426	abocament urbà
+1431	trànsit aeri civil
+1434	enginyeria civil
+1436	protecció civil
+1437	dret civil
+1445	sol·licitud de reemborsament
+1446	legislació sobre querelles de col·lectius
+1447	classificació
+1449	argila
+1456	neteja
+1457	departament de neteja
+1458	producte de neteja
+1460	tecnologia neta
+1462	clima
+1464	efecte del clima
+1466	protecció del clima
+1467	recurs del clima
+1469	tipus climàtic
+1470	alteració climàtica
+1471	canvi climàtic
+1473	experiment climàtic
+1474	factor climàtic
+1476	zona climàtica
+1479	climatologia
+1480	clímax
+1481	planta enfiladissa (per paret)
+1482	símptoma clínic
+1484	clonació
+1486	clausura
+1487	tancament de fàbrica
+1489	vestuari
+1490	indústria de la confecció
+1491	núvols
+1499	coagulació
+1500	carbó
+1502	energia del carbó
+1503	central de carbó
+1505	gasificació del carbó
+1506	liqüefacció del carbó
+1507	mina de carbó
+1509	refinació del carbó
+1511	tecnologia del carbó
+1512	costa
+1513	zona costera
+1515	desenvolupament de zones costeres
+1516	ecosistemes costers
+1517	medi ambiente de litoral
+1519	erosió costera
+1520	pesca de litoral
+1523	contaminació del litoral
+1526	aigua costera
+1527	ordenació de zones costeres
+1528	guàrdia costera
+1530	revestiment
+1532	cobalt
+1533	panerola
+1536	demanda química d'oxigen
+1541	codi de bona pràctica
+1542	codi
+1548	celenteri
+1550	cogeneració
+1553	coincineración
+1554	carbó de coc
+1556	fred
+1559	ecosistema de zona freda
+1561	bacteri coliforme
+1567	col·loide
+1568	estat coloïdal
+1569	colonització
+1570	colorimetria
+1571	color
+1574	efecte combinat
+1575	central elèctrica de cicle combinat
+1576	aigua residual combinada
+1578	combustibilitat
+1582	motor de combustió
+1583	gas de combustió
+1584	residu de la combustió
+1588	comercialització
+1590	dret mercantil
+1591	soroll comercial i industrial
+1594	tràfic comercial
+1595	vehicle comercial
+1596	residu comercial
+1600	política agrícola comuna
+1601	acord comú
+1605	comunicacions
+1613	comunitat ecològica
+1616	dret comunitari
+1618	participació comunitària
+1619	principi de pagament comunitari
+1622	trànsit diari
+1623	intercanviador
+1625	compactació
+1628	política d'empresa
+1630	dret comparat
+1631	prova comparativa
+1632	comparació
+1633	compensació
+1636	mesura compensatòria
+1637	impost compensatori
+1638	competència (biològica)
+1639	competència
+1641	competitivitat
+1645	formació complexa
+1646	agent de complexió
+1647	contaminació composta
+1649	compost
+1651	residu fertilitzant
+1652	compostificació
+1653	compostificació pel productor
+1659	compressió
+1660	motocompresor
+1663	ús forçós
+1669	Comunitats Europees
+1673	concentració (densitat)
+1674	concentració (procés)
+1677	formigó
+1679	fàbrica de formigó
+1681	condensació
+1686	conductivitat
+1688	conflicte d'ús
+1689	conflicte d'objectius
+1690	conflicte d'interessos
+1691	congrés
+1692	conífera
+1694	bosc de coníferes
+1700	conservació
+1704	conservació de l'aigua dolça
+1706	conservació de recursos genètics
+1708	conservació de monuments
+1712	dret constitucional
+1718	maquinària de construcció
+1724	soroll de construcció
+1725	construcció d'instal·lacions
+1728	tecnologia de la construcció
+1730	construcció amb material reciclat
+1731	obres de construcció
+1732	consulta
+1736	comportament del consumidor
+1737	béns de consum
+1738	grup de consumidors
+1739	informació al consumidor
+1740	protecció al consumidor
+1742	residu de consum
+1743	consum
+1745	tendència del consum
+1746	contenidor
+1748	contenció
+1751	sòl contaminat
+1752	contaminació
+1757	plataforma continental
+1759	càrrega contínua
+1761	conreu de contorn
+1762	contracte
+1763	empresa de neteja
+1769	control de cremes
+1772	zones de caça controlada
+1773	autoritat de control
+1774	mesura de control
+1775	conurbació
+1776	conveni
+1777	energies convencionals
+1781	refrigeració
+1782	oli refrigerant
+1784	torre de refrigeración
+1786	agua de refrigeración
+1787	cooperació
+1788	principi de cooperació
+1791	coordinació
+1792	coure
+1793	matollar
+1794	corall
+1796	recif
+1798	cordat
+1799	fusió nuclear
+1800	suro
+1807	passadís
+1808	corrosió
+1809	anticorrosiu
+1813	indústria de cosmètics
+1814	radiació còsmica
+1817	cost-benefici
+1818	anàlisi cost-benefici
+1820	augment de costos
+1822	base del reemborsament de costos
+1823	reducció de costos
+1824	cost
+1825	costos de la contaminació
+1826	costos de l'economia nacional
+1827	cotó
+1837	comunitat autònoma
+1842	tribunals de justícia
+1846	cobertura
+1850	menestralia
+1854	crèdit d'assistència
+1860	crim
+1862	dret penal
+1864	nivell crític
+1865	càrrega crítica
+1870	cocodrils
+1874	protecció de les collites
+1875	rotació de conreus
+1877	residus de la collita
+1880	pas
+1881	pas per a animals
+1885	cru (UP: petroli brut)
+1888	creuer
+1889	crustaci
+1890	criptògama
+1891	cristalització
+1892	cristal·lografia
+1898	planta conreada
+1899	conreu
+1902	mètode de conreu
+1909	desenvolupament cultural
+1911	equipament cultural
+1912	patrimoni cultural
+1915	indicadors socials i culturals
+1917	política cultural
+1921	cultura
+1926	currículum
+1928	normes consuetudinàries
+1929	duana
+1930	tala
+1931	cianat
+1933	cianur
+1941	cicló
+1945	citologia
+1946	citotoxicitat
+1950	granja lletera
+1951	indústria de la llet
+1952	producte lacti
+1955	resclosa
+1956	dany i perjudici
+1958	dany per maniobres militars
+1959	prevenció de danys
+1968	exportació química perillosa
+1969	productes perillosos
+1970	legislació sobre mercaderies perilloses
+1971	reglament sobre mercaderies perilloses
+1974	obtenció de dades
+1975	anàlisi de dades
+1979	base de dades
+1981	suport informàtic
+1984	intercanvi de dades
+1986	processament de dades
+1988	protecció de dades
+1989	tècniques d'enregistrament de dades
+1992	datació
+1993	producte de decantació
+1996	DDT
+2000	deute
+2001	pagament del deuta
+2002	transvasament
+2003	descentralització
+2004	bosc caducifoli
+2005	arbre de fulla caduca
+2006	decisió
+2009	procés de decisió
+2014	descomposició
+2015	descontaminació
+2020	decret
+2022	mar profunda
+2023	depòsit en fossa marina
+2024	abocament en fons marí
+2025	pesca marina
+2029	cérvol
+2031	defensa
+2035	defoliació
+2036	desforestació
+2039	degradabilitat
+2040	degradació
+2041	degradació de recursos naturals
+2042	producte de degradació
+2044	desgreixatge
+2048	desincrustació
+2050	delinqüència
+2052	delta
+2053	demanda
+2054	democràcia
+2055	desenvolupament demogràfic
+2056	evolució demogràfica
+2060	demografia
+2062	negoci de demolició
+2064	residus de la construcció
+2066	demostrabilitat
+2069	dendrocronologia
+2070	dendrometria
+2071	desnitrificació
+2072	desnitrificació del gas de residus
+2083	partícules dipositades
+2084	deposició
+2088	desreglamentació
+2093	dermàpter
+2098	dessalació
+2099	dessalinitzadora
+2103	desert
+2105	desertificació
+2109	control de la desertificació
+2111	garrofa del desert
+2115	disseny (projecte)
+2117	estudi d'escriptori
+2119	desabsorció
+2124	dessulfuració
+2125	dessulfurització del combustible
+2127	detecció
+2129	detector
+2131	detergent
+2139	mètode de determinació
+2140	mesura dissuasòria
+2143	desintoxicació
+2147	país desenvolupat
+2151	deute de països en desenvolupament
+2152	país en desenvolupament
+2155	ajut al desenvolupament
+2156	àrea de desenvolupament
+2157	cooperació al desenvolupament
+2158	model de desenvolupament
+2159	model de desenvolupament
+2160	planificació del desenvolupament
+2161	plans de desenvolupament
+2167	diàlisi
+2168	diatomees
+2173	diccionari
+2175	didàctica
+2177	motors diesel
+2179	gasoil
+2182	diferenciació
+2185	font difusa
+2186	difusió
+2187	fang actiu
+2188	digestor
+2190	digestió (aigües residuals)
+2195	models digitals del terreny
+2196	digitalització
+2200	àcid diluït
+2207	dioxines
+2211	descàrrega directa
+2212	directiva
+2213	persona incapacitada
+2215	desastre
+2216	operació de neteja general de desastre
+2218	pla de contingència de desastre
+2219	servei de control de desastre
+2220	estat de preparació al desastre
+2221	prevenció de desastre
+2222	alleujament de desastre
+2226	legislació sobre vessaments
+2227	règim de descàrrega
+2232	malaltia
+2233	causa d'enfermetat
+2237	desinfectant
+2238	desinfecció
+2242	nota de tramesa
+2245	dispersió
+2246	càlcul de dispersió
+2247	persona desplaçada
+2253	deposició de cadàvers
+2254	disposició de materials de guerra
+2257	disolució
+2259	carboni orgànic dissolt
+2260	destil·lació
+2262	indústria de destil·lació
+2263	distorsió de la competència
+2264	distribució
+2269	calefacció urbana
+2270	planta de calefacció urbana
+2275	lloc militar en desús
+2276	rasa
+2279	ADN
+2282	document
+2284	documentació
+2285	centres de documentació
+2286	tipus de document
+2287	gos
+2290	electrodomèstic
+2291	animal domesticat
+2293	combustible per a ús domèstic
+2294	fueloil per a ús domèstic
+2298	soroll domèstic
+2300	comerç interior
+2301	residus domèstics
+2304	abocament de residus domèstics
+2305	aigua de residus domèstics
+2307	dosificació
+2308	dosi
+2309	relació dosi-efecte
+2315	projecte de legislació
+2316	libèl·lula
+2319	drenatge
+2323	aigua de drenatge
+2324	animal de tir
+2326	material dragatge
+2327	dragatge
+2330	morca (UP: suc residual de tafona)
+2332	pesca de xarxa de deriva
+2333	perforació
+2336	instal·lació de perforació
+2339	aigua potable
+2340	àrea de protecció d'aigua potable
+2343	subministrament d'aigua potable
+2344	processos de potabilització
+2347	sequera
+2350	control de sequera
+2352	abús de fàrmacs
+2354	medicaments
+2358	neteja en sec
+2359	deposició seca
+2360	agricultura de secà
+2361	assecatge
+2363	dessecació
+2364	economia dual
+2365	gestió de residus dual
+2367	descàrrega
+2372	deposició a terra
+2377	duna
+2380	durada del sol
+2381	pols
+2383	emissió de pols
+2384	supressió de pols
+2386	obligació de registre
+2387	habitatge
+2389	colorant
+2393	dic
+2394	reforç de dic
+2398	sistema de detecció primerenca
+2400	escorça terrestre
+2402	terratrèmol
+2405	ciències de la Terra
+2406	Relacions Terra-Sol
+2408	cucs de terra
+2409	tisoreta
+2411	Àfrica oriental
+2412	Àsia oriental
+2413	Europa oriental
+2414	relacions Est-Oest
+2415	comerç Est-Oest
+2419	Consell de Ministres de la CE
+2422	directiva comunitària
+2423	Directiva comunitària sobre biocides
+2424	Directiva comunitària sobre envasament
+2425	Directiva comunitària sobre eliminació de residus
+2426	Directiva comunitària sobre la protecció de l'aigua
+2427	etiqueta ecològica comunitària
+2428	equinoderm
+2434	desenvolupament ecològic
+2435	etiquetatge ecològic
+2437	cabal ecològic
+2438	adaptació ecològica
+2440	avaluació ecològica
+2441	equilibri ecològic
+2442	comptabilitat ecològica
+2450	factor ecològic
+2456	llit ecològic
+2457	paràmetre ecològic
+2461	àrea sensible ecològica
+2463	inventari ecològic
+2469	moviment ecologista
+2470	ecologia
+2474	ecologia tròfica
+2476	activitat econòmica
+2477	eficiència econòmico-ecològica
+2478	anàlisi econòmica
+2484	desenvolupament econòmic
+2490	creixement econòmic
+2493	instrument econòmic
+2494	instrument de gestió econòmica
+2497	planificació econòmica
+2498	política econòmica
+2501	economia
+2505	situació econòmica
+2508	sistema econòmic
+2510	teoria econòmica
+2511	tendència econòmica
+2512	viabilitat econòmica
+2514	zonificació econòmica
+2516	economia
+2517	ecopediatria
+2518	ecofisiologia
+2519	ecosistema
+2520	anàlisi d'ecosistema
+2522	degradació de l'ecosistema
+2523	investigació de l'ecosistema
+2525	tipus d'ecosistema
+2527	turisme ecològic
+2528	ecotoxicitat
+2529	avaluació ecotoxicològica
+2530	ecotoxicologia
+2531	ecotipus
+2533	política comunitària
+2534	reglament comunitari
+2535	Reglament comunitari sobre la gestió ecològica i l'auditoria
+2536	Reglament comunitari sobre substàncies químiques existents
+2539	edafologia
+2542	greix comestible
+2547	educació
+2551	institució educativa
+2554	planificació educativa
+2555	política educativa
+2557	sistema educatiu
+2562	efecte
+2564	efecte en la salut
+2565	efectes sobre l'home
+2566	efecte sobre el medi ambient
+2568	investigació dels efectes
+2569	criteri d'eficiència
+2570	nivell d'eficiència
+2571	efluent
+2573	ou
+2578	Directiva EIA
+2579	Llei EIA
+2580	EIA (local)
+2582	elasticitat
+2584	persona gran
+2586	enginyeria elèctrica
+2587	indústria elèctrica
+2588	aparell per a emmagatzemar energia elèctrica
+2592	electricitat
+2593	empresa d'electricitat
+2594	consum d'electricitat
+2595	producció elèctrica
+2596	cost de producció elèctrica
+2597	empresa elèctrica
+2599	línies elèctriques
+2601	energia elèctrica
+2606	central elèctrica
+2608	subministrament d'energia elèctrica
+2612	vehicle elèctric
+2617	electrocinètica
+2618	electròlisi
+2623	material electrònic
+2624	electrònica
+2625	residu electrònic
+2626	reglament sobre residus electrònics
+2628	electrocontaminació atmosfèrica
+2633	equipo electrotècnico
+2634	indústria electrotècnica
+2635	element del grup 0
+2636	element del grup I (alcalins)
+2637	element del grup II (metalls alcalinoterrosos)
+2638	element del grup III
+2639	elemento del grupo IV
+2640	element del grup V
+2641	element del grup VI
+2642	element del grup VII
+2643	element químic
+2651	emancipació
+2653	embrió
+2654	embriogènesi
+2655	llei d'urgència
+2656	pla d'emergència
+2657	ayuda d'urgència
+2658	mesura de socors en emergències
+2661	refugi d'urgència
+2663	emissió
+2665	control d'emissions
+2666	dades d'emissió
+2667	factpr d'emissió
+2668	pronòstic d'emissió
+2670	reducció d'emissió
+2671	crèdit per reducció d'emissions
+2672	registre d'emissions
+2673	situació d'emissió
+2674	fonts d'emissió
+2677	normes d'emissió
+2679	abocament a l'aigua
+2683	feina
+2684	feina i medi ambient
+2687	efecte de nivell d'ocupació
+2689	emulsificació
+2691	emulsió
+2693	encapsulació
+2696	enciclopèdia
+2697	espècie en perill
+2700	espècie vegetal en perill
+2702	espècie amenaçada
+2704	risc per a aigües subterrànies
+2705	sistema endocrí
+2706	endocrinologia
+2707	tecnología de tub terminal
+2712	energia
+2713	balanç energètic
+2714	conservació de l'energia
+2715	consum d'energia
+2716	conversió energètica
+2718	demanda energètica
+2720	dissipació energètica
+2722	sistema de distribució energètica
+2723	economia energètica
+2724	rendiment energètic
+2729	legislació sobre energia
+2730	gestió energètica
+2731	mercat de l'energia
+2733	política energètica
+2734	procés energètic
+2735	producció energètica
+2736	recuperació de l'energia
+2738	recurso energètic
+2740	estalvi energètic
+2741	font energètica
+2742	material d'origen energètic
+2744	emmagatzematge energètic
+2746	subministrament energètic
+2747	tecnologia energètica
+2748	tipus d'energia
+2749	ús energètic
+2751	model d'ús d'energia
+2753	aplicació
+2754	motor
+2755	política d'ampliació
+2756	programa d'ampliació
+2758	urani enriquit
+2759	enriquiment
+2760	subministrament alimentari suficient
+2766	accident ambiental
+2767	comptabilitat ambiental
+2769	consell de protecció del medi ambient
+2771	ansietat ambiental
+2772	arquitectura ambiental
+2773	aspecte ambiental d'assentaments humans
+2774	avaluació ambiental
+2775	criteris d'avaluació ambiental
+2776	auditoria ambiental
+2778	consciència ecològica
+2779	equilibri ambiental
+2782	canvis ambientals
+2783	legislació ambiental de substàncies químiques
+2784	química ambiental
+2786	compatibilitat ambiental
+2789	conseqüència ambiental
+2790	conservació del medi ambient
+2793	planificació per a situacions d'urgència ambiental
+2795	control ambiental
+2796	cost ambiental
+2797	delicte ambiental
+2798	dret penal ambiental
+2799	criteri ambiental
+2801	cultura ambiental
+2802	dany ambiental
+2803	dades ambientals
+2805	desenvolupament ambiental
+2810	problemes d'economia ambiental
+2811	economia ambiental
+2814	educació ambiental
+2817	empreses mediambientals
+2818	ètica ambiental
+2821	fons ambiental
+2823	risc mediambiental
+2824	salut ambiental
+2825	risc de salut ambiental
+2826	avaluació d'impacte de salut ambiental
+2827	protecció sanitària ambiental
+2828	història ambiental
+2829	impacte ambiental
+2830	avaluació de l'impacte ambiental
+2831	impacte ambiental de l'agricultura
+2832	impacte ambiental de l'aqüicultura
+2833	impacte ambiental de l'energia
+2834	impacte ambiental de la pesca
+2835	impacte ambiental de la silvicultura
+2836	impacte ambiental de les llars
+2837	impacte ambiental de la indústria
+2838	impacte ambiental del lleure
+2839	impacte ambiental del turisme
+2840	impacte ambiental del transport
+2841	declaració d'impacte ambiental
+2844	estudis d'impacte ambiental
+2845	incentiu ambiental
+2847	indicadors ambientals
+2848	índex ambiental
+2849	indústria mediambiental
+2850	informàtica ambiental
+2851	informació ambiental
+2852	xarxa d'informació sobre el medi ambient
+2853	sistemes d'informació ambiental
+2856	inversió ambiental
+2857	ecologisme
+2859	dret ambiental
+2860	aplicació de la legislació ambiental
+2862	legislació ambiental
+2863	legislació ambiental sobre agricultura
+2864	procés legislatiu sobre medi ambient
+2865	responsabilitat ambiental
+2866	permís ambiental
+2869	substància ambientalment perillosa
+2870	adquisició respectuosa del medi ambient
+2871	producte respectuós del medi ambient
+2872	gestió respectuosa del medi ambiente
+2873	malaltia relacionada amb el medi ambiente
+2874	comportament responsable amb el medi ambient
+2876	empresa ambientalment hostil
+2877	gestió ambiental
+2880	medicament ambiental
+2881	conducta ambiental dolenta
+2882	vigilància ambiental
+2884	soroll ambiental
+2886	percepció ambiental
+2887	actuació ambiental
+2889	planificació ambiental
+2890	pla ambiental
+2892	política ambiental
+2893	instrument de política ambiental
+2895	contaminació ambiental
+2896	prioritat ambiental
+2897	programa ambiental
+2900	protecció ambiental
+2901	agència de protecció del medi ambient
+2902	associació de protecció del medi ambient
+2903	cost de protecció del medi ambient
+2905	protecció del medi ambient en l'empresa
+2907	ordre de protecció del medi ambient
+2908	organització de protecció del medi ambient
+2909	reglament de protecció del medi ambient
+2910	tecnologies de protecció del medi ambient
+2911	psicologia ambiental
+2912	qualitat ambiental
+2913	criteri de qualitat ambiental
+2914	objectiu de qualitat ambiental
+2915	estàndard de qualitat ambiental
+2917	informe ambiental
+2918	investigació ambiental
+2920	avaluació del risc ambiental
+2921	risc ambiental
+2922	ciència ambiental
+2923	seguretat ambiental
+2924	banc d'espècímens ambientals
+2925	declaració ambiental (auditoria ecològica)
+2926	estadística ambiental
+2927	borsa ambiental
+2928	subvenció ambiental
+2929	objectiu ambiental
+2931	formació ambiental
+2932	tecnologia ambiental
+2934	terminologia ambiental
+2936	capacitació ambiental
+2938	avaluació econòmica ambiental
+2940	vandalisme ambiental
+2941	guerra ambiental
+2943	favorable al medi ambient
+2944	medi ambient
+2945	enzim
+2947	epidèmia
+2949	epidemiologia
+2955	equí
+2956	equip
+2958	dosi equivalent
+2960	ergonomia
+2963	erosió
+2964	control d'erosió
+2969	biologia d'estuaris
+2970	àrea de protecció d'estuari
+2972	ecosistema d'estuaris
+2973	oceanografia d'estuaris
+2974	estuaris
+2977	aiguafort
+2978	substància d'aiguafort
+2979	èter
+2980	ètica
+2982	etnologia
+2984	etologia
+2989	Consell de la UE
+2991	Euratom
+2992	Europa
+2993	Comissió Europea
+2996	Tribunal de Justícia de les Comunitats Europees
+2997	Agència Europea de Medi Ambient
+2998	Consell Europeu de Medi Ambient
+3000	reserva natural europea
+3002	Parlament Europeu
+3006	Unió Europea
+3007	eutrofització
+3011	avaluació
+3012	criteri d'avaluació
+3013	mètode d'avaluació
+3014	avaluació de tecnologia
+3019	evaporació
+3022	evapotranspiració
+3026	evolució
+3027	ciències exactes
+3028	forat excavat
+3029	excavació (procés)
+3031	runam d'excavació
+3032	lloc d'excavació
+3033	altura excessiva de xemeneia
+3040	ordre executiva
+3044	dispositiu d'escapament
+3045	gas d'escapament
+3047	substàncies químiques existents
+3048	espècie exòtica
+3049	despesa
+3050	experiment
+3054	sistema expert
+3057	exploració
+3058	explosió
+3061	explosius
+3063	exportacions
+3064	llicència d'exportació
+3065	exportació de residus perillosos
+3067	exposició
+3071	expropiació
+3073	cria extensiva de bestiar
+3079	exterioritat
+3081	extinció (ecològica)
+3084	espècie extinta (UICN)
+3087	extracció
+3090	indústria extractiva
+3097	teixit
+3099	mercat de factors
+3103	conreu de fàbrica
+3106	bacteri fecal
+3110	polsim radioactiu
+3113	àrea de guaret
+3115	terreny de guaret (UP: terreny erm)
+3117	família
+3119	planificació familiar
+3120	fam
+3122	animal del camp
+3123	edifici agrícola
+3130	explotació agrícola
+3133	trànsit ràpid
+3138	fauna
+3143	autoritat federal
+3144	Govern Federal
+3147	llei federal
+3149	honorari
+3151	alimentació dels animals
+3154	pantà
+3159	fermentació
+3162	falguera
+3169	fertilitzant
+3171	llei de fertilitzants
+3174	fibra
+3175	fibra de vidre
+3176	camp
+3177	dany de camp
+3178	experiment de camp
+3179	estudi de camp
+3181	material de rebliment
+3182	gasolinera
+3183	pel·lícula
+3184	filtre
+3186	producte de filtració
+3190	filtració
+3192	emmagatzemament final
+3194	finances
+3195	assistència financera
+3196	compensació financera
+3197	contribució financera
+3199	instrument financer
+3200	dret financer
+3201	mercat financer
+3205	finançament
+3207	multa
+3209	pols fina
+3212	incendi
+3218	precaució de foc
+3219	agent d'ignifugació
+3220	protecció contra el foc
+3225	requeriment de seguretat de foc
+3226	serveis d'incendis
+3229	encesa
+3232	empreses
+3236	malaltia de peixos
+3237	pesquera
+3238	gestió de pesqueres
+3241	recursos pesquers
+3243	economia pesquera
+3246	política pesquera
+3252	peix
+3254	piscicultura
+3256	pesca
+3260	indústria pesquera
+3261	llei de pesca
+3263	vedat pesquer
+3266	vaixell de pesca
+3269	matança de peixos
+3273	existències de peix
+3274	toxicitat del peix
+3277	peces (lampisteria)
+3278	càrregues de barem fix
+3281	pavelló de conveniència
+3282	assenyalar mitjançant llums
+3283	prova ràpida
+3287	aromatitzant
+3288	puça
+3291	plantejament flexible de la protecció del medi ambient
+3294	floculador
+3295	floculació
+3298	crescuda
+3300	control d'inundació
+3301	inundació
+3305	flora
+3307	recuperació de la flora
+3308	flotació
+3311	flux
+3312	flor
+3313	plantes de florida
+3315	camp de flux
+3316	aigua corrent
+3319	fum
+3322	fluídica
+3324	fluïdificació
+3325	llit fluïdificat
+3328	fluoració
+3334	fluor
+3340	recurs fluvial
+3341	transport fluvial
+3342	cendres volants
+3343	element espumós
+3345	farratge
+3347	boira
+3348	boira
+3350	fullatge
+3354	aliment
+3356	additiu alimentari
+3358	cadena alimentària
+3360	colorant alimentari
+3362	comerç de productes alimentaris
+3365	contaminació dels aliments
+3367	higiene alimentària
+3368	indústria de l'alimentació
+3370	irradiació d'aliments
+3372	contaminants dels aliments
+3375	conservació d'aliments
+3376	indústria alimentària
+3378	producció de menjar (agricultura)
+3380	valor nutritiu
+3381	necessitats alimentàries
+3384	ciència de l'alimentació
+3387	emmagatzemament de productes alimentaris
+3388	producte alimentari
+3391	tecnologia dels aliments
+3392	transport d'aliments
+3395	sender
+3396	contaminació del farratge
+3397	llei del farratge
+3400	pronòstic
+3401	execució hipotecària
+3402	relacions econòmiques estrangeres
+3404	política exterior
+3405	comerç exterior
+3406	boscos
+3410	conservació de boscos
+3411	destrucció  de la coberta forestal
+3414	dany forestal
+3416	ecosistema forestal
+3419	incendi forestal
+3423	indústria forestal
+3425	gestió forestal
+3426	plagues forestals
+3430	política forestal
+3431	producció forestal
+3432	productes forestals
+3435	reserves forestals
+3437	avaluació de recursos forestals
+3438	recursos forestals
+3439	silvicultura
+3440	economia forestal
+3441	dret forestal
+3442	legislació forestal
+3444	pràctica de silvicultura
+3455	formes de govern
+3460	fòssil
+3462	combustible fòssil
+3465	creixement amb brutícia
+3469	motor de quatre temps
+3474	legislació marc
+3477	accés a la informació
+3481	transport de mercaderies
+3483	freó
+3485	aigua dolça
+3487	biologia de l'aigua dolça
+3488	degradació de l'aigua dolça
+3489	ecosistema d'aigua dolça
+3491	control de l'aigua dolça
+3492	organisme d'aigua dolça
+3493	contaminació de l'aigua dolça
+3494	recursos d'aigua dolça
+3495	granota
+3496	gelada
+3498	fruita
+3499	conreu de fruita
+3502	fruiters
+3505	combustible
+3506	additiu de combustible
+3507	alcohol de combustible
+3509	composició de combustible
+3510	consum de combustible
+3512	fueloil
+3516	instal·lació del tanc de combustible
+3517	llenya
+3518	fum
+3521	fumigació
+3522	substància funcional
+3524	funció de sòl
+3528	micet
+3529	fong
+3530	fungicida
+3533	pell
+3535	animal de pell
+3536	furà
+3538	forn
+3539	moble
+3540	indústria del moble
+3542	pelleteria
+3548	gal·linàcia
+3550	galvanització
+3553	pesca i caça esportives
+3554	radiació gamma
+3559	jardins
+3562	residus de jardí
+3564	garriga
+3566	gas
+3567	cromatografia de gasos
+3570	empresa de gas
+3571	motor de gas
+3572	contaminant gasós
+3577	estat gasós
+3578	tractament de gasos
+3581	gasificació
+3582	liqüefacció de gas
+3585	barreja de gas
+3586	distribució de gas
+3587	gasohol
+3589	motor de gasolina
+3591	gasoducte
+3593	planta amb energia de gas
+3594	depuració de gasos
+3595	sistema de recuperació de vapor
+3596	dipòsit de gas
+3599	subministrament de gas
+3600	gasteròpode
+3604	instal·lació per a producció de gas
+3611	problemes relatius al gènere
+3613	banc de gens
+3614	ordre administrativa general
+3615	química general
+3617	gen
+3620	diversitat genètica
+3621	efecte genètic
+3624	enginyeria genètica
+3625	legislació d'enginyeria genètica
+3628	informació genètica
+3630	modificacions genètiques
+3632	recursos genètics
+3633	genètica
+3634	variació genètica
+3638	geodèsia
+3640	factor geogènic
+3645	sistema d'informació geogràfica
+3646	geografia 
+3647	desastre geològic
+3648	procés geològic
+3650	geologia
+3652	procés geomorfològic
+3654	geomorfologia
+3655	geofísica
+3657	geotecnologia
+3658	energia geotèrmica
+3661	germen
+3663	germinació
+3664	plasma de germen
+3673	glacera
+3676	glaciologia
+3678	vidre
+3681	indústria del vidre
+3686	aspecte global
+3687	conveni global
+3688	Servei Global Mediambiental
+3690	model global
+3692	escalfament de la Terra
+3694	glossari
+3695	cola
+3698	objectiu de negoci individual
+3701	golf
+3705	bona gestió
+3712	organisme consultiu de l'Estat
+3714	edificis governamentals
+3715	Govern (gabinet)
+3716	despesa pública en medi ambient
+3717	responsabilitat de Govern
+3718	política governamental
+3721	cereal
+3729	herba
+3730	incendis de herbassars
+3732	llagosta
+3733	prat
+3734	ecosistema de prats
+3738	grava
+3739	extracció de grava
+3742	gravera
+3748	pastura
+3754	cinturó verd
+3755	edifici ecològic
+3756	passadissos verds
+3757	ecotaxes
+3760	conreu en hivernacle
+3761	efecte hivernacle
+3763	gasos d'efecte d'hivernacle
+3766	adob ecològic
+3768	revolució verda
+3770	zones verdes
+3771	verdura ecològica
+3774	trituració
+3777	producte nacional brut
+3780	aigua subterrània
+3781	extracció d'aigua subterrània
+3784	contaminació d'aigua subterrània
+3785	protecció de l'aigües subterrània
+3788	conducta de grup
+3800	golf
+3805	gimnosperma
+3806	guix
+3808	hàbitat
+3810	hematologia
+3812	pedra
+3815	mitja vida
+3817	haloforme
+3819	bifenil halogenat
+3820	hidrocarbur halogenat
+3821	fenol halogenat
+3822	contaminant halogenat
+3823	terfenil halogenat
+3828	negoci d'artesania
+3830	artesania
+3834	port
+3837	duresa
+3838	residu de difícil recollida
+3842	contaminació d'aigües residuals
+3847	harmonització legal
+3849	collita
+3852	perill
+3853	risc de contaminants
+3854	substància perillosa
+3855	legislació sobre substàncies perilloses
+3857	abocador de residus perillosos
+3858	residu perillós
+3859	material de treball perillós
+3860	calitja, boira i  broma
+3864	tornall
+3865	salut
+3866	sanitat
+3869	relació salut - medi ambient
+3871	infraestructura sanitària
+3872	risc per a la salut
+3874	legislació sanitària
+3877	protecció sanitària
+3878	reglament sanitari
+3880	biotecnologia relativa a la salut
+3881	servei sanitari
+3884	dèficit auditiu
+3885	procediment d'audiència
+3886	protecció de l'oïda
+3887	oïda
+3890	calor
+3891	central tèrmica i elèctrica
+3892	escalfador
+3893	bruguera
+3894	calefacció
+3900	central de calefacció
+3904	bomba de calor
+3906	emmagatzematge de calor
+3907	subministrament de calor
+3911	trànsit de vehicles pesants amb mercaderies
+3914	càrrega de metall pesant
+3915	metalls pesants
+3917	bardissa
+3933	herbicida
+3935	herbívor
+3937	compost heterocíclic
+3945	ensenyament superior
+3947	ecosistema d'altiplà
+3949	alta muntanya
+3953	aliment alt en proteïnes
+3954	edifici de gran alçada
+3955	ferrocarril d'alta velocitat
+3956	trens d'alta velocitat
+3958	plenamar
+3960	línia d'alta tensió
+3963	carretera
+3966	turó, pujol
+3971	evolució històrica
+3974	monument històrico-artístic
+3975	investigació històrica
+3977	conjunt històrico-artístic
+3983	història
+3984	campus vacacional
+3986	vacances
+3995	bestiar equí
+3998	horticultura
+3999	hospital
+4002	residu d'hospitals
+4008	indústria hotelera
+4009	aigua calenta
+4015	grup domèstic
+4016	substància química domèstica
+4018	bé domèstic
+4022	habitatge
+4027	densitat d'habitatges
+4029	finançament de l'habitatge
+4030	millores de l'habitatge
+4032	dret de l'habitatge
+4034	necessitat d'habitatges
+4037	programa de construcció d'habitatges
+4039	normes de qualitat de l'habitatge
+4040	rehabilitació d'habitatges
+4045	biologia humana
+4046	malaltia humana
+4047	ecologia humana
+4049	exposició humana a contaminants
+4051	salut humana
+4052	desastres provocats per l'home
+4054	patologia humana
+4055	fisiologia humana
+4056	població humana
+4060	drets humans
+4062	assentament humà
+4065	ordenació dels assentaments humans
+4070	humus
+4072	caça
+4073	reserva de caça
+4077	huracà
+4080	hibridació
+4082	construcció hidràulica
+4084	enginyeria hidràulica
+4085	hidràulica
+4088	hidrobiologia
+4091	hidrocarburs
+4094	àcid clorhídric
+4095	agricultura de reg
+4098	central elèctrica
+4103	hidrogen
+4107	àcid sulfhídric
+4108	hidrogeologia
+4109	hidrografia
+4111	desastre hidrològic
+4115	equilibri hidrològic
+4116	cicle hidrològic
+4118	hidrologia
+4119	hidròlisi
+4120	hidrometeorologia
+4122	energia hídrica
+4124	hidrosfera
+4126	higiene
+4127	himenòpter
+4131	glaç
+4132	iceberg
+4133	bossa de glaç
+4136	identificació de contaminants
+4137	ideologia
+4140	tractament d'imatges
+4141	codi IMCO
+4143	fauna introduïda
+4144	flora introduïda
+4146	immissió
+4147	control d'emissió
+4148	llei de control d'emissions
+4149	dany d'emissió
+4150	pronòstic d'emissió
+4151	límit d'emissió
+4152	càrrega d'emissió
+4154	sistema immunològic
+4155	immunitat
+4156	immunoassaig
+4157	malaltia immunològica
+4158	immunologia
+4159	avaluació d'impacte
+4160	minimització d'impacte
+4161	impactador
+4162	prevenció d'impactes
+4163	fonts d'impacte
+4164	llei d'execució
+4167	importanció
+4169	llicència d'importació
+4171	empobriment
+4172	impregnant
+4173	impregnació (materials)
+4176	millora de l'eficiència
+4177	càrrega imprevista
+4178	soroll impulsiu
+4182	incineració
+4183	incineració de desferres
+4184	incineradora
+4186	talús
+4187	ingrés
+4189	incorporació
+4194	indemnització
+4195	Oceà Índic
+4196	indicador
+4200	indicador de gestió ambiental
+4202	indicador de la qualitat ambiental
+4204	bosc autòcton
+4205	tencologia nadiua
+4206	descàrrega indirecta
+4209	contaminació en llocs tancats
+4211	ambient interior
+4213	àrees industrials
+4216	associació industrial
+4217	edifici industrial
+4224	conreus industrials
+4226	desenvolupament industrial
+4227	abocaments industrials
+4228	economia industrial
+4229	efluente industrial
+4231	emissió industrial
+4233	política ambiental en la indústria
+4234	equipament industrial
+4238	fum industrial
+4242	instal·lació industrial
+4244	industrialització
+4247	legislació industrial
+4249	productes industrials
+4250	medicina del treball
+4251	soroll comercial i industrial
+4253	planificació industrial
+4254	planta industrial
+4255	política industrial
+4256	contaminació industrial
+4257	procés industrial
+4258	producció industrial
+4259	estadístiques de la producció industrial
+4260	producte industrial
+4262	dret de propietat industrial
+4267	àrea industrial
+4268	fang industrial
+4269	societat industrial
+4273	residu industrial
+4274	gas de residus industrials
+4276	aigua residual industrial
+4278	divisió en àrees industrials
+4279	indústria
+4282	clarificación inerta
+4283	residu inert
+4284	mortalitat infantil
+4286	infecció
+4288	malaltia infecciosa
+4289	infestació d'aliments i conreus
+4290	infestació d'aliments i conreus
+4291	infiltració
+4296	substància inflamable
+4300	afluència
+4301	negociació informal
+4302	informàtica
+4303	informació
+4307	tractament de la informació
+4309	servei d'informació
+4310	font d'informació
+4311	sistema d'informació
+4313	tecnologia de la informació
+4315	infracció
+4317	radiació infraroja
+4320	infrasò
+4321	infraestructura
+4323	habitant
+4325	lesió
+4326	tinta
+4329	pesca continental
+4331	navetació interior
+4333	aigües continentals
+4336	transports fluvials
+4340	innovació
+4342	química inorgànica
+4345	fertilitzant inorgànic
+4347	contaminants inorgànics
+4350	substància inorgànica
+4354	insecticida
+4356	insectívor
+4358	insectes
+4359	in situ
+4360	inspecció
+4361	inspecció de registres
+4362	servei d'inspecció
+4363	instal·lació que necessita autorització
+4365	institucionalització
+4369	fàbrica d'instruments
+4371	material per a aïllament acústic
+4374	assegurança
+4375	companyia d'assegurances
+4376	cobertura de l'assegurança
+4378	reserva natural integral
+4382	tecnologia integrada de protecció del medi ambient
+4383	control integrat de plagues
+4386	control de contaminació integrat
+4390	ramaderia intensiva
+4391	agricultura intensiva
+4395	interacció de plaguicides
+4398	intercanvi de dades electròniques
+4400	investigació interdisciplinària
+4401	interès
+4402	grup d'interès
+4404	decisió provisional
+4408	comparació entre laboratoris
+4410	productes intermedis
+4412	soroll intermitent
+4414	mercat interior europeu
+4415	internalització de costos ambientals
+4417	acord internacional
+4419	competitivitat internacional
+4420	conveni internacional
+4421	cooperació internacional
+4422	Tribunal Internacional de Justícia
+4423	distribució internacional
+4424	divisió internacional de treball
+4427	relacions ambientals internacionals
+4429	harmonització internacional
+4430	dret internacional
+4432	ecosistemes d'importància internacional
+4434	organització internacional
+4436	política internacional
+4438	relacions internacionals
+4440	conca fluvial internacional
+4441	seguretat internacional
+4442	normes internacionals
+4444	comerç internacional
+4448	cursos d'aigua internacionals
+4451	mètode d'interpretació
+4454	zona entre marees
+4455	intervenció en la natura i el paisatge
+4466	inventari
+4468	inventari de dany  forestal
+4473	inversió
+4474	capa d'inversió
+4475	invertebrats
+4478	inversión
+4480	anàlisi in uitro
+4481	anàlisi in uiuo
+4483	iode
+4485	intercanvi iònic
+4487	intercanviador iònic
+4491	radiació ionitzant
+4492	ionosfera
+4493	ió
+4498	ferro
+4501	indústria metal·lúrgica
+4503	indústria siderúrgica
+4504	irradiació
+4505	reg
+4507	canal de reg
+4509	agricultura de reg
+4514	illa
+4515	ecosistema insular
+4518	aïllament (procés)
+4519	isòmer
+4523	isòtop
+4524	vori
+4530	deutor solidari
+4531	posada en pràctica conjunta (conferència de Rio)
+4534	assistència judicial
+4535	òrgan judicial
+4538	norma jurídica
+4541	jurisdicció
+4543	jurisprudència
+4545	formació càrstica
+4548	manteniment d'existències
+4550	querosè
+4566	etiquetatge
+4567	laboratori
+4571	experiment de laboratori
+4573	investigació de laboratori
+4574	tècnica de laboratori
+4575	residu de laboratori
+4577	treball
+4580	dret del treball
+4581	mercat de treball
+4584	relacions laborals
+4586	laca
+4589	llacuna
+4590	conca lacustre
+4593	contaminació de llacs
+4594	llac
+4597	llum
+4599	terra
+4600	accés a la terra
+4602	parcel·lació de la terra
+4603	cadastre i registre de la propietat
+4607	capacitat útil de la terra
+4609	neteja de terres
+4610	conservacio de terres
+4611	consolidació del sòl
+4612	coberta terrestre
+4614	desenvolupament rural
+4615	ecologia terrestre
+4621	abocador
+4623	recobriment d'abocaments
+4624	desgasificación d'abocaments
+4625	gas d'abocador
+4626	lixivación d'abocaments
+4628	formació de terra
+4629	forma de relleu
+4632	mamífer terrestre
+4633	ocupació del sòl
+4635	ordenació del territori
+4636	contaminació de terres
+4641	recuperació del terreny
+4644	registre de terres
+4646	rehabilitació de terres
+4648	paisatge
+4649	paisatge després de l'explotació minera
+4650	alteració de paisatge
+4651	arquitectura del paisatge
+4652	element del paisatge
+4653	protecció del paisatge
+4654	política de conservació del paisatge
+4657	ecologia del paisatge
+4658	getió del paisatge
+4659	planificació paisatgística
+4660	protecció del paisatge
+4661	àrea de protecció del paisatge
+4662	consum de paisatge
+4663	ús de paisatge
+4666	ordenació de terres
+4668	lliscament de terres
+4676	transport terrestre
+4678	ús del sòl
+4680	classificació de l'ús de la terra
+4682	planificació de l'ús de terres
+4684	règim d'ús del sòl
+4686	valor de les terres
+4691	instal·lació de combustió gran
+4698	làser
+4702	neteja en sec
+4707	llei (individual)
+4708	esmena legislativa
+4710	aplicació de llei
+4715	llei de veïnatge
+4719	dret (ciència)
+4722	lixivizació
+4723	plom
+4724	compost de plom
+4725	contaminació per plom
+4727	llei de plom en gasolina
+4728	nivell de plom en la sang
+4730	fulla
+4731	fuita
+4735	cuir
+4738	indústria del cuir
+4739	base jurídica
+4741	dret tutelat legalment
+4743	reglament legal
+4744	remei legal
+4746	text legislatiu
+4749	legislació
+4752	legislació sobre contaminació
+4758	legislació sobre recursos hídrics
+4759	autoritat legislativa
+4760	competència legislativa
+4762	informació legislativa
+4764	legislatura
+4767	activitats recreatives
+4771	lleure
+4777	lepidòpter
+4782	leucèmia
+4784	exacció
+4785	lèxic
+4787	responsabilitat
+4788	responsabilitat per accidents marins
+4789	responsabilitat per danys nuclears
+4790	legislació de responsabilitat
+4793	biblioteca
+4796	llicència
+4797	procediment d'autorització
+4798	obligació de llicència
+4799	líquens
+4802	cicle biològic
+4805	ciència de la vida
+4808	forma de vida
+4810	llum
+4814	il·luminació
+4815	separador de líquids lleugers
+4818	lignit
+4819	explotació minera de lignit
+4820	calç
+4823	calcària
+4828	valor límit
+4830	limnologia
+4832	font lineal de so
+4834	material de traçador de línies
+4835	font alineada
+4838	lípid
+4839	substància lipofílica
+4840	gas liquat
+4843	adob líquid
+4844	estat líquid
+4845	desferres líquides
+4850	literatura
+4851	banc de dades bibliogràfic
+4852	avaluació de documentació
+4853	recerca bibliogràfica
+4855	litosfera
+4857	escombraries
+4858	litoral
+4862	bestiar
+4863	ramaderia
+4864	cria de bestiar
+4866	condicions de vida
+4867	recursos marins vius
+4868	espai vital
+4871	llangardaix
+4873	capacitat portant
+4879	autoritat local
+4884	finances locals
+4885	política de govern local
+4886	calefacció a distància
+4888	materials locals per a la construcció
+4889	servei local de passatgers
+4891	trànsit local
+4893	localització d'indústries
+4897	locomotora
+4902	trànsit de llarga distància
+4903	transport de llarga distància
+4906	efecte a llarg termini
+4907	efecte a llarg termini dels contaninants
+4908	experiment a llarg termini
+4909	pronòstic a llarg termini
+4911	tendència a llarg termini
+4913	camió
+4914	pèrdua
+4916	pèrdua de biòtop
+4917	intensitat
+4918	habitatges econòmics
+4920	Càmera Baixa
+4921	espècies de baix risc
+4922	flux baix
+4929	vol de nivell baix
+4931	tecnologia de nivell baix
+4934	lubricant
+4937	lluminositat
+4942	lleixiu
+4945	sistema limfàtic
+4948	lisimetria
+4952	indústria de la maquinària
+4956	objectiu macroeconòmic
+4957	macroeconomia
+4964	cinta magnètica
+4965	magnetisme
+4967	llista de trameses
+4969	manteniment
+4971	accident major
+4974	malària
+4977	malformació
+4979	malnutrició
+4982	mamífer
+4984	home
+4985	gestió
+4987	conveni de gestió
+4988	gestió de recursos naturals
+4990	plans de gestió
+4994	mandat
+4998	mangle
+4999	manglar
+5000	canvi climàtic artificial
+5003	relació home-natura
+5004	mà d'obra
+5005	activitat de fabricació
+5006	comerç de fabricació
+5007	fems
+5009	producció d'adob
+5011	mapa
+5013	cartografia (mapes)
+5014	descripció de líquens
+5018	marbre
+5023	terres marginals
+5024	aqüicultura
+5025	port esportiu
+5027	biologia marina
+5029	reserva marina
+5030	ecologia marina
+5031	ecosistema marí
+5032	enginyeria marítima
+5033	ambient marí
+5034	fauna marina
+5035	pesquera marina
+5038	geologia marina
+5042	vigilància marina
+5043	organisme marí
+5044	contaminació marina
+5046	reserva marina
+5048	conservació de recursos marins
+5049	sediment marí
+5051	dret de la mar
+5052	navegació marítima
+5055	transport marítim
+5056	marcador
+5057	traçador
+5058	mercat
+5061	economia de mercat
+5062	forma de mercat
+5064	tècniques de mercat
+5068	estudi de mercat
+5076	marsupial
+5079	mitjans de comunicació
+5080	activitat recreativa multitudinària
+5081	separació de massa
+5083	transport de massa
+5086	material
+5088	balanç de matèria
+5090	cicle de vida material
+5093	ciència dels materials
+5094	prova de materials
+5097	anàlisi matemàtica
+5099	mètode matemàtic
+5107	concentració admissible màxima
+5108	concentració màxima d'emissió
+5110	prat
+5116	mitjà de transport
+5119	mesura
+5122	mètode de mesurament
+5123	mesura del programa
+5124	carn
+5128	enginyeria mecànica
+5135	ciència mèdica
+5137	medicament retirat
+5138	planta medicinal
+5144	medicina
+5145	àrea mediterrània
+5147	bosc mediterrani
+5148	fosa
+5150	membrana
+5152	efecte mental
+5154	mercuri
+5155	contaminació per mercuri
+5161	metabolisme
+5163	metabolisme dels pesticides
+5165	metabolita
+5167	metainformació
+5169	acabat de metalls
+5171	mineral metàl·lic
+5175	indústria metal·lúrgica
+5178	òxid metàl·lic
+5179	xapat de metall
+5180	producte metàl·lic
+5181	indústria de productes metàl·lics
+5184	metall
+5186	fusió de metalls
+5187	elaboració del metall
+5193	desastre meteorològic
+5194	pronòstic meteorològic
+5195	paràmetre meteorològic
+5196	fenomen meteorològic
+5197	meteorologia
+5199	metà
+5203	metodologia
+5210	metròpolis
+5215	recurs microbià
+5216	anàlisi microbiològica
+5218	microbiologia
+5219	microclima
+5220	efecte microclimàtic
+5221	microclimatologia
+5222	microordinador
+5224	microecosistema
+5225	microelectrònica
+5226	microfiltració
+5228	microorganisme
+5229	microcontaminant
+5230	microscòpia
+5231	microones
+5234	treball emigrant
+5236	migració humana
+5237	migració (animal)
+5238	ocell migratori
+5239	espècie migratòria
+5241	aspectes militars
+5243	activitats militars
+5245	trànsit aeri militar
+5253	zona militar
+5254	llet
+5258	molí
+5261	mina
+5262	rebliment de mines
+5264	dipòsit mineral
+5265	extracció de minerals
+5267	fibra mineral
+5268	indústria mineral
+5269	mineralització
+5270	mineralogia
+5274	recurs mineral
+5277	mineral
+5279	aigua mineral
+5282	planificació de costos mínims
+5283	minimització del dany
+5286	districte d'explotació minera
+5287	enginyeria minera
+5288	geologia minera
+5289	indústria minera
+5290	llei d'explotació minera
+5293	reglament d'explotació minera
+5295	rehabilitació de mina
+5297	residus de la mineria
+5298	decret ministerial
+5299	ministeri
+5303	minoria
+5305	productes diversos
+5307	miscibilitat
+5310	àcar
+5311	mesura de mitigació
+5313	granja agropecuària
+5316	bosc mixt
+5317	àrea d'ús mixt
+5318	barreja
+5322	llar mòbil
+5325	model
+5327	modelatge i simulació
+5332	humitat
+5333	biologia molecular
+5339	mol·lusc
+5343	avaluació monetària
+5346	vigilància
+5347	criteri de vigilància
+5348	dades de vigilància
+5349	equipament de vigilància
+5350	xarxa de vigilància
+5352	estació de vigilància
+5353	sistema de vigilància
+5354	tècnica de vigilància
+5357	monopoli
+5360	monument
+5362	matollar
+5364	persuasió moral
+5369	morfologia (biològica)
+5371	mortalitat
+5377	molsa
+5384	motocicleta
+5388	carburant
+5390	vehicles de motor
+5391	emissió de vehicles de motor
+5392	gas d'escapament de vehicle de motor
+5393	indústria de vehicles de motor
+5395	autopista
+5401	muntanya
+5403	ecosistema de muntanya
+5404	muntanyisme (UP: alpinisme)
+5405	zones muntanyoses
+5409	serra
+5412	sega
+5415	maresma
+5417	fang (sediment)
+5418	coberta humidificadora
+5419	acord multilateral
+5421	empresa multinacional
+5424	àrea de gestió d'usos múltiples
+5428	neteja municipal
+5429	servei de neteja municipal
+5430	política ambiental municipal
+5431	municipi
+5432	llei municipal
+5433	nivell municipal
+5437	residus municipals
+5439	servei municipal d'aigües
+5440	gestió municipal de l'aigua
+5443	sistema muscular
+5444	museu
+5448	bolets
+5449	música
+5450	cultiu del musclo
+5452	mustèlid
+5456	mutagenicitat
+5457	prova de mutagenicitat
+5459	mutagen
+5460	mutant
+5461	alliberament de microorganismes transformats
+5462	mutació
+5463	micologia
+5465	micoriza
+5474	programa nacional de conservació
+5475	economia nacional
+5476	comptabilitat ambiental nacional
+5478	béns culturals
+5479	nacionalització
+5482	legislació nacional i institucions
+5484	parc nacional
+5486	planificació nacional
+5489	reserva nacional
+5494	àrea natural
+5496	desastres naturals
+5497	sistema de drenatge natural
+5498	medi natural
+5500	fertilitzant natural
+5501	fibra natural
+5502	bosc natural
+5503	gas natural
+5504	exploració de gas natural
+5505	extracció de gas natural
+5506	perill natural
+5507	patrimoni natural
+5508	dret sobre natura
+5510	material natural
+5511	monument natural
+5513	parc natural
+5518	radioactivitat natural
+5520	conservació de recursos naturals
+5521	recurso natural
+5523	paisatge natural
+5524	ciències naturals
+5529	pedra natural
+5530	valor natural
+5536	organització de protecció de la natura
+5537	conservació de la natura
+5538	legislació de protecció de la natura
+5539	programa de protecció de la natura
+5544	protecció de la natura
+5545	reserva natural
+5547	nàusea
+5550	perill per a la navegació
+5554	necrosi
+5555	necessitat
+5559	programa de millora del veïnat
+5565	nematode
+5569	sistema nerviós
+5571	reducció neta de recursos
+5572	política de xarxa (negociació d'emissions)
+5575	neurotoxicitat
+5577	neutralització
+5580	noves comunitats
+5581	nova instal·lació
+5583	nous materials
+5585	noves tecnologies
+5589	níquel
+5593	nitrats
+5598	nitrificació
+5601	nitrit
+5604	nitrocompost
+5605	nitrogen
+5607	cicle del nitrogen
+5608	diòxid de nitrogen
+5611	fixació de nitrogen
+5612	monòxid de nitrogen
+5613	òxids de nitrogen
+5618	nitrosamina
+5623	nivell sense efecte
+5624	soroll
+5626	mitigació del soroll
+5629	anàlisi de soroll
+5630	barreres acústiques
+5631	control del soroll
+5633	alteració per soroll
+5635	emissió de soroll
+5637	impost per emissió de soroll
+5638	tecnologia silenciosa
+5640	emissió de soroll
+5643	legislació sobre el soroll
+5644	nivell del soroll
+5646	mesura del soroll
+5648	mesurament del soroll
+5650	contaminant acústic
+5651	contaminació acústica
+5653	protecció del soroll
+5654	reducció del soroll
+5658	tipus de soroll
+5662	nòmada
+5664	nomenclatura
+5666	contaminant no biodegradable
+5667	zona no construïda
+5668	energia no convencional
+5669	indústria del metall no fèrric
+5670	metall no fèrric
+5671	organitzacions no governamentals
+5674	radiació no ionitzant
+5675	mineral no metàl·lic
+5676	metaloide
+5677	font d'energia no contaminant
+5679	combustible no contaminant
+5684	recurs energètic no renovable
+5685	recurs no renovable
+5686	construcció d'edificis funcionals
+5687	envàs no restituïble
+5689	organisme de no objectiu
+5690	norma
+5691	normalització
+5692	Àfrica del Nord
+5693	Amèrica del Nord (UP: Nordamèrica)
+5694	Oceà Atlàntic del Nord
+5695	Oceà Pacífic del Nord
+5701	cuina nova
+5708	accident nuclear
+5712	energia nuclear
+5713	legislació d'energia nuclear
+5714	usos de l'energia nuclear
+5718	explosions nuclears
+5721	instal·lació nuclear
+5722	fissió nuclear
+5724	combustible nuclear
+5727	element combustible nuclear
+5728	fusió nuclear
+5733	física nuclear
+5734	polèmica nuclear
+5736	central nuclear
+5737	disposició de central nuclear
+5741	reacció nuclear
+5742	reactor nuclear
+5745	centre d'energia i recerca nuclear
+5746	seguretat nuclear
+5747	prova nuclear
+5750	arma nuclear
+5751	àcid nucleic
+5752	molèstia
+5755	viver (fitogenètica)
+5756	medi nutritiu
+5757	equilibri nutritiu
+5758	contingut nutritiu
+5759	cicle nutritiu
+5761	trasllat nutritiu
+5763	nutrients
+5765	alimentació
+5769	valor nutritiu dels aliments
+5774	roure
+5776	objecció
+5777	obligació d'informar
+5778	obligació d'etiquetar
+5781	malalties ocupacionals
+5783	grup professional
+5784	salut ocupacional
+5785	salut ocupacional
+5786	medicina del treball
+5787	seguretat en el treball
+5788	reglament de seguretat professional
+5789	oceà
+5791	circulació oceànica
+5792	corrent oceànic
+5793	abocament de residus a l'oceà
+5794	Oceania
+5797	oceanografia
+5799	temperatura de l'oceà
+5802	odonat
+5804	olor
+5806	molèstia produïda pels olors
+5809	criminalitat ambiental
+5810	oficina
+5811	deure oficial
+5812	audiència oficial
+5814	adob fora d'hora punta
+5816	treball i mobilització fora d'hores crítiques
+5818	treball fora d'hora punta
+5820	política compensatòria (negociació d'emissions)
+5823	mineria marina
+5824	sondatge petrolier submarí
+5825	fora de lloc
+5827	agent astringent de petroli
+5829	energia basada en el petroli
+5830	'boom' del petroli
+5831	catàstrofe petroliera
+5833	exploració de gas natural i petroli
+5834	extracció de petroli
+5835	indústria d'olis i greixos
+5836	oleoducte
+5837	contaminació de petroli
+5838	disminució de contaminació de petroli
+5839	nau de recuperació de petroli
+5840	refineria de petroli
+5841	refinatge de petroli
+5843	recuperació de residus de petroli
+5847	pissarra bituminosa
+5848	massa flotant de petroli
+5852	marea negra
+5854	vaixell petrolier
+5856	antic abocador
+5857	lloc contaminat
+5858	planta antiquada
+5862	contaminació olfactiva
+5863	olfactometria
+5869	oncocercosi
+5870	oncologia
+5874	explotació a cel obert
+5875	pesca en alta mar
+5877	dades de funcionament
+5880	opinió
+5885	optimització d'instal·lacions
+5887	mineral
+5890	òrgan
+5892	carboni orgànic
+5893	química orgànica
+5897	agricultura biològica
+5902	contaminant orgànic
+5910	disolvent orgànic
+5912	substància orgànica
+5913	residu orgànic
+5914	organisme
+5921	compost organoclorat
+5924	compost organohalogenat
+5927	compost organometàl·lic
+5928	compost organonitrogenat
+5929	compost organooxigenat
+5931	compost organofosforat
+5935	compost d'organosílicic
+5936	compost organosulfurat
+5937	compost organoestànnic
+5942	ornitologia
+5944	orografia
+5945	ortòpter
+5949	osmosi
+5953	recreació local
+5956	sobrecàrrega
+5957	superpoblació
+5958	sobrexplotació
+5959	superfertilització
+5960	sobreexplotació pesquera
+5962	pasturatge excessiu
+5963	línea de corrent penjant
+5965	superpoblació
+5967	bolcament (limnología)
+5968	hivernar
+5971	propietat
+5972	oxidació
+5976	oxidació-reducció
+5978	òxid
+5980	agent oxidant
+5982	oxigen
+5983	oxigenació
+5986	contingut d'oxigen
+5987	carència d'oxigen
+5991	ozó
+5992	potencial d'esgotament d'ozó
+5993	capa d'ozó
+5994	esgotament de la capa d'ozó
+5995	ozonització
+5999	embalatges
+6001	residus d'embalatge
+6007	pintura
+6009	empresa de pintura
+6012	taller de pintura
+6013	paleontologia
+6023	paper
+6026	indústria paperera
+6033	paràmetre
+6035	paràsit
+6038	parasitologia
+6046	aparcament
+6047	àrea d'aparcament
+6048	Parlament
+6051	participació
+6052	partícula
+6055	separador de partícules
+6059	transport de passatgers
+6061	pastura
+6062	residu gomós
+6063	patogen
+6064	organisme patogen
+6065	efecte patològic
+6066	patologia
+6068	model de creixement urbà
+6081	torba
+6084	extracció de torba
+6092	zona de vianants
+6094	pedosfera
+6102	sanció por danys ambientales
+6103	sanció penal
+6106	pentaclorofenol
+6107	dades per cap
+6109	percloroetilè
+6111	aigua de percolació
+6115	perifíton
+6118	ecosistema de gelisòl
+6120	permeabilitat
+6123	límit permès d'exposició
+6124	permís
+6128	nitrato de peroxiacetil
+6129	persistència
+6131	persistència de plaguicides
+6133	responsabilitat personal
+6138	plaga
+6139	control de plagues
+6140	plaguicida
+6143	norma de control de plaguicides
+6144	rastre de plaguicida
+6146	residuo de plaguicida
+6149	infestación por plaga
+6152	animal domèstic
+6154	indústria petroleoquímica
+6156	gasolina
+6161	petroli
+6162	consum de petroli
+6163	geologia del petroli
+6164	indústria petroliera
+6169	conservació de recursos petroliers
+6176	fanerògama
+6177	indústria farmacèutica
+6179	residu farmacèutic
+6180	farmacocinètica
+6181	farmacologia
+6183	fenol
+6184	feromona
+6187	filosofia
+6189	fosfat
+6190	eliminació de fosfats
+6192	substitut del fosfat
+6196	fòsfor
+6197	agents fotoquímics
+6198	efecte fotoquímic
+6199	oxidant fotoquímic
+6200	producte fotoquímic
+6201	reacció fotoquímica
+6202	boira fotoquímica
+6204	fotogrametria
+6205	fotografia
+6211	fotosíntesi
+6221	condició física
+6222	geografia física
+6224	oceanografia física
+6225	planificació física
+6226	contaminant físic
+6227	contaminació física
+6228	procés físic
+6229	propietat física
+6230	ciències físiques
+6233	procés fisicoquímic
+6234	depuració fisicoquímica
+6235	física
+6240	fisiologia
+6243	fitomassa
+6244	patologia vegetal
+6247	fitoplàncton
+6248	fitosociología
+6250	fitotoxicitat
+6252	planta de conserves en vinagre
+6253	imatge via satèl·lit
+6261	pilotatge
+6262	instal·lació pilot
+6263	projecte pilot
+6268	pinnípede
+6270	oleoducte
+6274	canonada
+6276	planura
+6279	pla
+6280	contaminació auronàutica
+6282	plàncton
+6285	desenvolupament urbà planificat
+6287	planificació
+6290	llei de planificació
+6291	mesures de planificació
+6292	permís de planificació
+6293	sistema de planificació-programació-pressupost
+6298	conreu de plantes
+6299	comunitat vegetal
+6300	parts de la planta
+6304	malaltia de la planta
+6305	equip de planta
+6307	genètica vegetal
+6309	sanitat vegetal
+6310	producte fitosanitari
+6312	plantígrad
+6313	establiment
+6316	fisiologia vegetal
+6318	protecció de les plantes
+6319	assaig de productes de protecció de les plantes
+6323	planta (biologia)
+6325	fibra tèxtil vegetal
+6326	comerç vegetal
+6327	tecnologia de plasma
+6329	plàstic
+6336	rebuig de plàstics i polímers
+6338	platí
+6339	parc d'esbarjo
+6346	plutoni
+6355	caça furtiva
+6357	punt emissor de contaminació
+6358	verí
+6359	enverinament
+6362	ecosistema polar
+6364	regió polar
+6365	pòlder
+6367	policia
+6368	llei de policia
+6370	política
+6371	política
+6372	directriu política
+6373	instrument polític
+6374	integració política
+6376	conservació de la natura
+6378	planificació de polítiques
+6380	assessorament polític
+6381	doctrines polítiques
+6382	ecologia política
+6383	geografia política
+6384	organització política
+6387	partit polític
+6388	poder polític
+6392	pol·len
+6395	contaminant
+6396	absorció contaminant
+6397	acumulació contaminant
+6399	anàlisi de contaminants
+6400	avaluació contaminant
+6402	comportament contaminant
+6404	concentració contaminant
+6405	degradació contaminant
+6406	deposició contaminant
+6407	dispersió de contaminants
+6409	distribució de contaminants
+6412	eliminació contaminant
+6413	emissió contaminant
+6414	exposició contaminant
+6415	formació contaminant
+6417	emissió contaminant
+6418	immobilització contaminant
+6421	nivell de contaminants
+6422	càrrega de contaminants
+6423	mobilització contaminant
+6425	vigilància de contaminants
+6428	trajectòria de contaminants
+6429	reducció contaminant
+6430	remobilització contaminant
+6438	identificació de fonts contaminants
+6441	matèria contaminada
+6443	principi contaminador-pagador
+6445	contaminació
+6446	mitigació de la contaminació
+6447	equipament de mitigació de la contaminació
+6451	control de la contaminació
+6452	equipament de control de la contaminació
+6453	disposició sobre el control de la contaminació
+6454	tecnologia de control de la contaminació
+6458	criteri de contaminació
+6459	efectes de la contaminació
+6462	indicadors de contaminació
+6464	responsabilitat per contaminació
+6465	càrrega contaminant
+6467	mesura de la contaminació
+6469	vigilància de contaminants
+6470	normes sobre contaminació
+6472	risc de contaminació
+6473	abocador de contaminació
+6474	fonts de contaminació
+6481	difenil polibromat
+6485	difenil policlorat
+6486	policlordibenzo-p-dioxina
+6487	dibenzofurà policlorat
+6488	terfenil policlorat
+6492	hidrocarbur aromaticopolicíclic
+6493	hidrocarbur policíclic
+6497	tereftalat de polietilè
+6498	polimerització
+6499	polímer
+6505	policlorur de vinil
+6507	estany
+6508	bassa de residus
+6510	grup
+6517	distribució de la població
+6518	dinàmica de poblacions
+6519	població (ecologia)
+6520	ecologia de població
+6523	creixement de la població
+6525	moviment de població
+6527	estructura de la població
+6528	tendència de població
+6536	posttractament
+6540	potassa
+6541	extracció de sal de roca
+6548	aviram
+6549	granja avícola
+6551	pobresa
+6552	companyia energètica
+6558	relació força-calor
+6561	central elèctrica
+6570	precipitació (química)
+6571	augment de la precipitació
+6577	depredador
+6579	construcció prefabricada
+6583	procediment preliminar
+6584	premi
+6586	preservació de proves
+6587	conservants
+6588	conserva
+6591	premsa
+6592	premsar
+6593	pressió
+6594	grup de pressió
+6600	mesura sanitària preventiva
+6602	preu
+6607	política de preus dels recursos
+6610	ensenyament primari
+6614	consum d'energia primària
+6619	sector primari
+6621	primat
+6622	selva verge
+6623	principi preventiu
+6624	principi de continuïtat
+6627	indústria gràfica
+6630	treball d'impressió
+6631	consentiment prèvia informació
+6632	notificació prèvia per al transport de residus perillosos
+6634	cotxe privat
+6636	casa privada
+6637	dret privat
+6640	sector privat
+6641	transport privat
+6643	privatització
+6645	proboscidi
+6646	procariota
+6647	dret processal
+6650	processament
+6654	tecnologia dels processos
+6655	aigua de procés
+6658	responsabilitat del productor
+6660	producte
+6661	comparació de productes
+6662	avaluació de productes
+6663	determinació de producte
+6664	informació sobre productes
+6670	productivitat
+6672	tendència de productivitat
+6675	responsabilitat de producte
+6676	norma de producte
+6678	benefici net
+6681	dades de prognosi
+6705	programa
+6708	línia de progrés
+6709	prohibició
+6710	projecte
+6718	procés de propagació
+6720	propulsor
+6724	propietats dels materials
+6728	protecció de propietat
+6736	tècnica de propulsió
+6737	procés
+6739	prosperitat
+6740	espai protegit
+6743	paisatge protegit
+6746	espècie protegida
+6747	zona de protecció hídrica
+6749	protecció dels veïns
+6750	protecció d'ocells
+6752	protecció d'espècies
+6753	sistema de protecció
+6755	proteïnes
+6758	protocol
+6759	protozoari
+6760	província
+6766	autoritat regional
+6773	efecte psíquic
+6774	efecte psicològic
+6775	tensió psicològica
+6776	psicologia
+6777	efecte psicosomàtic
+6778	trastorn psicosomàtic
+6784	accés públic a la terra
+6785	acció pública
+6787	bany públic
+6788	edifici públic
+6790	domini públic
+6791	límit públic d'emergències
+6793	finances públiques
+6794	finançament públic
+6798	salut pública
+6799	audiència  pública
+6801	informació pública
+6802	dret públic
+6804	opinió pública
+6805	enquesta d'opinió pública
+6806	parc públic
+6808	participació pública
+6809	societat público-privada
+6810	contractació pública
+6812	fiscalia
+6815	construcció de ruta de trànsit
+6816	sector públic
+6817	servei públic
+6818	transport públic
+6821	vehicle de transport públic
+6822	utilitat pública
+6824	obres públiques
+6827	malaltia pulmonar
+6828	pasta
+6830	indústria de la pasta de paper
+6831	bomba
+6833	bombament
+6835	compra
+6838	depuració
+6841	instal·lació de depuració
+6842	planta de depuració
+6846	purí
+6855	piròlisi
+6859	control de qualitat
+6860	control de qualitat
+6861	qualitat de vida
+6867	pedrera
+6870	explotació de pedreres
+6882	minories i relacions racials
+6883	radar
+6884	radiació
+6887	dany de radiació
+6888	dosi de radiació
+6889	efecte de la radiació
+6890	exposició a la radiació
+6892	vigilància de la radiació
+6894	física de radiació
+6896	protecció radiològica
+6897	llei de protecció contra la radiació
+6899	malalties d'origen radiactiu
+6901	radi
+6904	contaminacío radiactiva
+6908	descontaminació radiactiva
+6909	abocament radiactiu
+6911	emissió radiactiva
+6912	polsim radiactiu
+6915	contaminant radiactiu
+6918	substància radiactiva
+6919	traçador radiactiu
+6920	tècnica de traç radiactiu
+6921	residu radiactiu
+6923	gestió de residus radioactius
+6925	radioactivitat
+6928	radionúclid
+6935	radó
+6937	drap
+6939	vehicle ferroviari
+6940	trànsit ferroviari
+6941	transport ferroviari
+6942	ferrocarril
+6947	pluja
+6949	bosc humit
+6950	suspensió a causa de la pluja
+6951	aigua pluvial
+6953	elevació d'un terreny
+6959	assaig aleatori
+6962	colza
+6963	tren ràpid de trànsit
+6965	espècies estranyes
+6967	matèria primera
+6968	consum de matèria primera
+6970	provisió de matèria primera
+6975	reacció cinètica
+6977	reactor
+6978	seguretat del reactor
+6979	repoblació forestal
+6982	caràcter raonable
+6988	tecnologia de DNA recombinant
+6989	recomanació
+6992	gravació de substàncies
+6997	recuperació del paisatge
+6999	recuperació de la fauna
+7000	plans de recuperació
+7001	activitat recreativa
+7003	àrea recreativa
+7009	reciclabilitat
+7010	plàstic reciclable
+7012	material reciclat
+7014	paper reciclat
+7015	reciclatge
+7018	gestió del cicle de vida
+7019	gestió de reciclatge i llei de residus
+7021	potencial de reciclatge
+7023	quocient de reciclatge
+7028	compensació
+7029	marea roja
+7030	reducció
+7032	canya
+7034	escull
+7035	refineria
+7036	refinatge
+7037	reflexió
+7038	reflectometria
+7042	refrigerant
+7043	indústria frigorífica
+7044	refrigeració
+7045	frigorífic
+7046	refugi
+7047	refugiat
+7050	camió de recollida d'escombraries
+7051	combustible de reutilització
+7056	fems vegetals de fangs d'escombraries
+7057	regeneració
+7058	renovació de plantes antiquades
+7059	regió
+7063	conveni regional
+7066	desenvolupament regional
+7070	dret autonòmic
+7073	pla regional
+7075	planificació regional
+7077	normativa regional
+7079	estadística regional
+7080	estructura regional
+7082	registre
+7083	procediment de registre
+7084	matèria primera renovable
+7086	reglament sobre límits màxims permesos
+7087	ordenança
+7089	llei normativa
+7090	control normatiu
+7091	rehabilitació
+7092	reallotjament en nous habitatges
+7093	reintroducció
+7094	relació causa-efecte
+7097	alliberament d'organismes
+7099	religió
+7102	teledetecció
+7103	eliminació
+7104	renaturació
+7107	font energètica renovable
+7108	recurs renovable
+7110	habitatge de lloguer
+7112	oficina de reparació
+7114	reposició
+7115	cost de reemplaçament
+7116	informació del procés
+7118	representació
+7119	reprocessament
+7120	reproducció
+7122	manipulació reproductiva
+7124	rèptil
+7126	servei de rescat
+7127	recerca
+7129	centres de recerca
+7135	projectes de recerca
+7137	reserva biològica
+7138	pantà, embassament
+7143	zona residencial
+7144	edifici residencial
+7146	zona residencial amb trànsit limitat
+7149	quantitat d'aigua residual
+7155	risc residual
+7156	residu
+7159	anàlisi de residus
+7160	reciclatge de residus
+7161	resina
+7163	resistència
+7165	resolució
+7167	reabsorció
+7168	recurs
+7169	avaluació de recursos
+7170	conservació de recursos
+7172	explotació de recursos
+7173	reserva de recurs
+7175	ordenació de recursos
+7176	respiració
+7178	aire respiratori
+7179	malalties respiratòries
+7180	instruments de protecció respiratòria
+7181	sistema respiratori
+7182	vies respiratòries
+7184	responsabilitat
+7185	restauració d'impactes
+7187	forma de descans
+7188	restauració
+7189	mesura de restauració
+7191	restricció de la producció
+7192	restricció en l'ús
+7193	comerç al detall
+7194	conca de retard
+7195	retroadaptació
+7197	tornada a la natura
+7198	envàs reutilitzable
+7201	reutilització de materials
+7202	revegetació
+7204	osmosi inversa
+7214	arròs
+7217	dret de petició
+7218	dret de propietat
+7221	dret a la compensació
+7222	dret a la informació
+7223	anellatge (fauna)
+7227	esclarida
+7230	zona ripícola
+7231	moviments verticals (geològics)
+7232	pujada del nivell de la mar
+7233	risc
+7235	anàlisi del risc
+7236	avaluació de riscos
+7237	anàlisi de risc-benefici
+7238	comunicació de risc
+7240	percepció del risc
+7241	reducció de risc
+7244	riu
+7251	desenvolupament de conques fluvials
+7257	canalització de ríus
+7266	contaminació fluvial
+7269	aigua de riu
+7272	carretera
+7276	construcció de carreteres
+7279	manteniment de carreteres
+7282	seguretat vial
+7283	sal per al desglaç de carreteres
+7293	trànsit de carreteres
+7295	enginyeria del trànsit de carreteres
+7296	transport per carretera
+7298	roca
+7302	llana de roca
+7306	rosegador
+7312	arrel
+7314	forn rotatori
+7319	ruta
+7320	planificació de ruta
+7324	goma
+7326	procés de fabricación del cautxú
+7327	indústria del tractament del cautxú
+7328	residu de cautxú
+7340	escolament
+7345	zona rural
+7348	medi ambient rural
+7352	població rural
+7353	assentament rural
+7354	turisme rural
+7355	abastament agrícola d'aigua
+7362	seguretat
+7363	anàlisi de seguretat
+7364	mesura de seguretat
+7366	regla de seguretat
+7367	normes de seguretat
+7369	normes de seguretat per a edificis
+7370	estudi de seguretat
+7373	salamandra
+7376	salinització
+7384	salmonel·la
+7390	contingut salat
+7395	càrrega salada
+7396	pantà salat
+7397	praderia salina
+7400	tap salat
+7401	sal química
+7402	aigua salada
+7404	salvament
+7407	mostra
+7410	tècnica de mostratge
+7411	sanció
+7413	arena, sorra
+7419	estabilització de dunes
+7420	duna de sorra
+7423	extracció d'arena, de sorra
+7425	arenal, sorral
+7436	sanitari
+7438	rebliment sanitari
+7443	sanejament i salut pública
+7444	pla de sanejament
+7449	índex saprobi
+7450	saprobi
+7452	satèl·lit
+7457	estalvi
+7458	serradures
+7464	esquistosomiasi
+7465	escola
+7470	ensenyament escolar
+7472	ciència
+7477	informació científica i tècnica
+7478	cooperació científica
+7480	política científica
+7482	procediment de determinació d'abast
+7483	material de ferralla
+7484	mercat de materials de ferralla
+7485	preu de materials de ferralla
+7486	fragment de metall
+7489	ferralla de vehicles
+7491	garbellatge
+7495	mar
+7497	fons marí
+7498	explotació de fons marins
+7500	mineria en el fons marí
+7502	circulació marina
+7513	nivell de la mar
+7514	augment del nivell de la mar
+7516	segellament
+7519	obturació (tècnica)
+7520	desaigüe marí
+7525	recursos de la mar
+7528	costa
+7529	estació de l'any
+7531	migració estacional
+7535	aigua marina
+7536	dessalació d'aigua marina
+7538	protecció d'aigua marina
+7541	biòtop secundari
+7542	ensenyament mitjà
+7548	sector secundari
+7551	mercaderies de segona mà
+7554	sector econòmic
+7557	seguretat de les instal·lacions
+7560	conca sedimentària
+7562	sedimentació (industrial)
+7563	sedimentació (geològica)
+7565	sediment
+7566	transport de sediments
+7567	llavor
+7568	preparació de la llavor
+7571	fuita d'aigua
+7574	aigua de filtració
+7575	activitat sísmica
+7578	vigilància sísmica
+7579	maror sísmica
+7581	embargament
+7582	realització de beneficis
+7584	selecció de tecnologia
+7586	cria selectiva d'animals
+7588	millorament vegetal selectiu
+7590	seleni
+7592	programa d'autogestió
+7593	autocontrol
+7594	autopurificació
+7595	ecosistema semiàrid
+7597	semiconductor
+7599	producte semimanufacturat
+7600	semimetal
+7603	àrea sensible
+7604	anàlisi de sensibilitat
+7609	recollida selectiva
+7611	separació en origen
+7612	rentadora, separador i filtre
+7613	tanc séptic
+7616	confiscació
+7617	serp
+7618	àrea de serveis
+7621	serveis
+7622	concentració d'assentaments
+7625	extensió d'assentaments
+7627	dipòsit de decantació
+7628	aigües brutes
+7629	eliminació d'aigües residuals
+7630	terreny de decantació
+7632	fang d'aigües residuals
+7636	sistemes de tractament d'aigües residuals
+7641	clavegueram
+7646	marisc
+7651	dispositiu de protecció
+7652	desplaçament del conreu
+7654	vaixell
+7655	construcció naval
+7659	accident naval
+7662	escombraries de naus
+7663	deposició de residus de naus
+7668	camp de tir
+7669	botiga
+7670	centre comercial
+7679	espectacle
+7680	trituradora
+7681	escombraries de desfibradora
+7683	arbust
+7684	estació de maniobres
+7686	síndrome de l'edifici malalt
+7688	efecte secundari
+7689	efectes secundaris de medicaments
+7690	garbellatge
+7692	silenciador
+7694	silici
+7697	sitja
+7698	llot
+7699	argent
+7702	simulació
+7707	aglutinació
+7709	selecció de lloc
+7712	captació
+7715	esquí
+7716	pell
+7718	destrucció de l'horitzó
+7720	escòria
+7724	escorxador
+7725	desferra d'escorxador
+7726	sacrifici d'animals
+7729	son
+7730	alteració del son
+7731	costat d'excavació
+7733	fang
+7737	digestió de llots
+7738	incineració de llots
+7739	bassa fangosa
+7740	tractament de llots
+7742	comporta
+7747	petita i mitjana indústria
+7752	illes petites (geografia política) UP illots
+7755	forn d'escala reduïda
+7756	inductor d'escala reduïda
+7759	broma industrial
+7760	avís de boira 'smog'
+7761	fum
+7763	prevenció de fum
+7765	hàbit de fumar
+7768	colúbrid
+7769	neu
+7771	allau de neu
+7774	remullament
+7776	sabó
+7781	comportament social
+7784	condició social
+7787	cost social
+7788	internalització de costos exteriors
+7790	desenvolupament social
+7791	diferenciació social
+7793	dinàmica social
+7795	equipament social
+7796	grups socials
+7798	indicadors socials
+7803	medicina social
+7804	comportament pro-social
+7805	moviment social
+7807	participació ciutadana
+7809	política social
+7810	problema social
+7811	procés social
+7813	ajuda social
+7815	seguretat social
+7816	servei social
+7817	estructura social
+7818	enquesta social
+7819	sistema social
+7821	valor social
+7822	benestar social
+7823	societat
+7825	aspectes socioeconòmics dels assentaments humans
+7826	factor socioeconòmic
+7827	impacte socioeconòmic de les biotecnologies
+7830	enquestes sociològiques
+7831	sociologia
+7832	aspecte sociopolític
+7839	reblaniment
+7840	emolient
+7842	programari
+7843	sòl
+7844	acidificació del sòl
+7845	atmosfera del sòl
+7846	anàlisi del sòl
+7847	biologia del sòl
+7848	capacitat productiva del sòl
+7849	química del sòl
+7850	compactació del sòl
+7851	condició del sòl
+7852	conservació del sòl
+7853	legislació de protecció del sòl
+7855	dany del sòl
+7856	descontaminació del sòl
+7857	degradació del sòl
+7858	erosió de sòls
+7860	fertilitat del sòl
+7861	fertilització del sòl
+7862	formació del sòl
+7863	millorament del sòl
+7866	capa del sòl
+7867	carregament del sòl
+7868	mapa de sòls
+7871	mecànica de sòls
+7873	mineralogia del sòl
+7874	humitat del sòl
+7875	règim d'humitat del sòl
+7876	organisme del sòl
+7878	contaminants del sòl
+7880	contaminació del sòl
+7881	processos del sòl
+7882	perfil del sòl
+7884	qualitat del sòl
+7886	recurs del sòl
+7889	salinització del sòl
+7890	ciències del sòl
+7892	assentament
+7894	estabilització del sòl
+7895	estructura del sòl
+7896	subsidència del sòl
+7897	aïllament de la superfície del sòl
+7898	textura del sòl
+7899	tipus de sòl
+7900	ús del sòl
+7902	aigua del sòl
+7904	cèl·lula solar
+7905	col·lector solar
+7906	energia solar
+7907	tecnologia d'energia solar
+7908	calefacció solar
+7910	central solar
+7912	radiació
+7918	matèria sòlida
+7919	estat sòlid
+7920	residu sòlid
+7921	eliminació de residus sòlids
+7923	solubilitat
+7925	disolvent
+7926	recuperació solvent
+7927	ocell cantaire
+7928	explosió acústica
+7929	sutge
+7930	absorció
+7933	so
+7936	emissió de soroll
+7937	immissió de soroll
+7938	nivell de soroll
+7939	mesurament del soroll
+7941	insonorització
+7942	propagació del so, del soroll
+7945	transmissió del so, del soroll
+7947	Amèrica del Sud (UP: Sud-amèrica)
+7948	Oceà Atlàntic del Sud
+7949	Àsia del Sud-est
+7950	Àfrica meridional
+7951	Àsia meridional
+7952	Oceà Pacífic del Sud
+7962	espai (interplanetari)
+7969	transport espacial
+7970	viatge espacial
+7972	residu espacial
+7973	crup espasmòdic
+7974	mobilitat espacial
+7975	autorització especial
+7976	especialització (biològica)
+7978	dret especial
+7981	residu especial
+7982	espècie
+7983	conservació d'espècies
+7984	programa de protecció d'espècies
+7985	empobrimient d'espècies
+7986	reintroducció d'espècies
+7992	espectrografia
+7994	velocitat
+7996	límit de velocitat
+7999	aranya
+8000	descàrrega i vessament
+8004	abocador d'escombraries
+8006	esponja
+8008	esport
+8014	equipament esportiu
+8019	polvoritzador
+8020	polsim d'amiant
+8025	font
+8028	aigua mineral
+8029	ruixament
+8031	plaça
+8032	assentament d'ocupes
+8036	bassa d'estabilització
+8037	estable
+8039	xemeneia i conducte de fum 
+8047	norma
+8048	normalització
+8051	normes i codis de la indústria de la construcció
+8056	aliment bàsic
+8057	midó
+8062	estat
+8067	darrera tecnologia
+8068	dades sobre l'estat del medi ambient
+8069	informe sobre l'estat del medi ambient
+8070	estat dels residus
+8072	estat de la qüestió
+8073	estació
+8074	anàlisi estadística
+8075	dades estadístiques
+8076	estadística
+8077	estadística de residus
+8078	estat de desenvolupament
+8082	limitació estatutària de prescripció
+8083	òrgan públic estatutari
+8084	soroll continuat
+8086	generador de vapor
+8088	acer
+8089	indústria siderúrgica
+8095	esterilització
+8096	esteroide
+8098	fons d'incentiu
+8099	existències (biològiques)
+8100	gestió d'existències
+8102	inventari
+8104	pedra
+8110	resclosa
+8115	tempesta
+8117	dany per tempesta
+8122	estufa
+8125	estratificació
+8128	estratosfera
+8129	exhauriment de l'ozó estratosfèric
+8133	mesurament de flux
+8136	neteja de carrer
+8140	resistència dels materials
+8141	estrès
+8143	explotació a cel obert
+8144	estronci
+8145	programa d'ajustament estructural
+8148	relació estructura-activitat
+8149	soroll induït
+8151	pla estructural
+8158	morfologia submarina
+8159	submarí
+8162	ordre subseqüent
+8163	enfonsament
+8165	subsidi
+8167	subsòl
+8168	drenatge de subsòl
+8171	substuïbilitat (química)
+8173	substitució de composts halogenats
+8174	substitució del fosfat
+8175	cultiu del substrat
+8179	ecosistema subtropical
+8182	suburbi
+8185	sucre (producte)
+8188	indústria sucrera
+8190	sulfat
+8192	sulfur
+8198	sofre
+8200	concentració de sofre
+8202	diòxid de sofre
+8203	àcid sulfúric
+8204	òxid de sofre
+8212	supervisió de treballs de construcció
+8213	supervisió d'instal·lacions
+8214	cos supervisor
+8219	oferta (comerç)
+8222	agent tensoactiu
+8225	escolament superficial
+8226	tensió superficial
+8227	tractament de superfícies
+8229	aigües superficials
+8236	residu quirúrgic
+8237	excedents
+8239	vigilància
+8240	enquesta
+8247	desenvolupament sostenible
+8249	indicador de desenvolupament sostenible
+8250	ús continuat
+8252	pantà, aiguamoll
+8255	edulcorant
+8259	simbiosi
+8262	sinecologia
+8263	sinergisme
+8265	efecte inhibitori de substàncies tòxiques
+8268	detergent sintètic
+8269	indústria de fibres sintètiques
+8272	material sintètic
+8273	indústria de materials sintètics
+8275	fibra tèxtil artificial
+8278	anàlisi de sistemes
+8279	comparació de sistemes
+8280	teoria de sistemes
+8283	obtenció de proves
+8284	cisterna
+8285	petrolier (nau)
+8286	parc de contenidors
+8289	taní
+8296	quitrà
+8299	grup dirigent
+8301	tarifa
+8303	producció de quitrà
+8304	arena, sorra asfàltica
+8305	ús de quitrà
+8307	taxa
+8308	taxa
+8309	diferenciació de taxes
+8312	dret fiscal
+8313	taxonomia
+8319	ensenyament
+8321	mètode d'ensenyament
+8326	TRGS <D> 'regulació tècnica de substàncies perilloses'
+8330	canvi tecnològic
+8333	desenvolupament tecnològic
+8334	perill tecnològic
+8337	processament tecnològic
+8339	tecnologia
+8340	acceptació tecnològica
+8341	avaluació tecnològica
+8342	transferència de tecnologia
+8344	tectònica
+8347	telecomunicacions
+8350	telemàtica
+8351	telemetria
+8353	televisió
+8360	ecosistema temperat
+8361	boscos de zona temperada
+8362	boscos de zona temperada
+8366	temperatura
+8367	habitatge temporal
+8369	alberg temporal
+8371	emmagatzematge temporal
+8376	teratogènesi
+8377	investigació de teratogènesi
+8378	teratogenicitat
+8379	teratogen
+8380	terminologia
+8381	tèrmit
+8386	àrea terrestre
+8387	recurs biològic terrestre
+8388	ecosistema terrestre
+8398	política territorial
+8401	territori
+8403	sector terciari
+8405	prova
+8407	animal de prova
+8411	directriu d'assaig
+8412	mètode de proves
+8415	organisme de prova
+8421	indústria tèxtil
+8422	tèxtils
+8428	tal·li
+8433	teoria del diner
+8434	teoria de l'estat del benestar
+8435	teràpia
+8440	aïllament tèrmic
+8442	contaminació tèrmica
+8443	central tèrmica
+8446	energia tèrmica marina
+8447	tractament tèrmic
+8448	aigua termal
+8450	termodinàmica
+8452	procés termoselectiu
+8454	tesaurus
+8470	valor mínim
+8475	energia de les marees
+8478	aigua de marea
+8480	marea
+8486	indústria de la fusta
+8487	temps (cronologia)
+8490	estany
+8494	teixit
+8495	titani
+8496	diòxid de titani
+8499	gripau, galàpet
+8501	tabac
+8503	fum de tabac
+8516	tornado, cap de fibló
+8519	tortuga
+8521	paràmetre total
+8522	turisme
+8525	instal·lació turística
+8527	zona d'interès turístic
+8537	efecte tòxic
+8538	toxicitat
+8539	toxicitat dels plaguicides
+8540	metall tòxic
+8541	avaluació toxicològica
+8542	assaig toxicològic
+8543	toxicologia
+8545	producte tòxic
+8546	substància tòxica
+8547	residu tòxic
+8549	toxina
+8554	oligoelement
+8556	oligosubstàncies i residus
+8559	traqueòfit
+8562	pla de seguiment
+8563	comerç
+8564	permís comercialitzable
+8566	comerç i consum
+8567	obstacle al comerç internacional
+8569	comerç (econòmic)
+8570	impacte mediambiental del comerç
+8571	política comercial
+8572	comerç (professió)
+8573	relacions comercials
+8574	restricció comercial
+8576	sindicat
+8579	cultura tradicional
+8580	medicina tradicional
+8582	trànsit
+8583	accident de trànsit
+8585	control del trànsit
+8586	mesures de control del trànsit
+8588	emissions del trànsit
+8589	enginyeria del trànsit
+8590	infraestructura del trànsit
+8592	embús de trànsit
+8595	vigilància del trànsit
+8596	soroll del trànsit
+8597	control de soroll del trànsit
+8598	tràfic en aigua
+8599	ruta de tràfic
+8606	tren
+8607	ensenyament
+8608	centre de formació
+8610	trajectòria
+8621	contaminació transfronterera
+8626	arranjament transitori
+8627	assentament transitori
+8629	element de transició
+8630	transpiració
+8633	empresa de transport
+8634	transport per oleoducte, gasoducte, etc.
+8639	política de transport
+8641	transport
+8648	planificació del transport
+8650	transport (física)
+8653	sistema de transport
+8655	captura
+8658	viatge
+8659	cost del viatge
+8663	tractat
+8664	arbre
+8667	viver forestal
+8671	tendència
+8673	triazina
+8675	reg per goteig
+8679	trinitat de principis
+8680	triti
+8683	nivel tròfic
+8685	ecosistema tropical
+8686	ecosistema de bosc tropical
+8687	bosc tropical
+8688	bosc humit tropical
+8693	tròpic
+8695	troposfera
+8696	ozó troposfèric
+8701	carretera troncal
+8703	tumor
+8704	tundra
+8707	túnel
+8711	turbiditat, terbolesa
+8713	turbina
+8719	petrolier de dues plantes
+8720	vaixell de doble casc
+8721	motor de dos temps
+8722	tipus d'activitat empresarial
+8723	tipus de demanda
+8724	tipus de gestió
+8727	tifó
+8731	pneumàtic
+8736	ultrafiltració
+8739	ultrasò
+8742	radiació ultraviolada
+8745	CNUMAD 'Conferència sobre Medi Ambient i Desenvolupament, Rio de Janeiro, 1992'
+8747	abocador incontrolat
+8755	segellament en origen del vessament
+8758	dipòsit subterrani
+8760	tren subterrani
+8761	gent desprotegida
+8762	empresa funerària
+8766	emissari submarí
+8768	desocupació
+8769	ungulat
+8776	Nacions Unides
+8780	gasolina sense plom
+8782	zona d'aire net
+8784	aigua crua
+8785	educació (formació)
+8789	Senat
+8791	urani
+8794	programa d'actuació urbanística
+8797	àrea urbana
+8801	degradació de zones urbanes
+8803	disseny urbà
+8804	desenvolupament urbà
+8805	dret urbanístic
+8807	ecosistema urbà
+8811	equipament urbà
+8812	fluxos urbans (recursos)
+8815	verd urbà
+8820	urbanització
+8824	paisatge urbà
+8826	gestió urbanística
+8829	planificació urbana
+8832	política urbanística
+8833	contaminació urbana
+8834	població urbana
+8839	renovació urbana
+8840	sanejament urbà
+8841	assentament urbà
+8843	estrès urbà
+8844	estructura urbana
+8845	estudi urbà
+8847	trànsit urbà
+8850	aigua urbana
+8852	abastament urbà d'aigua
+8857	úrsid
+8866	pneumàtic usat
+8870	ús del temps lliure
+8872	avantatge per a l'usuari
+8875	utilització del poder calòric
+8876	ús de recursos locals
+8877	ús de plaguicides
+8879	aprofitament de recursos
+8886	concepte legal indefinit
+8887	vall
+8892	component valorat de l'ecosistema
+8893	vanadi
+8894	vandalisme
+8895	espècies extintes
+8898	pressió del vapor
+8899	vernís
+8906	vector de malalties humanes
+8908	coberta vegetal
+8909	conreu de verdura
+8910	ecologia vegetal
+8912	fitomillorament
+8913	oli vegetal
+8918	reproducció vegetal
+8919	recurs vegetal
+8920	hortalisses
+8921	residu vegetal
+8922	vegetació
+8925	tipus de vegetació
+8926	automòbil
+8929	gas del tub d'escapament de vehicles
+8931	inspecció de vehicles
+8934	indústria de la fabricació de vehicles
+8940	ventilació
+8944	cuca
+8946	vertebrat
+8951	medicina veterinària
+8955	viaducte
+8959	vibració
+8964	vídeo
+8967	poble, vila
+8969	vinassa
+8974	virologia
+8976	virus
+8977	viscositat
+8986	vitamina
+8987	viticultura
+8990	vocabulari
+8992	formació professional
+8993	compost orgànic volàtil
+8995	volatilitat
+8997	àrea volcànica
+8999	erupció volcànica
+9003	vulcanisme
+9004	volcà
+9008	total de residus
+9010	voluntariat
+9013	vulcanització
+9015	espècie vulnerable
+9019	Mar de Wadden
+9022	sistema salarial
+9023	mur
+9028	guerra
+9032	animal de sang calenta
+9034	pla d'advertència
+9035	sistemes d'alerta
+9040	deixalla
+9041	residu
+9042	aire de residus
+9043	purificació d'aire de residus (gas)
+9044	anàlisi de residus
+9045	capacitat d'assimilació de deixalles
+9048	equilibri de residus
+9049	contenidor de residus
+9051	categoria de residus
+9052	càrrega de residus
+9053	classificació de residus
+9054	recollida de residus
+9055	recollida de residus a la font
+9057	composició dels residus
+9058	tècniques de conversió de deixalles
+9059	desgasament de residus
+9062	eliminació de deixalles
+9063	llei de disposició de residus
+9065	cost de disposició de residus
+9067	eliminació de residus en el sòl
+9068	taxa per disposició de residus
+9069	abocador
+9071	abocament de residus
+9072	bescanvi de residus
+9073	exportació de residus
+9074	calefacció residuoalimentada i central elèctrica
+9075	central de calefacció residuoalimentada
+9076	central elèctrica residuoalimentada
+9077	gas residual
+9078	emissió de gas de residus
+9079	examen de gas de residus
+9080	reducció de gas de residus
+9082	vidre residual
+9083	guix de residuos
+9085	calor de residus
+9086	càrrega de calor de residus
+9087	ús de calor de residus
+9088	permís d'importació de residus
+9090	incineradora de residus
+9091	dret de residus
+9092	gestió de residus
+9095	minimització de deixalles
+9096	potencial de minimització de residus
+9098	oli residual
+9099	paper residual
+9103	indústria del tractament de residus
+9105	recuperació de residus
+9106	recuperació de residus
+9107	reciclatge de residus
+9108	reducció de residus
+9110	indústria de trasllat de residus
+9116	classificació de residus
+9118	emmagatzematge de residus
+9119	transport de residus
+9121	tractament de residus
+9123	plantes de tractament de residus
+9125	ús de residus
+9126	volum de residus
+9127	aigua residual
+9128	taxa per aigües residuals
+9129	descàrrega d'aigües residuals
+9130	disposició d'aigües residuals
+9132	aigües residuals comercials
+9133	legislació d'aigües residuals
+9135	càrrega d'aigües residuals
+9136	depuració d'aigües residuals
+9138	qualitat d'aigües residuals
+9139	reducció d'aigües residuals
+9140	fang d'aigües residuals
+9141	estadístiques d'aigües residuals
+9143	tractament d'aigües residuals
+9144	depuradora d'aigües residuals
+9147	anàlisi de l'aigua
+9149	equilibri hídric biològic
+9151	cos aquós
+9153	fons d'aigua
+9157	captació d'aigua
+9159	conservació de l'aigua
+9160	consum d'aigua
+9161	curs d'aigua
+9164	demanda d'aigua
+9165	sistema de distribució d'aigua
+9166	perill per a l'aigua
+9168	erosió hídrica
+9169	extracció d'aigua
+9170	cascada
+9171	puça d'aigua
+9172	cabal
+9176	aigua d'ús agrícola
+9178	aigua de consum
+9180	aigua d'ús industrial
+9183	ocells aquàtics
+9184	duresa de l'aigua
+9186	jacint d'aigua
+9190	nivell de l'aigua
+9193	terra negada
+9195	gestió de l'aigua
+9196	supervisió de l'aigua
+9199	contaminant de l'aigua
+9202	contaminació de l'aigua
+9203	prevenció de contaminació de l'aigua
+9206	protecció de l'aigua
+9207	directiva de protecció de l'aigua
+9208	legislació de protecció de l'aigua
+9209	bomba d'aigua
+9210	purificació de l'aigua
+9211	planta depuradora
+9214	qualitat de l'aigua
+9215	directiva sobre qualitat de l'aigua
+9216	gestió de qualitat de l'aigua
+9217	gestió de quantitat d'aigua
+9220	autoritat competent en aigües
+9221	recurs hídric
+9223	conservació de recursos hídrics
+9225	desenvolupament de recursos hídrics
+9227	reutilització de l'aigua
+9229	salinització d'aigües
+9230	estalvi d'aigua
+9231	ciències de l'aigua
+9232	aigua (geografia)
+9234	ordenació de conques hidrogràfiques
+9235	conca fluvial
+9236	desenvolupament de riberes
+9241	estadístiques hidràuliques
+9242	aigua
+9244	abastament d'aigua
+9245	transport aquàtic
+9246	tractament de l'aigua
+9251	ús d'aigua
+9254	canal
+9255	font
+9257	instalacions d'abastament d'aigua
+9259	energia de les onades
+9262	onada marina
+9267	arma
+9269	temps
+9270	estat del temps
+9274	modificacions meteorològiques
+9276	vigilància meteorològica
+9278	predicció
+9280	mala herba
+9281	control d'herba
+9286	pes
+9289	soldadura
+9290	pou
+9293	Àfrica occidental
+9294	Àsia occidental
+9295	Europa occidental
+9297	terreny aigualós, mollera, aiguamoll
+9298	ecosistema d'aiguamolls
+9299	procés humit
+9300	depurador humit
+9301	residu humit
+9302	balena
+9305	pesca de balenes
+9308	comerç al major
+9310	fauna salvatge
+9313	vida silvestre
+9314	conservació de la vida silvestre
+9315	hàbitat de la vida silvestre
+9318	estadística de població de vida silvestre
+9321	santuari de flora i fauna salvatge
+9322	assilvestrament
+9323	planta silvestre
+9324	disposició a pagar
+9325	anàlisi de disposició a pagar
+9327	vent
+9330	erosió eòlica
+9331	molí de vent
+9335	energia eòlica
+9336	central eòlica
+9344	dona
+9347	condició de la dona
+9348	fusta
+9349	bosc
+9352	clariana
+9353	ecosistema de bosc
+9356	conservació de la fusta
+9358	productes de fusta
+9362	residu de fusta
+9363	llana
+9366	accident de treball
+9367	mina exhaurida
+9369	condicions de treball
+9371	horari de treball
+9373	rompuda
+9375	lloc de treball
+9380	món
+9382	lloc inclòs en el patrimoni universal
+9389	amortització
+9391	acte il·legal
+9392	acte governamental il·legal
+9395	susbtància xenobiòtica
+9398	raigs X
+9403	llevat
+9404	productivitat
+9406	nen
+9407	joves
+9409	treball juvenil
+9412	zinc
+9417	zonificació
+9422	parc zoològic
+9425	zoologia
+9426	zoonosi
+10002	comptabilitat
+10003	vida animal
+10008	producte de consum
+10012	institució d'administració ambiental
+10017	efecte sanitari del soroll
+10018	cos humà
+10019	humanitats
+10024	transferència d'informació
+10026	acte jurídic
+10031	recerca meteorològica
+10032	protecció d'àrees naturals
+10034	prevenció de riscos naturals
+10039	química física
+10040	mesura física de la contaminació
+10043	vida vegetal
+10044	producció
+10048	tipus de contaminació
+10049	prevenció de la contaminació
+10053	gestió de risc
+10054	sistema de seguretat
+10055	enginyeria sísmica
+10057	ciències socials
+10058	gestió de l'aigua de superfície
+10064	protecció de la fauna
+10066	centre històric
+10067	promoció del comerç i de la indústria
+10068	maçoneria
+10071	arena, sorra plana
+10073	espècie animal
+10074	espècie vegetal
+10076	ocupació
+10078	tradició popular
+10084	especialitat legal
+10085	sistema judicial
+10087	mesurament químic de la contaminació
+10088	instrument de mesura
+10089	evolució contaminant
+10092	soroll urbà
+10097	neteja (higiene)
+10099	medi ambient industrial (en general)
+10102	risc natural
+10103	anàlisi del risc natural
+10104	risc important
+10106	sistema de rescat
+10107	gestió de crisis
+10120	sistema impositiu
+10126	concepte de medi ambient
+10128	ecologia forestal
+10129	ecologia científica
+10130	ecologia urbana
+10131	ecozona
+10133	enginyeria ambiental
+10135	paleoecologia
+10136	patrimoni biològic
+10140	altitud
+10142	cala / vall
+10143	canyó
+10144	cap (geografia)
+10146	circ (geomorfologia)
+10148	continent
+10149	cordó litoral
+10152	ansa, ancó
+10154	falta
+10155	penya-segat
+10158	alta mar
+10160	llacuna de recif
+10161	llit de riu
+10166	medi físic
+10170	plana al·luvial
+10175	recif
+10176	relleu (terra)
+10189	ordenança relativa al biòtop
+10190	àrea natural sensible
+10191	anàlisi ambiental
+10193	entorn abiòtic
+10194	medi aquàtic
+10197	medi ambient sensible
+10198	medi ambient terrestre
+10199	parc marí
+10200	parc natural regional
+10201	reserva
+10202	reserva biològica estatal
+10203	reserva biològica forestal
+10208	reserva natural voluntària
+10210	zona central del parc
+10212	zona marina protegida
+10214	àrea perifèrica del parc
+10215	alineació
+10217	boscatge
+10225	jardí formal francès
+10228	jardí anglès
+10229	jardí en terrasses
+10233	paisatge en terrasses
+10236	protecció de muntanya
+10237	protecció de lloc
+10238	protecció del litoral
+10240	rehabilitació de lloc
+10243	lloc classificat
+10244	lloc registrat
+10251	estatut d'ecologia urbana
+10255	ciutadania ambiental
+10256	gestió integrada
+10260	patrocini
+10263	pla municipal de medi ambient
+10274	campanya de conscienciació pública
+10305	peix migratori
+10381	félid
+10421	mamífer marí
+10444	oví
+10495	refugi
+10496	àrea de jerarquització
+10510	passadís animal
+10511	dany animal
+10512	desplaçament d'animals
+10521	llit de fresa
+10523	hàbitat animal
+10535	jerarquització
+10539	població animal
+10548	reproducció animal
+10554	supervivència
+10562	espècie endèmica
+10568	arbre de fulla ampla
+10574	llit vegetal marí
+10575	macròfit
+10593	vegetació de riba
+10605	castanyer
+10612	gramínia
+10617	posidònia
+10626	nivell de vegetació
+10633	densitat vegetal
+10640	arborètum
+10644	corologia
+10646	col·lecció de varietats
+10651	reserva animal
+10652	reserva botànica
+10660	introducció d'espècies animals
+10661	introducció d'espècies vegetals
+10666	patrimoni animal
+10667	herència vegetal
+10670	protecció animal
+10671	reintroducció d'espècies animals
+10672	reintroducció d'espècies vegetals
+10683	reforestació a escala local
+10685	caiguda de branques (pel vent)
+10691	poda
+10692	explotació forestal
+10693	bosc de muntanya
+10694	bosc estatal
+10695	bosc mediterrani
+10696	bosc privat
+10698	bosc de fusta
+10699	bosquina
+10703	gespa seca
+10704	viver de plantes
+10706	protecció forestal
+10707	regeneració natural
+10708	planta resinosa
+10711	bosquina amb estàndards
+10721	joc (jocs)
+10726	daina grossa
+10744	viver de mariscos
+10753	ostreïcultura
+10758	pesca professional
+10760	reserva nacional de pesca
+10767	activitat socioeducacional
+10773	oposició
+10778	formació permanent
+10780	formació inicial
+10785	pedagogia
+10818	feina, col·locació ambiental
+10833	funció pública
+10837	organització del treball
+10847	centre d'oci
+10851	equipament col·lectiu
+10860	carril bici / sender, circuit de bicicletes
+10861	correguda, cursa d'esquí
+10884	ruta turística
+10890	ecomuseu
+10891	folklore
+10892	assistència pública
+10893	afluència turística
+10895	casa rural
+10898	allotjament
+10904	públic
+10905	sendera
+10906	sendera de platja
+10907	sendera educativa
+10909	centre turístic de platja
+10910	centre turístic de muntanya
+10911	centre turístic d'esports d'hivern
+10914	unitat turística
+10915	vehicle tot terreny
+10918	densitat de població
+10919	jove
+10922	població activa
+10925	assignació de temps
+10927	bé durador
+10929	bé no durador
+10930	mercaderies
+10931	béns i serveis
+10932	pressupost de temps
+10933	àmbit de vida
+10935	cicle de vida del producte
+10936	etiqueta ecològica
+10938	certificació de qualitat
+10939	nivell de vida
+10940	oferta i demanda
+10959	desigualtat ecològica
+10960	desigualtat social
+10964	mite
+10968	actitud NIMBY
+10971	psicologia social
+10972	representació social
+10976	sensibilitat per la natura
+10977	socioeconomia
+10980	accés a documents administratius
+10981	acte administratiu
+10985	govern territorial
+10986	suport a la presa de decisions
+10988	competència de ministre
+10991	ciutadà
+10992	govern local
+10993	comunitat territorial
+10999	debat parlamentari
+11007	motivació d'actes administratius
+11016	pla econòmic
+11018	principi subsidiari
+11030	ajuda financera
+11031	ajuda internacional
+11032	ajuda pública
+11034	comptabilitat nacional
+11035	compte de satèl·lit
+11038	despesa domèstica
+11039	despesa pública
+11043	fons d'intervenció
+11044	fons financer
+11045	Fons Monetari Europeu
+11046	Fons Monetari Internacional
+11047	incentiu econòmic
+11048	impost incentivat
+11050	producte interior brut
+11051	impost excepcional
+11055	anàlisi de procés
+11057	auditoria
+11061	avaluació d'herència natural
+11063	cost d'aigua
+11065	ecomàrketing
+11069	gestió patrimonial
+11070	inversió de control de contaminació
+11071	mercat de medi ambient
+11073	prima contra la contaminació
+11082	valoració de l'aigua
+11087	teoria del medi ambient
+11089	activitat comercial
+11095	desenvolupament local
+11097	estudis de mercat
+11100	lliure comerç
+11103	país menys desenvolupat
+11106	Relacions Nord-Sud
+11113	càlcul
+11116	densitat
+11118	distribució espacial
+11119	dades econòmiques
+11124	índex
+11125	cens
+11127	sèrie estadística
+11128	enquesta d'opinió
+11130	índex
+11133	variació estacional
+11134	comitè científic
+11135	disputa científica
+11146	recerca aplicada
+11148	recerca científica
+11152	agronomia
+11153	agrosistema
+11157	desastre agricola
+11158	depreciació agrícola
+11159	desenvolupament rural
+11165	hidràulica agrícola
+11170	tècnica de conreu
+11177	conreu de farratge
+11178	horticultura de mercat
+11184	llavor (producte)
+11186	tractament de conreus
+11187	tractament fitosanitari
+11192	avicultura
+11198	tècnica de cria
+11199	transhumància
+11201	condicionador mineral
+11204	drenatge
+11206	agricultura de rompuda i artiga
+11207	guix
+11209	fertilizant nitrogenat
+11211	fertilizant de fosfat
+11212	fertilitzant de potassi
+11214	purificació a través del sòl
+11224	lixiviació del sòl
+11226	matèria mineral
+11227	matèria orgànica
+11231	clavegueram
+11232	sistema d'irrigació
+11233	salinitat del sòl
+11234	valor agronòmic
+11237	gestió de muntanya
+11243	planificació i gestió rural
+11244	gestió de l'activitat turística
+11246	unitat de silvicultura
+11248	pla d'equipaments
+11259	enfocament
+11269	estació ferroviària
+11270	estació d'autobús
+11271	material de construcció de carretera
+11272	treball d'enginyeria
+11276	xarxa ferroviària
+11277	xarxa de carreteres
+11289	navegació
+11294	marina mercant
+11296	transport combinat
+11307	comunitat urbana
+11308	document de desenvolupament urbà
+11309	espai de perifèria urbana
+11312	habitatge unifamiliar
+11321	pla d'utilització del sòl
+11322	desenvolupament i planificació urbanes
+11323	règim d'utilització del sòl
+11332	ciutat nova
+11333	zona de dret preferent de compra
+11334	àrea d'intervenció de la gestió de la terra
+11344	arquitectura rural
+11345	arquitectura tradicional
+11355	destrucció d'edifici
+11359	enginyeria municipal
+11375	restauració d'edificis
+11427	declaració estatutària
+11429	norma de qualitat
+11430	norma europea
+11431	norma ISO
+11433	reglaments tècnics
+11466	codificació
+11468	doctrina (llei)
+11472	llei de transport
+11476	llei rural
+11477	drets dels animals
+11478	drets de les generacions futures
+11479	drets del ciutadà
+11489	avís
+11490	circular
+11493	decisió comunitària
+11494	ordre
+11497	instruccions administratives
+11498	instrucció tècnica
+11499	llei (recopilació de normes)
+11502	permís de caça
+11504	llicència d'obra
+11506	permís de pesca
+11508	projecte de llei
+11514	reglaments
+11517	transposició de directiva
+11521	concessió
+11522	discussió pública
+11523	declaració d'utilitat pública
+11524	àmbit privat
+11525	àmbit de canals públics
+11526	àmbit marítim públic
+11527	dret d'accés
+11530	investigació de benefici públic
+11531	investigació pública
+11532	gestió delegada
+11535	control d'estat
+11536	servitud
+11540	delicte
+11548	poder policial
+11549	procediment penal
+11556	judici (sentència)
+11559	conflicte
+11563	plet
+11568	tribunal administratiu
+11571	Tribunal de Justícia de les  Comunitats Europees
+11583	justícia
+11587	assaig
+11594	tribunal
+11611	arrendament
+11612	certificació
+11618	homologació
+11621	notificació
+11623	dret preferent de compra
+11624	prescripció
+11627	repressió
+11632	descentralització
+11633	flux d'agent contaminant
+11635	interfície oceà-aire
+11636	migració contaminant
+11638	contaminació fortuïta
+11639	contaminació bacteriològica
+11641	contaminació difusa
+11642	contaminació domèstica
+11643	contaminació mineral
+11644	contaminació orgànica
+11645	contaminació fotoquímica
+11646	contaminació marina amb base a terra
+11647	contaminació tòxica
+11648	abocament al ríu
+11649	abocament subterrani
+11651	contaminant urbà
+11661	mesura de prevenció
+11662	mesura protectora
+11671	acidesa forta
+11672	marcador biològic
+11675	contaminació biològica
+11676	contaminació química
+11678	efecte biològic de la contaminació
+11686	irreversibilitat del fenomen
+11691	objectiu de qualitat
+11692	partícula sòlida
+11693	poder de purificació
+11700	sensor
+11701	instrumentació
+11702	metrologia
+11706	satèl·lit d'observació
+11713	atrazina
+11714	nitrogen orgànic
+11718	compost halogenat
+11734	monòxid de sofre
+11745	piralè
+11752	asbestosi
+11762	genotoxicitat
+11763	intoxicació
+11771	prova biològica
+11779	carboni orgànic total
+11781	degradació química
+11782	assaig de laboratori
+11786	índex biòtic
+11787	material oxidable
+11788	oxigen dissolt
+11789	fotodegradació
+11791	substància insoluble
+11792	substància permanent
+11793	substància dèbilment degradable
+11794	substància volàtil
+11795	agressivitat química
+11798	anàlisi fisicoquímica
+11807	estudi experimental
+11809	granulometria
+11812	extracció (d'una mostra)
+11813	producte químic
+11814	producte inflamable
+11816	propietat organolèptica
+11835	sistema acústic
+11836	sistema cardiovascular
+11852	enterovirus
+11868	biologia animal
+11869	biologia vegetal
+11875	grup genètic
+11879	agudesa auditiva
+11889	decibel
+11896	qualitat acústica
+11909	espectre de soroll
+11912	vibració mecànica
+11918	soroll aeri
+11921	soroll de fons
+11922	soroll rodant
+11923	soroll de veïnatge
+11927	confort acústic
+11930	pla d'exposició de soroll
+11958	central maremotriu
+11967	energia hidroelèctrica
+11974	central elèctrica petita
+11975	molí d'aigua
+11990	reducció de potència de central elèctrica
+12004	cos simple radioactiu
+12006	reactor ràpid
+12007	àrea contaminada
+12008	aerosol atmosfèric
+12011	biocarburant
+12013	deteriorament forestal
+12017	etanol
+12022	contaminació de vehicle de motor
+12026	precipitació atmosfèrica
+12027	vehicle ecològic
+12045	paleoclimatologia
+12060	clima continental
+12061	clima de desert
+12062	clima equatorial
+12063	clima mediterrani
+12064	clima de muntanya
+12065	clima oceànic
+12066	clima temperat
+12067	clima tropical
+12082	inversió atmosfèrica
+12084	tempesta de trons
+12091	esmalt
+12096	explotació d'aigües subterrànies (UP: extracció d'aigües subterrànies)
+12098	infiltració d'aigua a la terra
+12104	capa freàtica
+12107	protecció de captació d'aigua
+12108	protecció de la capa freàtica
+12122	sortida d'inundació
+12123	rebliment de dipòsit
+12128	hidrometria
+12131	pronòstic d'inundació
+12135	xarxa hidrogràfica
+12139	sedimentologia
+12145	conca hidrogràfica
+12151	aigua dolça de bany
+12152	aigua de domini públic
+12153	agua de domini no públic
+12161	paül
+12165	dessalació d'aigua
+12166	mar de bany
+12170	emissari marí
+12171	explotació oceànica
+12174	tumefacció
+12183	contaminació d'estuari
+12189	gestió de riu
+12198	netejar amb un raig d'aigua
+12199	resclosa
+12202	retallada d'herbes aquàtiques
+12204	protecció de les riberes
+12210	dipòsit de retenció
+12213	drenatge de dic
+12214	corrosivitat de l'aigua
+12215	millora de qualitat de l'aigua
+12216	sabor de l'aigua
+12219	marea ecològica
+12220	matèria en suspensió
+12226	salinitat de l'aigua
+12231	captació
+12240	font
+12248	dipòsit d'aigua
+12254	desmineralització de l'aigua
+12259	tractament d'aigües residuals in situ
+12260	tractament d'aigües col·lectives
+12263	dipòsit d'aigua de pluja
+12273	clavegueram d'aigües pluvials
+12275	clavegueram separat
+12276	sistema de desaigüe col·lectiu
+12277	aireació de l'aigua
+12278	tractament individual d'aigües residuals
+12279	conca de sedimentació
+12280	biofiltre
+12283	aigües residuals
+12284	aigües residuals urbanes
+12285	efluent de tractament de residus
+12287	tractament biològic d'aigües residuals
+12289	estancament
+12293	regeneració d'aigua
+12301	gestió de recursos d'aigua
+12318	unitat de classificació de residus
+12321	abocador de ferralla
+12325	indústria de recuperació
+12341	ús a efectes energètics
+12342	ús com a material (de residus)
+12349	neteja de platges
+12357	residus molests
+12366	pila alcalina
+12367	bateria elèctrica
+12377	desferra de neteja
+12379	residus d'activitats sanitàries
+12381	residus industrials especials
+12382	residus metàl·lics
+12383	residus minerals
+12390	derelicte
+12394	petroli mineral
+12395	sèrum
+12417	enfonsament de residus
+12429	residu de poliment
+12430	residu de purificació
+12431	residu d'incineració
+12435	sediment de neteja
+12436	fang deshidratat
+12441	fang residual de depuradora
+12444	espessiment
+12446	estabilització del fang
+12450	activitat industrial
+12456	erm industrial
+12459	instal·lació classificada
+12471	esquarterament
+12476	cort, soll
+12482	producció de petroli (cadena)
+12485	tanc d'emmagatzematge d'hidrocarbur
+12488	perforació petroliera
+12511	extracció granulada
+12514	indústria mecànica
+12525	cadena productora de fusta
+12528	indústria d'embalatge
+12576	biofiltratge
+12583	descloració
+12586	enginyeria
+12587	metanització
+12599	tractament aeròbic
+12600	tractament anaeròbic
+12601	tractament biològic
+12605	tractament fisicoquímic
+12606	tractament físic
+12607	tractament primari
+12608	tractament secundari
+12609	tractament terciari
+12611	vitrificació
+12656	pedrera subterrània
+12665	geotècnica
+12666	mecànica de roques
+12676	eliminació de matolls
+12677	prevenció de focs forestals
+12687	protecció contra inundacions
+12711	restauració de la terra en àrees de muntanya
+12717	estabilitat del sòl
+12721	vulcanologia
+12746	reglamentació antisísmica
+12763	seguretat civil
+12764	seguretat en el treball
+12778	exposició de risc
+12783	àrea de perill
+12784	accident tecnològic
+12790	ecocatàstrofe
+12793	perill nuclear
+12807	instal·lació de gran risc
+12808	instal·lació perillosa
+12814	risc biotecnològic
+12816	risc nuclear
+12819	transport de materials perillosos
+12849	zona de desastre
+12861	anàlisi de riscos
+12866	informació preventiva
+12872	pla d'exposició de risc
+12887	assegurança de danys
+12889	assegurança de contaminació
+12893	dany per aigua
+12898	avaluació de danys
+12900	avaluació tècnica
+12905	indemnització per danys
+12912	institució pública
+12913	institució pública de caire administratiu
+12914	institució pública de caire industrial i comercial
+12923	societat de consultoria
+12977	patent
+12982	comunicat de premsa
+12985	parla
+12994	estudi ambiental
+13000	pel·lícula cinematogràfica
+13001	pel·lícula documental
+13002	flora (document)
+13017	informe per al ministre
+13021	informe parlamentari
+13025	text estatutari
+13026	tesi
+13040	CD-ROM
+13041	centre d'informació
+13053	informació tècnica
+13060	xarxa d'informació
+13077	assaig
+13088	mètode
+13098	indústria siderúrgica
+13100	hàbitat urbà
+13101	fauna salvatge
+13102	gestió i planificació del territori
+13104	hàbitat rural
+13106	qualitat de les aigües subterrànies
+13107	determinació d'objectiu
+13111	ontogènesi
+13115	contribució rústica
+13117	gespa oberta
+13118	cicle biològic
+13120	hàbitat humà
+13121	concentració urbana
+13122	jardí domèstic
+13123	fotografiar
+13124	tap d'ampolla
+13127	ferralla
+13135	sistema de votació
+13136	estructures agràries
+13137	política pressupostària
+13142	política de cooperació
+13143	equilibri internacional
+13145	finances comunitàries
+13146	organització de la justícia
+13147	drets
+13148	estructura econòmica
+13149	distribució comercial
+13150	relacions monetàries
+13151	economia monetària
+13152	lliure circulació de capitals
+13154	marc social
+13156	protecció social
+13157	organització de l'ensenyament
+13159	organtizació de l'empresa
+13160	tipus d'empresa
+13161	forma jurídica de la societat
+13164	explotació agrícola de la terra
+13165	mitjà de producció agrària
+13167	productes agraris transformats
+13168	indústria agroalimentària
+13170	geografia econòmica
+13177	crèdit
+13178	llibertat
+13179	estructura industrial
+13182	existències (comerç)
+13183	esterilització
+13184	economia ambiental d'empreses
+13186	collita (agrícola)
+13187	solució de problemes ambientals
+13188	planta farratgera
+13189	planta industrial
+13190	planta tèxtil
+13191	planta tropical
+13192	propietat rústica
+13193	explotació agrària
+13194	règim d'explotació
+13195	medi geofisic
+13196	petroleoquímica
+13197	paraquímica
+13198	producte proteic
+13199	aliment transformat
+13200	menjar ràpid
+13202	producte miner
+13205	tubercle
+13207	sistema de conreu
+13209	producció vegetal
+13210	estructura pesquera
+13211	pesquera
+13212	indústria carbonera
+13213	indústria energètica
+13214	indústria de la comunicació
+13215	indústria informàtica
+13216	indústria del buit
+13217	condicionament del producte
+13218	mecànica de precisió
+13219	tecnologia de materials
+13220	armament
+13221	material audiovisual
+13222	màquina
+13223	material mecànic
+13224	equip de pressió
+13225	equip tèrmic
+13226	fabricació industrial
+13227	dimensió de l'empresa
+13228	vida de l'empresa
+13229	activitat de l'empresa
+13231	professió administrativa
+13232	tècnica de la construcció
+13233	mode de transport
+13234	localització del transport
+13236	degradació del medi ambient
+13237	pressupost comunitari
+13238	suport econòmic
+13239	sistema de comptabilitat
+13240	previsió econòmica
+13241	aranzel duaner
+13242	acte de comerç
+13244	política salarial
+13245	sistema monetari europeu
+13246	mercat monetari
+13247	política de canvis
+13248	política credíticia
+13249	deute públic
+13250	impost sobre el consum
+13251	impost sobre el capital
+13252	impost sobre la renda
+13253	política fiscal
+13254	preu agrari
+13255	preu de mercat
+13256	preu del tranport
+13257	política de preus
+13258	concentració econòmica
+13259	estructura de l'empresa
+13260	gestió financera
+13261	gestió comptable
+13262	política de l'empresa
+13263	restricció de la competència
+13264	dret internacional privat
+13265	dret internacional públic
+13266	dret internacional econòmic
+13268	responsabilitat criminal
+13269	contractació administrativa
+13270	reglamentació duanera
+13271	dret de família
+13272	reglamentació de la circulació
+13273	regulació de la producció agrícola
+13274	dret penitenciari
+13275	arrendament immobiliari
+13276	dret de la informàtica
+13277	dret de la competència
+13278	entesa
+13279	tractat CE
+13280	reglamentació del transport
+13281	ordre jurídic comunitari
+13282	acte comunitari
+13283	sentència
+13284	procediment judicial
+13285	accés a la justícia
+13286	societat
+13287	professió jurídica
+13288	sistema judicial
+13289	organització administrativa
+13290	iniciativa legislativa
+13291	tècnica de gestió
+13292	estructura institucional
+13293	vida institucional
+13294	política comercial comuna
+13295	política aranzelària comuna
+13296	política de recerca
+13297	politíca de construcció
+13298	política de comunicació
+13299	política de producció
+13300	política espacial
+13301	regió econòmica
+13302	política d'ajudes
+13303	ajuda humanitària
+13304	conflicte internacional
+13305	manteniment de la pau
+13306	lluita contra la contaminacíó
+13307	nivell d'ensenyament
+13308	ensenyament general
+13309	treball escolar
+13310	vida escolar
+13311	material d'ensenyament
+13312	sistema documental
+13313	mitjà de comunicació
+13314	sistema de comunicació
+13316	sistema informàtic
+13317	anàlisi sociològica
+13318	ciències del comportament
+13319	professió sanitària
+13320	procreació artificial
+13321	sanitat animal
+13324	víctima de guerra
+13325	migració interior
+13326	distribució geogràfica de la població
+13327	composició de la població
+13329	dret de l'individu
+13330	drets econòmics
+13333	moviment d'opinió
+13335	ideologia política
+13336	situació familiar
+13337	grup sociocultural
+13338	estructura del treball
+13339	categoria professional
+13340	cessament d'ocupació
+13341	població activa agrària
+13342	permís social
+13343	mà d'obra
+13550	campament
+13552	ribera
+13553	descàrrega de fusta
+13555	drets
+13556	acta
+13557	excrement animal
+13560	subsidi
+13561	manteniment (tècnic)
+13562	sala de pintura
+13567	salina
+13568	sender
+13570	sobreeixidor (sortida)
+13572	poda (propagació vegetativa)
+13576	equilibri ecològic
+13577	òxid de nitrogen
+13613	forn
+13639	boví
+13697	aprovació
+13722	neteja
+13748	centre urbà
+13781	comporta de resclosa
+13839	efecte del soroll
+13921	fusta perible
+13922	bosc mixt
+13937	sanció penal
+13976	conífera
+14082	sortida d'emergència
+14098	separació en origen
+14146	gestió costera
+14163	edifici ministerial
+14165	fotografia aèria
+14194	maresma
+14208	procés legislatiu
+14236	contenidor retornable
+14243	dispersió de gasos residuals
+14245	producte intermedi
+14254	substància mutagènica
+14330	substància teratogènica
+14418	xarxa de calefacció municipal
+14499	arbitri
+14507	dípter
+14543	fusta de coníferes
+14581	línia metropolitana (UP: metro)
+14588	contracte públic
+14602	organisme genèticament modificat
+14615	creuer turístic
+14619	compost tensoactiu
+14636	valor del pH
+14651	indústria artesanal
+14652	restes d'animals
+14663	carta (nàutica)
+14671	política de conservació de la natura
+14717	sanitat ambiental
+14835	instruments fiscals de gestió ambiental
+14837	mineria
+14842	Mar Negra
+14843	Mar Càspia
+14844	Mar Mediterrània
+14845	coneixement natiu
+14847	associació professional
+14848	matèria (subjecte, en dret)
+14849	contaminant orgànic persistent
+14850	mobilització de sediment
+14851	destrucció d'hàbitat
+14852	activitat amb base a terra
+14853	alteració física
+14854	avaluació sectorial
+14856	infraestructura d'informació
+14857	informació de referència geogràfica
+14858	centre de dades
+14859	proveïdor de serveis d'Internet
+14860	xarxa d'informació electrònica
+14861	xarxa d'àrea ampla
+14862	Internet
+14863	World Wide Web
+14864	pàgina web
+14865	hipertext
+14866	BBS (bulletin board system)
+14867	grup informatiu
+14868	correu electrònic
+14869	tecnologia multimèdia
+14870	presentació audiovisual
+14871	equip d'informació
+14872	objecte exposat
+14873	butlletí informatiu
+14874	programa de ràdio
+14875	programa de televisió
+14876	relació pública
+14878	sistema d'informació bibliogràfica
+14879	informació bibliogràfica
+14880	sistema d'informació de remissió
+14881	informació de remissió
+14882	sistema d'informació estadística
+14883	informació estadística
+14884	servei de biblioteca
+14885	servei de referència
+14886	indexació de la documentació
+14887	préstec de documents
+14888	préstec interbibliotecari
+14889	difusió selectiva de la informació
+14890	servei de cerca en CD-ROM
+14891	servei de cerca en Internet
+14892	centre de distribució d'informació
+14893	sistema de suport a les decisions
+14894	desenvolupament de programes
+14896	bescanvi d'informació
+14897	base de dades relacional
+14898	escàner multiespectral
+14899	resolució (paràmetre)
+14900	píxel
+14901	cinta espectral
+14902	identificació d'escena
+14903	sistema de tractament digital de la imatge
+14904	tècnica de tractament digital de la imatge
+14905	reconeixement de patró
+14906	mosaic
+14907	filtració d'imatge
+14908	millora d'imatge
+14909	correcció geomètrica
+14910	registre d'image
+14911	classificació d'imatges
+14912	classificació supervisada d'imatges
+14913	classificació d'imatges no supervisada
+14914	composició cromàtica
+14915	correcció atmosfèrica
+14916	sistema digital SIG
+14917	format digital SIG
+14918	vector
+14919	punt
+14920	línia
+14921	polígon
+14922	trama
+14923	atribut
+14924	tècnica digital SIG
+14925	interpolació
+14926	disposició en graella
+14927	ràster a vector
+14928	vector a ràster
+14930	frontera nacional/estatal
+14931	límit subnacional/subestatal
+14932	límit administratiu
+14933	dades georeferenciades
+14934	projecció geogràfica
+14935	sistema de coordenades
+14936	latitud
+14937	longitud
+14938	centre de teledetecció
+14939	laboratori SIG
+14940	servei en línia
+14947	dipòsit subterrani
+14949	economia dels negocis
+14950	dissuasió
+14951	antic lloc perillós
+14955	espai exterior (pla d'assignació)
+14956	activitat minera en fons marí
+14957	adob semilíquid
+14959	indústria de mercaderies elèctriques
+14960	companyia proveïdora de serveis
+14962	restauració de l'aigua
+14963	subministrament local de calor
+14964	agent expedicionari
+14965	evitació de residus
+14966	llei d'independència natural
+14967	agressió contra el medi ambient
+14968	llei provincial/regional (D)
+14970	autoritat provincial/regional (D)
+14971	comparació internacional
+14972	traçat de carreteres
+14973	vigilància de la qualitat de l'aire
+14974	iniciativa ciutadana
+14975	àrea sotmesa a estrès
+14976	emmagatzematge
+14982	refugi de muntanya
+14983	investigació espacial
+14985	llista vermella
+15020	material aïllant
+15027	decantació
