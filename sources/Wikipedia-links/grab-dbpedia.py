@@ -28,13 +28,13 @@ WHERE { ?subj rdfs:label "%s"@en .
     endpoint = "http://dbpedia.org/sparql"
     s = sparql.Service(endpoint)
 
-    gemetfd = open("list-gemet-terms")
+    gemetfd = open("list-of-terms.tsv")
     conceptline = gemetfd.readline()
     while conceptline:
         conceptline = conceptline[:-1] # Drop newline
         cid, term = conceptline.split("\t")
-        term = term[0].upper() + term[1:]
-        print >> sys.stderr, "QueryinG:", term
+        term = term[0].upper() + term[1:] # Ensure first letter is upper case
+        print >> sys.stderr, "Querying:", term
         conceptline = gemetfd.readline()
         q = querytemplate % term
         result = s.query(q)

@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>j.plana</Author>
+  <LastAuthor>Søren Roug</LastAuthor>
+  <LastPrinted>2011-07-07T10:15:11Z</LastPrinted>
+  <Created>2011-07-06T10:04:56Z</Created>
+  <LastSaved>2011-07-07T10:21:05Z</LastSaved>
+  <Company>Institut Cartogràfic de Catalunya</Company>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11895</WindowHeight>
+  <WindowWidth>19020</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>30</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Color="#000000"
+    ss:Bold="1" ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Color="#000000"
+    ss:Bold="1" ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Bold="1"
+    ss:Italic="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Bold="1"
+    ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Color="#000000"
+    ss:Bold="1" ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Double" ss:Weight="3"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Color="#000000"/>
+   <Interior ss:Color="#F2F2F2" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Double" ss:Weight="3"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Color="#000000"/>
+   <Interior ss:Color="#F2F2F2" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Full1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="38" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="171"/>
+   <Column ss:AutoFitWidth="0" ss:Width="283.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="180.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="324.75"/>
+   <Row ss:Height="42.75">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">INSPIRE Spatial Data Themes</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Definition</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Temes de Dades Espacials INSPIRE</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Definició</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="58.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Addresses</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Location of properties based on address identifiers, usually by road name, house number, postal code.</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Adreces</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Localització de les propietats, basada en identificadors d’adreces, per exemple, el nom de la via pública, el número de la finca o el codi postal.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Administrative units</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Units of administration, dividing areas where Member States have and/or exercise jurisdictional rights, for local, regional and national governance, separated by administrative boundaries.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Unitats administratives</Data></Cell>
+    <Cell ss:StyleID="s19"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">Unitats administratives en què es divideixin les àrees en les quals els </Font><Font>estats membres</Font><Font
+       html:Color="#000000"> tenen i/o exerceixen drets jurisdiccionals, a efectes d’administració local, regional i nacional, separades per límits administratius.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Agricultural and aquaculture facilities</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Farming equipment and production facilities (including irrigation systems, greenhouses and stables).</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Instal·lacions agrícoles i d'aqüicultura</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Equipaments i instal·lacions de producció agrària (inclosos sistemes de regadiu, hivernacles i estables).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="129.75">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Area management/restriction/regulation zones and reporting units</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Areas managed, regulated or used for reporting at international, European, national, regional and local levels. Includes dumping sites, restricted areas around drinking water sources, nitrate-vulnerable zones, regulated fairways at sea or large inland waters, areas for the dumping of waste, noise restriction zones, prospecting and mining permit areas, river basin districts, relevant reporting units and coastal zone management areas.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Zones subjectes a ordenació, a restriccions o reglamentacions i unitats de notificació.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Zones gestionades, reglamentades o utilitzades per a l’elaboració d’informes per a organismes internacionals, europeus, nacionals, regionals i locals. S’inclouran abocadors, zones restringides al voltant de llocs d’extracció d’aigua potable, zones sensibles als nitrats, rutes marítimes o per grans vies navegables reglamentades, zones d’abocament, zones de restricció de soroll, zones de prospecció o extracció minera, demarcacions hidrogràfiques, les corresponents unitats de notificació i plans d’ordenació de zones costaneres.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="64.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Atmospheric conditions</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Physical conditions in the atmosphere. Includes spatial data based on measurements, on models or on a combination thereof and includes measurement locations.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Condicions atmosfèriques</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Condicions físiques de l’atmosfera. S’inclouran dades espacials basades en mesures, models o en una combinació d’ambdós, així com els llocs de mesura.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="50.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bio-geographical regions</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Areas of relatively homogeneous ecological conditions with common characteristics.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Regions biogeogràfiques</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Zones dotades de condicions ecològiques relativament homogènies amb unes característiques comunes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Buildings</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Geographical location of buildings.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Edificis</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Localització geogràfica dels edificis.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Cadastral parcels</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Areas defined by cadastral registers or equivalent.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Parcel·les cadastrals</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Àrees determinades per registres cadastrals o equivalents.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75.75">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Coordinate reference systems</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Systems for uniquely referencing spatial information in space as a set of coordinates (x, y, z) and/or latitude and longitude and height, based on a geodetic horizontal and vertical datum.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Sistemes de coordenades de referència</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Sistemes per referenciar de manera unívoca la informació espacial en l’espai com una sèrie de coordenades (x, y, z) i/o latitud i longitud i altura, basant-se en un punt de referència geodèsic horitzontal i vertical.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Elevation</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Digital elevation models for land, ice and ocean surface. Includes terrestrial elevation, bathymetry and shoreline.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Elevacions</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Models digitals d’elevacions per a les superfícies de terra, gel i mar. S’inclourà l’altimetria, la batimetria i la línia de costa.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Energy resources</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Energy resources including hydrocarbons, hydropower, bio-energy, solar, wind, etc., where relevant including depth/height information on the extent of the resource.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Recursos energètics</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Recursos energètics: hidrocarburs, energia hidroelèctrica, bioenergia, energia solar i eòlica, etc., incloent-hi, quan sigui procedent, la informació de profunditat i altura del volum dels recursos.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="93.75">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Environmental monitoring facilities</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Location and operation of environmental monitoring facilities includes observation and measurement of emissions, of the state of environmental media and of other ecosystem parameters (biodiversity, ecological conditions of vegetation, etc.) by or on behalf of public authorities.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Instal·lacions d'observació del medi ambient</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Ubicació i funcionament d’instal·lacions d’observació del medi ambient, encarregades d’observar i mesurar emissions, l’estat del medi ambient i altres paràmetres de l’ecosistema (biodiversitat, condicions ecològiques de la vegetació, etc.) per part de les autoritats públiques o en nom d’aquestes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60.75">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Geographical grid systems</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Harmonised multi-resolution grid with a common point of origin and standardised location and size of grid cells.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Sistema de quadrícules geogràfiques</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Quadrícules harmonitzades multiresolució amb un punt d’origen comú i amb ubicació i grandària de quadrícula normalitzats.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Geographical names</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Names of areas, regions, localities, cities, suburbs, towns or settlements, or any geographical or topographical feature of public or historical interest.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Noms geogràfics</Data></Cell>
+    <Cell ss:StyleID="s19"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">Noms de zones, regions, localitats, ciutats, perifèries, poblacions o assentaments, o qualsevol </Font><Font>tret</Font><B><Font
+        html:Color="#FF0000"> </Font></B><Font html:Color="#000000">geogràfic o topogràfic d’interès públic o històric.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="57.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Geology</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Geology characterised according to composition and structure. Includes bedrock, aquifers and geomorphology.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Geologia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Característiques geològiques segons la composició i l’estructura. S’inclourà la plataforma de roca ferma, els aqüífers i la geomorfologia.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="101.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Habitats and biotopes</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Geographical areas characterised by specific ecological conditions, processes, structure, and (life support) functions that physically support the organisms that live there. Includes terrestrial and aquatic areas distinguished by geographical, abiotic and biotic features, whether entirely natural or semi-natural.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Hàbitats i biòtops</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Zones geogràfiques caracteritzades per unes condicions ecològiques específiques, processos, estructures i funcions de recolzament vital que siguin suport físic dels organismes que hi viuen. S’inclouran zones terrestres i aquàtiques diferenciades per les seves característiques geogràfiques, abiòtiques i biòtiques, tant si són enterament naturals com seminaturals.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="130.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Human health and safety</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Geographical distribution of dominance of pathologies (allergies, cancers, respiratory diseases, etc.), information indicating the effect on health (biomarkers, decline of fertility, epidemics) or well-being of humans (fatigue, stress, etc.) linked directly (air pollution, chemicals, depletion of the ozone layer, noise, etc.) or indirectly (food, genetically modified organisms, etc.) to the quality of the environment.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Salut i seguretat humanes</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Distribució geogràfica de la dominància de patologies (al·lèrgies, càncer, malalties respiratòries, etc.), de la informació que indiqui l’efecte sobre la salut (marcadors biològics, davallada de la fertilitat, epidèmies) o el benestar humans (cansament, estrès, etc.), directament vinculada amb la qualitat del medi ambient (contaminació de l’aire, productes químics, enrariment de la capa d’ozó, soroll, etc.) o indirectament vinculada amb aquesta qualitat (aliments, organismes modificats genèticament, etc.).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="116.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Hydrography</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Hydrographic elements, including marine areas and all other water bodies and items related to them, including river basins and sub-basins. Where appropriate, according to the definitions set out in Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (2) and in the form of networks.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Hidrografia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Elements hidrogràfics, incloses les zones marines i totes les altres masses d’aigua i elements relacionats amb aquestes, així com les conques i subconques hidrogràfiques. Quan sigui procedent, segons el que defineix la Directiva 2000/60/CE del Parlament Europeu i del Consell, de 23 d’octubre de 2000, per la qual s’estableix un marc comunitari d’actuació en l’àmbit de la política d’aigües i en forma de xarxes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="69">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Land cover</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Physical and biological cover of the earth's surface including artificial surfaces, agricultural areas, forests, (semi-)natural areas, wetlands, water bodies.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Coberta terrestre</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Coberta física i biològica de la superfície de la terra, incloses les superfícies artificials, les zones agràries, els boscos, les zones naturals o seminaturals, les àrees humides i les làmines d’aigua.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="70.5">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Land use</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Territory characterised according to its current and future planned functional dimension or socio-economic purpose (e.g. residential, industrial, commercial, agricultural, forestry, recreational).</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Ús del sòl</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Caracterització del territori, d’acord amb la seva dimensió funcional o la seva dedicació socioeconòmica actual o futura planificades (per exemple, residencial, industrial, comercial, agrari, forestal, recreatiu).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="58.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Meteorological geographical features</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Weather conditions and their measurements; precipitation, temperature, evapotranspiration, wind speed and direction.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Aspectes geogràfics de caràcter meteorològic</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Condicions meteorològiques i les seves mesures: precipitacions, temperatures, evapotranspiració, velocitat i direcció del vent.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="69">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Mineral resources</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Mineral resources including metal ores, industrial minerals, etc., where relevant including depth/height information on the extent of the resource.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Recursos minerals</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Recursos minerals: minerals metal·lífers, minerals industrials, etc., incloent-hi, quan sigui procedent, la informació de la profunditat i altura del volum dels recursos.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="112.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Natural risk zones</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Vulnerable areas characterised according to natural hazards (all atmospheric, hydrologic, seismic, volcanic and wildfire phenomena that, because of their location, severity, and frequency, have the potential to seriously affect society), e.g. floods, landslides and subsidence, avalanches, forest fires, earthquakes, volcanic eruptions.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Zones de riscos naturals</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Zones vulnerables caracteritzades per l’existència de riscos de caràcter natural (qualsevol fenomen atmosfèric, hidrològic, sísmic, volcànic o incendi natural que, atesa la seva localització, gravetat o freqüència, pugui afectar negativament la població), per exemple, inundacions, esllavissades de terres i col·lapses, allaus, incendis forestals, terratrèmols o erupcions volcàniques.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="54">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Oceanographic geographical features</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Physical conditions of oceans (currents, salinity, wave heights, etc.).</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Aspectes geogràfics oceanogràfics</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Condicions físiques dels oceans (corrents, salinitat, altura de l'onatge, etc.).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="46.5">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Orthoimagery</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Geo-referenced image data of the Earth's surface, from either satellite or airborne sensors.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Ortoimatges</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Imatges georeferenciades de la superfície de la terra, obtingudes per satèl·lit o per sensors aerotransportats.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="77.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Population distribution — demography</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Geographical distribution of people, including population characteristics and activity levels, aggregated by grid, region, administrative unit or other analytical unit.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Distribució de la població - demografia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Distribució geogràfica de la població referida a una quadrícula, regió, unitat administrativa o un altre tipus d’unitat analítica, incloent-hi  característiques de la població i  nivells d’activitat.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="77.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Production and industrial facilities</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Industrial production sites, including installations covered by Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control (1) and water abstraction facilities, mining, storage sites.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Instal·lacions de producció i industrials</Data></Cell>
+    <Cell ss:StyleID="s19"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">Centres de producció industrial, incloses les instal·lacions que preveu la Directiva 96/61/CE del Consell, de 24 de setembre de 1996, sobre la prevenció i el control integrat de la contaminació, i instal·lacions d’extracció d’aigua, instal·lacions mineres i centres d’emmagatzematge.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Protected sites</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Area designated or managed within a framework of international, Community and Member States' legislation to achieve specific conservation objectives.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Llocs protegits</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Zones designades o gestionades dins d’un marc legislatiu internacional, comunitari o propi dels estats membres, per a la consecució d’uns objectius de conservació específics.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Sea regions</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Physical conditions of seas and saline water bodies divided into regions and sub-regions with common characteristics.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Regions marines</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Condicions físiques dels mars i masses d'aigua salina dividides en regions i sub-regions amb característiques comunes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="80.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Soil</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Soils and subsoil characterised according to depth, texture, structure and content of particles and organic material, stoniness, erosion, where appropriate mean slope and anticipated water storage capacity.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Sòl</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Sòl i subsòl, caracteritzats segons la seva profunditat, textura, estructura i contingut de partícules i material orgànic, pedregositat, erosió i, quan sigui procedent, pendent mitjà i capacitat estimada d’emmagatzematge d’aigua.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Species distribution</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Geographical distribution of occurrence of animal and plant species aggregated by grid, region, administrative unit or other analytical unit.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Distribució de les espècies</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Distribució geogràfica de les especies animals i vegetals referides a una quadrícula, regió, unitat administrativa o un altre tipus d’unitat analítica.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="43.5">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Statistical units</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Units for dissemination or use of statistical information.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Unitats estadístiques</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Unitats per a la difusió o l’ús d’informació estadística.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="132.75">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Transport networks</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Road, rail, air and water transport networks and related infrastructure. Includes links between different networks. Also includes the trans-European transport network as defined in Decision No 1692/96/EC of the European Parliament and of the Council of 23 July 1996 on Community Guidelines for the development of the trans-European transport network (1) and future revisions of that Decision.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Xarxes de transport</Data></Cell>
+    <Cell ss:StyleID="s19"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">Xarxes de carreteres, ferrocarril, transport aeri i vies navegables, amb les seves corresponents infraestructures. S’inclouran les connexions entre xarxes diferents. S’inclourà també la xarxa transeuropea de transport, segons la definició de la Decisió núm. 1692/96/CE del Parlament Europeu i del Consell, de 23 de juliol de 1996, sobre les orientacions comunitàries per al desenvolupament de la xarxa transeuropea de transport i de les futures revisions d’aquesta Decisió.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="97.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Utility and governmental services</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Includes utility facilities such as sewage, waste management, energy supply and water supply, administrative and social governmental services such as public administrations, civil protection sites, schools and hospitals.</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Serveis d'utilitat pública i estatals</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Inclou instal·lacions d’utilitat pública de clavegueram, gestió de residus, subministrament d’energia i subministrament d’aigua, així com serveis estatals administratius i socials tals com administracions públiques, llocs de protecció civil, escoles i hospitals.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.31496062992125984"/>
+    <Footer x:Margin="0.31496062992125984"/>
+    <PageMargins x:Bottom="0.74803149606299213" x:Left="0.70866141732283472"
+     x:Right="0.70866141732283472" x:Top="0.74803149606299213"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Zoom>90</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Full2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Full3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
