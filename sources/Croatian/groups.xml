@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-06-27T16:36:39">
+<groups>
+<code>2894</code>
+<ns>Super groups</ns>
+<english>SOCIAL ASPECTS, ENVIRONMENTAL POLICY MEASURES</english>
+<slovenian>SOCIALNI VIDIKI, UKREPI OKOLJSKE POLITIKE</slovenian>
+<translation>SOCIJALNI ASPEKTI, MJERE POLITIKE ZAŠTITE OKOLIŠA</translation>
+</groups>
+<groups>
+<code>4044</code>
+<ns>Super groups</ns>
+<english>HUMAN ACTIVITIES AND PRODUCTS, EFFECTS ON THE ENVIRONMENT</english>
+<slovenian>ČLOVEKOVE AKTIVNOSTI IN IZDELKI, VPLIVI NA OKOLJE</slovenian>
+<translation>LJUDSKE AKTIVNOSTI I PROIZVODI, UTJECAJI NA OKOLIŠ</translation>
+</groups>
+<groups>
+<code>5306</code>
+<ns>Super groups</ns>
+<english>ACCESSORY LISTS</english>
+<slovenian>DODATNI SEZNAMI</slovenian>
+<translation>POMOĆNE LISTE</translation>
+</groups>
+<groups>
+<code>5499</code>
+<ns>Super groups</ns>
+<english>NATURAL ENVIRONMENT, ANTHROPIC ENVIRONMENT</english>
+<slovenian>NARAVNO OKOLJE, ČLOVEKOVO OKOLJE</slovenian>
+<translation>PRIRODNI OKOLIŠ, ANTROPOGENI OKOLIŠ</translation>
+</groups>
+<groups>
+<code>96</code>
+<ns>Groups</ns>
+<english>ADMINISTRATION, MANAGEMENT, POLICY, POLITICS, INSTITUTIONS, PLANNING</english>
+<slovenian>UPRAVA, UPRAVLJANJE, POLITIKA, INŠTITUCIJE, NAČRTOVANJE</slovenian>
+<translation>UPRAVA, UPRAVLJANJE, JAVNA POLITIKA, POLITIKA, INSTITUCIJE, PLANIRANJE</translation>
+</groups>
+<groups>
+<code>234</code>
+<ns>Groups</ns>
+<english>AGRICULTURE, FORESTRY; ANIMAL HUSBANDRY; FISHERY</english>
+<slovenian>KMETIJSTVO, GOZDARSTVO, VZREJA ŽIVALI, RIBIŠTVO</slovenian>
+<translation>POLJOPRIVREDA, ŠUMARSTVO; UZGOJ ŽIVOTINJA; RIBARSTVO</translation>
+</groups>
+<groups>
+<code>618</code>
+<ns>Groups</ns>
+<english>ATMOSPHERE (air, climate)</english>
+<slovenian>OZRAČJE (zrak, podnebje)</slovenian>
+<translation>ATMOSFERA (zrak, klima)</translation>
+</groups>
+<groups>
+<code>893</code>
+<ns>Groups</ns>
+<english>BIOSPHERE (organisms, ecosystems)</english>
+<slovenian>BIOSFERA (organizmi, ekosistemi)</slovenian>
+<translation>BIOSFERA (organizmi, ekološki sustavi)</translation>
+</groups>
+<groups>
+<code>1062</code>
+<ns>Groups</ns>
+<english>ANTHROPOSPHERE (built environment, human settlements, land setup)</english>
+<slovenian>ANTROPOSFERA (grajeno okolje, naselja, urejanje prostora)</slovenian>
+<translation>ANTROPOSFERA (izgrađeni okoliš, ljudska naselja, prostorno uređenje)</translation>
+</groups>
+<groups>
+<code>1349</code>
+<ns>Groups</ns>
+<english>CHEMISTRY, SUBSTANCES, PROCESSES</english>
+<slovenian>KEMIJA, SNOVI, PROCESI</slovenian>
+<translation>KEMIJA, TVARI, PROCESI</translation>
+</groups>
+<groups>
+<code>1922</code>
+<ns>Groups</ns>
+<english>INFORMATION, EDUCATION, CULTURE, ENVIRONMENTAL AWARENESS</english>
+<slovenian>INFORMACIJE, IZOBRAŽEVANJE, KULTURA, OKOLJSKA ZAVEST</slovenian>
+<translation>INFORMACIJE, OBRAZOVANJE, KULTURA, SVIJEST O ZAŠTITI OKOLIŠA</translation>
+</groups>
+<groups>
+<code>2504</code>
+<ns>Groups</ns>
+<english>ECONOMICS, FINANCE</english>
+<slovenian>EKONOMIJA, FINANCE</slovenian>
+<translation>EKONOMIJA, FINANCIJE</translation>
+</groups>
+<groups>
+<code>2711</code>
+<ns>Groups</ns>
+<english>ENERGY</english>
+<slovenian>ENERGIJA</slovenian>
+<translation>ENERGIJA</translation>
+</groups>
+<groups>
+<code>3875</code>
+<ns>Groups</ns>
+<english>HEALTH, NUTRITION</english>
+<slovenian>ZDRAVJE, PREHRANA</slovenian>
+<translation>ZDRAVLJE, PREHRANA</translation>
+</groups>
+<groups>
+<code>4125</code>
+<ns>Groups</ns>
+<english>HYDROSPHERE (freshwater, marine water, waters)</english>
+<slovenian>HIDROSFERA (sladka voda, morje, vode)</slovenian>
+<translation>HIDROSFERA (slatka voda, morska voda, vode)</translation>
+</groups>
+<groups>
+<code>4281</code>
+<ns>Groups</ns>
+<english>INDUSTRY, CRAFTS; TECHNOLOGY; EQUIPMENTS</english>
+<slovenian>INDUSTRIJA, OBRT, TEHNOLOGIJA, OPREMA</slovenian>
+<translation>INDUSTRIJA, OBRTI; TEHNOLOGIJA; OPREMA</translation>
+</groups>
+<groups>
+<code>4630</code>
+<ns>Groups</ns>
+<english>LAND (landscape, geography)</english>
+<slovenian>POVRŠJE (pokrajina, geografija)</slovenian>
+<translation>KOPNO (krajobraz, geografija)</translation>
+</groups>
+<groups>
+<code>4750</code>
+<ns>Groups</ns>
+<english>LEGISLATION, NORMS, CONVENTIONS</english>
+<slovenian>ZAKONODAJA, PRAVILA, KONVENCIJE</slovenian>
+<translation>ZAKONODAVSTVO/PROPISI, NORME, KONVENCIJE</translation>
+</groups>
+<groups>
+<code>4856</code>
+<ns>Groups</ns>
+<english>LITHOSPHERE (soil, geological processes)</english>
+<slovenian>LITOSFERA (tla, geološki procesi)</slovenian>
+<translation>LITOSFERA (tlo, geološki procesi)</translation>
+</groups>
+<groups>
+<code>6237</code>
+<ns>Groups</ns>
+<english>PHYSICAL ASPECTS, NOISE, VIBRATIONS, RADIATIONS</english>
+<slovenian>FIZIKALNI VIDIKI, HRUP, VIBRACIJE, SEVANJE</slovenian>
+<translation>FIZIKALNI ASPEKTI, BUKA, VIBRACIJE, ZRAČENJA</translation>
+</groups>
+<groups>
+<code>7007</code>
+<ns>Groups</ns>
+<english>RECREATION, TOURISM</english>
+<slovenian>REKREACIJA, TURIZEM</slovenian>
+<translation>REKREACIJA, TURIZAM</translation>
+</groups>
+<groups>
+<code>7136</code>
+<ns>Groups</ns>
+<english>RESEARCH, SCIENCES</english>
+<slovenian>RAZISKOVANJE, ZNANOST</slovenian>
+<translation>ISTRAŽIVANJA, ZNANOSTI</translation>
+</groups>
+<groups>
+<code>7243</code>
+<ns>Groups</ns>
+<english>RISKS, SAFETY</english>
+<slovenian>TVEGANJA, VARNOST</slovenian>
+<translation>RIZICI, SIGURNOST</translation>
+</groups>
+<groups>
+<code>7779</code>
+<ns>Groups</ns>
+<english>SOCIETY</english>
+<slovenian>DRUŽBA</slovenian>
+<translation>DRUŠTVO</translation>
+</groups>
+<groups>
+<code>7956</code>
+<ns>Groups</ns>
+<english>SPACE</english>
+<slovenian>VESOLJE</slovenian>
+<translation>SVEMIR; PROSTOR</translation>
+</groups>
+<groups>
+<code>8575</code>
+<ns>Groups</ns>
+<english>TRADE, SERVICES</english>
+<slovenian>TRGOVINA, STORITVE</slovenian>
+<translation>TRGOVINA, USLUGE</translation>
+</groups>
+<groups>
+<code>8603</code>
+<ns>Groups</ns>
+<english>TRAFFIC, TRANSPORTATION</english>
+<slovenian>PROMET</slovenian>
+<translation>PROMET, PRIJEVOZ</translation>
+</groups>
+<groups>
+<code>9117</code>
+<ns>Groups</ns>
+<english>WASTES, POLLUTANTS, POLLUTION</english>
+<slovenian>ODPADKI, ONESNAŽEVALA, ONESNAŽEVANJE</slovenian>
+<translation>OTPAD, ONEČIŠĆUJUĆE TVARI, ONEČIŠĆENJE</translation>
+</groups>
+<groups>
+<code>10111</code>
+<ns>Groups</ns>
+<english>ENVIRONMENT (natural environment, anthropic environment)</english>
+<slovenian>OKOLJE (naravno okolje, človekovo okolje)</slovenian>
+<translation>OKOLIŠ (prirodni okoliš, antropogeni okoliš)</translation>
+</groups>
+<groups>
+<code>10112</code>
+<ns>Groups</ns>
+<english>PRODUCTS, MATERIALS</english>
+<slovenian>PROIZVODI, MATERIALI</slovenian>
+<translation>PROIZVODI, MATERIJALI</translation>
+</groups>
+<groups>
+<code>10114</code>
+<ns>Groups</ns>
+<english>EFFECTS, IMPACTS</english>
+<slovenian>UČINKI, VPLIVI</slovenian>
+<translation>UTJECAJI, UČINCI</translation>
+</groups>
+<groups>
+<code>10117</code>
+<ns>Groups</ns>
+<english>GENERAL TERMS</english>
+<slovenian>SPLOŠNI IZRAZI</slovenian>
+<translation>OPĆENITI IZRAZI</translation>
+</groups>
+<groups>
+<code>10118</code>
+<ns>Groups</ns>
+<english>RESOURCES (utilisation of resources)</english>
+<slovenian>VIRI (raba virov)</slovenian>
+<translation>RESURSI (korištenje resursa)</translation>
+</groups>
+<groups>
+<code>13109</code>
+<ns>Groups</ns>
+<english>ENVIRONMENTAL POLICY</english>
+<slovenian>OKOLJSKA POLITIKA</slovenian>
+<translation>POLITIKA ZAŠTITE OKOLIŠA</translation>
+</groups>
+<groups>
+<code>14979</code>
+<ns>Groups</ns>
+<english>TIME (chronology)</english>
+<slovenian>ČAS (kronologija)</slovenian>
+<translation>VRIJEME (kronologija)</translation>
+</groups>
+<groups>
+<code>14980</code>
+<ns>Groups</ns>
+<english>FUNCTIONAL TERMS</english>
+<slovenian>FUNKCIONALNI IZRAZI</slovenian>
+<translation>FUNKCIONALNI IZRAZI</translation>
+</groups>
+<groups>
+<code>1</code>
+<ns>Themes</ns>
+<english>administration</english>
+<slovenian>uprava</slovenian>
+<translation>uprava</translation>
+</groups>
+<groups>
+<code>2</code>
+<ns>Themes</ns>
+<english>agriculture</english>
+<slovenian>kmetijstvo</slovenian>
+<translation>poljoprivreda</translation>
+</groups>
+<groups>
+<code>3</code>
+<ns>Themes</ns>
+<english>air</english>
+<slovenian>zrak</slovenian>
+<translation>zrak</translation>
+</groups>
+<groups>
+<code>4</code>
+<ns>Themes</ns>
+<english>biology</english>
+<slovenian>biologija</slovenian>
+<translation>biologija</translation>
+</groups>
+<groups>
+<code>5</code>
+<ns>Themes</ns>
+<english>building</english>
+<slovenian>gradbeništvo</slovenian>
+<translation>gradnja</translation>
+</groups>
+<groups>
+<code>6</code>
+<ns>Themes</ns>
+<english>chemistry</english>
+<slovenian>kemija</slovenian>
+<translation>kemija</translation>
+</groups>
+<groups>
+<code>7</code>
+<ns>Themes</ns>
+<english>climate</english>
+<slovenian>podnebje</slovenian>
+<translation>klima; podneblje</translation>
+</groups>
+<groups>
+<code>8</code>
+<ns>Themes</ns>
+<english>natural dynamics</english>
+<slovenian>naravni dinamični procesi</slovenian>
+<translation>prirodna dinamika</translation>
+</groups>
+<groups>
+<code>9</code>
+<ns>Themes</ns>
+<english>economics</english>
+<slovenian>ekonomija</slovenian>
+<translation>ekonomija</translation>
+</groups>
+<groups>
+<code>10</code>
+<ns>Themes</ns>
+<english>energy</english>
+<slovenian>energija</slovenian>
+<translation>energija</translation>
+</groups>
+<groups>
+<code>11</code>
+<ns>Themes</ns>
+<english>environmental policy</english>
+<slovenian>okoljska politika</slovenian>
+<translation>politika zaštite okoliša</translation>
+</groups>
+<groups>
+<code>12</code>
+<ns>Themes</ns>
+<english>fishery</english>
+<slovenian>ribištvo</slovenian>
+<translation>ribarstvo</translation>
+</groups>
+<groups>
+<code>13</code>
+<ns>Themes</ns>
+<english>food, drinking water</english>
+<slovenian>hrana, pitna voda</slovenian>
+<translation>hrana, voda za piće</translation>
+</groups>
+<groups>
+<code>14</code>
+<ns>Themes</ns>
+<english>forestry</english>
+<slovenian>gozdarstvo</slovenian>
+<translation>šumarstvo</translation>
+</groups>
+<groups>
+<code>15</code>
+<ns>Themes</ns>
+<english>general</english>
+<slovenian>splošno</slovenian>
+<translation>općenit</translation>
+</groups>
+<groups>
+<code>16</code>
+<ns>Themes</ns>
+<english>geography</english>
+<slovenian>geografija</slovenian>
+<translation>geografija</translation>
+</groups>
+<groups>
+<code>17</code>
+<ns>Themes</ns>
+<english>human health</english>
+<slovenian>zdravje ljudi</slovenian>
+<translation>ljudsko zdravlje</translation>
+</groups>
+<groups>
+<code>18</code>
+<ns>Themes</ns>
+<english>animal husbandry</english>
+<slovenian>vzreja živali</slovenian>
+<translation>uzgoj životinja</translation>
+</groups>
+<groups>
+<code>19</code>
+<ns>Themes</ns>
+<english>industry</english>
+<slovenian>industrija</slovenian>
+<translation>industrija</translation>
+</groups>
+<groups>
+<code>20</code>
+<ns>Themes</ns>
+<english>information</english>
+<slovenian>informacije</slovenian>
+<translation>informacije</translation>
+</groups>
+<groups>
+<code>21</code>
+<ns>Themes</ns>
+<english>legislation</english>
+<slovenian>zakonodaja</slovenian>
+<translation>zakonodavstvo; propisi</translation>
+</groups>
+<groups>
+<code>22</code>
+<ns>Themes</ns>
+<english>military aspects</english>
+<slovenian>vojaški vidiki</slovenian>
+<translation>vojni aspekti</translation>
+</groups>
+<groups>
+<code>23</code>
+<ns>Themes</ns>
+<english>natural areas, landscape, ecosystems</english>
+<slovenian>naravna območja, pokrajina, ekosistemi</slovenian>
+<translation>prirodna područja, krajobraz, ekološki sustavi</translation>
+</groups>
+<groups>
+<code>24</code>
+<ns>Themes</ns>
+<english>noise, vibrations</english>
+<slovenian>hrup, vibracije</slovenian>
+<translation>buka, vibracije</translation>
+</groups>
+<groups>
+<code>25</code>
+<ns>Themes</ns>
+<english>physics</english>
+<slovenian>fizika</slovenian>
+<translation>fizika</translation>
+</groups>
+<groups>
+<code>26</code>
+<ns>Themes</ns>
+<english>pollution</english>
+<slovenian>onesnaževanje</slovenian>
+<translation>onečišćenje</translation>
+</groups>
+<groups>
+<code>27</code>
+<ns>Themes</ns>
+<english>materials</english>
+<slovenian>materiali</slovenian>
+<translation>materijali</translation>
+</groups>
+<groups>
+<code>28</code>
+<ns>Themes</ns>
+<english>radiations</english>
+<slovenian>sevanje</slovenian>
+<translation>zračenja</translation>
+</groups>
+<groups>
+<code>29</code>
+<ns>Themes</ns>
+<english>tourism</english>
+<slovenian>turizem</slovenian>
+<translation>turizam</translation>
+</groups>
+<groups>
+<code>30</code>
+<ns>Themes</ns>
+<english>research</english>
+<slovenian>raziskovanje</slovenian>
+<translation>istraživanje</translation>
+</groups>
+<groups>
+<code>31</code>
+<ns>Themes</ns>
+<english>resources</english>
+<slovenian>viri</slovenian>
+<translation>resursi; izvori</translation>
+</groups>
+<groups>
+<code>32</code>
+<ns>Themes</ns>
+<english>disasters, accidents, risk</english>
+<slovenian>katastrofe, nesreče, tveganje</slovenian>
+<translation>katastrofe, nesreće, rizik</translation>
+</groups>
+<groups>
+<code>33</code>
+<ns>Themes</ns>
+<english>trade, services</english>
+<slovenian>trgovina, storitve</slovenian>
+<translation>trgovina, usluge</translation>
+</groups>
+<groups>
+<code>34</code>
+<ns>Themes</ns>
+<english>social aspects, population</english>
+<slovenian>socialni vidiki, prebivalstvo</slovenian>
+<translation>socijalni aspekti, stanovništvo</translation>
+</groups>
+<groups>
+<code>35</code>
+<ns>Themes</ns>
+<english>soil</english>
+<slovenian>tla</slovenian>
+<translation>tlo</translation>
+</groups>
+<groups>
+<code>36</code>
+<ns>Themes</ns>
+<english>space</english>
+<slovenian>vesolje</slovenian>
+<translation>svemir; prostor</translation>
+</groups>
+<groups>
+<code>37</code>
+<ns>Themes</ns>
+<english>transport</english>
+<slovenian>promet</slovenian>
+<translation>promet; transport</translation>
+</groups>
+<groups>
+<code>38</code>
+<ns>Themes</ns>
+<english>urban environment, urban stress</english>
+<slovenian>urbano okolje, urbani stres</slovenian>
+<translation>urbani okoliš, urbani stres</translation>
+</groups>
+<groups>
+<code>39</code>
+<ns>Themes</ns>
+<english>waste</english>
+<slovenian>odpadki</slovenian>
+<translation>otpad</translation>
+</groups>
+<groups>
+<code>40</code>
+<ns>Themes</ns>
+<english>water</english>
+<slovenian>voda</slovenian>
+<translation>voda</translation>
+</groups>
+</dataroot>

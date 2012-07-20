@@ -9,13 +9,14 @@ SET NAMES utf8;
   </xsl:template>
 
   <xsl:template match="xlf:trans-unit">
-INSERT INTO property VALUES (<xsl:value-of select="substring-after(../../@original,'gemet-prefLabel-')"/>,<xsl:value-of select="@id"/>, '<xsl:value-of select="../../@target-language"/>','prefLabel','<xsl:call-template name="globalReplace"><xsl:with-param name="outputString" select="xlf:target/text()"/></xsl:call-template>', 0);
+INSERT INTO property VALUES (<xsl:value-of select="substring-after(../../@original,'-')"/>,<xsl:value-of select="@id"/>, '<xsl:value-of select="../../@target-language"/>', '<xsl:value-of select="substring-before(../../@original,'-')"/>','<xsl:call-template name="globalReplace"><xsl:with-param name="outputString" select="xlf:target/text()"/></xsl:call-template>', 0);
   </xsl:template>
 
   <xsl:template match="*">
     <xsl:apply-templates />
   </xsl:template>
 
+<!-- Double the apostrophs -->
   <xsl:template name="globalReplace">
     <xsl:param name="outputString"/>
     <xsl:choose>

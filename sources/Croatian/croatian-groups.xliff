@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="prefLabel-2" product-name="Gemet Extraction" product-version="1.0" datatype="plaintext" source-language="en" target-language="hr" date="2010-01-01T09:16:22Z">
+    <header/>
+    <body>
+      <trans-unit id="2894">
+        <source>SOCIAL ASPECTS, ENVIRONMENTAL POLICY MEASURES</source>
+        <target>SOCIJALNI ASPEKTI, MJERE POLITIKE ZAŠTITE OKOLIŠA</target>
+      </trans-unit>
+      <trans-unit id="4044">
+        <source>HUMAN ACTIVITIES AND PRODUCTS, EFFECTS ON THE ENVIRONMENT</source>
+        <target>LJUDSKE AKTIVNOSTI I PROIZVODI, UTJECAJI NA OKOLIŠ</target>
+      </trans-unit>
+      <trans-unit id="5306">
+        <source>ACCESSORY LISTS</source>
+        <target>POMOĆNE LISTE</target>
+      </trans-unit>
+      <trans-unit id="5499">
+        <source>NATURAL ENVIRONMENT, ANTHROPIC ENVIRONMENT</source>
+        <target>PRIRODNI OKOLIŠ, ANTROPOGENI OKOLIŠ</target>
+      </trans-unit>
+    </body>
+  </file>
+
+  <file original="prefLabel-3" product-name="Gemet Extraction" product-version="1.0" datatype="plaintext" source-language="en" target-language="hr" date="2010-01-01T09:16:22Z">
+    <header/>
+    <body>
+      <trans-unit id="96">
+        <source>ADMINISTRATION, MANAGEMENT, POLICY, POLITICS, INSTITUTIONS, PLANNING</source>
+        <target>UPRAVA, UPRAVLJANJE, JAVNA POLITIKA, POLITIKA, INSTITUCIJE, PLANIRANJE</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>AGRICULTURE, FORESTRY; ANIMAL HUSBANDRY; FISHERY</source>
+        <target>POLJOPRIVREDA, ŠUMARSTVO; UZGOJ ŽIVOTINJA; RIBARSTVO</target>
+      </trans-unit>
+      <trans-unit id="618">
+        <source>ATMOSPHERE (air, climate)</source>
+        <target>ATMOSFERA (zrak, klima)</target>
+      </trans-unit>
+      <trans-unit id="893">
+        <source>BIOSPHERE (organisms, ecosystems)</source>
+        <target>BIOSFERA (organizmi, ekološki sustavi)</target>
+      </trans-unit>
+      <trans-unit id="1062">
+        <source>ANTHROPOSPHERE (built environment, human settlements, land setup)</source>
+        <target>ANTROPOSFERA (izgrađeni okoliš, ljudska naselja, prostorno uređenje)</target>
+      </trans-unit>
+      <trans-unit id="1349">
+        <source>CHEMISTRY, SUBSTANCES, PROCESSES</source>
+        <target>KEMIJA, TVARI, PROCESI</target>
+      </trans-unit>
+      <trans-unit id="1922">
+        <source>INFORMATION, EDUCATION, CULTURE, ENVIRONMENTAL AWARENESS</source>
+        <target>INFORMACIJE, OBRAZOVANJE, KULTURA, SVIJEST O ZAŠTITI OKOLIŠA</target>
+      </trans-unit>
+      <trans-unit id="2504">
+        <source>ECONOMICS, FINANCE</source>
+        <target>EKONOMIJA, FINANCIJE</target>
+      </trans-unit>
+      <trans-unit id="2711">
+        <source>ENERGY</source>
+        <target>ENERGIJA</target>
+      </trans-unit>
+      <trans-unit id="3875">
+        <source>HEALTH, NUTRITION</source>
+        <target>ZDRAVLJE, PREHRANA</target>
+      </trans-unit>
+      <trans-unit id="4125">
+        <source>HYDROSPHERE (freshwater, marine water, waters)</source>
+        <target>HIDROSFERA (slatka voda, morska voda, vode)</target>
+      </trans-unit>
+      <trans-unit id="4281">
+        <source>INDUSTRY, CRAFTS; TECHNOLOGY; EQUIPMENTS</source>
+        <target>INDUSTRIJA, OBRTI; TEHNOLOGIJA; OPREMA</target>
+      </trans-unit>
+      <trans-unit id="4630">
+        <source>LAND (landscape, geography)</source>
+        <target>KOPNO (krajobraz, geografija)</target>
+      </trans-unit>
+      <trans-unit id="4750">
+        <source>LEGISLATION, NORMS, CONVENTIONS</source>
+        <target>ZAKONODAVSTVO/PROPISI, NORME, KONVENCIJE</target>
+      </trans-unit>
+      <trans-unit id="4856">
+        <source>LITHOSPHERE (soil, geological processes)</source>
+        <target>LITOSFERA (tlo, geološki procesi)</target>
+      </trans-unit>
+      <trans-unit id="6237">
+        <source>PHYSICAL ASPECTS, NOISE, VIBRATIONS, RADIATIONS</source>
+        <target>FIZIKALNI ASPEKTI, BUKA, VIBRACIJE, ZRAČENJA</target>
+      </trans-unit>
+      <trans-unit id="7007">
+        <source>RECREATION, TOURISM</source>
+        <target>REKREACIJA, TURIZAM</target>
+      </trans-unit>
+      <trans-unit id="7136">
+        <source>RESEARCH, SCIENCES</source>
+        <target>ISTRAŽIVANJA, ZNANOSTI</target>
+      </trans-unit>
+      <trans-unit id="7243">
+        <source>RISKS, SAFETY</source>
+        <target>RIZICI, SIGURNOST</target>
+      </trans-unit>
+      <trans-unit id="7779">
+        <source>SOCIETY</source>
+        <target>DRUŠTVO</target>
+      </trans-unit>
+      <trans-unit id="7956">
+        <source>SPACE</source>
+        <target>SVEMIR; PROSTOR</target>
+      </trans-unit>
+      <trans-unit id="8575">
+        <source>TRADE, SERVICES</source>
+        <target>TRGOVINA, USLUGE</target>
+      </trans-unit>
+      <trans-unit id="8603">
+        <source>TRAFFIC, TRANSPORTATION</source>
+        <target>PROMET, PRIJEVOZ</target>
+      </trans-unit>
+      <trans-unit id="9117">
+        <source>WASTES, POLLUTANTS, POLLUTION</source>
+        <target>OTPAD, ONEČIŠĆUJUĆE TVARI, ONEČIŠĆENJE</target>
+      </trans-unit>
+      <trans-unit id="10111">
+        <source>ENVIRONMENT (natural environment, anthropic environment)</source>
+        <target>OKOLIŠ (prirodni okoliš, antropogeni okoliš)</target>
+      </trans-unit>
+      <trans-unit id="10112">
+        <source>PRODUCTS, MATERIALS</source>
+        <target>PROIZVODI, MATERIJALI</target>
+      </trans-unit>
+      <trans-unit id="10114">
+        <source>EFFECTS, IMPACTS</source>
+        <target>UTJECAJI, UČINCI</target>
+      </trans-unit>
+      <trans-unit id="10117">
+        <source>GENERAL TERMS</source>
+        <target>OPĆENITI IZRAZI</target>
+      </trans-unit>
+      <trans-unit id="10118">
+        <source>RESOURCES (utilisation of resources)</source>
+        <target>RESURSI (korištenje resursa)</target>
+      </trans-unit>
+      <trans-unit id="13109">
+        <source>ENVIRONMENTAL POLICY</source>
+        <target>POLITIKA ZAŠTITE OKOLIŠA</target>
+      </trans-unit>
+      <trans-unit id="14979">
+        <source>TIME (chronology)</source>
+        <target>VRIJEME (kronologija)</target>
+      </trans-unit>
+      <trans-unit id="14980">
+        <source>FUNCTIONAL TERMS</source>
+        <target>FUNKCIONALNI IZRAZI</target>
+      </trans-unit>
+    </body>
+  </file>
+
+
+  <file original="prefLabel-4" product-name="Gemet Extraction" product-version="1.0" datatype="plaintext" source-language="en" target-language="hr" date="2010-01-01T09:16:22Z">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>administration</source>
+        <target>uprava</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>agriculture</source>
+        <target>poljoprivreda</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>air</source>
+        <target>zrak</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>biology</source>
+        <target>biologija</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>building</source>
+        <target>gradnja</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>chemistry</source>
+        <target>kemija</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>climate</source>
+        <target>klima; podneblje</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>natural dynamics</source>
+        <target>prirodna dinamika</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>economics</source>
+        <target>ekonomija</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>energy</source>
+        <target>energija</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>environmental policy</source>
+        <target>politika zaštite okoliša</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>fishery</source>
+        <target>ribarstvo</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>food, drinking water</source>
+        <target>hrana, voda za piće</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>forestry</source>
+        <target>šumarstvo</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>general</source>
+        <target>općenit</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>geography</source>
+        <target>geografija</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>human health</source>
+        <target>ljudsko zdravlje</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>animal husbandry</source>
+        <target>uzgoj životinja</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>industry</source>
+        <target>industrija</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>information</source>
+        <target>informacije</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>legislation</source>
+        <target>zakonodavstvo; propisi</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>military aspects</source>
+        <target>vojni aspekti</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>natural areas, landscape, ecosystems</source>
+        <target>prirodna područja, krajobraz, ekološki sustavi</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>noise, vibrations</source>
+        <target>buka, vibracije</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>physics</source>
+        <target>fizika</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>pollution</source>
+        <target>onečišćenje</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>materials</source>
+        <target>materijali</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>radiations</source>
+        <target>zračenja</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>tourism</source>
+        <target>turizam</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>research</source>
+        <target>istraživanje</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>resources</source>
+        <target>resursi; izvori</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>disasters, accidents, risk</source>
+        <target>katastrofe, nesreće, rizik</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>trade, services</source>
+        <target>trgovina, usluge</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>social aspects, population</source>
+        <target>socijalni aspekti, stanovništvo</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>soil</source>
+        <target>tlo</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>space</source>
+        <target>svemir; prostor</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>transport</source>
+        <target>promet; transport</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>urban environment, urban stress</source>
+        <target>urbani okoliš, urbani stres</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>waste</source>
+        <target>otpad</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>water</source>
+        <target>voda</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
