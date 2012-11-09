@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-11-09T16:03:13">
+<groups-themes>
+<code>2894</code>
+<ns>Super groups</ns>
+<preflabel>SOCIAL ASPECTS, ENVIRONMENTAL POLICY MEASURES</preflabel>
+<lang2term>СОЦИАЛЬНЫЕ АСПЕКТЫ, МЕРЫ ЭКОЛОГИЧЕСКОЙ ПОЛИТИКИ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>4044</code>
+<ns>Super groups</ns>
+<preflabel>HUMAN ACTIVITIES AND PRODUCTS, EFFECTS ON THE ENVIRONMENT</preflabel>
+<lang2term>ДЕЯТЕЛЬНОСТЬ ЧЕЛОВЕКА И ЕЕ РЕЗУЛЬТАТЫ, ВОЗДЕЙСТВИЕ НА ОКРУЖАЮЩУЮ СРЕДУ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>5306</code>
+<ns>Super groups</ns>
+<preflabel>ACCESSORY LISTS</preflabel>
+<lang2term>ВСПОМОГАТЕЛЬНЫЕ ТЕРМИНЫ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>5499</code>
+<ns>Super groups</ns>
+<preflabel>NATURAL ENVIRONMENT, ANTHROPIC ENVIRONMENT</preflabel>
+<lang2term>ПРИРОДНАЯ СРЕДА, СРЕДА ОБИТАНИЯ ЧЕЛОВЕКА</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>96</code>
+<ns>Groups</ns>
+<preflabel>ADMINISTRATION, MANAGEMENT, POLICY, POLITICS, INSTITUTIONS, PLANNING</preflabel>
+<lang2term>АДМИНИСТРАЦИЯ, УПРАВЛЕНИЕ, ПОЛИТИКА, ОРГАНЫ, ПЛАНИРОВАНИЕ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>234</code>
+<ns>Groups</ns>
+<preflabel>AGRICULTURE, FORESTRY; ANIMAL HUSBANDRY; FISHERY</preflabel>
+<lang2term>СЕЛЬСКОЕ ХОЗЯЙСТВО, ЛЕСНОЕ ХОЗЯЙСТВО, ЖИВОТНОВОДСТВО, РЫБНОЕ ХОЗЯЙСТВО</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>618</code>
+<ns>Groups</ns>
+<preflabel>ATMOSPHERE (air, climate)</preflabel>
+<lang2term>АТМОСФЕРА (воздух, климат)</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>893</code>
+<ns>Groups</ns>
+<preflabel>BIOSPHERE (organisms, ecosystems)</preflabel>
+<lang2term>БИОСФЕРА (организмы, экосистемы)</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>1062</code>
+<ns>Groups</ns>
+<preflabel>ANTHROPOSPHERE (built environment, human settlements, land setup)</preflabel>
+<lang2term>АНТРОПОСФЕРА (созданная среда, населенные пункты, региональное планирование)</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>1349</code>
+<ns>Groups</ns>
+<preflabel>CHEMISTRY, SUBSTANCES, PROCESSES</preflabel>
+<lang2term>ХИМИЯ, ВЕЩЕСТВА, ПРОЦЕССЫ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>1922</code>
+<ns>Groups</ns>
+<preflabel>INFORMATION, EDUCATION, CULTURE, ENVIRONMENTAL AWARENESS</preflabel>
+<lang2term>ИНФОРМАЦИЯ, ОБРАЗОВАНИЕ, КУЛЬТУРА, ИНФОРМИРОВАННОСТЬ ОБ ОКРУЖАЮЩЕЙ СРЕДЕ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>2504</code>
+<ns>Groups</ns>
+<preflabel>ECONOMICS, FINANCE</preflabel>
+<lang2term>ЭКОНОМИКА, ФИНАНСЫ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>2711</code>
+<ns>Groups</ns>
+<preflabel>ENERGY</preflabel>
+<lang2term>ЭНЕРГИЯ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>3875</code>
+<ns>Groups</ns>
+<preflabel>HEALTH, NUTRITION</preflabel>
+<lang2term>ЗДОРОВЬЕ, ПИТАНИЕ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>4125</code>
+<ns>Groups</ns>
+<preflabel>HYDROSPHERE (freshwater, marine water, waters)</preflabel>
+<lang2term>ГИДРОСФЕРА (пресная вода, морская вода, водные ресурсы)</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>4281</code>
+<ns>Groups</ns>
+<preflabel>INDUSTRY, CRAFTS; TECHNOLOGY; EQUIPMENTS</preflabel>
+<lang2term>ПРОМЫШЛЕННОСТЬ, РЕМЕСЛА, ТЕХНОЛОГИИ, ОБОРУДОВАНИЕ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>4630</code>
+<ns>Groups</ns>
+<preflabel>LAND (landscape, geography)</preflabel>
+<lang2term>ЗЕМЛЯ (ландшафт, география)</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>4750</code>
+<ns>Groups</ns>
+<preflabel>LEGISLATION, NORMS, CONVENTIONS</preflabel>
+<lang2term>ЗАКОНОДАТЕЛЬСТВО, НОРМЫ, КОНВЕНЦИИ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>4856</code>
+<ns>Groups</ns>
+<preflabel>LITHOSPHERE (soil, geological processes)</preflabel>
+<lang2term>ЛИТОСФЕРА (почва, геологические процессы)</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>6237</code>
+<ns>Groups</ns>
+<preflabel>PHYSICAL ASPECTS, NOISE, VIBRATIONS, RADIATIONS</preflabel>
+<lang2term>ФИЗИЧЕСКИЕ АСПЕКТЫ, ШУМ, ВИБРАЦИЯ, РАДИАЦИЯ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>7007</code>
+<ns>Groups</ns>
+<preflabel>RECREATION, TOURISM</preflabel>
+<lang2term>ОТДЫХ, ТУРИЗМ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>7136</code>
+<ns>Groups</ns>
+<preflabel>RESEARCH, SCIENCES</preflabel>
+<lang2term>ИССЛЕДОВАНИЯ, НАУКА</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>7243</code>
+<ns>Groups</ns>
+<preflabel>RISKS, SAFETY</preflabel>
+<lang2term>РИСКИ, БЕЗОПАСНОСТЬ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>7779</code>
+<ns>Groups</ns>
+<preflabel>SOCIETY</preflabel>
+<lang2term>ОБЩЕСТВО</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>7956</code>
+<ns>Groups</ns>
+<preflabel>SPACE</preflabel>
+<lang2term>КОСМОС</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>8575</code>
+<ns>Groups</ns>
+<preflabel>TRADE, SERVICES</preflabel>
+<lang2term>ТОРГОВЛЯ, УСЛУГИ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>8603</code>
+<ns>Groups</ns>
+<preflabel>TRAFFIC, TRANSPORTATION</preflabel>
+<lang2term>ДОРОЖНОЕ ДВИЖЕНИЕ, ТРАНСПОРТ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>9117</code>
+<ns>Groups</ns>
+<preflabel>WASTES, POLLUTANTS, POLLUTION</preflabel>
+<lang2term>ОТХОДЫ, ЗАГРЯЗНЯЮЩИЕ ВЕЩЕСТВА, ЗАГРЯЗНЕНИЕ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>10111</code>
+<ns>Groups</ns>
+<preflabel>ENVIRONMENT (natural environment, anthropic environment)</preflabel>
+<lang2term>ОКРУЖАЮЩАЯ СРЕДА (природная среда, среда обитания человека)</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>10112</code>
+<ns>Groups</ns>
+<preflabel>PRODUCTS, MATERIALS</preflabel>
+<lang2term>ПРОДУКТЫ, МАТЕРИАЛЫ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>10114</code>
+<ns>Groups</ns>
+<preflabel>EFFECTS, IMPACTS</preflabel>
+<lang2term>ВОЗДЕЙСТВИЕ, ВЛИЯНИЕ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>10117</code>
+<ns>Groups</ns>
+<preflabel>GENERAL TERMS</preflabel>
+<lang2term>ОБЩИЕ ТЕРМИНЫ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>10118</code>
+<ns>Groups</ns>
+<preflabel>RESOURCES (utilisation of resources)</preflabel>
+<lang2term>РЕСУРСЫ (использование ресурсов)</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>13109</code>
+<ns>Groups</ns>
+<preflabel>ENVIRONMENTAL POLICY</preflabel>
+<lang2term>ПОЛИТИКА В ОБЛАСТИ ОХРАНЫ ОКРУЖАЮЩЕЙ СРЕДЫ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>14979</code>
+<ns>Groups</ns>
+<preflabel>TIME (chronology)</preflabel>
+<lang2term>ВРЕМЯ (хронология)</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>14980</code>
+<ns>Groups</ns>
+<preflabel>FUNCTIONAL TERMS</preflabel>
+<lang2term>ФУНКЦИОНАЛЬНЫЕ ТЕРМИНЫ</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>1</code>
+<ns>Themes</ns>
+<preflabel>administration</preflabel>
+<lang2term>администрация</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>2</code>
+<ns>Themes</ns>
+<preflabel>agriculture</preflabel>
+<lang2term>сельское хозяйство</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>3</code>
+<ns>Themes</ns>
+<preflabel>air</preflabel>
+<lang2term>воздух</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>4</code>
+<ns>Themes</ns>
+<preflabel>biology</preflabel>
+<lang2term>биология</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>5</code>
+<ns>Themes</ns>
+<preflabel>building</preflabel>
+<lang2term>строительство</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>6</code>
+<ns>Themes</ns>
+<preflabel>chemistry</preflabel>
+<lang2term>химия</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>7</code>
+<ns>Themes</ns>
+<preflabel>climate</preflabel>
+<lang2term>климат</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>8</code>
+<ns>Themes</ns>
+<preflabel>natural dynamics</preflabel>
+<lang2term>природная динамика</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>9</code>
+<ns>Themes</ns>
+<preflabel>economics</preflabel>
+<lang2term>экономика</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>10</code>
+<ns>Themes</ns>
+<preflabel>energy</preflabel>
+<lang2term>энергия</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>11</code>
+<ns>Themes</ns>
+<preflabel>environmental policy</preflabel>
+<lang2term>экологическая политика</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>12</code>
+<ns>Themes</ns>
+<preflabel>fishery</preflabel>
+<lang2term>рыболовство</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>13</code>
+<ns>Themes</ns>
+<preflabel>food, drinking water</preflabel>
+<lang2term>продукты питания, питьевая вода</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>14</code>
+<ns>Themes</ns>
+<preflabel>forestry</preflabel>
+<lang2term>лесное хозяйство</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>15</code>
+<ns>Themes</ns>
+<preflabel>general</preflabel>
+<lang2term>общее</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>16</code>
+<ns>Themes</ns>
+<preflabel>geography</preflabel>
+<lang2term>география</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>17</code>
+<ns>Themes</ns>
+<preflabel>human health</preflabel>
+<lang2term>здоровье человека</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>18</code>
+<ns>Themes</ns>
+<preflabel>animal husbandry</preflabel>
+<lang2term>животноводство</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>19</code>
+<ns>Themes</ns>
+<preflabel>industry</preflabel>
+<lang2term>промышленность</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>20</code>
+<ns>Themes</ns>
+<preflabel>information</preflabel>
+<lang2term>информация</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>21</code>
+<ns>Themes</ns>
+<preflabel>legislation</preflabel>
+<lang2term>законодательство</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>22</code>
+<ns>Themes</ns>
+<preflabel>military aspects</preflabel>
+<lang2term>военные аспекты</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>23</code>
+<ns>Themes</ns>
+<preflabel>natural areas, landscape, ecosystems</preflabel>
+<lang2term>природные зоны, ландшафт, экосистемы</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>24</code>
+<ns>Themes</ns>
+<preflabel>noise, vibrations</preflabel>
+<lang2term>шум, вибрация</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>25</code>
+<ns>Themes</ns>
+<preflabel>physics</preflabel>
+<lang2term>физика</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>26</code>
+<ns>Themes</ns>
+<preflabel>pollution</preflabel>
+<lang2term>загрязнение</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>27</code>
+<ns>Themes</ns>
+<preflabel>materials</preflabel>
+<lang2term>материалы</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>28</code>
+<ns>Themes</ns>
+<preflabel>radiations</preflabel>
+<lang2term>излучение</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>29</code>
+<ns>Themes</ns>
+<preflabel>tourism</preflabel>
+<lang2term>туризм</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>30</code>
+<ns>Themes</ns>
+<preflabel>research</preflabel>
+<lang2term>исследования</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>31</code>
+<ns>Themes</ns>
+<preflabel>resources</preflabel>
+<lang2term>ресурсы</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>32</code>
+<ns>Themes</ns>
+<preflabel>disasters, accidents, risk</preflabel>
+<lang2term>бедствия, аварии, риск</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>33</code>
+<ns>Themes</ns>
+<preflabel>trade, services</preflabel>
+<lang2term>торговля, услуги</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>34</code>
+<ns>Themes</ns>
+<preflabel>social aspects, population</preflabel>
+<lang2term>социальные аспекты, население</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>35</code>
+<ns>Themes</ns>
+<preflabel>soil</preflabel>
+<lang2term>почва</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>36</code>
+<ns>Themes</ns>
+<preflabel>space</preflabel>
+<lang2term>космос</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>37</code>
+<ns>Themes</ns>
+<preflabel>transport</preflabel>
+<lang2term>транспорт</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>38</code>
+<ns>Themes</ns>
+<preflabel>urban environment, urban stress</preflabel>
+<lang2term>городская среда, неблагоприятные факторы в условиях города</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>39</code>
+<ns>Themes</ns>
+<preflabel>waste</preflabel>
+<lang2term>отходы</lang2term>
+<translation></translation>
+</groups-themes>
+<groups-themes>
+<code>40</code>
+<ns>Themes</ns>
+<preflabel>water</preflabel>
+<lang2term>вода</lang2term>
+<translation></translation>
+</groups-themes>
+</dataroot>

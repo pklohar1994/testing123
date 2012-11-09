@@ -1,4 +1,7 @@
-SELECT le.id_concept code, le.value english ,de.value definition, se.value scopenote, ls.value spanish, "" AS translation
+-- This script creates a table with 6 columns: code, english term, english definition, english scope note, spanish term and empty column
+-- It does not provide the Spanish definitions
+SELECT le.id_concept code, le.value english, de.value definition, se.value scopenote,
+    ls.value spanish, "" AS translation
 FROM property AS le
 LEFT JOIN property AS de on le.ns=de.ns AND le.id_concept=de.id_concept AND de.langcode="en" AND de.name="definition"
 LEFT JOIN property AS se on le.ns=se.ns AND le.id_concept=se.id_concept AND se.langcode="en" AND se.name="scopeNote"
