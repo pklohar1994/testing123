@@ -1,0 +1,3 @@
+Copy the TranslationWork/dataroot-to-xliff.xslt to the language folder and adjust it to the XML file
+
+Then use TranslationWork/xliff-to-sql.xslt to generate the SQL

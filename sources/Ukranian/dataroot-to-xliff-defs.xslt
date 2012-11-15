@@ -8,7 +8,7 @@
 
   <xsl:template match="/">
     <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
-      <file original="gemet-definition-1"
+      <file original="definition-1"
       product-name="Gemet Extraction"
       product-version="1.0"
       datatype="plaintext"
