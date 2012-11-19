@@ -8,7 +8,7 @@
 
   <xsl:template match="/">
     <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
-      <file original="definition-1"
+      <file original="prefLabel-1"
       product-name="Gemet Extraction"
       product-version="1.0"
       datatype="plaintext"
@@ -25,16 +25,16 @@
     </xliff>
   </xsl:template>
 
-  <xsl:template match="groups|terms-definitions">
+  <xsl:template match="groups-themes|terms-definitions">
     <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.1">
       <xsl:attribute name="id">
         <xsl:value-of select="code"/>
       </xsl:attribute>
       <source>
-        <xsl:value-of select="definition"/>
+        <xsl:value-of select="preflabel"/>
       </source>
       <target>
-        <xsl:value-of select="transldef"/>
+        <xsl:value-of select="translation"/>
       </target>
     </trans-unit>
   </xsl:template>

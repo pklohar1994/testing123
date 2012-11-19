@@ -38,7 +38,9 @@
       </target>
     </trans-unit>
   </xsl:template>
+
   <xsl:template match="*">
     <xsl:apply-templates/>
   </xsl:template>
+
 </xsl:stylesheet>
