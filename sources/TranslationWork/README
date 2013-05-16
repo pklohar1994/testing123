@@ -1,0 +1,21 @@
+
+1. Modify gemetastable.sql or gemet_defs_astable.sql to export the languages you need
+   - English doesn't have any altLabels.
+2. Run mysql -p --xml gemet2008 <gemet_defs_astable.sql >results.xml
+
+3. xsltproc to-dataroot.xsl results.xml >terms-definitions.xml
+
+4. Import terms-definitions.xml into an MS-Access db. You will get truncation errors.
+   Fix the sizes of the fields, empty the table and then import again and choose to
+   add to existing table.
+
+5. Modify groupsastable.sql to export the languages you need
+
+6. Run mysql -p --xml gemet2008 <groupsastable.sql >groupsresults.xml
+
+7. xsltproc to-dataroot.xsl groupsresults.xml >groups-themes.xml
+
+8. Replace the table names in the file with:
+  :g/terms-definitions/s//groups-themes/
+
+9. Import into the MS-Access DB
