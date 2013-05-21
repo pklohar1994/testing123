@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2013-05-21T09:06:30">
+  <terms-definitions>
+    <code>160</code>
+    <english>Addresses</english>
+    <definition>Location of properties based on address identifiers, usually by road name, house number, postal code.</definition>
+    <lang2term>Adrese</lang2term>
+    <lang2def>Položaj nekretnina koji se temelji na adresnim identifikatorima, a to su najčešće ime ulice, kućni broj i poštanski broj.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>156</code>
+    <english>Administrative units</english>
+    <definition>Units of administration, dividing areas where Member States have and/or exercise jurisdictional rights, for local, regional and national governance, separated by administrative boundaries.</definition>
+    <lang2term>Upravne jedinice</lang2term>
+    <lang2def>Upravne jedinice lokalne, regionalne ili nacionalne uprave, koje razdjeljuju područja na kojima države članice imaju i/ili primjenjuju jurisdikcijska prava i koje su razdvojene upravnim granicama.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>22</code>
+    <english>Agricultural and aquaculture facilities</english>
+    <definition>Farming equipment and production facilities (including irrigation systems, greenhouses and stables).</definition>
+    <lang2term>Sustavi za poljoprivredu i akvakulturu</lang2term>
+    <lang2def>Oprema za poljodjelstvo, proizvodni objekti i strojevi (uključujući sustave navodnjavanja, staklenike i štale).</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>24</code>
+    <english>Area management/restriction/regulation zones and reporting units</english>
+    <definition>Areas managed, regulated or used for reporting at international, European, national, regional and local levels. Includes dumping sites, restricted areas around drinking water sources, nitrate-vulnerable zones, regulated fairways at sea or large inland waters, areas for the dumping of waste, noise restriction zones, prospecting and mining permit areas, river basin districts, relevant reporting units and coastal zone management areas.</definition>
+    <lang2term>Područja upravljanja/zaštićena područja/uređena područja i jedinice za izvješćivanje</lang2term>
+    <lang2def>Područja upravljana, uređena ili korištena za izvještavanje na međunarodnoj, europskoj, nacionalnoj, regionalnoj i lokalnoj razini. Uključuju odlagališta smeća, zaštićena područja oko izvora pitke vode, područja osjetljiva na nitrate, uređene plovne putove na moru ili na velikim kopnenim vodama, područja za odlaganje otpada, područja zaštićena od buke, područja s dozvolom za istraživanje ruda i rudarenje, područja riječnih bazena, odgovarajuće jedinice za izvještavanje i područja za upravljanje obalnim pojasom.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>26</code>
+    <english>Atmospheric conditions</english>
+    <definition>Physical conditions in the atmosphere. Includes spatial data based on measurements, on models or on a combination thereof and includes measurement locations.</definition>
+    <lang2term>Atmosferski uvjeti</lang2term>
+    <lang2def>Fizikalni uvjeti u atmosferi. Uključuju prostorne podatke koji se temelje na mjerenjima, modelima ili njihovoj kombinaciji uključujući lokacije mjerenja.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>30</code>
+    <english>Bio-geographical regions</english>
+    <definition>Areas of relatively homogeneous ecological conditions with common characteristics.</definition>
+    <lang2term>Biogeografske regije</lang2term>
+    <lang2def>Područja s relativno homogenim ekološkim uvjetima koja imaju zajedničke osobine.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>15</code>
+    <english>Buildings</english>
+    <definition>Geographical location of buildings.</definition>
+    <lang2term>Zgrade</lang2term>
+    <lang2def>Geografski položaj zgrada.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>161</code>
+    <english>Cadastral parcels</english>
+    <definition>Areas defined by cadastral registers or equivalent.</definition>
+    <lang2term>Katastarske čestice</lang2term>
+    <lang2def>Katastarska čestica je dio područja katastarske općine, odnosno katastarskog područja na moru, određen brojem katastarske čestice i njezinim granicama.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>1</code>
+    <english>Coordinate reference systems</english>
+    <definition>Systems for uniquely referencing spatial information in space as a set of coordinates (x, y, z) and/or latitude and longitude and height, based on a geodetic horizontal and vertical datum.</definition>
+    <lang2term>Koordinatni referentni sustavi</lang2term>
+    <lang2def>Sustavi za jednoznačno referenciranje prostornih informacija u prostoru u obliku skupa koordinata (x,y,z) i/ili širine, dužine i visine, a koji se temelje na horizontalnom i vertikalnom geodetskom datumu.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>10</code>
+    <english>Elevation</english>
+    <definition>Digital elevation models for land, ice and ocean surface. Includes terrestrial elevation, bathymetry and shoreline.</definition>
+    <lang2term>Visine</lang2term>
+    <lang2def>Digitalni modeli visina za površinu kopna, leda i oceana. Uključuju nadmorske visine, batimetriju i obalne linije.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>33</code>
+    <english>Energy resources</english>
+    <definition>Energy resources including hydrocarbons, hydropower, bio-energy, solar, wind, etc., where relevant including depth/height information on the extent of the resource.</definition>
+    <lang2term>Izvori energije</lang2term>
+    <lang2def>Izvori energije uključujući ugljikovodike, vodnu energiju, bioenergiju, solarnu energiju, vjetar itd., uključujući dubinske/visinske informacije o veličini izvora tamo gdje je potrebno.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>20</code>
+    <english>Environmental monitoring facilities</english>
+    <definition>Location and operation of environmental monitoring facilities includes observation and measurement of emissions, of the state of environmental media and of other ecosystem parameters (biodiversity, ecological conditions of vegetation, etc.) by or on behalf of public authorities.</definition>
+    <lang2term>Sustavi za nadzor okoliša</lang2term>
+    <lang2def>Lokacija i djelovanje sustava za nadzor okoliša koji uključuju promatranje i mjerenje emisija, stanja okoliša, kao i drugih parametara ekosustava (biološka raznolikost, ekološko stanje vegetacije, itd.) koje provodi javno tijelo ili se provodi u njegovo ime.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>2</code>
+    <english>Geographical grid systems</english>
+    <definition>Harmonised multi-resolution grid with a common point of origin and standardised location and size of grid cells.</definition>
+    <lang2term>Sustavi geografskih mreža</lang2term>
+    <lang2def>Usklađena mreža višestruke razlučivosti sa zajedničkim ishodištem i standardiziranim položajem i veličinom mrežnih polja.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>159</code>
+    <english>Geographical names</english>
+    <definition>Names of areas, regions, localities, cities, suburbs, towns or settlements, or any geographical or topographical feature of public or historical interest.</definition>
+    <lang2term>Geografska imena</lang2term>
+    <lang2def>Imena područja, regija, mjesta, velikih gradova, predgrađa, gradova ili naselja ili bilo kojeg geografskog ili topografskog obilježja od javnog ili povijesnog značenja.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>13</code>
+    <english>Geology</english>
+    <definition>Geology characterised according to composition and structure. Includes bedrock, aquifers and geomorphology.</definition>
+    <lang2term>Geologija</lang2term>
+    <lang2def>Geologija je opisana u skladu sa sastavom i strukturom. Uključuje stjenovito tlo, podzemne vode i geomorfologiju.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>31</code>
+    <english>Habitats and biotopes</english>
+    <definition>Geographical areas characterised by specific ecological conditions, processes, structure, and (life support) functions that physically support the organisms that live there. Includes terrestrial and aquatic areas distinguished by geographical, abiotic and biotic features, whether entirely natural or semi-natural.</definition>
+    <lang2term>Staništa i biotopi</lang2term>
+    <lang2def>Geografska područja za koja su svojstveni posebni ekološki uvjeti, procesi, strukture i funkcije (za održavanje života), a koje fizički pomažu organizmima da žive na njima. Uključujući kopnena i vodena područja koja se razlikuju po geografskim, abiotičkim i biotičkim obilježjima, bilo da su u potpunosti prirodna ili polu-prirodna.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>18</code>
+    <english>Human health and safety</english>
+    <definition>Geographical distribution of dominance of pathologies (allergies, cancers, respiratory diseases, etc.), information indicating the effect on health (biomarkers, decline of fertility, epidemics) or well-being of humans (fatigue, stress, etc.) linked directly (air pollution, chemicals, depletion of the ozone layer, noise, etc.) or indirectly (food, genetically modified organisms, etc.) to the quality of the environment.</definition>
+    <lang2term>Ljudsko zdravlje i sigurnost</lang2term>
+    <lang2def>Geografska raširenost prevladavajućih patoloških pojava (alergije, tumori, bolesti dišnih putova, itd.), informacije koje ukazuju na utjecaj na zdravlje (biomarkeri, smanjenje plodnosti, epidemije) ili dobrobit ljudi (umor, stres, itd.), a koje su direktno (onečišćenje zraka, kemikalije, prorijeđenost ozonskog omotača, buka, itd.) ili indirektno (hrana, genetski izmijenjeni organizmi, itd.) povezane s kakvoćom okoliša.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>163</code>
+    <english>Hydrography</english>
+    <definition>Hydrographic elements, including marine areas and all other water bodies and items related to them, including river basins and sub-basins. Where appropriate, according to the definitions set out in Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (2) and in the form of networks.</definition>
+    <lang2term>Hidrografija</lang2term>
+    <lang2def>Hidrografski elementi, uključujući morska područja i sva druga vodena tijela i s njima povezane pojedinosti, uključujući riječne bazene i pod-bazene. Prema potrebi, u skladu s odredbama koje su utvrđene u Direktivi 2000/60/EZ, Europskog parlamenta i Vijeća, od 23. listopada 2000., uspostava okvira za djelovanje Zajednice na području politike voda i u obliku mreža.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>11</code>
+    <english>Land cover</english>
+    <definition>Physical and biological cover of the earth's surface including artificial surfaces, agricultural areas, forests, (semi-)natural areas, wetlands, water bodies.</definition>
+    <lang2term>Pokrov zemljišta</lang2term>
+    <lang2def>Fizički ili biološki pokrov Zemljine površine, uključujući umjetne površine, poljoprivredna područja, šume, (polu-) prirodna područja, močvare, vodena tijela.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>17</code>
+    <english>Land use</english>
+    <definition>Territory characterised according to its current and future planned functional dimension or socio-economic purpose (e.g. residential, industrial, commercial, agricultural, forestry, recreational).</definition>
+    <lang2term>Korištenje zemljišta</lang2term>
+    <lang2def>Područje opisano u skladu s njegovom sadašnjom i u budućnosti planiranom funkcionalnošću ili u skladu s njegovom društveno-gospodarskom namjenom (npr. stambenom, industrijskom, poslovnom, poljoprivrednom, šumarskom, rekreacijskom).</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>27</code>
+    <english>Meteorological geographical features</english>
+    <definition>Weather conditions and their measurements; precipitation, temperature, evapotranspiration, wind speed and direction.</definition>
+    <lang2term>Meteorološko-geografska obilježja</lang2term>
+    <lang2def>Vremenski uvjeti i njihova mjerenja; padaline, temperature, ishlapljivanje, brzina i smjer vjetra.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>34</code>
+    <english>Mineral resources</english>
+    <definition>Mineral resources including metal ores, industrial minerals, etc., where relevant including depth/height information on the extent of the resource.</definition>
+    <lang2term>Izvori minerala</lang2term>
+    <lang2def>Izvori minerala uključujući kovinske rude, industrijske minerale itd., uključujući dubinske/visinske informacije o veličini izvora tamo gdje je potrebno.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>25</code>
+    <english>Natural risk zones</english>
+    <definition>Vulnerable areas characterised according to natural hazards (all atmospheric, hydrologic, seismic, volcanic and wildfire phenomena that, because of their location, severity, and frequency, have the potential to seriously affect society), e.g. floods, landslides and subsidence, avalanches, forest fires, earthquakes, volcanic eruptions.</definition>
+    <lang2term>Područja prirodnih opasnosti</lang2term>
+    <lang2def>Osjetljiva područja koja su obilježena u skladu s prirodnim opasnostima (svim atmosferskim, hidrološkim, seizmičkim, vulkanskim pojavama i požarima, koji zbog svojeg položaja, težine i učestalosti imaju potencijal da ozbiljno utječu na društvo), npr. poplave, odroni zemlje i slijeganje tla, snježne lavine, šumski požari, potresi, vulkanske erupcije.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>28</code>
+    <english>Oceanographic geographical features</english>
+    <definition>Physical conditions of oceans (currents, salinity, wave heights, etc.).</definition>
+    <lang2term>Oceanografsko-geografska obilježja</lang2term>
+    <lang2def>Fizikalni uvjeti oceana (struje, slanost, visina valova, itd.).</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>12</code>
+    <english>Orthoimagery</english>
+    <definition>Geo-referenced image data of the Earth's surface, from either satellite or airborne sensors.</definition>
+    <lang2term>Ortofotosnimke</lang2term>
+    <lang2def>Geo-referencirani i/ili orto-retrificirani slikovni podaci Zemljine površine, dobiveni pomoću satelitskih ili zračnih senzora.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>23</code>
+    <english>Population distribution — demography</english>
+    <definition>Geographical distribution of people, including population characteristics and activity levels, aggregated by grid, region, administrative unit or other analytical unit.</definition>
+    <lang2term>Rasprostranjenost stanovništva – demografija</lang2term>
+    <lang2def>Geografska raširenost stanovništva, uključujući obilježja stanovništva i razine aktivnosti, razvrstana po mreži, regiji, upravnoj jedinici ili drugoj analitičkoj jedinici.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>21</code>
+    <english>Production and industrial facilities</english>
+    <definition>Industrial production sites, including installations covered by Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control (1) and water abstraction facilities, mining, storage sites.</definition>
+    <lang2term>Proizvodna i industrijska postrojenja</lang2term>
+    <lang2def>Područja industrijske proizvodnje, uključujući i objekte koji su obuhvaćeni direktivom Vijeća 96/61/EZ od 24. rujna 1996. o cjelovitom suzbijanju onečišćenja i kontroli te postrojenja za crpljenje vode, rudnici i skladišta.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>158</code>
+    <english>Protected sites</english>
+    <definition>Area designated or managed within a framework of international, Community and Member States' legislation to achieve specific conservation objectives.</definition>
+    <lang2term>Zaštićena područja</lang2term>
+    <lang2def>Područje koje je određeno ili kojim se upravlja u okviru međunarodnog prava, prava Zajednice i prava države članice, kako bi se postigli posebni ciljevi zaštite.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>29</code>
+    <english>Sea regions</english>
+    <definition>Physical conditions of seas and saline water bodies divided into regions and sub-regions with common characteristics.</definition>
+    <lang2term>Morske regije</lang2term>
+    <lang2def>Fizikalni uvjeti mora i slanih vodenih tijela koja su podijeljena u regije i podregije sa zajedničkim osobinama.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>16</code>
+    <english>Soil</english>
+    <definition>Soils and subsoil characterised according to depth, texture, structure and content of particles and organic material, stoniness, erosion, where appropriate mean slope and anticipated water storage capacity.</definition>
+    <lang2term>Tlo</lang2term>
+    <lang2def>Tla i slojevi zemlje ispod površine, opisani prema debljini, teksturi, strukturi i sadržaju čestica i organskih tvari, kamenitosti, eroziji, tamo gdje je primjereno prema postotku nagiba i prema predviđenom opsegu zaliha vode.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>32</code>
+    <english>Species distribution</english>
+    <definition>Geographical distribution of occurrence of animal and plant species aggregated by grid, region, administrative unit or other analytical unit.</definition>
+    <lang2term>Rasprostranjenost vrsta</lang2term>
+    <lang2def>Geografska raširenost životinjskih i biljnih vrsta razvrstana po mreži, regiji, upravnoj jedinici ili drugoj analitičkoj jedinici.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>14</code>
+    <english>Statistical units</english>
+    <definition>Units for dissemination or use of statistical information.</definition>
+    <lang2term>Prostorne jedinice za statistiku</lang2term>
+    <lang2def>Jedinice za širenje ili korištenje statističkih informacija.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>162</code>
+    <english>Transport networks</english>
+    <definition>Road, rail, air and water transport networks and related infrastructure. Includes links between different networks. Also includes the trans-European transport network as defined in Decision No 1692/96/EC of the European Parliament and of the Council of 23 July 1996 on Community Guidelines for the development of the trans-European transport network (1) and future revisions of that Decision.</definition>
+    <lang2term>Prometne mreže</lang2term>
+    <lang2def>Mreže cestovnog, željezničkog, zračnog i vodenog prijevoza te pripadajuća infrastruktura. Uključuje veze između različitih mreža. Također uključuje transeuropsku prometnu mrežu kako je određena u Odluci br. 1692/96/EZ, Europskog parlamenta i Vijeća od 23. srpnja 1996. o smjernicama Zajednice za razvoj transeuropske prometne mreže i u naknadnim revizijama te Odluke.</lang2def>
+  </terms-definitions>
+  <terms-definitions>
+    <code>19</code>
+    <english>Utility and governmental services</english>
+    <definition>Includes utility facilities such as sewage, waste management, energy supply and water supply, administrative and social governmental services such as public administrations, civil protection sites, schools and hospitals.</definition>
+    <lang2term>Komunalne i javne usluge</lang2term>
+    <lang2def>Uključuje komunalne sustave kao što su kanalizacija, zbrinjavanje otpada, opskrba energijom i vodom, upravne i socijalne državne usluge kao što su javna uprava, sjedišta civilne zaštite, škole i bolnice.</lang2def>
+  </terms-definitions>
+</dataroot>
