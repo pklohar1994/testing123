@@ -3,12 +3,13 @@
  exclude-result-prefixes="o"
   xmlns:o="urn:schemas-microsoft-com:office:office"
   xmlns:od="urn:schemas-microsoft-com:officedata"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
   <xsl:output method="xml" indent="yes"/>
 
   <xsl:template match="resultset">
-  <dataroot>
+  <dataroot xsi:noNamespaceSchemaLocation="terms-definitions.xsd">
    <xsl:apply-templates/>
   </dataroot>
   </xsl:template>
