@@ -1,0 +1,77 @@
+code	ns	english	Georgian
+2894	Super groups	"SOCIAL ASPECTS, ENVIRONMENTAL POLICY MEASURES"	"სოციალური ასპექტები, გარემოსდაცვითი პოლიტიკის ზომები"
+4044	Super groups	"HUMAN ACTIVITIES AND PRODUCTS, EFFECTS ON THE ENVIRONMENT"	"ადამიანური საქმიანობა და მისი შედეგი, ზემოქმედება გარემოზე"
+5306	Super groups	ACCESSORY LISTS	დამხმარე სიები
+5499	Super groups	"NATURAL ENVIRONMENT, ANTHROPIC ENVIRONMENT"	"ბუნებრივი გარემო, ადამიანის სამოსახლო გარემო"
+10111	Groups	"ENVIRONMENT (natural environment, anthropic environment)"	"გარემო (ბუნებრივი გარემო, ადამიანის სამოსახლო გარემო)"
+10112	Groups	"PRODUCTS, MATERIALS"	"ნაწარმი, მასალები"
+10114	Groups	"EFFECTS, IMPACTS"	"ზემოქმედება, გავლენა"
+10117	Groups	GENERAL TERMS	საერთო ტერმინები
+10118	Groups	RESOURCES (utilisation of resources)	რესურსები (რესურსების გამოყენება)
+1062	Groups	"ANTHROPOSPHERE (built environment, human settlements, land setup)"	"ანთროპოსფერო (შექმნილი გარემო, დასახლებები, მიწის დაყოფა)"
+13109	Groups	ENVIRONMENTAL POLICY	გარემოსდაცვითი პოლიტიკა
+1349	Groups	"CHEMISTRY, SUBSTANCES, PROCESSES"	"ქიმია, ნივთიერებები,პროცესები"
+14979	Groups	TIME (chronology)	დრო (ქრონოლოგია)
+14980	Groups	FUNCTIONAL TERMS	ფუნქციური ტერმინები
+1922	Groups	"INFORMATION, EDUCATION, CULTURE, ENVIRONMENTAL AWARENESS"	"ინფორმაცია,განათლება, კულტურა, გარემოსდაცვითი ინფორმირება"
+234	Groups	"AGRICULTURE, FORESTRY; ANIMAL HUSBANDRY; FISHERY"	"სოფლის მეურნეობა,სატყეო მეურნეობა, მეცხოველეობა, თევზჭერა"
+2504	Groups	"ECONOMICS, FINANCE"	"ეკონომიკა, ფინანსები"
+2711	Groups	ENERGY	ენერგია
+3875	Groups	"HEALTH, NUTRITION"	"ჯანდაცვა, კვება"
+4125	Groups	"HYDROSPHERE (freshwater, marine water, waters)"	"ჰიდროსფერო (მტკნარი წყალი, ზღვის წყალი, წყლები)"
+4281	Groups	"INDUSTRY, CRAFTS; TECHNOLOGY; EQUIPMENTS"	"მრეწველობა, ხელოსნობა, ტექნოლოგიები, აღჭურვილობა"
+4630	Groups	"LAND (landscape, geography)"	"მიწა (ლანდშაფტი, გეოგრაფია)"
+4750	Groups	"LEGISLATION, NORMS, CONVENTIONS"	"კანონმდებლობა,ნორმები, კონვენციები"
+4856	Groups	"LITHOSPHERE (soil, geological processes)"	"ლითოსფერო (ნიადაგი, გეოლოგიური პროცესები)"
+618	Groups	"ATMOSPHERE (air, climate)"	"ატმოსფერო (ჰაერი, კლიმატი)"
+6237	Groups	"PHYSICAL ASPECTS, NOISE, VIBRATIONS, RADIATIONS"	"ფიზიკური ასპექტები, ხმაური, ვიბრაცია, რადიაცია"
+7007	Groups	"RECREATION, TOURISM"	"დასვენება, ტურიზმი"
+7136	Groups	"RESEARCH, SCIENCES"	"კვლევა, მეცნიერება"
+7243	Groups	"RISKS, SAFETY"	"რისკები, უსაფრთხოება"
+7779	Groups	SOCIETY	საზოგადოება
+7956	Groups	SPACE	კოსმოსი
+8575	Groups	"TRADE, SERVICES"	"ვაჭრობა, მომსახურება"
+8603	Groups	"TRAFFIC, TRANSPORTATION"	"მოძრაობა, გადაზიდვები"
+893	Groups	"BIOSPHERE (organisms, ecosystems)"	"ბიოსფერო (ორგანიზმები, ეკოსისტემები)"
+9117	Groups	"WASTES, POLLUTANTS, POLLUTION"	"ნარჩენები, დამბინძურებლები, დაბინძურება"
+96	Groups	"ADMINISTRATION, MANAGEMENT, POLICY, POLITICS, INSTITUTIONS, PLANNING"	"ადმინისტრაცია, მართვა,პოლიტიკა, პოლიტიკური პროცესები, დაწესებულებები, დაგეგმვა"
+1	Themes	administration	ადმინისტრაცია
+10	Themes	energy	ენერგია
+11	Themes	environmental policy	გარემოსდაცვითი პოლიტიკა
+12	Themes	fishery	თევზჭერა
+13	Themes	"food, drinking water"	"საკვები, სასმელი წყალი"
+14	Themes	forestry	სატყეო მეურნეობა
+15	Themes	general	საერთო 
+16	Themes	geography	გეოგრაფია
+17	Themes	human health	ადამიანის ჯანმრთელობა
+18	Themes	animal husbandry	მეცხოველეობა
+19	Themes	industry	მრეწველობა
+2	Themes	agriculture	სოფლის მეურნეობა
+20	Themes	information	ინფორმაცია
+21	Themes	legislation	კანონმდებლობა
+22	Themes	military aspects	სამხედრო ასპექტები
+23	Themes	"natural areas, landscape, ecosystems"	"ბუნებრივი ზონები, ლანდშაფტი, ეკოსისტემები"
+24	Themes	"noise, vibrations"	"ხმაური, ვიბრაციები"
+25	Themes	physics	ფიზიკა
+26	Themes	pollution	დაბინძურება
+27	Themes	materials	მასალები
+28	Themes	radiations	რადიაციები
+29	Themes	tourism	ტურიზმი
+3	Themes	air	ჰაერი
+30	Themes	research	"კვლევა, მეცნიერება"
+31	Themes	resources	რესურსები
+32	Themes	"disasters, accidents, risk"	"კატასტროფები, ავარიები, რისკი"
+33	Themes	"trade, services"	"ვაჭრობა, მომსახურება"
+34	Themes	"social aspects, population"	"სოციალური  ასპექტები, მოსახლეობა"
+35	Themes	soil	ნიადაგი
+36	Themes	space	კოსმოსი
+37	Themes	transport	ტრანსპორტი
+38	Themes	"urban environment, urban stress"	"ქალაქური გარემო, ურბანული სტრესები"
+39	Themes	waste	ნარჩენები
+4	Themes	biology	ბიოლოგია
+40	Themes	water	წყალი
+5	Themes	building	მშენებლობა
+6	Themes	chemistry	ქიმია
+7	Themes	climate	კლიმატი
+8	Themes	natural dynamics	ბუნებრივი დინამიკა
+9	Themes	economics	ეკონომიკა
