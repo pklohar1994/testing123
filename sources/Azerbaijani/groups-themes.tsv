@@ -1,0 +1,82 @@
+code	ns	english	translation	
+2894	Super groups	"SOCIAL ASPECTS, ENVIRONMENTAL POLICY MEASURES"	"SOSİAL ASPEKTLƏR, EKOLOJİ SİYASƏT TƏDBİRLƏRİ"	
+4044	Super groups	"HUMAN ACTIVITIES AND PRODUCTS, EFFECTS ON THE ENVIRONMENT"	"İNSAN FƏALİYYƏTİ VƏ ONUN NƏTİCƏLƏRİ,
+ƏTRAF MÜHİTƏ TƏSİRLƏRİ"	
+5306	Super groups	ACCESSORY LISTS	KÖMƏKÇİ TERMİNLƏR	
+5499	Super groups	"NATURAL ENVIRONMENT, ANTHROPIC ENVIRONMENT"	"TƏBİİ MÜHİT,"	
+10111	Groups	"ENVIRONMENT (natural environment, anthropic environment)"	"ƏTRAF MÜHİT (TƏBİİ MÜHİT,"	
+10112	Groups	"PRODUCTS, MATERIALS"	"MƏHSULLAR, MATERİALLAR"	
+10114	Groups	"EFFECTS, IMPACTS"	TƏSİRLƏR	
+10117	Groups	GENERAL TERMS	ÜMUMİ TERMİNLƏR	
+10118	Groups	RESOURCES (utilisation of resources)	RESURSLAR (resurslardan istifadə)	
+1062	Groups	"ANTHROPOSPHERE (built environment, human settlements, land setup)"	"ANTROPOSFERA ( yaradılmış mühit, yaşayış
+məntəqələri, regional planlaşdırma)"	
+13109	Groups	ENVIRONMENTAL POLICY	EKOLOJİ SİYASƏT	
+1349	Groups	"CHEMISTRY, SUBSTANCES, PROCESSES"	"KİMYA, MADDƏLƏR, PROSESLƏR"	
+14979	Groups	TIME (chronology)	ZAMAN (xronologiya)	
+14980	Groups	FUNCTIONAL TERMS	FUNKSİONAL TERMİNLƏR	
+1922	Groups	"INFORMATION, EDUCATION, CULTURE, ENVIRONMENTAL AWARENESS"	"İNFORMASİYA, TƏHSİL, MƏDƏNİYYƏT, ƏTRAF
+MÜHİTƏ DAİR MAARİFLƏNDİRMƏ"	
+234	Groups	"AGRICULTURE, FORESTRY; ANIMAL HUSBANDRY; FISHERY"	"KƏND TƏSƏRRÜFATI, MEŞƏÇİLİK, HEYVANDARLIQ
+BALIQÇILIQ"	
+2504	Groups	"ECONOMICS, FINANCE"	"İQTİSADİYYAT, MALİYYƏ"	
+2711	Groups	ENERGY	ENERJİ	
+3875	Groups	"HEALTH, NUTRITION"	"SAĞLAMLIQ, QİDALANMA"	
+4125	Groups	"HYDROSPHERE (freshwater, marine water, waters)"	"HİDROSFER (içməli su, dəniz suyu, su resursları)"	
+4281	Groups	"INDUSTRY, CRAFTS; TECHNOLOGY; EQUIPMENTS"	"SƏNAYE, SƏNƏT, TEXNOLOGİYALAR, AVADANLIQ"	
+4630	Groups	"LAND (landscape, geography)"	"TORPAQ (landşaft, coğrafiya)"	
+4750	Groups	"LEGISLATION, NORMS, CONVENTIONS"	"QANUNVERİCİLİK, NORMALAR, KONVENSİYALAR"	
+4856	Groups	"LITHOSPHERE (soil, geological processes)"	"LİTOSFER (torpaq, geoloji proseslər)"	
+618	Groups	"ATMOSPHERE (air, climate)"	"ATMOSFER (hava, iqlim)"	
+6237	Groups	"PHYSICAL ASPECTS, NOISE, VIBRATIONS, RADIATIONS"	"FİZİKİ ASPEKTLƏR, SƏS, VİBRASİYA, RADİASİYA"	
+7007	Groups	"RECREATION, TOURISM"	"İSTİRAHƏT, TURİZM"	
+7136	Groups	"RESEARCH, SCIENCES"	"TƏDQİQAT, ELM"	
+7243	Groups	"RISKS, SAFETY"	"RİSKLƏR, TƏHLÜKƏSİZLİK"	
+7779	Groups	SOCIETY	CƏMİYYƏT	
+7956	Groups	SPACE	KOSMOS	
+8575	Groups	"TRADE, SERVICES"	"TİCARƏT, XİDMƏTLƏR"	
+8603	Groups	"TRAFFIC, TRANSPORTATION"	"YOL HƏRƏKƏTİ, NƏQLİYYAT"	
+893	Groups	"BIOSPHERE (organisms, ecosystems)"	"BİOSFERA (orqanizmlər, ekosistemlər)"	
+9117	Groups	"WASTES, POLLUTANTS, POLLUTION"	"TULLANTILAR, ÇİRKLƏNDİRİCİ MADDƏLƏR,
+ÇİRKLƏNMƏ"	
+96	Groups	"ADMINISTRATION, MANAGEMENT, POLICY, POLITICS, INSTITUTIONS, PLANNING"	"ADMİNİSTRASİYA, İDARƏETMƏ, SİYASƏT, ORQANLAR, PLANLAŞDIRMA"	
+1	Themes	administration	administrasiya	
+10	Themes	energy	enerji	
+11	Themes	environmental policy	ekoloji siyasət	
+12	Themes	fishery	balıqçılıq	
+13	Themes	"food, drinking water"	"qida məhsulları, içməli su"	
+14	Themes	forestry	meşə təsərrüfatı	
+15	Themes	general	ümumi	
+16	Themes	geography	coğrafiya	
+17	Themes	human health	insan sağlamlığı	
+18	Themes	animal husbandry	heyvandarlıq	
+19	Themes	industry	sənaye	
+2	Themes	agriculture	kənd təsərrüfatı	
+20	Themes	information	informasiya	
+21	Themes	legislation	qanunvericilik	
+22	Themes	military aspects	hərbi aspektlər	
+23	Themes	"natural areas, landscape, ecosystems"	"təbii sahələr, landşaft, ekosistemlər"	
+24	Themes	"noise, vibrations"	"səs, vibrasiya"	
+25	Themes	physics	fizika	
+26	Themes	pollution	çirklənmə	
+27	Themes	materials	materiallar	
+28	Themes	radiations	radiasiya	
+29	Themes	tourism	turizm	
+3	Themes	air	hava	
+30	Themes	research	tədqiqat	
+31	Themes	resources	resurslar	
+32	Themes	"disasters, accidents, risk"	"bədbaxt hadisələr, qəzalar, risklər"	
+33	Themes	"trade, services"	"ticarət, xidmətlər"	
+34	Themes	"social aspects, population"	"sosial aspektlər, əhali"	
+35	Themes	soil	torpaq	
+36	Themes	space	kosmos	
+37	Themes	transport	nəqliyyat	
+38	Themes	"urban environment, urban stress"	"şəhər mühiti, şəhər şəraitində əlverişsiz amillər"	
+39	Themes	waste	tullantılar	
+4	Themes	biology	biologiya	
+40	Themes	water	su	
+5	Themes	building	tikinti	
+6	Themes	chemistry	kimya	
+7	Themes	climate	iqlim	
+8	Themes	natural dynamics	təbii dinamika	
+9	Themes	economics	iqtisadiyyat	
